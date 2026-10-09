@@ -1,0 +1,49 @@
+{
+ "count": 1,
+ "of": 129,
+ "by_pair": [
+  {
+   "pair": [
+    "records_and_compositions",
+    "what_music_is"
+   ],
+   "n": 1
+  }
+ ],
+ "scheme_problems": {
+  "a": [
+   "Recognition has no home of its own: the national-honour reaction lines (teacher who gave up on him; 'I still can't believe it') are sent by rule to ancestors_and_destiny, but their own words contain nothing about ancestors or destiny; a reader opening 'Ancestors and Destiny' would not expect them.",
+   "the_masters includes 'wondering about a master's habits' while what_music_is includes 'songs carrying eternal messages'; a line that does both (wondering why Ellington replayed songs, then realising messages are eternal) sits on an unresolved overlap. Sorted to what_music_is as the idea is the point.",
+   "Canterbury: morocco_and_the_gnawa includes 'concerts with Gnawa musicians wherever they took place, including ... an English cathedral', while the morocco/on_the_road rule sends the cathedral's setting to on_the_road. Workable but invites split readings of the same occasion.",
+   "Zep Tepi / Khepera / Ancient Future turns: the records-vs-what_music_is test ('without reference to the record') is hard to apply to lines that begin 'That means' or sit mid-explanation; several such lines could go either way.",
+   "what_music_is includes 'his approach to playing always is when not tied to solo or trio', but the 'just love' line is a direct answer to the solo-vs-trio question that the at_the_piano rule claims; resolved to what_music_is.",
+   "Anti-machine lines that do not name a record (cell phones in New York) are sent to records_and_compositions by the 'case against machines' include, which a reader opening a records section may not expect."
+  ],
+  "b": [
+   "Honour reactions (the piano teacher who gave up on him; 'I still can't believe it') are routed to ancestors_and_destiny by rule, but their own words are about piano lessons and disbelief, not ancestors or destiny; a reader opening 'Ancestors and Destiny' may not expect them. There is no recognition home.",
+   "what_music_is includes 'his approach to playing always is when not tied to solo or trio', but the one such line is said in direct answer to the solo/trio question, so it sits on the what_music_is / at_the_piano boundary.",
+   "Title-explanation rule vs creation account: the Zep Tepi turn moves between explaining the title and a general creation-of-music account within one paragraph; which cuts 'reference the record' is a judgement call (a follow-on 'That means...' sentence).",
+   "The machines/human-contact argument is routed to records_and_compositions by rule even for lines that never name a record (e.g. the cell-phone observation), which makes a general idea sit in a story section.",
+   "'Those people... I've met most of them' and 'They had to be in the back of the bus' are ambiguous between earlier jazz musicians (the_masters) and forebears generally (ancestors_and_destiny); the pronoun's referent decides the section.",
+   "The sister's death and the Japan invitation sit in one sentence pair; the family/on_the_road rule decides by 'once the line is about Japan', which is hard to apply to a pivot line."
+  ]
+ },
+ "items": [
+  {
+   "id": "q060",
+   "pull_quote": "That means when the creator gave us music for the first time, he gave us the foundation and from that up until 2009 the whole planet can share, express, and enjoy, what we call music.",
+   "a": {
+    "category": "what_music_is",
+    "secondary": "records_and_compositions",
+    "confidence": "medium",
+    "reason": "\"That means\" ties back to Zep Tepi, but the line states the creator gave music to the planet; read as the idea carried on."
+   },
+   "b": {
+    "category": "records_and_compositions",
+    "secondary": "what_music_is",
+    "confidence": "medium",
+    "reason": "\"That means\" refers back to the Zep Tepi title, so title explanation; but the content is a general claim about music"
+   }
+  }
+ ]
+}

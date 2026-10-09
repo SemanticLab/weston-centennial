@@ -1,0 +1,118 @@
+{
+ "self": {
+  "count": 129,
+  "blocks_quoted": 35,
+  "by_notable": {
+   "3": 13,
+   "2": 51,
+   "1": 65
+  },
+  "by_theme": {
+   "spirit_of_music": 31,
+   "family": 27,
+   "character": 24,
+   "journeys": 22,
+   "africa": 21,
+   "ancestors": 20,
+   "gnawa_morocco": 16,
+   "the_masters": 15,
+   "the_piano": 14,
+   "race_and_history": 11,
+   "records": 11,
+   "brooklyn": 7,
+   "melba_liston": 6,
+   "the_blues": 5,
+   "machines_and_human_contact": 5,
+   "recognition": 4,
+   "the_band": 4
+  },
+  "by_length": {
+   "passage": 78,
+   "line": 51
+  },
+  "stand_alone": 118,
+  "spanning_a_page_break": 10,
+  "median_chars": 179
+ },
+ "timeline": {
+  "count": 55,
+  "stated_by": {
+   "weston": 42,
+   "jenkins": 10,
+   "front_matter": 3
+  },
+  "confirmed_by_weston": 49,
+  "undated": 22,
+  "with_a_note": 49
+ },
+ "records": {
+  "count": 34,
+  "by_kind": {
+   "composition": 18,
+   "album": 9,
+   "session": 3,
+   "live_album": 2,
+   "dvd": 1,
+   "film": 1
+  },
+  "with_his_quote": 27,
+  "with_discrepancy": 25,
+  "by_notable": {
+   "3": 5,
+   "2": 10,
+   "1": 16,
+   "0": 3
+  }
+ },
+ "journeys": {
+  "count": 41,
+  "by_kind": {
+   "journey": 15,
+   "concert": 12,
+   "ceremony": 6,
+   "home": 3,
+   "festival": 3,
+   "residency": 1,
+   "film_shoot": 1
+  },
+  "by_country": {
+   "United States": 13,
+   "Morocco": 9,
+   "Egypt": 6,
+   "France": 3,
+   "Canada": 3,
+   "Japan": 3,
+   "Switzerland": 1,
+   "Saint Lucia": 1,
+   "": 1,
+   "United Kingdom": 1
+  },
+  "with_his_quote": 39,
+  "with_coordinates": 40,
+  "by_notable": {
+   "3": 6,
+   "2": 17,
+   "1": 18
+  }
+ },
+ "quotes_dropped_on_verification": {},
+ "categories": {
+  "count": 10,
+  "by_category": {
+   "what_music_is": 17,
+   "africa_the_source": 9,
+   "ancestors_and_destiny": 11,
+   "family_and_brooklyn": 14,
+   "the_masters": 8,
+   "at_the_piano": 10,
+   "records_and_compositions": 20,
+   "morocco_and_the_gnawa": 16,
+   "on_the_road": 13,
+   "his_marriage": 11
+  },
+  "two_readers_agreed": 127,
+  "adjudicated": 2,
+  "with_secondary": 23,
+  "uncategorised": 0
+ }
+}

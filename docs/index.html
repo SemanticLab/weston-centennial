@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Randy Weston · 1926–2026 · Linked Jazz</title>
+<meta name="description" content="A centennial page for Randy Weston, pianist and composer: his 2009 oral history in his own words, the places the music took him, his records and tunes, and what the musicians who knew him said of him.">
+<meta name="color-scheme" content="light dark">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<meta name="build" content="8a029dde12">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" integrity="sha512-h9FcoyWjHcOcmEVkxOfTLnmZFWIH0iZhZT1H2TbOq55xssQGEJHEaIm+PgoUaZbRvQTNTluNOEfb1ZRy6D3BOw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="style.css?v=f6735980bb">
+<link rel="icon" href="img/linked-jazz.png" type="image/png">
+</head>
+<body>
+
+<header class="lj-header">
+  <a class="lj-brand" href="https://linkedjazz.org/"><img src="img/linked-jazz.png" alt="" width="40" height="41"><span>Linked Jazz</span></a>
+  <nav aria-label="Main"><ul class="lj-nav">
+    <li><a href="#voices">His words</a></li>
+    <li><a href="#journeys">Journeys</a></li>
+    <li><a href="#records">Records</a></li>
+    <li><a href="#people">People</a></li>
+    <li><a href="#network">Relationships</a></li>
+  </ul></nav>
+  <form class="lj-search" role="search" id="search-form" autocomplete="off">
+    <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M9 3.75a5.25 5.25 0 1 1 0 10.5 5.25 5.25 0 0 1 0-10.5Zm3.75 9 3.5 3.5"></path></svg>
+    <input type="search" id="search" name="q" placeholder="Find a person, a record, a tune" aria-label="Find a person, a record or a tune on this page" aria-controls="search-menu" aria-expanded="false">
+    <ul class="lj-search-menu" id="search-menu" role="listbox" hidden></ul>
+  </form>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero" aria-labelledby="name">
+    <img class="hero-img" id="hero-img" src="img/weston.jpg" alt="">
+    <div class="wrap hero-wrap">
+      <div class="hero-copy">
+        <p class="eyebrow" id="eyebrow"></p>
+        <div class="hero-name">
+          <h1 id="name"></h1>
+          <p class="hero-tagline" id="tagline"></p>
+          <p class="cap" id="dates"></p>
+        </div>
+        <p class="lede" id="lede"></p>
+        <blockquote class="hero-quote">
+          <p id="hero-quote"></p>
+          <p class="cap"><span id="hero-quote-by"></span> · <button type="button" class="linkish" id="hero-quote-open">Read the passage</button></p>
+        </blockquote>
+      </div>
+    </div>
+    <p class="cap hero-credit" id="hero-credit"></p>
+  </section>
+
+  <!-- IN HIS OWN WORDS -->
+  <section id="voices" class="wrap section">
+    <div class="section-head">
+      <p class="eyebrow">In his own words</p>
+      <h2 class="h2">Smithsonian Jazz Oral History, 2009</h2>
+      <p class="lede">In the autumn of 2009 he sat down with Willard Jenkins and talked about music, Africa, his family and the road. Choose a subject to hear him on it.</p>
+    </div>
+    <div class="pills" role="group" aria-label="Subjects" id="own-pills"></div>
+    <p class="cap" id="own-definition"></p>
+    <div class="stack" id="own-list" aria-live="polite"></div>
+    <button type="button" class="lj-btn" id="own-more" hidden></button>
+  </section>
+
+  <!-- JOURNEYS -->
+  <section id="journeys" class="wrap section">
+    <div class="section-head">
+      <p class="eyebrow">Journeys</p>
+      <h2 class="h2">Where the music took him</h2>
+      <p class="lede" id="journeys-lede">From the mountains of Morocco to a shrine in Kyoto: the places he played and the people he found there, as he told them.</p>
+    </div>
+    <div class="map-box">
+      <div class="map" id="map" aria-label="Map of the places in his journeys"></div>
+      <p class="cap map-key" id="map-key"></p>
+    </div>
+    <div class="g2" id="journey-grid"></div>
+    <div class="more"><button type="button" class="lj-btn" id="journey-more" hidden></button></div>
+  </section>
+
+  <!-- RECORDS -->
+  <section id="records" class="band">
+    <div class="wrap section">
+      <div class="section-head">
+        <p class="eyebrow">Records</p>
+        <h2 class="h2">What the titles mean</h2>
+        <p class="lede" id="records-lede"></p>
+      </div>
+      <div class="g3" id="record-grid"></div>
+      <div class="more"><button type="button" class="lj-btn" id="record-more" hidden></button></div>
+      <details class="disco" id="disco">
+        <summary id="disco-summary">Every record under his name</summary>
+        <ol class="disco-list" id="disco-list"></ol>
+      </details>
+    </div>
+  </section>
+
+  <!-- COMPOSITIONS -->
+  <section id="tunes" class="wrap section">
+    <div class="section-head">
+      <p class="eyebrow">Compositions</p>
+      <h2 class="h2">His tunes in other hands</h2>
+      <p class="lede" id="tunes-lede"></p>
+    </div>
+    <div class="g2 tunes">
+      <div class="stack-sm">
+        <p class="cap">Choose a tune to see who recorded it. The count is a floor: only records with an English Wikipedia article were read.</p>
+        <div class="tune-list" role="group" aria-label="His tunes, by number of recordings by others" id="tune-list"></div>
+        <button type="button" class="lj-btn lj-btn-sm" id="tune-more" hidden></button>
+      </div>
+      <div class="stack-sm">
+        <h3 class="h3" id="tune-title"></h3>
+        <ul class="tune-recs" id="tune-recs"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- PEOPLE HE SPOKE OF -->
+  <section id="people" class="band">
+    <div class="wrap section">
+      <div class="section-head">
+        <p class="eyebrow">Who he spoke of</p>
+        <h2 class="h2">People in his story</h2>
+        <p class="lede" id="people-lede"></p>
+      </div>
+      <div class="g2" id="people-grid"></div>
+      <div class="more"><button type="button" class="lj-btn" id="people-more" hidden></button></div>
+    </div>
+  </section>
+
+  <!-- WHO SPOKE OF HIM -->
+  <section id="witnesses" class="wrap section">
+    <div class="section-head">
+      <p class="eyebrow">Who spoke of him</p>
+      <h2 class="h2">In other people’s oral histories</h2>
+      <p class="lede" id="witness-lede"></p>
+    </div>
+    <div class="g2 top" id="witness-grid"></div>
+    <div class="more"><button type="button" class="lj-btn" id="witness-more" hidden></button></div>
+  </section>
+
+  <!-- NETWORK -->
+  <section id="network" class="band">
+    <div class="wrap section">
+      <div class="section-head">
+        <p class="eyebrow">Relationships</p>
+        <h2 class="h2">The people on this page, linked</h2>
+        <p class="lede" id="network-lede"></p>
+      </div>
+      <div class="legend" aria-label="Legend" id="legend"></div>
+      <div class="graph-box"><svg class="graph" id="graph" role="img"></svg></div>
+      <p class="cap">Choose a name to go to what was said. <a class="src" id="network-link" target="_blank" rel="noopener">See him in the full Linked Jazz network</a></p>
+    </div>
+  </section>
+
+  <footer id="sources" class="wrap section footer">
+    <p class="eyebrow">Sources</p>
+    <ul class="sources" id="sources-list"></ul>
+    <details class="credits">
+      <summary>Image credits</summary>
+      <ul id="credits"></ul>
+    </details>
+    <p class="cap">A Linked Jazz centennial page · <a class="src" href="https://linkedjazz.org/">Linked Jazz</a>, Pratt Institute</p>
+  </footer>
+
+</main>
+
+<dialog class="passage" id="passage" aria-labelledby="passage-title">
+  <header class="passage-head">
+    <div>
+      <p class="eyebrow" id="passage-archive"></p>
+      <h3 id="passage-title"></h3>
+      <a id="passage-source" class="src" target="_blank" rel="noopener"></a>
+    </div>
+    <button type="button" class="passage-close" id="passage-close" aria-label="Close">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M5 5l10 10M15 5L5 15"></path></svg>
+    </button>
+  </header>
+  <div class="passage-body" id="passage-body"></div>
+</dialog>
+<noscript><p style="padding:20px 32px">This page needs JavaScript to load its data.</p></noscript>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" integrity="sha512-puJW3E/qXDqYp9IfhAI54BJEaWIfloJ7JWs7OeD5i6ruC9JZL1gERT1wjtwXFlh7CjE7ZJ+/vcRZRkIYIb6p4g==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+<script src="app.js?v=fcbc8d0a0b" defer></script>
+</body>
+</html>

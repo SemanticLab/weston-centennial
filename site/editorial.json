@@ -1,0 +1,67 @@
+{
+ "note": "Display decisions the data cannot make by rule. Each entry under `witnesses` follows from that row's `caution` in weston/witnesses.json (keys are witness_key = doc id); `why` quotes or paraphrases it. The hero text is the only prose on the page not drawn from a source file.",
+ "tagline": "Pianist and composer",
+ "lede": "A Brooklyn pianist who followed the music back to Africa: to Tangier, where he ran the African Rhythms club, to the Gnawa musicians of Morocco, to Egypt, Japan and the Mississippi Delta. This page gathers what he said in his 2009 Smithsonian oral history, and what the musicians who knew him said in theirs.",
+ "lede_source": "Every place named is in weston/own_voice.json -> journeys; the club is in the timeline (African Rhythms Club, Tangier). The photograph is Brian McMillen's 1984 Commons upload, chosen for the design.",
+ "hero_quote_id": "q005",
+ "hero_quote_note": "The user's choice ('So, all of my compositions, all of my music is based upon love, history, and family, and respect.'); the default is the reader's top-ranked line.",
+ "hero_photo": {
+  "file": "img/weston.jpg",
+  "alt": "Randy Weston, seated in a white shirt and patterned cap, in front of a painted New York skyline",
+  "attribution": "Photograph by Brian McMillen, Half Moon Bay, California, 1984 (CC BY-SA 3.0), via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Randy_Weston1.jpg"
+ },
+ "witnesses": {
+  "Liston_Melba_Interview_Transcription": {
+   "show_second": true,
+   "note": "Said in 1996, eleven years after her stroke; in the next turn she names other arrangers as friends.",
+   "why": "Caution: 'because nobody else did' is her view after the stroke and should not be read as an accusation against named people."
+  },
+  "275855": {
+   "note": "‘He’ is Weston: the sentence before is ‘I work with him now’.",
+   "why": "Caution: the lead's 'he' needs Weston named beside it."
+  },
+  "275854": {
+   "show_second": true,
+   "why": "The second quote is Weston's bandstand advice as Powell tells it; nothing in the caution touches it."
+  },
+  "Taylor_Billy_Transcript": {
+   "why": "Second quote withheld: the caution says it compresses the Africa trip and his later residence there into one event."
+  },
+  "Jon-Hendricks-Transcription-2020": {
+   "show_second": true,
+   "why": "The second quote stops before 'At that time he did all of what I consider his best tunes', as the caution asks."
+  },
+  "275810": {
+   "note": "‘Pussycats’ means easy to work with; he has just called Monk ‘a real tough cookie’.",
+   "why": "Caution: shown bare, 'all pussycats' can read as belittling. The second quote (Cannonball's as the first 'Hi-Fly') is withheld as probably wrong."
+  },
+  "Keepnews_Orrin_Transcript": {
+   "note": "The words are Miles Davis’s, as Keepnews recalls them.",
+   "why": "Caution: the praise in the lead is Miles Davis's, reported by Keepnews."
+  },
+  "Morgenstern_Dan_Transcript": {
+   "why": "Second quote withheld: a fragment inside a run-on sentence."
+  },
+  "275830": {
+   "hide": true,
+   "why": "Dave McKenna. Both lines are a joke about height ('giant of the piano' taken literally); out of context they read as a judgement of stature or talent."
+  },
+  "275842": {
+   "hide": true,
+   "why": "Harold Ousley. The lead ends mid-thought ('Randy worked six'); the second line does not state that Weston was ever on his show."
+  },
+  "275865": {
+   "note": "‘High Flyin’’ is the Lambert, Hendricks & Ross album on which she sang his tunes.",
+   "why": "Caution: 'those things of Randy Weston's' means his compositions as sung on the LH&R album; no contact with him is stated."
+  },
+  "Fuller_Curtis_Transcript": {
+   "hide": true,
+   "why": "The transcript is garbled here ('Jerry Mulligan', 'Danny Golson') and it is unclear whether the two groups shared a bill."
+  },
+  "Wendy-Oxenhorn-Transcription-2020": {
+   "note": "‘Him’ is Sonny Rollins; the praise is for three men.",
+   "why": "Caution: 'Him' at the start of the quote is Sonny Rollins."
+  }
+ }
+}

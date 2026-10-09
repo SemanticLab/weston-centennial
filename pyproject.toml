@@ -1,0 +1,12 @@
+[project]
+name = "weston-centennial"
+version = "0.1.0"
+description = "Data layer for the Randy Weston (1926-2018) centennial: what jazz musicians said about him, and what he said -- about them, his records and his journeys -- from the Linked Jazz 2026 oral-history corpus."
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4",
+    "lxml",
+]
+
+[tool.uv]
+package = false

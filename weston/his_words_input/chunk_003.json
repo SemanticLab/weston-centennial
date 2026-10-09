@@ -1,0 +1,1051 @@
+{
+ "subject": "weston",
+ "chunk": 3,
+ "n_chunks": 3,
+ "count": 37,
+ "transcript": "weston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 109459,
+   "as_named_in_interview": "Ruth Ellington",
+   "surface_forms": [
+    "Ruth Ellington"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Ruth Ellington",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Duke Ellington’s sister, Ruth Ellington; she didn’t want to hear me any other way.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109462,
+   "as_named_in_interview": "Maurice Cullaz",
+   "surface_forms": [
+    "Maurice Cullaz"
+   ],
+   "upstream_identity": {
+    "qid": "Q1293705",
+    "name": "Maurice Cullaz",
+    "description": "French journalist (1912–2000)",
+    "born": "1912",
+    "died": "2000"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Maurice Cullaz’s wife in Paris, she only wanted to hear me solo piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109496,
+   "as_named_in_interview": "Cole Porter",
+   "surface_forms": [
+    "Cole Porter"
+   ],
+   "upstream_identity": {
+    "qid": "Q215120",
+    "name": "Cole Porter",
+    "description": "American composer and songwriter (1891–1964)",
+    "born": "1891",
+    "died": "1964"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "When you grow up with people like Dorothy Dandridge and Duke Ellington, and Count Basie, and Art Tatum, Earl Hines, Nat King Cole, Monk, I mean, you know that period, for me, it was the royalty of piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109448,
+   "as_named_in_interview": "Billy Hopper",
+   "surface_forms": [
+    "Billy Hopper"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Billy Hopper",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309885
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "member of Randy Weston's sextet in Morocco",
+    "confidence": 0.95,
+    "evidence": "I brought the sextet over Alan Hayward on drums, on bass was…how did I forget the bass player? It’ll come back to me. Eric Asante, African percussion from Ghana I had Benny Powell, and I had Billy Hopper.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109460,
+   "as_named_in_interview": "Eric Asante",
+   "surface_forms": [
+    "Eric Asante"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Eric Asante",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309885
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "African percussionist in Randy Weston's sextet in Morocco",
+    "confidence": 0.95,
+    "evidence": "Eric Asante, African percussion from Ghana I had Benny Powell, and I had Billy Hopper.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109470,
+   "as_named_in_interview": "Alan Hayward",
+   "surface_forms": [
+    "Alan Hayward"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Alan Hayward",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309885
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "drummer in Randy Weston's sextet in Morocco",
+    "confidence": 0.95,
+    "evidence": "I brought the sextet over Alan Hayward on drums",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109452,
+   "as_named_in_interview": "Tom McKenzie",
+   "surface_forms": [
+    "Tom McKenzie"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Tom McKenzie",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "bass player in Randy Weston's band during a 1972 festival tour in Morocco",
+    "confidence": 0.95,
+    "evidence": "Tom McKenzie was the bass player. Seeing these guys going up the mountains on these donkeys, with their instruments, that was incredible.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109453,
+   "as_named_in_interview": "Azzedine",
+   "surface_forms": [
+    "Azzedine"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Azzedine",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "son and percussionist in the 1972 Tangiers festival band",
+    "confidence": 1.0,
+    "evidence": "my son Azzedine played percussion",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109461,
+   "as_named_in_interview": "Al Hayward",
+   "surface_forms": [
+    "Al Hayward"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Al Hayward",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band member in Randy Weston's band in Morocco, 1972",
+    "confidence": 0.9,
+    "evidence": "So when we got to the staging place where you start to go up the mountain, here you got Al Hayward, you got all the guys, you know? ... the guys in the band didn’t know this.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109464,
+   "as_named_in_interview": "Junior Booth",
+   "surface_forms": [
+    "Junior Booth"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Junior Booth",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "percussionist in the 1972 Tangiers festival band",
+    "confidence": 0.9,
+    "evidence": "I brought over Odetta, Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109481,
+   "as_named_in_interview": "Cecil Bridgewater",
+   "surface_forms": [
+    "Cecil Bridgewater"
+   ],
+   "upstream_identity": {
+    "qid": "Q1052278",
+    "name": "Cecil Bridgewater",
+    "description": "American jazz trumpeter",
+    "born": "1942",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "performed together at the 1972 Tangiers festival organized by Randy Weston",
+    "confidence": 0.9,
+    "evidence": "We organized this festival and I brought over Odetta, Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109493,
+   "as_named_in_interview": "Max Roach",
+   "surface_forms": [
+    "Max Roach"
+   ],
+   "upstream_identity": {
+    "qid": "Q175899",
+    "name": "Max Roach",
+    "description": "American jazz percussionist, drummer, and composer (1924–2007)",
+    "born": "1924",
+    "died": "2007"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109467,
+   "as_named_in_interview": "Pucho",
+   "surface_forms": [
+    "Pucho"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Pucho",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309888
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "Pucho and His Latin Soul Brothers performed at the 1972 Tangiers festival organized by Randy Weston",
+    "confidence": 0.9,
+    "evidence": "We organized this festival and I brought over ... Pucho and His Latin Soul Brothers ... We had this three-day festival at a bullring in Tangiers.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109480,
+   "as_named_in_interview": "Mandrill",
+   "surface_forms": [
+    "Mandrill"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Mandrill",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309888
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "performed together at the 1972 Tangiers festival organized by the interviewee",
+    "confidence": 0.9,
+    "evidence": "We organized this festival and I brought over ... we had Mandrill ... We had this three-day festival at a bullring in Tangiers.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109476,
+   "as_named_in_interview": "Arch Bishop of Canterbury",
+   "surface_forms": [
+    "Arch Bishop of Canterbury"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Arch Bishop of Canterbury",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309889
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "performed for the Arch Bishop of Canterbury at a meeting of spiritual leaders",
+    "confidence": 0.9,
+    "evidence": "So she arranged for myself, and three Gnawa from Tangiers and leaders from everywhere. So it was my first experience to be in Canterbury... We had to play for them.",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109447,
+   "as_named_in_interview": "Zeba",
+   "surface_forms": [
+    "Zeba"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Zeba",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309890
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Well, that was organized by a woman from India, Zeba…",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109423,
+   "as_named_in_interview": "Rahman",
+   "surface_forms": [
+    "Rahman"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Rahman",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309891
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Rahman? [INTERVIEWEE] Rachman, and she arranged for us...",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109469,
+   "as_named_in_interview": "Rachman",
+   "surface_forms": [
+    "Rachman"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Rachman",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309892
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "arranged a performance for spiritual leaders in Canterbury",
+    "confidence": 0.9,
+    "evidence": "Rachman, and she arranged for us… So she arranged for myself, and three Gnawa from Tangiers... We had to play for them.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109412,
+   "as_named_in_interview": "Salah Ragab",
+   "surface_forms": [
+    "Salah Ragab"
+   ],
+   "upstream_identity": {
+    "qid": "Q2213803",
+    "name": "Salah Ragab",
+    "description": "Egyptian drummer and musician",
+    "born": "1935",
+    "died": "2008"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309896
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "mutual",
+    "proposed": "dear friend",
+    "confidence": 1.0,
+    "evidence": "Yeah, a dear friend of mine... He was a good friend of mine.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109418,
+   "as_named_in_interview": "Stafford James",
+   "surface_forms": [
+    "Stafford James"
+   ],
+   "upstream_identity": {
+    "qid": "Q2328781",
+    "name": "Stafford James",
+    "description": "American musician (born 1946)",
+    "born": "1946",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309898
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[INTERVIEWER] Stafford James? [INTERVIEWEE] No, not Stafford. It’ll come to me.",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109485,
+   "as_named_in_interview": "Queen",
+   "surface_forms": [
+    "Queen"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Queen",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309901
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "the president of Egypt, the president of Greece, and the Queen, you know, they all came to open this thing.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109488,
+   "as_named_in_interview": "Arab singers",
+   "surface_forms": [
+    "Arab singers"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Arab singers",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309901
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "most of the others were Arab singers and whatnot",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109494,
+   "as_named_in_interview": "president of Greece",
+   "surface_forms": [
+    "president of Greece"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "president of Greece",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309901
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "when the heads of state came, the president of Egypt, the president of Greece, and the Queen, you know, they all came to open this thing.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109495,
+   "as_named_in_interview": "president of Egypt",
+   "surface_forms": [
+    "president of Egypt"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "president of Egypt",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309901
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "when the heads of state came, the president of Egypt, the president of Greece, and the Queen, you know, they all came to open this thing.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109390,
+   "as_named_in_interview": "Fatoumata Mbengue",
+   "surface_forms": [
+    "Fatou",
+    "Fatoumata Mbengue",
+    "Fatu"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Fatoumata Mbengue",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    309902,
+    309907,
+    309909,
+    309910,
+    309911
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "wife and musical collaborator (Gnawa)",
+    "confidence": 0.95,
+    "evidence": "I met my wife, Fatoumata Mbengue... We met because some of the Gnawans invited her to my concert in Paris, with Gnawa.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109491,
+   "as_named_in_interview": "Wulluf",
+   "surface_forms": [
+    "Wulluf"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Wulluf",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309907
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "She’s a Lebo woman, Wulluf, from Senegal.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109456,
+   "as_named_in_interview": "Ariane Smolderen",
+   "surface_forms": [
+    "Ariane Smolderen"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Ariane Smolderen",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309908
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "photographer for Gnawa history trips",
+    "confidence": 0.9,
+    "evidence": "a photographer named Ariane Smolderen... we made trips to Morocco to photograph a history of the Gnawa people. We traveled Fez, to Marrakech... we were invited to go to this conference. The two of us went",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109451,
+   "as_named_in_interview": "Ramsey",
+   "surface_forms": [
+    "Ramsey"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Ramsey",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309910
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "acquaintance of",
+    "direction": "na",
+    "proposed": "taxi driver in Egypt",
+    "confidence": 0.9,
+    "evidence": "We talked to the taxi cab driver to take us, Ramsey, I’ll never forget him. He took the seat out of the taxi and made sure I had a lot of legroom... So finally Ramsey says, “Look, let’s get away from this convoy.”",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109465,
+   "as_named_in_interview": "Shadley",
+   "surface_forms": [
+    "Shadley"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Shadley",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309910
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "met in Egypt, introduced to museum head",
+    "confidence": 0.9,
+    "evidence": "He says, “My name is Shadley, I’m with the inspectors of antiquity of Egyptian art.” He said, “I’d like to take you around.” So he took us and we went to the Nubian museum. He introduced us to the head of the Nubian museum in Aswan.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109490,
+   "as_named_in_interview": "Imam",
+   "surface_forms": [
+    "Imam"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Imam",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309911
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Her grandfather was an Imam.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109414,
+   "as_named_in_interview": "John Lewis",
+   "surface_forms": [
+    "John Lewis"
+   ],
+   "upstream_identity": {
+    "qid": "Q353943",
+    "name": "John Lewis",
+    "description": "American jazz pianist, composer and arranger (1920–2001)",
+    "born": "1920",
+    "died": "2001"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309912
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "You were selected along with Jackie McLean and John Lewis.",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109421,
+   "as_named_in_interview": "Jackie McLean",
+   "surface_forms": [
+    "Jackie McLean"
+   ],
+   "upstream_identity": {
+    "qid": "Q920490",
+    "name": "Jackie McLean",
+    "description": "American jazz saxophonist, composer, bandleader, and educator (1931–2006)",
+    "born": "1931",
+    "died": "2006"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309912
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "You were selected along with Jackie McLean and John Lewis.",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109413,
+   "as_named_in_interview": "Billie Holiday",
+   "surface_forms": [
+    "Billie Holiday"
+   ],
+   "upstream_identity": {
+    "qid": "Q104358",
+    "name": "Billie Holiday",
+    "description": "American jazz singer (1915–1959)",
+    "born": "1915",
+    "died": "1959"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "met Billie Holiday and shook her hand",
+    "confidence": 1.0,
+    "evidence": "I sat opposite of Billie Holiday to shake her hand.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109415,
+   "as_named_in_interview": "Paul Robinson",
+   "surface_forms": [
+    "Paul Robinson"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Paul Robinson",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "shook hands at a ballroom in New York City",
+    "confidence": 1.0,
+    "evidence": "I shook Paul Robinson’s hand at a ballroom in New York City. I shook Paul’s hand.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109428,
+   "as_named_in_interview": "Diana Washington",
+   "surface_forms": [
+    "Diana Washington"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Diana Washington",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "\"How did Diana Washington do it?\"",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109431,
+   "as_named_in_interview": "Louie Jordan",
+   "surface_forms": [
+    "Louie Jordan"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Louie Jordan",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "How did Louie Jordan do it? ... I’ve met most of them, you know? I shook Louie Armstrong’s hand...",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109440,
+   "as_named_in_interview": "Kyle Kelly-Yahner",
+   "surface_forms": [
+    "Kyle Kelly-Yahner"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Kyle Kelly-Yahner",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309916
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "The name 'Kyle Kelly-Yahner' appears only in the transcription credit at the end of the transcript ('Transcribed by Kyle Kelly-Yahner'). There is no mention of this person in the interviewee's spoken narrative.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  }
+ ]
+}

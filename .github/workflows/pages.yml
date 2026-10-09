@@ -1,0 +1,36 @@
+# Publish docs/ to GitHub Pages on every push to main.
+# In the repository settings, Pages -> Build and deployment -> Source must be
+# "GitHub Actions" (not "Deploy from a branch"). The page is static: nothing is
+# built here, docs/ is uploaded as it is committed (site/build_site_data.py
+# runs locally, against the corpus DB, before a commit).
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths: [docs/**, .github/workflows/pages.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4

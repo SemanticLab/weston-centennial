@@ -1,0 +1,126 @@
+{
+ "weston": {
+  "evaluated": 84,
+  "expected": 84,
+  "coverage_pct": 100.0,
+  "chunks_missing": [],
+  "dangling_chunk_top_refs": [],
+  "about_subject": 83,
+  "false_positives": 1,
+  "context_changed_reading": 51,
+  "context_changed_pct": 60.7,
+  "non_verbatim_quotes_dropped": 0,
+  "other_interviews": {
+   "evaluated": 84,
+   "about_subject": 83,
+   "documents": 23,
+   "by_mention_kind": {
+    "substantive_comment": 32,
+    "passing_reference": 19,
+    "interviewer_question": 19,
+    "list_item": 7,
+    "archive_boilerplate": 3,
+    "quoted_speech": 2,
+    "transcriber_summary": 1,
+    "false_positive": 1
+   },
+   "by_stance": {
+    "positive": 43,
+    "neutral": 40
+   },
+   "shortlist": 29
+  },
+  "fts_supplement": {
+   "evaluated": 6,
+   "confirmed_as_him": 6
+  },
+  "by_mention_kind": {
+   "substantive_comment": 32,
+   "passing_reference": 19,
+   "interviewer_question": 19,
+   "list_item": 7,
+   "archive_boilerplate": 3,
+   "quoted_speech": 2,
+   "transcriber_summary": 1,
+   "false_positive": 1
+  },
+  "by_stance": {
+   "positive": 43,
+   "neutral": 40
+  },
+  "by_notable": {
+   "1": 33,
+   "0": 21,
+   "2": 21,
+   "3": 9
+  },
+  "by_relationship": {
+   "personally": 74,
+   "unclear": 6,
+   "secondhand": 3,
+   "not_applicable": 1
+  },
+  "by_content_type": {
+   "working_relationship": 27,
+   "personal_memory": 21,
+   "composition": 15,
+   "biographical_fact": 14,
+   "musical_assessment": 11,
+   "business": 10,
+   "comparison": 9,
+   "historical_context": 9,
+   "africa": 9,
+   "character_description": 9,
+   "anecdote": 8,
+   "mentorship": 7,
+   "bandleading": 7,
+   "humor": 5,
+   "legacy_influence": 4,
+   "influence": 4,
+   "hearsay": 2
+  },
+  "top_topics": {
+   "Little Niles": 7,
+   "Hi-Fly": 5,
+   "music publishing": 5,
+   "Earth Birth": 5,
+   "Thelonious Monk": 4,
+   "Hamilton front matter": 3,
+   "Morocco": 3,
+   "Tangier": 3,
+   "European tour": 3,
+   "stroke": 3,
+   "strings": 3,
+   "Riverside Records": 2,
+   "height": 2,
+   "Five Spot": 2,
+   "Donald Byrd": 2,
+   "Collective Black Artists": 2,
+   "Count Basie": 2,
+   "Talib Kibwe": 2,
+   "Jamaica": 2,
+   "Seville": 2,
+   "Min Xiao Fen": 2,
+   "Duke Ellington": 2,
+   "dialysis": 2,
+   "Max Roach": 2,
+   "Jazzmobile": 2,
+   "Horace Silver": 2,
+   "lyrics": 2,
+   "Miles Davis": 2,
+   "Blue Moses": 2,
+   "CTI": 2,
+   "Africa": 2,
+   "move to New York": 2,
+   "stroke recovery": 2,
+   "Brooklyn": 2,
+   "lead sheets": 2,
+   "Sonny Rollins": 2,
+   "Ellington": 2,
+   "Cannonball Adderley": 1,
+   "This Here": 1,
+   "6/8 / waltz": 1
+  },
+  "shortlist_size": 29
+ }
+}

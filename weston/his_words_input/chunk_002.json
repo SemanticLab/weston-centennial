@@ -1,0 +1,1087 @@
+{
+ "subject": "weston",
+ "chunk": 2,
+ "n_chunks": 3,
+ "count": 38,
+ "transcript": "weston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 109433,
+   "as_named_in_interview": "Roy Haynes",
+   "surface_forms": [
+    "Roy Haynes"
+   ],
+   "upstream_identity": {
+    "qid": "Q448235",
+    "name": "Roy Haynes",
+    "description": "American jazz drummer and group leader (1925–2024)",
+    "born": "1925",
+    "died": "2024"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played with",
+    "direction": "mutual",
+    "proposed": "musicians on a 1959 live recording at the Five Spot",
+    "confidence": 1.0,
+    "evidence": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109441,
+   "as_named_in_interview": "Clyde Lucas",
+   "surface_forms": [
+    "Clyde Lucas"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Clyde Lucas",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "drummer in the ten-piece group at the 1985 Montreal Jazz Festival",
+    "confidence": 0.95,
+    "evidence": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109445,
+   "as_named_in_interview": "Mohammad Bin Fata",
+   "surface_forms": [
+    "Mohammad Bin Fata"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Mohammad Bin Fata",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "Gnawa percussionist in the interviewee's ten-piece group at the 1985 Montreal Jazz Festival",
+    "confidence": 0.95,
+    "evidence": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano...",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109449,
+   "as_named_in_interview": "Sahib Shihab",
+   "surface_forms": [
+    "Sahib Shihab"
+   ],
+   "upstream_identity": {
+    "qid": "Q968887",
+    "name": "Sahib Shihab",
+    "description": "American jazz musician, saxophonist and flutist (1925–1989)",
+    "born": "1925",
+    "died": "1989"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "members of a ten-piece group at the 1985 Montreal Jazz Festival",
+    "confidence": 0.95,
+    "evidence": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums... myself on piano",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109455,
+   "as_named_in_interview": "Woodward Little",
+   "surface_forms": [
+    "Woodward Little"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Woodward Little",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bassist in the interviewee's ten-piece group at the 1985 Montreal Jazz Festival",
+    "confidence": 1.0,
+    "evidence": "I had a ten-piece group of the great Benny Bailey... Woodward Little was on bass.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109463,
+   "as_named_in_interview": "Hale Smith",
+   "surface_forms": [
+    "Hale Smith"
+   ],
+   "upstream_identity": {
+    "qid": "Q373286",
+    "name": "Hale Smith",
+    "description": "American composer, music pedagogue, and jazz pianist (1925–2009)",
+    "born": "1925",
+    "died": "2009"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "Hale Smith substituted for Melba Lewis as conductor for a tour in 1985",
+    "confidence": 0.9,
+    "evidence": "Melba got sick in the hospital in California at that time so Hale Smith took her place as conductor.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109403,
+   "as_named_in_interview": "Dr. Wayne Chandler",
+   "surface_forms": [
+    "Dr. Wayne Chandler"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Dr. Wayne Chandler",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309839,
+    309852
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "Dr. Wayne Chandler had written a book called “Ancient Future” and in this book he describes how Africa and China had much contact together... He explains that some of the original Chinese dynasties were African dynasties in China. To illustrate that, he had photographs that he showed me of ancient C",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109409,
+   "as_named_in_interview": "Min Xiao Fen",
+   "surface_forms": [
+    "Min",
+    "Min Xiao Fen"
+   ],
+   "upstream_identity": {
+    "qid": "Q3314693",
+    "name": "Min Xiaofen",
+    "description": "Chinese-American pipa player and singer",
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309839
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "co-artist on the 'Khepera' recording session",
+    "confidence": 0.95,
+    "evidence": "So, I was very happy to have met a woman from China, her name was Min Xiao Fen... So we went to the Guggenheim museum together... So “Khepera” consisted of connecting China and Africa... We did a piece that she composed called “The Shang” and we described that as piano and pipa.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109427,
+   "as_named_in_interview": "Mortiem",
+   "surface_forms": [
+    "Mortiem"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Mortiem",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309839
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "she was working with a Senegalese named Mortiem. Mortiem had musicians from different parts of the world in his group and he had heard, performing with his group, as she played an instrument called a pipa.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109471,
+   "as_named_in_interview": "Chief Bey",
+   "surface_forms": [
+    "Chief Bey"
+   ],
+   "upstream_identity": {
+    "qid": "Q5096668",
+    "name": "Chief Bey",
+    "description": "American musician",
+    "born": "1913",
+    "died": "2004"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309840
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "percussionist and vocalist on the 'Khepera' recording session",
+    "confidence": 0.95,
+    "evidence": "I also had Chief Bey, the great African American percussionist. Chief played African percussion and did some singing on Kofi Ghanaba... My theme song",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109474,
+   "as_named_in_interview": "Victor Lewis",
+   "surface_forms": [
+    "Victor Lewis"
+   ],
+   "upstream_identity": {
+    "qid": "Q2522458",
+    "name": "Victor Lewis",
+    "description": "American jazz drummer",
+    "born": "1950",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309840
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "drummer on the 'Khepera' recording session",
+    "confidence": 0.9,
+    "evidence": "I think we had Victor Lewis on drums, Alex Blake on bass, Benny Powell, you know.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109477,
+   "as_named_in_interview": "Pharaoh Sanders",
+   "surface_forms": [
+    "Pharaoh Sanders"
+   ],
+   "upstream_identity": {
+    "qid": "Q470617",
+    "name": "Pharoah Sanders",
+    "description": "American jazz saxophonist (1940–2022)",
+    "born": "1940",
+    "died": "2022"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309840
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "performed together on the 'Khepera' recording session",
+    "confidence": 0.95,
+    "evidence": "On that date, we also had the great Pharaoh Sanders. With Pharaoh Sanders we did one of the Gnawa pieces, “Blue Moses”",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109482,
+   "as_named_in_interview": "Guy Warren",
+   "surface_forms": [
+    "Guy Warren"
+   ],
+   "upstream_identity": {
+    "qid": "Q1431797",
+    "name": "Guy Warren",
+    "description": "Ghanian musician / drummer (1923–2008)",
+    "born": "1923",
+    "died": "2008"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309840
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "percussionist on the 'Khepera' recording session",
+    "confidence": 0.9,
+    "evidence": "Chief played African percussion and did some singing on Kofi Ghanaba, before known as Guy Warren from Ghana, his theme song. My theme song, which his composition called, “Love The History Of.”",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109483,
+   "as_named_in_interview": "Kofi Ghanaba",
+   "surface_forms": [
+    "Kofi Ghanaba"
+   ],
+   "upstream_identity": {
+    "qid": "Q95892879",
+    "name": "Kofi Ghanaba",
+    "description": "Afro-jazz musician",
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309840
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "percussionist on the 'Khepera' recording session",
+    "confidence": 0.9,
+    "evidence": "Chief played African percussion and did some singing on Kofi Ghanaba, before known as Guy Warren from Ghana, his theme song. My theme song, which his composition called, “Love The History Of.”",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109407,
+   "as_named_in_interview": "Abdullah Al-Gourd",
+   "surface_forms": [
+    "Abdullah",
+    "Abdullah Al-Gourd"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Abdullah Al-Gourd",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309846,
+    309847
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "original contact with Gnawa in 1967",
+    "confidence": 0.9,
+    "evidence": "I met a young Gnawa; his name was Abdullah Al-Gourd.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109410,
+   "as_named_in_interview": "Babatunde Olatunji",
+   "surface_forms": [
+    "Babatunde Olatunji",
+    "Olatunji"
+   ],
+   "upstream_identity": {
+    "qid": "Q797599",
+    "name": "Babatunde Olatunji",
+    "description": "Nigerian percussionist (1927–2003)",
+    "born": "1927",
+    "died": "2003"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309847
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "performed at the same concert in a Christian church in Brooklyn",
+    "confidence": 0.9,
+    "evidence": "In this Christian church we had three religions at the same time, through music: Yoruba, Islam, and Christianity... After Babatunde Olatunji performed, then we came out, and then we performed with the Gnawa... the night before that we had Olatunji.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109479,
+   "as_named_in_interview": "M’Barek Ben Othman",
+   "surface_forms": [
+    "M’Barek Ben Othman"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "M’Barek Ben Othman",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309847
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "met the chief of the Gnawa group from Marrakech",
+    "confidence": 0.9,
+    "evidence": "Abdullah from Tangiers, Marrakech, and the chief is M’Barek Ben Othman. I met him one or two years later.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109492,
+   "as_named_in_interview": "Western musicians",
+   "surface_forms": [
+    "Western musicians"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Western musicians",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309848
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "INTERVIEWER: We’ve seen where, often times, Western musicians, when they are engaged with the music of other cultures...",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109396,
+   "as_named_in_interview": "Nat King Cole",
+   "surface_forms": [
+    "Nat King Cole"
+   ],
+   "upstream_identity": {
+    "qid": "Q137042",
+    "name": "Nat King Cole",
+    "description": "American singer and jazz pianist (1919–1965)",
+    "born": "1919",
+    "died": "1965"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    309852,
+    309882,
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "I had the spiritual contact with Nat King Cole, who I never met.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109404,
+   "as_named_in_interview": "Isis",
+   "surface_forms": [
+    "Isis"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Isis",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309852,
+    309910
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "Isis is one of the greatest Egyptian queens. Is she a myth; is she real? She’s the daughter of the creator. So we went to this temple of Isis...",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109408,
+   "as_named_in_interview": "Dizzy Gillespie",
+   "surface_forms": [
+    "Dizzy Gillespie",
+    "Gillespie"
+   ],
+   "upstream_identity": {
+    "qid": "Q49575",
+    "name": "Dizzy Gillespie",
+    "description": "American jazz trumpeter (1917–1993)",
+    "born": "1917",
+    "died": "1993"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309852,
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I had the spiritual contact with Count Basie, or Coleman Hawkins, or Dizzy Gillespie. I saw them, I touched their hands, you see?",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109472,
+   "as_named_in_interview": "Osiris",
+   "surface_forms": [
+    "Osiris"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Osiris",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309852
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "Pharaohs like Osiris, Isis, that they were able to be in tune with the sounds of the universe",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109473,
+   "as_named_in_interview": "Stravinsky",
+   "surface_forms": [
+    "Stravinsky"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Stravinsky",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309852
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "So if you listen to “Rites Of Spring” by Stravinsky, you can feel Russia, you know?",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109486,
+   "as_named_in_interview": "Pop",
+   "surface_forms": [
+    "Pop"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Pop",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309852
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "Mom and Pop told us some things when we were younger which we either rejected or we didn’t understand. When we become older, “Oh! That’s what Pop meant! That’s what Mom meant!”",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109399,
+   "as_named_in_interview": "William Allen",
+   "surface_forms": [
+    "William Allen"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "William Allen",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309856,
+    309900
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "bassist in the 1974 Montreal Jazz Festival ensemble",
+    "confidence": 1.0,
+    "evidence": "I had William Allen on bass, myself at the piano... We toured, the first time, to play Europe.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109411,
+   "as_named_in_interview": "Ahmed Abdul- Malik",
+   "surface_forms": [
+    "Ahmed Abdul- Malik",
+    "Ahmed Abdul-Malik"
+   ],
+   "upstream_identity": {
+    "qid": "Q401088",
+    "name": "Ahmed Abdul-Malik",
+    "description": "bassist (1927–1993)",
+    "born": "1927",
+    "died": "1993"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309856,
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "performed together in a band at the Montreal Jazz Festival in 1974 and at a festival in Tangiers in 1972",
+    "confidence": 0.95,
+    "evidence": "I had Ahmed Abdul- Malik on the oud; I had William Allen on bass, myself at the piano... We toured, the first time, to play Europe.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109432,
+   "as_named_in_interview": "Steve Berrios",
+   "surface_forms": [
+    "Steve Berrios"
+   ],
+   "upstream_identity": {
+    "qid": "Q1771946",
+    "name": "Steve Berrios",
+    "description": "American drummer (1945–2013)",
+    "born": "1945",
+    "died": "2013"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309856
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "percussionist in the 1974 Montreal Jazz Festival ensemble",
+    "confidence": 0.95,
+    "evidence": "I had Ahmed Abdul- Malik on the oud; I had William Allen on bass, myself at the piano, Steve Berrios on percussion cause my son couldn’t make it.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109489,
+   "as_named_in_interview": "Zep Tepi",
+   "surface_forms": [
+    "Zep Tepi"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Zep Tepi",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309862
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "[INTERVIEWER] Now your most recent recording is the trio record, “Zep Tepi” Explain “Zep Tepi” and the whole trio session that made that record.",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109419,
+   "as_named_in_interview": "Neil Clark",
+   "surface_forms": [
+    "Neil Clark"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Neil Clark",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309863
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "regular trio member",
+    "confidence": 0.95,
+    "evidence": "I had my regular guys: Alex Blake and Neil Clark.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109435,
+   "as_named_in_interview": "Rick Congress",
+   "surface_forms": [
+    "Rick Congress"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Rick Congress",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309863
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "na",
+    "proposed": "independent recording engineer for the 'Zep Tepi' trio session",
+    "confidence": 0.9,
+    "evidence": "The guy who did it, independent guy, named Rick Congress. I enjoyed that date.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109478,
+   "as_named_in_interview": "Eubie Blake",
+   "surface_forms": [
+    "Eubie Blake"
+   ],
+   "upstream_identity": {
+    "qid": "Q919632",
+    "name": "Eubie Blake",
+    "description": "American jazz pianist (1887–1983)",
+    "born": "1887",
+    "died": "1983"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309874
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "It was right around the corner from where Eubie Blake used to live, okay?",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109406,
+   "as_named_in_interview": "Gnawa",
+   "surface_forms": [
+    "Gnawa"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Gnawa",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309877,
+    309907
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "na",
+    "proposed": "performed with the Gnawa group",
+    "confidence": 0.9,
+    "evidence": "I did a lot of things with the Quintet, with the sextet, with Gnawa.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109487,
+   "as_named_in_interview": "Arturo O’Farrill",
+   "surface_forms": [
+    "Arturo O’Farrill"
+   ],
+   "upstream_identity": {
+    "qid": "Q715390",
+    "name": "Arturo O'Farrill",
+    "description": "Cuban-American musician",
+    "born": "1960",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309880
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "performing concerts with Arturo O'Farrill's Cuban Orchestra",
+    "confidence": 0.95,
+    "evidence": "November 5th and 6th I’m doing two concerts with Arturo O’Farrill’s Cuban Orchestra.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109484,
+   "as_named_in_interview": "Robin Kelley",
+   "surface_forms": [
+    "Robin Kelley"
+   ],
+   "upstream_identity": {
+    "qid": "Q7352590",
+    "name": "Robin Kelley",
+    "description": "American historian",
+    "born": "1962",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309881
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "collaborated on the Monk book",
+    "confidence": 0.9,
+    "evidence": "I have heard people say, for example, a couple of weeks ago when you did the book even with Robin Kelley with the Monk book",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109420,
+   "as_named_in_interview": "Earl Hines",
+   "surface_forms": [
+    "Earl Hines"
+   ],
+   "upstream_identity": {
+    "qid": "Q354883",
+    "name": "Earl Hines",
+    "description": "American jazz pianist (1903–1983)",
+    "born": "1903",
+    "died": "1983"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I grew up with the king and queens of piano. When you grow up with people like ... Earl Hines ... for me, it was the royalty of piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109426,
+   "as_named_in_interview": "Art Tatum",
+   "surface_forms": [
+    "Art Tatum"
+   ],
+   "upstream_identity": {
+    "qid": "Q109053",
+    "name": "Art Tatum",
+    "description": "American jazz pianist (1909–1956)",
+    "born": "1909",
+    "died": "1956"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I grew up with the king and queens of piano. When you grow up with people like ... Art Tatum ... for me, it was the royalty of piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109438,
+   "as_named_in_interview": "Dorothy Dandridge",
+   "surface_forms": [
+    "Dorothy Dandridge"
+   ],
+   "upstream_identity": {
+    "qid": "Q229251",
+    "name": "Dorothy Dandridge",
+    "description": "American actress and singer (1922–1965)",
+    "born": "1922",
+    "died": "1965"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "When you grow up with people like Dorothy Dandridge and Duke Ellington... for me, it was the royalty of piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109457,
+   "as_named_in_interview": "Sam Gill",
+   "surface_forms": [
+    "Sam Gill"
+   ],
+   "upstream_identity": {
+    "qid": "Q107637949",
+    "name": "Sam Gill",
+    "description": "American jazz bassist",
+    "born": "1932",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "bassist on first recording",
+    "confidence": 0.95,
+    "evidence": "Finally, we compromised with myself and Sam Gill on bass. So, my first recording of Cole Porter was piano and bass",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  }
+ ]
+}

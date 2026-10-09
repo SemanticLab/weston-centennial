@@ -1,0 +1,2857 @@
+{
+ "subject": "weston",
+ "part": "self",
+ "count": 119,
+ "top": [
+  "q102",
+  "q113",
+  "q006",
+  "q049",
+  "q119"
+ ],
+ "items": [
+  {
+   "id": "q001",
+   "block_id": 309813,
+   "pull_quote": "Saga, in the world of language means family. All of my music is geared towards family, because I think that is so important, and that’s what I learned from my ancestors.",
+   "theme": [
+    "family",
+    "ancestors",
+    "records"
+   ],
+   "period": "1995",
+   "summary": "He explained that the title Saga meant family and that all his music was geared towards family, a value learned from his ancestors.",
+   "prompted_by": "the 1995 Verve album Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q002",
+   "block_id": 309816,
+   "pull_quote": "I figure it’s so important to know what happened before we took those piano lessons, and trumpet lessons, and saxophone lessons. I feel our ancestors are ignored in the history of our music.",
+   "theme": [
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He said it was vital to know what came before the music lessons, and that the ancestors were ignored in the history of the music.",
+   "prompted_by": "whether family was the cohesive idea behind Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "Starts after the opening 'Absolutely because' so it reads cold."
+  },
+  {
+   "id": "q003",
+   "block_id": 309816,
+   "pull_quote": "But following Mr. Ellington, following Mr. Thelonious Monk, many of the musicians of the 20’s and the 30’s and 40’s, they wrote music about their families. They wrote music about the African American community whether it was children; they did benefits for the churches and whatnot.",
+   "theme": [
+    "the_masters",
+    "family"
+   ],
+   "period": "",
+   "summary": "He said Ellington, Monk and the musicians of the 1920s–40s wrote music about their families and community and played benefits for the churches.",
+   "prompted_by": "whether family was the cohesive idea behind Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q004",
+   "block_id": 309816,
+   "pull_quote": "Whether we call it jazz, or blues, or bass nova, whatever titles; this is Africa’s contribution to the western Hemisphere, and it’s not understood, I feel, like it should, you know?",
+   "theme": [
+    "africa"
+   ],
+   "period": "",
+   "summary": "He called the music, whatever its name, Africa's contribution to the Western Hemisphere, and said it was not understood as it should be.",
+   "prompted_by": "whether family was the cohesive idea behind Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "'bass nova' = bossa nova (transcribed by ear)."
+  },
+  {
+   "id": "q005",
+   "block_id": 309816,
+   "pull_quote": "So, all of my compositions, all of my music is based upon love, history, and family, and respect.",
+   "theme": [
+    "spirit_of_music",
+    "family"
+   ],
+   "period": "",
+   "summary": "He said all of his music was based on love, history, family and respect.",
+   "prompted_by": "whether family was the cohesive idea behind Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q006",
+   "block_id": 309816,
+   "pull_quote": "The blues is always underneath it all because the blues, I feel, is the language of our people, how we survived.",
+   "theme": [
+    "the_blues",
+    "race_and_history"
+   ],
+   "period": "",
+   "summary": "He said the blues was always underneath his music because it was the language of his people and how they survived.",
+   "prompted_by": "whether family was the cohesive idea behind Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q007",
+   "block_id": 309816,
+   "pull_quote": "With the blues, you can do so many things with the blues: happy blues, sad blues, in- between blues, you know.",
+   "theme": [
+    "the_blues"
+   ],
+   "period": "",
+   "summary": "He said the blues could do many things: happy blues, sad blues, in-between blues.",
+   "prompted_by": "whether family was the cohesive idea behind Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'in- between' has a stray space in the transcript; kept as is."
+  },
+  {
+   "id": "q008",
+   "block_id": 309818,
+   "pull_quote": "I was lucky to have spent ten wonderful summers in the Berkshires of Massachusetts. I had an opportunity to be in contact with the Boston Symphony Orchestra. I met people like Luckas Foss and Leonard Bernstein.",
+   "theme": [
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He recalled ten summers in the Berkshires, contact with the Boston Symphony Orchestra, and meeting Lukas Foss and Leonard Bernstein.",
+   "prompted_by": "the Earth Birth session",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Starts after 'Well,'. 'Luckas Foss' = Lukas Foss."
+  },
+  {
+   "id": "q009",
+   "block_id": 309818,
+   "pull_quote": "So, that’s where I wrote most of my works because I was always moved by children. Their freedom, the way they move; they’re very free children.",
+   "theme": [
+    "spirit_of_music",
+    "family"
+   ],
+   "period": "",
+   "summary": "He said he wrote most of his works in the Berkshires because he was moved by children and their freedom.",
+   "prompted_by": "the Earth Birth session",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q010",
+   "block_id": 309818,
+   "pull_quote": "The first waltz was called, “Earth Birth” and that’s to be meant when a child is born the first thing that happens is music. The child is moving his arms, or his legs, or he’s making sounds. That’s what “Earth Birth” meant.",
+   "theme": [
+    "records",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He explained that Earth Birth meant that when a child is born, the first thing that happens is music.",
+   "prompted_by": "the Earth Birth session",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q011",
+   "block_id": 309826,
+   "pull_quote": "That was fantastic for me because I always loved the blues because the blues is the foundation of what we do in out music, you know?",
+   "theme": [
+    "the_blues"
+   ],
+   "period": "",
+   "summary": "He said he had always loved the blues because the blues was the foundation of the music.",
+   "prompted_by": "the blues night of the Montreal residency",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'in out music' is the transcript's typo for 'in our music'."
+  },
+  {
+   "id": "q012",
+   "block_id": 309828,
+   "pull_quote": "It was one of the most exciting moments of my musical career, that I could have concerts one after the other in different venues but the whole connection was Africa.",
+   "theme": [
+    "africa",
+    "journeys"
+   ],
+   "period": "1997",
+   "summary": "He called the residency one of the most exciting moments of his career, concerts night after night with Africa as the connection.",
+   "prompted_by": "the Montreal Jazz Festival residency",
+   "stands_alone": false,
+   "context_block_ids": [
+    309823
+   ],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q013",
+   "block_id": 309830,
+   "pull_quote": "Well, it was her genius and her strength, and her spiritual strength.",
+   "theme": [
+    "melba_liston"
+   ],
+   "period": "",
+   "summary": "He said Melba Liston's genius and spiritual strength overcame her physical incapacity.",
+   "prompted_by": "how his partnership with the incapacitated Melba Liston continued",
+   "stands_alone": false,
+   "context_block_ids": [
+    309829
+   ],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q014",
+   "block_id": 309830,
+   "pull_quote": "I wanted to do this recording, “Spirit of Our Ancestors”, again, trying to bring the ancestors to everybody. They are very much alive.",
+   "theme": [
+    "ancestors",
+    "records"
+   ],
+   "period": "",
+   "summary": "He said Spirit of Our Ancestors was meant to bring the ancestors to everybody, because they are very much alive.",
+   "prompted_by": "how his partnership with Melba Liston continued",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q015",
+   "block_id": 309830,
+   "pull_quote": "What Louie Armstrong and Buddy Boland, and Duke Ellington, all they created, that’s our royalty going back to Africa itself.",
+   "theme": [
+    "the_masters",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He called what Armstrong, Bolden and Ellington created 'our royalty', going back to Africa.",
+   "prompted_by": "how his partnership with Melba Liston continued",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'Louie Armstrong' = Louis Armstrong; 'Buddy Boland' = Buddy Bolden."
+  },
+  {
+   "id": "q016",
+   "block_id": 309830,
+   "pull_quote": "Then I realized that only Melba Liston could do this. She was in a wheelchair, she had been paralyzed on one side, and she can no longer play the trombone.",
+   "theme": [
+    "melba_liston"
+   ],
+   "period": "",
+   "summary": "He realized only Melba Liston could arrange the record, though she was in a wheelchair, paralysed on one side and unable to play.",
+   "prompted_by": "how his partnership with Melba Liston continued",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q017",
+   "block_id": 309830,
+   "pull_quote": "I went to see her, and I insulted her as only musicians can do. I called her all kinds of names. I said to her, “You have to do these arrangements stroke or no stroke, handicap or no handicap,” you know?",
+   "theme": [
+    "melba_liston",
+    "character"
+   ],
+   "period": "",
+   "summary": "He told how he insulted the stroke-stricken Liston 'as only musicians can' to make her do the arrangements.",
+   "prompted_by": "how his partnership with Melba Liston continued",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q018",
+   "block_id": 309830,
+   "pull_quote": "She cried a little bit, you know? But, it turned out her aunt Thelma was a computer specialist and Melba started studying the computer and how to write the music with her left hand. That’s how it came and her genius and her spirit came out, you know?",
+   "theme": [
+    "melba_liston"
+   ],
+   "period": "",
+   "summary": "He said she cried, then learned to write music on the computer with her left hand, and her genius came out again.",
+   "prompted_by": "how his partnership with Melba Liston continued",
+   "stands_alone": false,
+   "context_block_ids": [
+    309830
+   ],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Follows directly on the insult story in the same block."
+  },
+  {
+   "id": "q019",
+   "block_id": 309836,
+   "pull_quote": "Spirit. It makes no difference where she was: North Pole, or the middle of the Congo, it makes no difference.",
+   "theme": [
+    "melba_liston",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said their composer–arranger partnership worked by spirit, no matter where she was.",
+   "prompted_by": "how he and Liston worked when she was in California and he in Brooklyn",
+   "stands_alone": false,
+   "context_block_ids": [
+    309835
+   ],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q020",
+   "block_id": 309836,
+   "pull_quote": "Coleman Hawkins was my idol. When “Body and Soul” came out I was 17 years old. I bought 3 copies and I hid two.",
+   "theme": [
+    "the_masters",
+    "character"
+   ],
+   "period": "age 17",
+   "summary": "He recalled that Coleman Hawkins was his idol and that at 17 he bought three copies of Body and Soul and hid two.",
+   "prompted_by": "how he and Liston worked at a distance",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Starts mid-sentence at 'Coleman Hawkins was my idol.' The next sentence ('I played one so loud people could here “Body and Soul” in the / streets.') runs across the page break into b309837 and cannot be quoted whole. Body and Soul was recorded in 1939, when Weston was 13; see timeline."
+  },
+  {
+   "id": "q021",
+   "block_id": 309837,
+   "pull_quote": "What happened was, the recording took place on a Monday night at the Five Spot, and there was no time for rehearsal. She was in the hospital in California, and by some miracle the music arrived the day of the recording. I passed out the music, no time to rehearse, but I had such great musicians that they played beautifully.",
+   "theme": [
+    "melba_liston",
+    "records",
+    "the_band"
+   ],
+   "period": "1959",
+   "summary": "He recalled that Liston's arrangements for the 1959 Five Spot date with Hawkins arrived from her hospital bed on the day, and the band played them unrehearsed.",
+   "prompted_by": "how he and Liston worked at a distance",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q022",
+   "block_id": 309839,
+   "pull_quote": "Well, “Khepera” is like an ancient Egyptian word that means “like to regenerate, to bring back out senses.” We become so involved with machines that we loose that human contact that we had before.",
+   "theme": [
+    "records",
+    "machines_and_human_contact",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He explained Khepera as an ancient Egyptian word meaning to regenerate, and said people had lost human contact to machines.",
+   "prompted_by": "the Khepera recording session",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q023",
+   "block_id": 309839,
+   "pull_quote": "And, for me, for art, for music human contact is important because no matter who come in contact with, sometimes you get a vibration, sometimes you get a message; sometimes you get in an argument or whatever. “Khepera” is a way saying that we have to bring that back, to regenerate, to clean ourselves and come back, to get back to human contact.",
+   "theme": [
+    "machines_and_human_contact"
+   ],
+   "period": "",
+   "summary": "He said human contact mattered for art because every encounter gives a vibration or a message, and Khepera meant getting it back.",
+   "prompted_by": "the Khepera recording session",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q024",
+   "block_id": 309846,
+   "pull_quote": "Gnawa are the black Moroccans. They were taken in slavery as soldiers from the ancient Mali Empire.",
+   "theme": [
+    "gnawa_morocco",
+    "race_and_history"
+   ],
+   "period": "",
+   "summary": "He described the Gnawa as black Moroccans taken in slavery as soldiers from the ancient Mali Empire.",
+   "prompted_by": "the Spirit: The Power of Music concert with the Gnawa in a Brooklyn church",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q025",
+   "block_id": 309846,
+   "pull_quote": "They migrated; they were taken up to North Africa, and as most African people do wherever they do, whatever they come into contact with, the create a spiritual music. No matter what their religion is; it makes no difference. You find this is true in Brazil, in Cuba, in Venezuela, in Puerto Rico, in Jamaica, all over the world. America, Mississippi, New York, that’s always there, that firm foundation.",
+   "theme": [
+    "africa",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said African people everywhere, whatever their religion, create a spiritual music, from Brazil and Cuba to Mississippi and New York.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'the create' is the transcript's slip for 'they create'."
+  },
+  {
+   "id": "q026",
+   "block_id": 309846,
+   "pull_quote": "The Tangiers Gnawa was my original contact with Gnawa in 1967. I met a young Gnawa; his name was Abdullah Al-Gourd. Abdullah worked for “Voice of America” so he spoke English.",
+   "theme": [
+    "gnawa_morocco"
+   ],
+   "period": "1967",
+   "summary": "He recalled his first contact with the Gnawa in Tangier in 1967, through Abdullah Al-Gourd, who worked for Voice of America.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "'Abdullah Al-Gourd' = Abdellah El Gourd."
+  },
+  {
+   "id": "q027",
+   "block_id": 309846,
+   "pull_quote": "Because of him, I recorded and I met some of the old Gnawa. I met Gnawa who were 80 and 90 years old, who remember were walking across the Sahara desert. They were creating this music; where these rhythms come from.",
+   "theme": [
+    "gnawa_morocco"
+   ],
+   "period": "",
+   "summary": "He said he met Gnawa of 80 and 90 who remembered walking across the Sahara.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": false,
+   "context_block_ids": [
+    309846
+   ],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q028",
+   "block_id": 309847,
+   "pull_quote": "With the instrument they had contact with the creator. They call sprits with these instruments, they play games with these instruments, they do things with instruments that we cannot do in the West. They are directly in contact with the ancient spirits of Africa and the universe.",
+   "theme": [
+    "gnawa_morocco",
+    "spirit_of_music",
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He said the Gnawa used their three-stringed instrument to contact the creator and call spirits, in direct contact with the ancient spirits of Africa.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'sprits' is the transcript's typo."
+  },
+  {
+   "id": "q029",
+   "block_id": 309847,
+   "pull_quote": "In this Christian church we had three religions at the same time, through music: Yoruba, Islam, and Christianity. In the audience were all the denominations, all the colors, all the ages, and all the genders.",
+   "theme": [
+    "gnawa_morocco",
+    "spirit_of_music",
+    "brooklyn"
+   ],
+   "period": "",
+   "summary": "He recalled a Brooklyn church concert holding Yoruba, Islam and Christianity at once, before every kind of audience.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q030",
+   "block_id": 309847,
+   "pull_quote": "It was powerful because we all experience a very powerful experience to see the whole connection of humanity, which can only happened with music. With music you don’t have to read to music, you don’t have to see to music, you just hear and you feel.",
+   "theme": [
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said the concert showed the connection of humanity that only music can make: you just hear and you feel.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q031",
+   "block_id": 309849,
+   "pull_quote": "Well, we’re the same people, we just happen to speak different languages; we just happen to be on different parts of the planet earth but we’re the same people.",
+   "theme": [
+    "gnawa_morocco",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said he and the Gnawa were the same people speaking different languages in different parts of the planet.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q032",
+   "block_id": 309849,
+   "pull_quote": "Our ancestors survived the Atlantic Ocean. Months on those boats, you know, some committed suicide, but those who arrived and had to go through that whole scene of slavery, they survived. The same thing happened with the Gnawa people in Morocco.",
+   "theme": [
+    "race_and_history",
+    "ancestors",
+    "gnawa_morocco"
+   ],
+   "period": "",
+   "summary": "He said his ancestors survived the Atlantic crossing and slavery, as the Gnawa did in Morocco.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q033",
+   "block_id": 309849,
+   "pull_quote": "We’re like brothers and sisters but the difference is this, the traditional music of Africa describes Africa itself. African music is as old as Africa, and Africa is the oldest civilization. They are totally in tune with Mother Nature, you see?",
+   "theme": [
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said African traditional music describes Africa itself, is as old as Africa, and is in tune with nature.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q034",
+   "block_id": 309849,
+   "pull_quote": "For example, when the Gnawa master plays his instrument, its only five notes. But, they can take one sound, one note and get what we called the intensity factor.",
+   "theme": [
+    "gnawa_morocco",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said a Gnawa master, with only five notes, could get 'the intensity factor' from a single note.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q035",
+   "block_id": 309849,
+   "pull_quote": "The same thing happens in the black church, the same thing happens with something meaningful, when Louie Armstrong picks up his trumpet he only had to hit one note. When Coleman Hawkins picks up his saxophone he only has to hit one note, you see?",
+   "theme": [
+    "the_masters",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said the same was true in the black church and of Armstrong and Hawkins, who only had to hit one note.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'Louie Armstrong' = Louis Armstrong."
+  },
+  {
+   "id": "q036",
+   "block_id": 309849,
+   "pull_quote": "Africa, for me, it’s the center of spirituality on the planet earth. No matter where you go on the continent the music swings because the music describes the continent itself.",
+   "theme": [
+    "africa",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He called Africa the centre of spirituality on the planet, where the music swings because it describes the continent.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "The thought continues across the page break: 'For me, the / continent was swinging before man ever arrived.' (b309849/b309850) and cannot be quoted whole."
+  },
+  {
+   "id": "q037",
+   "block_id": 309850,
+   "pull_quote": "Early man had to listen to the sound of the wind, the sound of the forest, the sounds of the animals, the insects, to create music. Original musical instruments were made from the trees, from the skin of a goat, or sheep, or fish.",
+   "theme": [
+    "spirit_of_music",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said early man made music by listening to wind, forest and animals, and made instruments from trees and skins.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q038",
+   "block_id": 309850,
+   "pull_quote": "We come from that, so whenever we play with Gnawa people, all of us, they take us to school. But, they take us to the spiritual school, you see?",
+   "theme": [
+    "gnawa_morocco",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said that whenever they played with the Gnawa, the Gnawa took them to school — the spiritual school.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q039",
+   "block_id": 309852,
+   "pull_quote": "That wonderful book that Dr. Wayne Chandler wrote, which says that in order for us to go ahead we have got to go back.",
+   "theme": [
+    "records",
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He said Chandler's book taught that to go ahead we must go back.",
+   "prompted_by": "how he came to make the solo record Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q040",
+   "block_id": 309852,
+   "pull_quote": "Mom and Pop told us some things when we were younger which we either rejected or we didn’t understand. When we become older, “Oh! That’s what Pop meant! That’s what Mom meant!” That goes all the way, all the way back.",
+   "theme": [
+    "family"
+   ],
+   "period": "",
+   "summary": "He said what Mom and Pop taught is only understood when you are older, and that the same is true all the way back.",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q041",
+   "block_id": 309852,
+   "pull_quote": "The ancient Egyptians, they created a concept of music, which is based upon spiritual values. Each planet has got its own sound. Each planet has its own rhythms, you see?",
+   "theme": [
+    "africa",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said the ancient Egyptians built a concept of music on spiritual values, each planet with its own sound and rhythm.",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q042",
+   "block_id": 309852,
+   "pull_quote": "Wherever and whenever, it will adapt according to the environment. So if you listen to “Rites Of Spring” by Stravinsky, you can feel Russia, you know? Our spiritual is the original language of humanity.",
+   "theme": [
+    "spirit_of_music",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said music adapts to its environment, so Stravinsky's Rite of Spring sounds of Russia, and called the spiritual the original language of humanity.",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'Rites Of Spring' = The Rite of Spring. 'Our spiritual' as transcribed."
+  },
+  {
+   "id": "q043",
+   "block_id": 309852,
+   "pull_quote": "The whole idea from “Ancient Future” is for us to go ahead we have to know where we came from as a human race, and where we are going to go.",
+   "theme": [
+    "records",
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He said the idea of Ancient Future was that to go ahead we must know where we came from as a human race.",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q044",
+   "block_id": 309852,
+   "pull_quote": "I drive my car in New York and I see people walking the street with cell phones in their ears, not looking at the traffic or nothing like that. I see people walking around with their earphones. I see them walking around pressing buttons all the time. That sounds very hip, but it’s not.",
+   "theme": [
+    "machines_and_human_contact",
+    "character"
+   ],
+   "period": "",
+   "summary": "He described people in New York walking with phones and earphones, pressing buttons — 'very hip, but it's not.'",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "negative",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q045",
+   "block_id": 309852,
+   "pull_quote": "I play the piano like I play because I had the human contact with Thelonious Monk, because I had the spiritual contact with Nat King Cole, who I never met. I had the spiritual contact with Count Basie, or Coleman Hawkins, or Dizzy Gillespie. I saw them, I touched their hands, you see?",
+   "theme": [
+    "the_masters",
+    "the_piano",
+    "machines_and_human_contact"
+   ],
+   "period": "",
+   "summary": "He said he played as he did because of human contact with Monk and spiritual contact with Nat Cole, Basie, Hawkins and Gillespie — he saw them and touched their hands.",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q046",
+   "block_id": 309852,
+   "pull_quote": "You know, when we created, we didn’t have any machines. The purpose of “Ancient Future” was inspired by that book to somehow bring us back.",
+   "theme": [
+    "machines_and_human_contact",
+    "records"
+   ],
+   "period": "",
+   "summary": "He said they created without machines, and Ancient Future was meant to bring people back.",
+   "prompted_by": "how he came to make Ancient Future",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q047",
+   "block_id": 309854,
+   "pull_quote": "They were fantastic, my father and mother, you see? My father taught me to study African civilization when Africa was great. Most of us get the education of Africa, Africa after slavery, that’s where we start.",
+   "theme": [
+    "family",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said his father taught him to study African civilisation from when Africa was great, not from slavery onward.",
+   "prompted_by": "whether Chandler's book inspired a solo piano record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Starts at a sentence after 'I had a wonderful father and mother.'"
+  },
+  {
+   "id": "q048",
+   "block_id": 309854,
+   "pull_quote": "My father, he already said, “Man, in my house in Brooklyn we grew up with maps of African kings and queens in the house. He’d have books written by African historians, old maps.”",
+   "theme": [
+    "family",
+    "brooklyn",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He recalled growing up in Brooklyn with maps of African kings and queens and books by African historians in the house.",
+   "prompted_by": "whether Chandler's book inspired a solo piano record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "The transcriber's quotation marks wrap Weston's own description as if his father were speaking; quoted as transcribed."
+  },
+  {
+   "id": "q049",
+   "block_id": 309854,
+   "pull_quote": "So, my father conditioned me, he told me, “You have to go back because you’re an African born in America. To respect your ancestors, if they came here as Africans, what else can you be? They give you those simple things.”",
+   "theme": [
+    "family",
+    "ancestors",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said his father told him he was an African born in America and must respect his ancestors.",
+   "prompted_by": "whether Chandler's book inspired a solo piano record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 3,
+   "notes": "The closing quotation mark sits after 'They give you those simple things', which is Weston's comment, not his father's."
+  },
+  {
+   "id": "q050",
+   "block_id": 309854,
+   "pull_quote": "So, it came from my Dad, plus he made me take piano lessons. I’m very big, and I didn’t want to practice the piano, I wanted to play football and baseball. My father made me take piano lessons and my mother gave me black church. I had to be there every Sunday.",
+   "theme": [
+    "family",
+    "the_piano",
+    "brooklyn",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said his father made him take piano lessons when, being very big, he wanted football and baseball, and his mother gave him the black church every Sunday.",
+   "prompted_by": "whether Chandler's book inspired a solo piano record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q051",
+   "block_id": 309854,
+   "pull_quote": "To me, while we had the big band and the blues group, you know growing up in New York was a blessing because all the giants would all come to New York.",
+   "theme": [
+    "brooklyn",
+    "the_masters"
+   ],
+   "period": "",
+   "summary": "He called growing up in New York a blessing because all the giants came there.",
+   "prompted_by": "whether Chandler's book inspired a solo piano record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q052",
+   "block_id": 309854,
+   "pull_quote": "I don’t know if I answered your question or not, I might have taken off.",
+   "theme": [
+    "character"
+   ],
+   "period": "",
+   "summary": "He admitted he might have wandered off the question.",
+   "prompted_by": "whether Chandler's book inspired a solo piano record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q053",
+   "block_id": 309856,
+   "pull_quote": "Not really, it really happened at the Montreal Jazz Festival, the first time I performed there. The year was 1974, because I had never been to Europe; I had been to Africa 7 years before.",
+   "theme": [
+    "the_piano",
+    "journeys"
+   ],
+   "period": "1974",
+   "summary": "He traced his solo piano to his first appearance at the 'Montreal' festival in 1974, his first time in Europe, seven years after first going to Africa.",
+   "prompted_by": "whether Ancient Future's theme made it a solo record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "'Montreal Jazz Festival' with a 'Swiss audience' is surely Montreux."
+  },
+  {
+   "id": "q054",
+   "block_id": 309856,
+   "pull_quote": "That was the year that Duke Ellington died. I was very close to Duke and I did a solo rendition of Duke Ellington, just solo piano, about seven minutes. When I got through those seven minutes, the Swiss audience said to me, “We love your solo piano.”",
+   "theme": [
+    "the_piano",
+    "the_masters"
+   ],
+   "period": "1974",
+   "summary": "He recalled playing a seven-minute solo Ellington tribute the year Ellington died, after which the Swiss audience said they loved his solo piano.",
+   "prompted_by": "whether Ancient Future's theme made it a solo record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Swiss audience = Montreux, not Montreal."
+  },
+  {
+   "id": "q055",
+   "block_id": 309856,
+   "pull_quote": "But I was already playing solo piano in the Berkshires. Duke’s sister, she only wanted to hear me play solo piano. My first solo concert was at Antibes-Juan le Pins in France, was my very first solo concert, so I had already been playing solo.",
+   "theme": [
+    "the_piano"
+   ],
+   "period": "",
+   "summary": "He said he was already playing solo in the Berkshires, that Duke's sister wanted only his solo piano, and that his first solo concert was at Antibes-Juan-les-Pins.",
+   "prompted_by": "whether Ancient Future's theme made it a solo record",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Antibes (France) as his first solo concert sits uneasily with 1974 being his first time in Europe; see timeline."
+  },
+  {
+   "id": "q056",
+   "block_id": 309858,
+   "pull_quote": "I used to say, “Why did Duke Ellington play those same songs all the time? He’s got about 10,000 compositions. Why do you play these songs all the time.” Then I realized, certain songs, the messages are eternal, nothing changes.",
+   "theme": [
+    "the_masters",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said he once wondered why Ellington kept playing the same songs, then realised certain songs carry eternal messages.",
+   "prompted_by": "the live concert in St. Lucia",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Starts mid-sentence after 'people say to me sometimes—'. The thought continues across the page break into b309859."
+  },
+  {
+   "id": "q057",
+   "block_id": 309859,
+   "pull_quote": "The climate has a lot to do with how you play. Maybe what you had for breakfast may affect how you play, maybe who you see, I don’t know. It’s a whole spiritual thing.",
+   "theme": [
+    "spirit_of_music",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said the climate, even breakfast or who you see, affects how you play — 'a whole spiritual thing.'",
+   "prompted_by": "the live concert in St. Lucia",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q058",
+   "block_id": 309863,
+   "pull_quote": "“Zep Tepi” is an ancient Egyptian word, it means “the first time”. It’s when the creator decided to give us music, because it was a time when there was just silence, there was nothing.",
+   "theme": [
+    "records",
+    "africa",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He explained that Zep Tepi was ancient Egyptian for 'the first time', when the creator gave music out of silence.",
+   "prompted_by": "the trio record Zep Tepi",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q059",
+   "block_id": 309863,
+   "pull_quote": "I’m not a scientist, I’m not an anthropologist but it appears certain things have happened to create the earth. During that process, according to the ancients, there was a period of complete silence, there was nothing. All of the sudden there was one vibration, then two vibrations, then three vibrations, and these vibrations came to various kingdoms: the animal kingdom, the vegetable kingdom, and then man; man arrived.",
+   "theme": [
+    "spirit_of_music",
+    "character"
+   ],
+   "period": "",
+   "summary": "He described creation, after the ancients, as silence followed by one, two, three vibrations reaching the animal and vegetable kingdoms and then man.",
+   "prompted_by": "the trio record Zep Tepi",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q060",
+   "block_id": 309863,
+   "pull_quote": "That means when the creator gave us music for the first time, he gave us the foundation and from that up until 2009 the whole planet can share, express, and enjoy, what we call music.",
+   "theme": [
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said the creator's first gift of music was the foundation the whole planet still shares.",
+   "prompted_by": "the trio record Zep Tepi",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q061",
+   "block_id": 309867,
+   "pull_quote": "I have one sister, no brothers. My sister was five years older than me. She was my boss, you know? When I was younger, despite my physical size, if anybody messed with me I’d get my sister. She was strong but very spiritual, very giving.",
+   "theme": [
+    "family",
+    "character"
+   ],
+   "period": "",
+   "summary": "He described his only sister, five years older, as his boss and protector despite his size, strong but spiritual and giving.",
+   "prompted_by": "whether Tamashii was inspired by Japan",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q062",
+   "block_id": 309874,
+   "pull_quote": "She was going to the same church as my mother, the People’s Institutional Church on Monroe Street and Stuyvesant Ave in Brooklyn. It was right around the corner from where Eubie Blake used to live, okay?",
+   "theme": [
+    "family",
+    "brooklyn"
+   ],
+   "period": "",
+   "summary": "He named his mother's and sister's church, the People's Institutional Church in Brooklyn, around the corner from where Eubie Blake lived.",
+   "prompted_by": "the date of his sister's funeral",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q063",
+   "block_id": 309874,
+   "pull_quote": "We get to the cemetery in Brooklyn, the Evergreen Cemetery, and there’s the priest. He’s has to read over my sister, put her in the ground, and at the same time we can see the smoke from the World Trade Center. So the priest had to read about that too.",
+   "theme": [
+    "family"
+   ],
+   "period": "11 September 2001",
+   "summary": "He recalled burying his sister at Evergreen Cemetery while the smoke of the World Trade Center rose on 11 September.",
+   "prompted_by": "the date of his sister's funeral",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q064",
+   "block_id": 309874,
+   "pull_quote": "I’ll never forget this because my sister is so dynamic. You know, black people, sometimes we find humor in anything. I said, “Only my sister would be buried on a day like today with 9-11, only her.” She had a great sense of humor.",
+   "theme": [
+    "family",
+    "character"
+   ],
+   "period": "11 September 2001",
+   "summary": "He recalled saying only his sister would be buried on a day like 9/11, because she had a great sense of humour.",
+   "prompted_by": "the date of his sister's funeral",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q065",
+   "block_id": 309874,
+   "pull_quote": "We sat together and she started crying. She looked at me and she started crying. She said, “You are supposed to be here at this particular time. There’s something spiritual about your appearance here, now. You have to do a ceremony before you play.”",
+   "theme": [
+    "ancestors",
+    "journeys"
+   ],
+   "period": "2001",
+   "summary": "He told how a Japanese healer wept on meeting him and said he was meant to be there and must do a ceremony before playing.",
+   "prompted_by": "his journey to play at a Kyoto shrine",
+   "stands_alone": false,
+   "context_block_ids": [
+    309874
+   ],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'she' = a healer who came from Tokyo, introduced earlier in the block."
+  },
+  {
+   "id": "q066",
+   "block_id": 309875,
+   "pull_quote": "I had to go into the shrine, I had to get on my knees and they started saying certain prayers, of course in Japanese, which I didn’t understand. I could feel that they were chasing away the evil spirits.",
+   "theme": [
+    "journeys",
+    "ancestors"
+   ],
+   "period": "2001",
+   "summary": "He knelt in the shrine during prayers he did not understand and felt them chasing away the evil spirits.",
+   "prompted_by": "his journey to play at a Kyoto shrine",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Starts mid-sentence (after 'Kamigamo shrine and I met the priest, and')."
+  },
+  {
+   "id": "q067",
+   "block_id": 309875,
+   "pull_quote": "They had this had this incredible imperial piano, the piano I love the most. It has seven extra notes in the bass. This piano, I just love this piano.",
+   "theme": [
+    "the_piano"
+   ],
+   "period": "2001",
+   "summary": "He described the Imperial piano at the shrine, with seven extra bass notes — the piano he loved most.",
+   "prompted_by": "his journey to play at a Kyoto shrine",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'had this had this' is the transcript's stutter. The 'imperial piano' with extra bass notes is the Bösendorfer Imperial."
+  },
+  {
+   "id": "q068",
+   "block_id": 309875,
+   "pull_quote": "So when I got to the piano I looked at my shoes, I already where a size 16 and they looked like a size 26. I said, “I can’t put these shoes on.” And I had to play without shoes; it was my first time doing a concert without shoes.",
+   "theme": [
+    "character",
+    "journeys"
+   ],
+   "period": "2001",
+   "summary": "He told how his size-16 shoes looked like size 26 at the piano, so he played his first concert barefoot.",
+   "prompted_by": "his journey to play at a Kyoto shrine",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q069",
+   "block_id": 309875,
+   "pull_quote": "This place was so spiritually powerful that after I got through playing the one Japanese man he said he thought he couldn’t move. After everybody had left they had to come pick him up. He said the music had him glued to the floor.",
+   "theme": [
+    "spirit_of_music",
+    "journeys"
+   ],
+   "period": "2001",
+   "summary": "He said the shrine was so powerful that one man could not move after the concert and had to be helped up.",
+   "prompted_by": "his journey to play at a Kyoto shrine",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q070",
+   "block_id": 309875,
+   "pull_quote": "In other words, after they played the last note, you know, I would go to the piano and I would try and capture that note. And from that note I played a solo concert.",
+   "theme": [
+    "the_piano",
+    "journeys"
+   ],
+   "period": "2001",
+   "summary": "He described taking the last note of the Japanese priest's musicians and building a solo concert from it, in Shizuoka.",
+   "prompted_by": "his journeys in Japan",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q071",
+   "block_id": 309875,
+   "pull_quote": "The amazing thing Japan is this, we played a concert, this happened even the last time, and there were children in the audience two years old and four years old. You could not hear a sound until we were finished. Then the children ran up on stage and greeted us. Japan is very, very special. I never had an experience like that anywhere else in the world.",
+   "theme": [
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He said small children in Japanese audiences stayed silent until the end and then ran on stage to greet them.",
+   "prompted_by": "his journeys in Japan",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q072",
+   "block_id": 309880,
+   "pull_quote": "Well, the approach is always the same—just love. Just love.",
+   "theme": [
+    "the_piano",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said his approach, solo, trio or ensemble, was always the same: just love.",
+   "prompted_by": "how he approaches solo and trio playing differently",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q073",
+   "block_id": 309880,
+   "pull_quote": "To be honest, I could play music in any formation and you give 100 percent all the time there. In a way, in the trio, in the solo you’re more free. When you have an orchestra you have to be more controlled, but that’s great too.",
+   "theme": [
+    "the_piano"
+   ],
+   "period": "",
+   "summary": "He said he gave 100 percent in any format but was freer in trio and solo, more controlled with an orchestra.",
+   "prompted_by": "how he approaches solo and trio playing differently",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q074",
+   "block_id": 309880,
+   "pull_quote": "With a solo piano I can go anywhere. I can hit any bad note and nobody knows the difference.",
+   "theme": [
+    "the_piano",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said that solo he could go anywhere and hit any bad note without anyone knowing.",
+   "prompted_by": "how he approaches solo and trio playing differently",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q075",
+   "block_id": 309880,
+   "pull_quote": "With my trio I can do the same thing because we know each other and we emphasize rhythm and spirituality and we always try to be in tune with the audience, with the climate, with the temperature, with how you feel that particular day.",
+   "theme": [
+    "the_band",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said his trio could do the same because they knew each other, emphasising rhythm and spirituality and attuning to the audience and the day.",
+   "prompted_by": "how he approaches solo and trio playing differently",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q076",
+   "block_id": 309882,
+   "pull_quote": "You have to understand that I grew up with the king and queens of piano. When you grow up with people like Dorothy Dandridge and Duke Ellington, and Count Basie, and Art Tatum, Earl Hines, Nat King Cole, Monk, I mean, you know that period, for me, it was the royalty of piano. Trying to go towards that direction, I was always very timid, very unsure.",
+   "theme": [
+    "the_masters",
+    "the_piano",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said he grew up with the royalty of the piano — Ellington, Basie, Tatum, Hines, Nat Cole, Monk — and so was always timid and unsure.",
+   "prompted_by": "listeners preferring him in trio",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 3,
+   "notes": "'Dorothy Dandridge' was an actress-singer, not a pianist; possibly Dorothy Donegan was meant. Quoted as transcribed."
+  },
+  {
+   "id": "q077",
+   "block_id": 309882,
+   "pull_quote": "But, they heard me in solo piano in 1954 and Riverside Records; they wanted me to do a solo album. I didn’t want to do a solo album, I wanted a trio and we argued about that. Finally, we compromised with myself and Sam Gill on bass.",
+   "theme": [
+    "records",
+    "the_piano"
+   ],
+   "period": "1954",
+   "summary": "He recalled refusing Riverside's request for a solo album in 1954 and compromising on a piano-and-bass record with Sam Gill.",
+   "prompted_by": "listeners preferring him in trio",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q078",
+   "block_id": 309882,
+   "pull_quote": "I don’t know what it is, I really don’t know. But I’m happy that people like me doing solo piano, but I was always reluctant because, like I said, I grew up with the heavyweights.",
+   "theme": [
+    "the_piano",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said he was glad people liked his solo piano but was always reluctant, having grown up with the heavyweights.",
+   "prompted_by": "listeners preferring him in trio",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q079",
+   "block_id": 309885,
+   "pull_quote": "Like I said before, when I go to Africa I only want to be with the traditional people. When you go with traditional music anywhere on the planet, that’s when you become close to the people.",
+   "theme": [
+    "africa",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He said that in Africa he wanted only to be with traditional people, because traditional music brings you close to the people.",
+   "prompted_by": "the spiritual highlights of recent years",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q080",
+   "block_id": 309885,
+   "pull_quote": "The music and the food are the two keys, anywhere you go on the planet earth. The musicians and the cooks, they know what’s going on in the community.",
+   "theme": [
+    "journeys",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said music and food are the two keys anywhere on earth: the musicians and the cooks know what is going on.",
+   "prompted_by": "the spiritual highlights of recent years",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q081",
+   "block_id": 309887,
+   "pull_quote": "Billy Harper was the only one that was cool, because Billy, being from Texas, he knew how to ride horses and donkeys.",
+   "theme": [
+    "the_band",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said only Billy Harper, being from Texas, was cool on a donkey.",
+   "prompted_by": "the trip to Jajouka",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q082",
+   "block_id": 309887,
+   "pull_quote": "Seeing these guys going up the mountains on these donkeys, with their instruments, that was incredible. Benny said, “We have adventure! We have adventure!”",
+   "theme": [
+    "the_band",
+    "gnawa_morocco"
+   ],
+   "period": "",
+   "summary": "He recalled the band riding donkeys up the mountain with their instruments and Benny Powell shouting 'We have adventure!'",
+   "prompted_by": "the trip to Jajouka",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Ends just before '(Laughs)'."
+  },
+  {
+   "id": "q083",
+   "block_id": 309887,
+   "pull_quote": "See, Morocco, why it’s such a great country is because you have all kinds of different kinds of traditional people: Sahara, mountains…it’s different!",
+   "theme": [
+    "gnawa_morocco"
+   ],
+   "period": "",
+   "summary": "He said Morocco was great because of its many different traditional peoples.",
+   "prompted_by": "the trip to Jajouka",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q084",
+   "block_id": 309888,
+   "pull_quote": "We had this three-day festival at a bullring in Tangiers. Two nights it was at the bullring and the next night it was a Sahara sandstorm coming from the Sahara. We couldn’t play in the bull right so we had to rush and clean up this theatre called Theatre Cervantes in Tangiers.",
+   "theme": [
+    "gnawa_morocco",
+    "journeys"
+   ],
+   "period": "1972",
+   "summary": "He recalled the three-day 1972 festival in a Tangier bullring, moved for one night to the Teatro Cervantes by a Sahara sandstorm.",
+   "prompted_by": "the spiritual highlights of recent years",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'bull right' is the transcript's slip for bullring."
+  },
+  {
+   "id": "q085",
+   "block_id": 309888,
+   "pull_quote": "We had a blues band from Chicago sometime. We had singers from the Congo…we played records of James Brown, Marvin Gaye, Stevie Wonder, Ray Charles, so the young Moroccans could hear our real music cause they were getting imitations of our music from Europe; they weren’t hearing the real thing.",
+   "theme": [
+    "gnawa_morocco",
+    "the_blues"
+   ],
+   "period": "",
+   "summary": "He said his club played James Brown, Marvin Gaye, Stevie Wonder and Ray Charles so young Moroccans heard the real music, not European imitations.",
+   "prompted_by": "the spiritual highlights of recent years",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q086",
+   "block_id": 309892,
+   "pull_quote": "They use saliva to tune the instrument, they don’t have any keys, you know. For some reason the spirits in this place were so strong that it took a half hour for this instrument to be in tune with the piano, because the instrument picks up the spirits of wherever you are, you see?",
+   "theme": [
+    "gnawa_morocco",
+    "spirit_of_music",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He said at Canterbury the spirits were so strong that the Gnawa instrument took half an hour to tune to the piano, because it picks up the spirits of a place.",
+   "prompted_by": "playing for the Archbishop of Canterbury",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q087",
+   "block_id": 309892,
+   "pull_quote": "It had signs like “Lieutenant so and so, the hero of the battle in Egypt.” It was really, sort of English empire in this place, you know. But it was wonderful and afterwards I had an opportunity to speak to very spiritual leaders about the importance of music.",
+   "theme": [
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He found Canterbury 'sort of English empire' but wonderful, and spoke to spiritual leaders about music.",
+   "prompted_by": "playing for the Archbishop of Canterbury",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q088",
+   "block_id": 309901,
+   "pull_quote": "What I remember very clearly was, at a certain point they told the artist, they said, “If you got to go to the toilet you have to go before four-o-clock because that’s on that side and that’s where all the heads of state are, and they got that security, you know?”",
+   "theme": [
+    "character",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He remembered the artists being told to use the toilet before four o'clock because of the heads of state's security.",
+   "prompted_by": "the opening of the library in Alexandria",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q089",
+   "block_id": 309901,
+   "pull_quote": "But we played, and for me it was a great honor. I had played the Alexandria in 1967 so coming back, that was quite an experience, yeah.",
+   "theme": [
+    "journeys",
+    "recognition"
+   ],
+   "period": "1967",
+   "summary": "He called playing the library opening a great honour, returning to Alexandria where he had played in 1967.",
+   "prompted_by": "the opening of the library in Alexandria",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q090",
+   "block_id": 309903,
+   "pull_quote": "Well, I’ll make it short. I won’t spend too much time talking about marriage.",
+   "theme": [
+    "character",
+    "family"
+   ],
+   "period": "",
+   "summary": "He joked that he would keep the story of his marriage short.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Ends just before '(Laughs)'."
+  },
+  {
+   "id": "q091",
+   "block_id": 309907,
+   "pull_quote": "Well, what happened was, I met my wife, Fatoumata Mbengue. She’s a Lebo woman, Wulluf, from Senegal. She has a beautiful African shop in Paris.",
+   "theme": [
+    "family"
+   ],
+   "period": "",
+   "summary": "He introduced his wife Fatoumata Mbengue, a Lebou Wolof woman from Senegal with an African shop in Paris.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "'Lebo… Wulluf' = Lebou, Wolof."
+  },
+  {
+   "id": "q092",
+   "block_id": 309907,
+   "pull_quote": "I passed her shop many times and never went in for some reason, but I realized when I went in that that was it; I’d never come out again.",
+   "theme": [
+    "family",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said he passed her shop many times before going in, and when he did he never came out again.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q093",
+   "block_id": 309910,
+   "pull_quote": "It was beautiful, I mean I didn’t understand the language but you could feel the power of the music.",
+   "theme": [
+    "spirit_of_music",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He said he did not understand the Sufi singers' language but could feel the power of the music.",
+   "prompted_by": "the Sufi conference in Egypt with Fatou",
+   "stands_alone": false,
+   "context_block_ids": [
+    309910
+   ],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q094",
+   "block_id": 309910,
+   "pull_quote": "At the same time, again speaking about spirits because that’s the world that I’m in; I’m in the world of ancestors and spirits because they guide me, I had this desire to see the temple of Isis.",
+   "theme": [
+    "ancestors",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said he lived in the world of ancestors and spirits who guided him, and felt a desire to see the temple of Isis.",
+   "prompted_by": "the Sufi conference in Egypt with Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q095",
+   "block_id": 309910,
+   "pull_quote": "We talked to the taxi cab driver to take us, Ramsey, I’ll never forget him. He took the seat out of the taxi and made sure I had a lot of legroom, he threw the whole seat out!",
+   "theme": [
+    "character",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He remembered the driver Ramsey taking out the taxi seat so he had legroom.",
+   "prompted_by": "the trip to Aswan with Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Ends just before '(Laughs)'."
+  },
+  {
+   "id": "q096",
+   "block_id": 309911,
+   "pull_quote": "I told this guy, “I want to marry this woman.” I don’t know where it came from. The guy looked at me, Fatou looked at me, “What’s happening.” And I said, “I want to marry this woman.”",
+   "theme": [
+    "family",
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He recalled suddenly telling their Egyptian guide 'I want to marry this woman', not knowing where it came from.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "The sentence begins across the page break in b309910 ('…and all of the sudden the spirit / came and said to me…'); the quote starts at 'I told this guy'."
+  },
+  {
+   "id": "q097",
+   "block_id": 309911,
+   "pull_quote": "We got there and the next thing we hear is drums. All of the sudden, the whole village, they put us on thrones. These thrones are made out of cardboard, all the musicians came and they partied all night. We did a Nubian ceremony, a Nubian marriage. It was something, some kind of adventure.",
+   "theme": [
+    "family",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He described the Nubian village seating them on cardboard thrones and partying all night at their Nubian wedding.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q098",
+   "block_id": 309911,
+   "pull_quote": "Now, my wife, she’s Muslim, so I had to call her father and tell him that you married this guy from Brooklyn in Nubia!",
+   "theme": [
+    "family",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said he had to phone his Muslim wife's father to say she had married a man from Brooklyn in Nubia.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Ends just before '(Laughs)'."
+  },
+  {
+   "id": "q099",
+   "block_id": 309911,
+   "pull_quote": "That’s how it happened. Again, it came from the ancestral spirits that guided me and had me say something like that. I’ve been very blessed.",
+   "theme": [
+    "ancestors",
+    "family"
+   ],
+   "period": "",
+   "summary": "He said the ancestral spirits guided him to propose, and that he had been very blessed.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q100",
+   "block_id": 309913,
+   "pull_quote": "I have to be dreaming. This is the guy that the piano teacher gave up on after three years. He told my father to save his money!",
+   "theme": [
+    "recognition",
+    "the_piano",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said the award was a miracle for the man whose piano teacher gave up on him after three years and told his father to save his money.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Starts after 'Miracle, [it was a] miracle.' and ends before '(Laughs)'."
+  },
+  {
+   "id": "q101",
+   "block_id": 309913,
+   "pull_quote": "My whole life, everything that I have explained to you it’s like destiny. It’s like my whole life has been laid out already by the creator. Things that happen, I can’t explain.",
+   "theme": [
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He said his whole life was like destiny, laid out by the creator.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q102",
+   "block_id": 309913,
+   "pull_quote": "People say, “Randy Weston, you did this! You did!” I didn’t do any of those things. Somehow I was put into a certain place at a certain time, you know.",
+   "theme": [
+    "ancestors",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said he had not done the things people credit him with: he had been put in a certain place at a certain time.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q103",
+   "block_id": 309913,
+   "pull_quote": "That’s why, with this music, I have such an appreciation for music itself, and I try to explain whether I do a master class or whether I talk with people, that music is a spiritual language. It’s much deeper than we realize, you know?",
+   "theme": [
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said he tried to explain in master classes and conversation that music is a spiritual language, deeper than we realise.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q104",
+   "block_id": 309913,
+   "pull_quote": "If musical was to stop on the planet tomorrow; the planet would die.",
+   "theme": [
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said that if music stopped tomorrow the planet would die.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'If musical' is as transcribed (for 'If music')."
+  },
+  {
+   "id": "q105",
+   "block_id": 309913,
+   "pull_quote": "In our music we capture the beauty of nature and the beauty of humanity, you see?",
+   "theme": [
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said their music captures the beauty of nature and of humanity.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q106",
+   "block_id": 309913,
+   "pull_quote": "So, to answer that question, I am just amazed. I can’t believe it, it happened, but I still can’t believe it",
+   "theme": [
+    "recognition"
+   ],
+   "period": "",
+   "summary": "He said he was still amazed and could not believe he had received the award.",
+   "prompted_by": "what the NEA Jazz Masters award meant to him",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "The block ends without a full stop."
+  },
+  {
+   "id": "q107",
+   "block_id": 309915,
+   "pull_quote": "I was born with it, but I couldn’t identify it, I had to go back.",
+   "theme": [
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He said he was born with the spirit of the ancestors but had to go back to identify it.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": false,
+   "context_block_ids": [
+    309914
+   ],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "id": "q108",
+   "block_id": 309915,
+   "pull_quote": "Growing up in Brooklyn, economically, we were all poor. I got allowance, maybe 50 cents a week, but we had so much love that nobody cared.",
+   "theme": [
+    "brooklyn",
+    "family"
+   ],
+   "period": "",
+   "summary": "He said they were all poor in Brooklyn, with a 50-cent allowance, but had so much love nobody cared.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q109",
+   "block_id": 309915,
+   "pull_quote": "We had…economics…it was hard watching Mom and Pop having to struggle. They couldn’t go here, they couldn’t go there, because of the color of their skin. How they kept us spiritual, how they kept us with so much love, it’s something that amazes me up until this minute.",
+   "theme": [
+    "family",
+    "race_and_history",
+    "brooklyn"
+   ],
+   "period": "",
+   "summary": "He said it was hard watching his parents struggle, barred from places by their colour, and he still marvelled at how they kept the family spiritual and loving.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 2,
+   "notes": "Opens with the transcript's broken-off 'We had…economics…'."
+  },
+  {
+   "id": "q110",
+   "block_id": 309915,
+   "pull_quote": "Everyday that I’m home I look at my mother and father and I say, “How did y’all do it? How did Louie Jordan do it? How did Nat King Cole do it? How did Diana Washington do it?”",
+   "theme": [
+    "family",
+    "the_masters",
+    "race_and_history"
+   ],
+   "period": "",
+   "summary": "He said that at home he looked at his mother and father and asked how they, and Louis Jordan, Nat Cole and Dinah Washington, did it.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "'Louie Jordan' = Louis Jordan; 'Diana Washington' = Dinah Washington."
+  },
+  {
+   "id": "q111",
+   "block_id": 309915,
+   "pull_quote": "Now I’ve written 40 blues, I thought I knew the blues, but I didn’t know the blues until I went to Mississippi. I saw the slave shacks; I physically saw a cotton field.",
+   "theme": [
+    "the_blues",
+    "journeys",
+    "race_and_history"
+   ],
+   "period": "",
+   "summary": "He said he had written 40 blues but did not know the blues until he saw slave shacks and a cotton field in Mississippi.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q112",
+   "block_id": 309915,
+   "pull_quote": "You can see a cotton field in a movie but when you see a cotton field, which is almost two football fields, and you realize that our ancestors used to have to pick cotton and give a quota. They came back with that cotton and if they didn’t give that certain quota, then that quota would be raised.",
+   "theme": [
+    "race_and_history",
+    "ancestors"
+   ],
+   "period": "",
+   "summary": "He described seeing a cotton field the size of two football fields and realising the quotas his ancestors were forced to pick.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "negative",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q113",
+   "block_id": 309915,
+   "pull_quote": "What they had to go through to produce a Randy Weston, man, that is something that I will always be amazed, and grateful, and respectful of.",
+   "theme": [
+    "ancestors",
+    "race_and_history"
+   ],
+   "period": "",
+   "summary": "He said he would always be amazed, grateful and respectful at what his ancestors went through to produce a Randy Weston.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q114",
+   "block_id": 309915,
+   "pull_quote": "This is what I try and tell people about music, it’s not notes, and chords, and sounds that are arranged, that’s just one part. The real music is how our ancestors were able to create this beauty in a time of pain, how they did it, how we also did it.",
+   "theme": [
+    "spirit_of_music",
+    "ancestors",
+    "race_and_history"
+   ],
+   "period": "",
+   "summary": "He said music is not notes and chords; the real music is how the ancestors created beauty in a time of pain.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 3,
+   "notes": ""
+  },
+  {
+   "id": "q115",
+   "block_id": 309915,
+   "pull_quote": "They had to be in the back of the bus and they couldn’t go here, and they couldn’t go there. They created all this beauty: the black church, the blues, the jazz, the bassa nova, the samba, the reggae, the hip-hop, you name it! It’s Africa’s contribution.",
+   "theme": [
+    "race_and_history",
+    "africa"
+   ],
+   "period": "",
+   "summary": "He said those barred to the back of the bus created the black church, blues, jazz, bossa nova, samba, reggae and hip-hop — Africa's contribution.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'bassa nova' = bossa nova."
+  },
+  {
+   "id": "q116",
+   "block_id": 309915,
+   "pull_quote": "Africa is the spiritual center, the center of gravity of our mothers and fathers and our grandparents going all the way back to when were just one human race.",
+   "theme": [
+    "africa"
+   ],
+   "period": "",
+   "summary": "He called Africa the spiritual centre and centre of gravity of all our forebears, back to when we were one human race.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q117",
+   "block_id": 309915,
+   "pull_quote": "That’s something that I’ll always be excited about, and I’ll always be humble and grateful that I’ve been given a gift and to be able to, like a relay race, Mr. Ellington me passed the baton to me. Mr. Ellington said to Gillespie, “He passed it on me. So wherever I go, I have to honor these people.",
+   "theme": [
+    "the_masters",
+    "recognition"
+   ],
+   "period": "",
+   "summary": "He said he was humble and grateful to have been given a gift and to have had the baton passed to him by Ellington, like a relay race, and must honour those people.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "Garbled in transcription ('Mr. Ellington me passed the baton to me. Mr. Ellington said to Gillespie, “He passed it on me.'); the opening quotation mark is never closed. Meaning: Ellington passed the baton (perhaps via Gillespie). Quoted as transcribed."
+  },
+  {
+   "id": "q118",
+   "block_id": 309915,
+   "pull_quote": "But, not enough is known about what they had to go through to produce this music, about what the conditions were at that particular time. We don’t have that problem today, we can go anywhere we want to go. But those people! God bless them, and I’ve met most of them, you know?",
+   "theme": [
+    "race_and_history",
+    "the_masters"
+   ],
+   "period": "",
+   "summary": "He said not enough was known about what the earlier musicians endured, and blessed them, having met most of them.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "mixed",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "id": "q119",
+   "block_id": 309915,
+   "pull_quote": "I shook Louie Armstrong’s hand in Oklahoma City. I’ll never forget that handshake. I shook Paul Robinson’s hand at a ballroom in New York City. I shook Paul’s hand. I looked at Duke Ellington, like this, sitting in front of him. I sat opposite of Billie Holiday to shake her hand. To me, what can I tell you? It’s something that’s extraordinary.",
+   "theme": [
+    "the_masters"
+   ],
+   "period": "",
+   "summary": "He recalled shaking the hands of Louis Armstrong in Oklahoma City and Paul Robeson in New York, sitting before Ellington and opposite Billie Holiday.",
+   "prompted_by": "how he has grown closer to the spirits of his ancestors",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "positive",
+   "notable": 3,
+   "notes": "'Louie Armstrong' = Louis Armstrong; 'Paul Robinson' = Paul Robeson. Ends before '### END OF INTERVIEW'."
+  }
+ ],
+ "timeline": [
+  {
+   "when": "five years older than me",
+   "sort_year": 1921,
+   "event": "His only sister was born, five years before him.",
+   "place": "",
+   "block_ids": [
+    309867
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Year derived from 'five years older' and the 1926 birth in the header."
+  },
+  {
+   "when": "April 6, 1926",
+   "sort_year": 1926,
+   "event": "Randy Weston was born.",
+   "place": "",
+   "block_ids": [
+    309809
+   ],
+   "stated_by": "front_matter",
+   "confirmed_by_weston": false,
+   "notes": "From the transcript header only; Weston does not state it."
+  },
+  {
+   "when": "when I was 17 years old",
+   "sort_year": 1943,
+   "event": "Coleman Hawkins's 'Body and Soul' came out; he bought three copies and hid two.",
+   "place": "",
+   "block_ids": [
+    309836
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Year derived from age 17 and the 1926 birth. Conflict with the record: 'Body and Soul' was recorded and issued in 1939, when Weston was 13."
+  },
+  {
+   "when": "1954",
+   "sort_year": 1954,
+   "event": "Riverside Records heard him playing solo in the Berkshires and wanted a solo album; after an argument they compromised on piano and bass with Sam Gill — his first recording (Cole Porter) and, he says, Riverside's first.",
+   "place": "Berkshires, Massachusetts",
+   "block_ids": [
+    309882
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": ""
+  },
+  {
+   "when": "I think it was 1959",
+   "sort_year": 1959,
+   "event": "Live date at the Five Spot with Coleman Hawkins, Kenny Dorham, Wilbur Little, Roy Haynes and Clifford Jordan; Melba Liston's arrangements arrived from her hospital bed in California on the day, with no rehearsal.",
+   "place": "Five Spot, New York",
+   "block_ids": [
+    309836,
+    309837
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "'Kenny Durham' = Kenny Dorham; 'Clifford Jones' as transcribed (probably Clifford Jordan). He hedges the year ('I think')."
+  },
+  {
+   "when": "1967",
+   "sort_year": 1967,
+   "event": "First contact with the Gnawa, in Tangier, through Abdullah Al-Gourd of Voice of America; met and recorded old Gnawa.",
+   "place": "Tangier, Morocco",
+   "block_ids": [
+    309846
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "'Abdullah Al-Gourd' = Abdellah El Gourd."
+  },
+  {
+   "when": "1967",
+   "sort_year": 1967,
+   "event": "Played in Alexandria, Egypt.",
+   "place": "Alexandria, Egypt",
+   "block_ids": [
+    309901
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": ""
+  },
+  {
+   "when": "7 years before [1974]",
+   "sort_year": 1967,
+   "event": "First went to Africa, seven years before his 1974 European debut.",
+   "place": "",
+   "block_ids": [
+    309856
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Derived: 'I had been to Africa 7 years before' 1974. Consistent with the 1967 Gnawa and Alexandria dates."
+  },
+  {
+   "when": "one or two years later",
+   "sort_year": 1968,
+   "event": "Met M'Barek Ben Othman, chief of the Marrakech Gnawa.",
+   "place": "Marrakech, Morocco",
+   "block_ids": [
+    309847
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Year approximate: 'one or two years' after the 1967 Tangier contact."
+  },
+  {
+   "when": "by this time [1972]",
+   "sort_year": 1972,
+   "event": "Had opened his own club in Tangier, the African Rhythms club, where blues bands and Congolese singers played and he played American records for young Moroccans.",
+   "place": "Tangier, Morocco",
+   "block_ids": [
+    309887,
+    309888
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Opening year not stated; only that it was open by the 1972 festival."
+  },
+  {
+   "when": "1972",
+   "sort_year": 1972,
+   "event": "Organised a three-day festival in Tangier with Odetta, Max Roach's group without Max (Cecil Bridgewater, Billy Harper), his son Azzedine, Ahmed Abdul-Malik, Mandrill, Pucho and His Latin Soul Brothers and 40 African musicians; two nights in the bullring, the third moved to the Teatro Cervantes by a Sahara sandstorm.",
+   "place": "Tangier, Morocco",
+   "block_ids": [
+    309887,
+    309888
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "'Junior Booth' as transcribed (probably bassist Juini Booth)."
+  },
+  {
+   "when": "1974",
+   "sort_year": 1974,
+   "event": "First appearance at the 'Montreal Jazz Festival' and first time in Europe, with Ahmed Abdul-Malik (oud), William Allen (bass), Steve Berrios (percussion); played a seven-minute solo Ellington tribute and the Swiss audience said they loved his solo piano.",
+   "place": "Montreal Jazz Festival [as transcribed]",
+   "block_ids": [
+    309856
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Conflict: 'Montreal' but 'the first time, to play Europe' and 'the Swiss audience' — surely the Montreux Jazz Festival, Switzerland. Also sits uneasily with an earlier first solo concert at Antibes (France)."
+  },
+  {
+   "when": "1974",
+   "sort_year": 1974,
+   "event": "Duke Ellington died, the year of his first European festival.",
+   "place": "",
+   "block_ids": [
+    309856
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": ""
+  },
+  {
+   "when": "1981",
+   "sort_year": 1981,
+   "event": "Performed 'Three African Queens' with the Boston Pops (as he dates it the second time).",
+   "place": "Boston",
+   "block_ids": [
+    309822
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Conflict: the same block first dates the Boston Pops performance 1991 ('in 1991 I was very fortunate to write three compositions … we were lucky to perform with the Boston Pops'), then calls it 'the bigger work that we did in 1981, in Boston'. One claim per entry; see the 1991 entry. Not resolved from the transcript."
+  },
+  {
+   "when": "1985",
+   "sort_year": 1985,
+   "event": "Ten-piece group at the 'Montreal Jazz Festival' with Benny Bailey, Sahib Shihab, TK Blue and the Gnawa; Melba Liston was ill in hospital in California and Hale Smith conducted in her place; afterwards the band phoned her. The recording 'should be coming out soon'.",
+   "place": "Montreal Jazz Festival [as transcribed]",
+   "block_ids": [
+    309837
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Doubtful venue: given the transcript's habit of 'Montreal' for Montreux (see 1974), this may also be Montreux; the transcript gives no way to tell."
+  },
+  {
+   "when": "1991",
+   "sort_year": 1991,
+   "event": "Wrote 'Three African Queens' (Portrait of Billie Holiday, Blues for Elma Lewis, a royal lady) and performed it with the Boston Pops under John Williams, some 133 musicians, with Idrees Sulieman, a drummer and a bassist.",
+   "place": "Boston",
+   "block_ids": [
+    309822
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Conflict with the 1981 date given at the end of the same block; see that entry."
+  },
+  {
+   "when": "’95",
+   "sort_year": 1995,
+   "event": "Recorded 'Saga' for Verve in Paris, with Billy Higgins, Neil Clarke, Alex Blake, Billy Harper, TK Blue and Benny Powell; Stereo Review chose it number one.",
+   "place": "Paris",
+   "block_ids": [
+    309812,
+    309813
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Jenkins gives the year; Weston assents ('Right, I recorded for Verve in Paris')."
+  },
+  {
+   "when": "1997",
+   "sort_year": 1997,
+   "event": "Recorded 'Earth Birth' with 25 strings of the Montreal Symphony Orchestra, Billy Higgins and Christian McBride.",
+   "place": "Montreal",
+   "block_ids": [
+    309819,
+    309820,
+    309822
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Jenkins gives 1997; Weston accepts ('that one with strings')."
+  },
+  {
+   "when": "’97",
+   "sort_year": 1997,
+   "event": "Five-night residency at the Montreal Jazz Festival: a duo with David Murray, an African night with the Gnawa, a blues night with Robert Lockwood Jr. (Johnny Copeland could not come), a jazz night with Billy Harper, and Earth Birth with strings; Melba Liston wrote all the arrangements.",
+   "place": "Montreal Jazz Festival",
+   "block_ids": [
+    309823,
+    309824,
+    309825,
+    309826,
+    309828,
+    309829
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Jenkins dates it '97 and says he was there; Weston describes it. Here Montreal is right (Montreal Symphony strings). Doubtful: Weston says the blues night 'came out on an album called “Volcano”'; the album Volcano Blues (with Johnny Copeland) predates 1997 (outside knowledge), so he may be conflating the album with the concert."
+  },
+  {
+   "when": "2001",
+   "sort_year": 2001,
+   "event": "Named an NEA Jazz Master.",
+   "place": "",
+   "block_ids": [
+    309808
+   ],
+   "stated_by": "front_matter",
+   "confirmed_by_weston": false,
+   "notes": "Transcript header: 'NEA Jazz Master (2001)'. Conflicts with Jenkins's 2003 (b309912). 2001 is correct (the class included Jackie McLean and John Lewis, as Jenkins says)."
+  },
+  {
+   "when": "right after I got my Jazz Masters grant",
+   "sort_year": 2001,
+   "event": "Returned to Egypt with Fatou; in Aswan he suddenly said 'I want to marry this woman' and they were married in a Nubian ceremony in a Nubian village.",
+   "place": "Nubian village near Aswan, Egypt",
+   "block_ids": [
+    309910,
+    309911,
+    309902
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "sort_year taken from the award year in the header (2001); if Jenkins's 2003 were right it would be 2003."
+  },
+  {
+   "when": "2001",
+   "sort_year": 2001,
+   "event": "His sister died.",
+   "place": "Brooklyn",
+   "block_ids": [
+    309867
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": ""
+  },
+  {
+   "when": "the tenth of September 2001",
+   "sort_year": 2001,
+   "event": "Church service for his sister at the People's Institutional Church, Brooklyn, where TK Blue and the band prayed for her.",
+   "place": "People's Institutional Church, Monroe Street and Stuyvesant Avenue, Brooklyn",
+   "block_ids": [
+    309868,
+    309872,
+    309874
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Weston first called 10 September 'the day of the funeral'; Jenkins corrected to the 11th; they agree the church service was the day before the burial."
+  },
+  {
+   "when": "September 11th",
+   "sort_year": 2001,
+   "event": "His sister was buried at Evergreen Cemetery, Brooklyn, as the smoke of the World Trade Center rose.",
+   "place": "Evergreen Cemetery, Brooklyn",
+   "block_ids": [
+    309869,
+    309873,
+    309874
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Jenkins supplied the date; Weston agreed ('Exactly … the next day, the 11th')."
+  },
+  {
+   "when": "two weeks later",
+   "sort_year": 2001,
+   "event": "Played solo piano at the Kamigamo Shinto shrine in Kyoto after a purification ceremony — his first concert without shoes.",
+   "place": "Kamigamo shrine, Kyoto, Japan",
+   "block_ids": [
+    309868,
+    309874,
+    309875
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "'Kamigano' in Jenkins's question = Kamigamo."
+  },
+  {
+   "when": "that same year, 2001",
+   "sort_year": 2001,
+   "event": "Played a Buddhist temple and played for children in Shizuoka, building solo concerts from the last note of traditional musicians.",
+   "place": "Shizuoka, Japan",
+   "block_ids": [
+    309875
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": ""
+  },
+  {
+   "when": "2003",
+   "sort_year": 2003,
+   "event": "Received the NEA Jazz Masters fellowship, alongside Jackie McLean and John Lewis.",
+   "place": "",
+   "block_ids": [
+    309912
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": false,
+   "notes": "Jenkins's date; Weston neither confirms nor corrects the year. Conflicts with the header's 2001, which is right."
+  },
+  {
+   "when": "last year [2008]",
+   "sort_year": 2008,
+   "event": "Played the Kamigamo shrine again, this time with Alex Blake — his third time there.",
+   "place": "Kamigamo shrine, Kyoto, Japan",
+   "block_ids": [
+    309875
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "'last year' relative to the October 2009 interview."
+  },
+  {
+   "when": "last year [2008]",
+   "sort_year": 2008,
+   "event": "His friend Salah Ragab died in Cairo; Weston learned of it only two months before the interview.",
+   "place": "Cairo, Egypt",
+   "block_ids": [
+    309896
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Relative to the 2009 interview."
+  },
+  {
+   "when": "a couple of weeks ago",
+   "sort_year": 2009,
+   "event": "Book event with Robin Kelley for the Monk biography.",
+   "place": "",
+   "block_ids": [
+    309881
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": false,
+   "notes": "Jenkins's aside; Weston does not comment."
+  },
+  {
+   "when": "October 30th, 2009",
+   "sort_year": 2009,
+   "event": "This oral-history interview recorded with Willard Jenkins.",
+   "place": "",
+   "block_ids": [
+    309811
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": false,
+   "notes": ""
+  },
+  {
+   "when": "November 5th and 6th",
+   "sort_year": 2009,
+   "event": "Two concerts scheduled with Arturo O'Farrill's orchestra: African Sunrise, Blues to Africa and African Voodoo.",
+   "place": "",
+   "block_ids": [
+    309880
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Upcoming at the time of the interview."
+  },
+  {
+   "when": "February 1, 2018",
+   "sort_year": 2018,
+   "event": "Randy Weston died (as the header has it).",
+   "place": "",
+   "block_ids": [
+    309809
+   ],
+   "stated_by": "front_matter",
+   "confirmed_by_weston": false,
+   "notes": "Header error: Weston died on 1 September 2018, not 1 February."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Made ten CDs for Verve with its president Jean-Philippe Allard.",
+   "place": "",
+   "block_ids": [
+    309813,
+    309814
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated. 'Jean / Philippe Alad' as transcribed = Jean-Philippe Allard."
+  },
+  {
+   "when": "ten wonderful summers",
+   "sort_year": null,
+   "event": "Spent ten summers in the Berkshires, in contact with the Boston Symphony Orchestra, meeting Lukas Foss and Leonard Bernstein; wrote most of his works there and played solo piano in small hotels.",
+   "place": "Berkshires, Massachusetts",
+   "block_ids": [
+    309818,
+    309856,
+    309882
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated; b309882 places him playing solo in Berkshires hotels by 1954."
+  },
+  {
+   "when": "before 'Spirit of Our Ancestors'",
+   "sort_year": null,
+   "event": "Melba Liston had a stroke, was paralysed on one side and could no longer play trombone; he pushed her to keep arranging and she learned to write music by computer with her left hand. They made, he thinks, three recordings after the stroke.",
+   "place": "California",
+   "block_ids": [
+    309830
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript. He places 'Spirit of Our Ancestors' after the stroke."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Recorded 'Khepera' with Min Xiao Fen (pipa), Pharoah Sanders, Chief Bey, Victor Lewis, Alex Blake and Benny Powell; arrangements by Melba Liston.",
+   "place": "",
+   "block_ids": [
+    309839,
+    309840
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Concert 'Spirit: The Power of Music' with six Gnawa (three from Tangier, three from Marrakech) and Babatunde Olatunji in a Christian church on Lafayette Avenue, Brooklyn.",
+   "place": "Lafayette Avenue, Brooklyn",
+   "block_ids": [
+    309843,
+    309846,
+    309847
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Recorded the solo piano album 'Ancient Future', inspired by Wayne Chandler's book.",
+   "place": "",
+   "block_ids": [
+    309851,
+    309852
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Undated; 'more recently'."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "His father made him take piano lessons; he wanted to play football and baseball instead.",
+   "place": "Brooklyn",
+   "block_ids": [
+    309854
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Childhood; undated."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "His mother took him to the black church every Sunday.",
+   "place": "Brooklyn",
+   "block_ids": [
+    309854
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Childhood; undated. The church was the People's Institutional Church (b309874), named as his mother's and sister's church."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Recorded a solo album for Riverside.",
+   "place": "",
+   "block_ids": [
+    309856
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "First solo concert, at Antibes-Juan-les-Pins.",
+   "place": "Antibes-Juan le Pins, France",
+   "block_ids": [
+    309856
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated. Conflict: he says 1974 was his first time in Europe, yet presents Antibes as earlier evidence that he 'had already been playing solo'. One of the two cannot be right as stated."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Outdoor concert recorded live in St. Lucia (also on DVD) with Benny Powell, TK Blue, Alex Blake and Neil Clarke.",
+   "place": "St. Lucia",
+   "block_ids": [
+    309857,
+    309859,
+    309860
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Undated; Jenkins calls it his most recent recording with his regular ensemble."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Recorded the trio album 'Zep Tepi' with Alex Blake and Neil Clarke at a Lower East Side studio, engineered by 'Rick Congress'.",
+   "place": "Lower East Side, New York",
+   "block_ids": [
+    309862,
+    309863
+   ],
+   "stated_by": "jenkins",
+   "confirmed_by_weston": true,
+   "notes": "Undated; Jenkins calls it his most recent recording (so before October 2009)."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Filmed for the documentary 'Randy in Tangiers' (France 3 and Spanish television), including a trip by donkey with his sextet to Jajouka.",
+   "place": "Tangier and Jajouka, Morocco",
+   "block_ids": [
+    309885,
+    309887
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Played for a gathering of world spiritual leaders with three Tangier Gnawa at Canterbury, arranged by Zeba Rahman.",
+   "place": "Canterbury, England",
+   "block_ids": [
+    309889,
+    309892
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Played at the opening of the new library in Alexandria, arranged through Salah Ragab, before heads of state.",
+   "place": "Alexandria, Egypt",
+   "block_ids": [
+    309893,
+    309896,
+    309897,
+    309901
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript (the Bibliotheca Alexandrina opened in 2002 — outside knowledge, not used)."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Met Fatoumata Mbengue at her African shop in Paris, after she came to his Paris concert with the Gnawa.",
+   "place": "Paris",
+   "block_ids": [
+    309907,
+    309908
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated. b309813 says she became his wife after the Saga period ('my wife, who I married afterwards')."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Travelled Morocco with photographer Ariane Smolderen photographing Gnawa families (Fez, Marrakech, Telouet, Agadir, the Sahara).",
+   "place": "Morocco",
+   "block_ids": [
+    309908
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated."
+  },
+  {
+   "when": "a year after tourists had been murdered",
+   "sort_year": null,
+   "event": "Attended a week-long conference on Sufi music at 'Gwana' near Karnak with Fatou, then drove to Aswan to see the temple of Isis and the Nubian Museum.",
+   "place": "Gwana [Qena], Egypt; Aswan, Egypt",
+   "block_ids": [
+    309908,
+    309910
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated in the transcript; dated only as 'a year' after a massacre of tourists in Egypt (outside knowledge: Luxor, 1997, which would put the trip around 1998 — not used for sort_year). 'Gwana' = Qena; 'Azwan' = Aswan."
+  },
+  {
+   "when": "after three years",
+   "sort_year": null,
+   "event": "His piano teacher gave up on him after three years and told his father to save his money.",
+   "place": "",
+   "block_ids": [
+    309913
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Childhood; undated."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "He shook Louis Armstrong's hand in Oklahoma City.",
+   "place": "Oklahoma City",
+   "block_ids": [
+    309915
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated. 'Louie Armstrong' in the transcript."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "He shook Paul Robeson's hand at a ballroom in New York City.",
+   "place": "New York City",
+   "block_ids": [
+    309915
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated. 'Paul Robinson' in the transcript = Paul Robeson."
+  },
+  {
+   "when": "",
+   "sort_year": null,
+   "event": "Spent ten days in the Mississippi Delta with his wife, seeing slave shacks and a cotton field.",
+   "place": "Mississippi Delta",
+   "block_ids": [
+    309915
+   ],
+   "stated_by": "weston",
+   "confirmed_by_weston": true,
+   "notes": "Undated."
+  }
+ ]
+}

@@ -1,0 +1,788 @@
+{
+ "source": "Cover Art Archive, keyed on the MusicBrainz release-group id carried in Wikidata P436",
+ "licence": "Cover art is copyrighted and supplied by MusicBrainz for identification. Not freely licensed — unlike shared/images.json, these must not be treated as reusable media.",
+ "release_groups_probed": 77,
+ "with_cover": 65,
+ "items": {
+  "722a7205-5c6a-4814-93f7-a000b6dab6c3": {
+   "title": "Cole Porter in a Modern Mood",
+   "kind": "album",
+   "released": "1955",
+   "qid": "Q5142679",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/722a7205-5c6a-4814-93f7-a000b6dab6c3/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/722a7205-5c6a-4814-93f7-a000b6dab6c3/front-500",
+   "resolved": "https://dn710908.ca.archive.org/0/items/mbid-59b0f836-4206-4b7d-b075-c75ad4f1ba2b/mbid-59b0f836-4206-4b7d-b075-c75ad4f1ba2b-16958966589_thumb250.jpg"
+  },
+  "fe4a7281-f70f-4a32-af69-88cafe61acc1": {
+   "title": "Trio and Solo",
+   "kind": "album",
+   "released": "1957",
+   "qid": "Q17062923",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/fe4a7281-f70f-4a32-af69-88cafe61acc1/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/fe4a7281-f70f-4a32-af69-88cafe61acc1/front-500",
+   "resolved": "https://dn710901.ca.archive.org/0/items/mbid-044a1619-2dad-4b13-94de-335bdbd75417/mbid-044a1619-2dad-4b13-94de-335bdbd75417-16959077585_thumb250.jpg"
+  },
+  "4a771c3c-5a40-4a54-b7bd-3c4a6b1053ca": {
+   "title": "The Modern Art of Jazz by Randy Weston",
+   "kind": "album",
+   "released": "1957",
+   "qid": "Q24077723",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/4a771c3c-5a40-4a54-b7bd-3c4a6b1053ca/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/4a771c3c-5a40-4a54-b7bd-3c4a6b1053ca/front-500",
+   "resolved": "https://dn710705.ca.archive.org/0/items/mbid-1318f1b8-f4f9-4148-9303-016169fd440b/mbid-1318f1b8-f4f9-4148-9303-016169fd440b-16959003623_thumb250.jpg"
+  },
+  "d4cfed60-6d71-4d09-a30b-7279a98b0726": {
+   "title": "Jazz Lab",
+   "kind": "album",
+   "released": "1958",
+   "qid": "Q6168265",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/d4cfed60-6d71-4d09-a30b-7279a98b0726/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/d4cfed60-6d71-4d09-a30b-7279a98b0726/front-500",
+   "resolved": "https://dn710803.ca.archive.org/0/items/mbid-57825cff-942a-45bf-90c3-08418ed35a25/mbid-57825cff-942a-45bf-90c3-08418ed35a25-3779008149_thumb250.jpg"
+  },
+  "46bd1594-9e62-4d60-aeb5-63ab9d7cc54c": {
+   "title": "Piano á la Mode",
+   "kind": "album",
+   "released": "1959",
+   "qid": "Q7190214",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/46bd1594-9e62-4d60-aeb5-63ab9d7cc54c/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/46bd1594-9e62-4d60-aeb5-63ab9d7cc54c/front-500",
+   "resolved": "https://dn710707.ca.archive.org/0/items/mbid-1b3a3fb0-9636-42bf-a0e1-5f3d4f91b743/mbid-1b3a3fb0-9636-42bf-a0e1-5f3d4f91b743-16959126494_thumb250.jpg"
+  },
+  "75a4c130-f194-424f-9e28-602dd5a98e11": {
+   "title": "Salute to the Flute",
+   "kind": "album",
+   "released": "1957",
+   "qid": "Q20814008",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/75a4c130-f194-424f-9e28-602dd5a98e11/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/75a4c130-f194-424f-9e28-602dd5a98e11/front-500",
+   "resolved": "https://dn710303.ca.archive.org/0/items/mbid-65205f5e-9ff1-4159-9f07-7c6151745090/mbid-65205f5e-9ff1-4159-9f07-7c6151745090-4265917486_thumb250.jpg"
+  },
+  "c90f7099-e640-33a6-9ffd-92557337b379": {
+   "title": "It's Magic (Abbey Lincoln album)",
+   "kind": "album",
+   "released": "1958",
+   "qid": "Q6090285",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/c90f7099-e640-33a6-9ffd-92557337b379/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/c90f7099-e640-33a6-9ffd-92557337b379/front-500",
+   "resolved": "https://dn721803.ca.archive.org/0/items/mbid-baba463e-4801-41d5-b55b-31692f4215d5/mbid-baba463e-4801-41d5-b55b-31692f4215d5-43078039355_thumb250.jpg"
+  },
+  "983daf0d-f0e7-4df8-b6a8-5e4edb101b2d": {
+   "title": "Out There (Betty Carter album)",
+   "kind": "album",
+   "released": "1958 ( 1958 )",
+   "qid": "Q7111471",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/983daf0d-f0e7-4df8-b6a8-5e4edb101b2d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/983daf0d-f0e7-4df8-b6a8-5e4edb101b2d/front-500",
+   "resolved": "https://ia600605.us.archive.org/18/items/mbid-b5d2738b-9474-4f15-bdb0-579d035471de/mbid-b5d2738b-9474-4f15-bdb0-579d035471de-4713147753_thumb250.jpg"
+  },
+  "42d94cae-f2e1-4a7c-acf3-856c81cb5db7": {
+   "title": "A Good Git-Together",
+   "kind": "album",
+   "released": "1959",
+   "qid": "Q4657109",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/42d94cae-f2e1-4a7c-acf3-856c81cb5db7/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/42d94cae-f2e1-4a7c-acf3-856c81cb5db7/front-500",
+   "resolved": "https://ia801509.us.archive.org/18/items/mbid-aa879543-0631-47de-b3fd-228aff26adf1/mbid-aa879543-0631-47de-b3fd-228aff26adf1-5769517278_thumb250.jpg"
+  },
+  "d5f8521c-58a6-3c56-af99-a1a1c353925d": {
+   "title": "At the Jazz Corner of the World",
+   "kind": "live",
+   "released": "September/October 1959",
+   "qid": "Q4812531",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/d5f8521c-58a6-3c56-af99-a1a1c353925d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/d5f8521c-58a6-3c56-af99-a1a1c353925d/front-500",
+   "resolved": "https://dn721800.ca.archive.org/0/items/mbid-2a12d6c3-8cda-4cb9-a98f-c979ec27d9ed/mbid-2a12d6c3-8cda-4cb9-a98f-c979ec27d9ed-34462686733_thumb250.jpg"
+  },
+  "0c0dce77-0668-4882-8ea5-cdd05c989fd4": {
+   "title": "Little Niles",
+   "kind": "album",
+   "released": "1959",
+   "qid": "Q6651167",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/0c0dce77-0668-4882-8ea5-cdd05c989fd4/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/0c0dce77-0668-4882-8ea5-cdd05c989fd4/front-500",
+   "resolved": "https://dn710808.ca.archive.org/0/items/mbid-d106b78e-1b84-40fb-ad31-014b72ce8637/mbid-d106b78e-1b84-40fb-ad31-014b72ce8637-16959173294_thumb250.jpg"
+  },
+  "4421b83f-472f-3417-bcab-263ed31100b6": {
+   "title": "On View at the Five Spot Cafe",
+   "kind": "live",
+   "released": "1959",
+   "qid": "Q7091193",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/4421b83f-472f-3417-bcab-263ed31100b6/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/4421b83f-472f-3417-bcab-263ed31100b6/front-500",
+   "resolved": "https://dn721901.ca.archive.org/0/items/mbid-c0d3a651-7195-45d8-908e-a7c0b2bbb786/mbid-c0d3a651-7195-45d8-908e-a7c0b2bbb786-37372867962_thumb250.jpg"
+  },
+  "7ea25306-da98-3b44-8bc8-7b87ee411cf9": {
+   "title": "The Cannonball Adderley Quintet in San Francisco",
+   "kind": "live",
+   "released": "1959",
+   "qid": "Q7721208",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/7ea25306-da98-3b44-8bc8-7b87ee411cf9/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/7ea25306-da98-3b44-8bc8-7b87ee411cf9/front-500",
+   "resolved": "https://dn720704.ca.archive.org/0/items/mbid-5ba46ef5-af26-48d0-a07b-6ea438425412/mbid-5ba46ef5-af26-48d0-a07b-6ea438425412-7893155168_thumb250.jpg"
+  },
+  "f17eb6cd-d1ef-3e2f-94a9-06e286368245": {
+   "title": "Out There (Eric Dolphy album)",
+   "kind": "studio",
+   "released": "September 1961 ( 1961-09 )",
+   "qid": "Q7111474",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f17eb6cd-d1ef-3e2f-94a9-06e286368245/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f17eb6cd-d1ef-3e2f-94a9-06e286368245/front-500",
+   "resolved": "https://dn710909.ca.archive.org/0/items/mbid-06180693-a7f6-420e-9b63-f5dea557336a/mbid-06180693-a7f6-420e-9b63-f5dea557336a-15309505746_thumb250.jpg"
+  },
+  "5ad2cb32-9108-454b-93a4-c3c3f51c6b19": {
+   "title": "Reminiscin'",
+   "kind": "album",
+   "released": "1960",
+   "qid": "Q17508866",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/5ad2cb32-9108-454b-93a4-c3c3f51c6b19/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/5ad2cb32-9108-454b-93a4-c3c3f51c6b19/front-500",
+   "resolved": "https://dn710904.ca.archive.org/0/items/mbid-f50704fe-93ea-42cd-8ae3-4250693dff67/mbid-f50704fe-93ea-42cd-8ae3-4250693dff67-3778736040_thumb250.jpg"
+  },
+  "6f269111-f5b3-46c4-ae26-7b4e79c9bb02": {
+   "title": "Uhuru Afrika",
+   "kind": "album",
+   "released": "End of April 1961",
+   "qid": "Q7878031",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/6f269111-f5b3-46c4-ae26-7b4e79c9bb02/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/6f269111-f5b3-46c4-ae26-7b4e79c9bb02/front-500",
+   "resolved": "https://dn720901.ca.archive.org/0/items/mbid-697dba9d-ae86-433e-ba01-2de9c48669c2/mbid-697dba9d-ae86-433e-ba01-2de9c48669c2-16960656464_thumb250.jpg"
+  },
+  "0c1eaa4a-d660-3621-92b8-5957fa19700f": {
+   "title": "Cannonball Adderley and the Poll-Winners",
+   "kind": "album",
+   "released": "Early 1961",
+   "qid": "Q5032820",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/0c1eaa4a-d660-3621-92b8-5957fa19700f/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/0c1eaa4a-d660-3621-92b8-5957fa19700f/front-500",
+   "resolved": "https://dn710601.ca.archive.org/0/items/mbid-e59ff189-ad0b-4936-be64-a413ef36fe50/mbid-e59ff189-ad0b-4936-be64-a413ef36fe50-15890740887_thumb250.jpg"
+  },
+  "952cd2d7-53bc-34e4-9002-56ac659fbf34": {
+   "title": "Hub Cap (album)",
+   "kind": "album",
+   "released": "October 1961",
+   "qid": "Q5926650",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/952cd2d7-53bc-34e4-9002-56ac659fbf34/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/952cd2d7-53bc-34e4-9002-56ac659fbf34/front-500",
+   "resolved": "https://dn710702.ca.archive.org/0/items/mbid-8b52cb06-1825-4f32-8fdb-650121ad818b/mbid-8b52cb06-1825-4f32-8fdb-650121ad818b-8051316762_thumb250.jpg"
+  },
+  "c39391b8-a7eb-3000-853c-2ad00ebfd1dd": {
+   "title": "Straight Ahead (Abbey Lincoln album)",
+   "kind": "album",
+   "released": "1961",
+   "qid": "Q7620988",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/c39391b8-a7eb-3000-853c-2ad00ebfd1dd/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/c39391b8-a7eb-3000-853c-2ad00ebfd1dd/front-500",
+   "resolved": "https://dn721800.ca.archive.org/0/items/mbid-b705a7fa-3ec7-4b84-9107-975968a892dc/mbid-b705a7fa-3ec7-4b84-9107-975968a892dc-26679341260_thumb250.jpg"
+  },
+  "1bd39aae-4a62-3f64-abaf-29501ecc7f3d": {
+   "title": "Where? (album)",
+   "kind": "studio",
+   "released": "1961",
+   "qid": "Q19898226",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/1bd39aae-4a62-3f64-abaf-29501ecc7f3d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/1bd39aae-4a62-3f64-abaf-29501ecc7f3d/front-500",
+   "resolved": "https://ia801800.us.archive.org/34/items/mbid-9c6d9381-99af-486f-a775-616a1d2f78aa/mbid-9c6d9381-99af-486f-a775-616a1d2f78aa-8153312938_thumb250.jpg"
+  },
+  "c5f03e7e-692c-4873-a800-fbcc404edb8d": {
+   "title": "Comin' Home Baby!",
+   "kind": "studio",
+   "released": "1962",
+   "qid": "Q5151866",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/c5f03e7e-692c-4873-a800-fbcc404edb8d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/c5f03e7e-692c-4873-a800-fbcc404edb8d/front-500",
+   "resolved": "https://dn710007.ca.archive.org/0/items/mbid-d5567114-3b5f-4aec-b374-e83faebaa971/mbid-d5567114-3b5f-4aec-b374-e83faebaa971-26430315448_thumb250.jpg"
+  },
+  "4d4f1f22-0d8e-3247-8c8a-43345a4a7efc": {
+   "title": "The Freedom Book",
+   "kind": "studio",
+   "released": "March 1964",
+   "qid": "Q7735218",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/4d4f1f22-0d8e-3247-8c8a-43345a4a7efc/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/4d4f1f22-0d8e-3247-8c8a-43345a4a7efc/front-500",
+   "resolved": "https://ia801006.us.archive.org/6/items/mbid-cf430d65-9cbe-4149-81bb-f5c5e659937c/mbid-cf430d65-9cbe-4149-81bb-f5c5e659937c-22775116479_thumb250.jpg"
+  },
+  "6f0b6e3a-0964-4c14-b161-97c2f0496299": {
+   "title": "Berkshire Blues",
+   "kind": "album",
+   "released": "1977",
+   "qid": "Q4892245",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/6f0b6e3a-0964-4c14-b161-97c2f0496299/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/6f0b6e3a-0964-4c14-b161-97c2f0496299/front-500",
+   "resolved": "https://dn710707.ca.archive.org/0/items/mbid-fa5e2625-ffb6-4e43-9c8a-35cde97847d9/mbid-fa5e2625-ffb6-4e43-9c8a-35cde97847d9-16963958890_thumb250.jpg"
+  },
+  "62741123-68f3-3951-97c0-9e9cce8b3a55": {
+   "title": "Reflections (Abdullah Ibrahim album)",
+   "kind": "album",
+   "released": null,
+   "qid": "Q48805946",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/62741123-68f3-3951-97c0-9e9cce8b3a55/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/62741123-68f3-3951-97c0-9e9cce8b3a55/front-500",
+   "resolved": "https://dn721807.ca.archive.org/0/items/mbid-18d64db0-ea09-4ccc-b79b-738ee7584760/mbid-18d64db0-ea09-4ccc-b79b-738ee7584760-31188349557_thumb250.jpg"
+  },
+  "47bde8e3-6f9b-4eb0-a6ee-e866ebcab04a": {
+   "title": "Monterey '66",
+   "kind": "live",
+   "released": "1994",
+   "qid": "Q6905281",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/47bde8e3-6f9b-4eb0-a6ee-e866ebcab04a/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/47bde8e3-6f9b-4eb0-a6ee-e866ebcab04a/front-500",
+   "resolved": "https://dn721300.ca.archive.org/0/items/mbid-2c76c7dd-6790-434f-9334-d005c1b40532/mbid-2c76c7dd-6790-434f-9334-d005c1b40532-19365500931_thumb250.jpg"
+  },
+  "3517ad1f-f32d-4e2b-858a-7a9f331cdbf7": {
+   "title": "Structurally Sound",
+   "kind": "studio",
+   "released": "April 1967",
+   "qid": "Q7625076",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/3517ad1f-f32d-4e2b-858a-7a9f331cdbf7/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/3517ad1f-f32d-4e2b-858a-7a9f331cdbf7/front-500",
+   "resolved": "https://dn721904.ca.archive.org/0/items/mbid-305359ba-cf36-4ad0-9b20-792a6c01efec/mbid-305359ba-cf36-4ad0-9b20-792a6c01efec-34223467973_thumb250.jpg"
+  },
+  "056ee57d-2868-38cc-a6a4-f47883cdd8eb": {
+   "title": "African Cookbook",
+   "kind": "album",
+   "released": "1969",
+   "qid": "Q4689740",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/056ee57d-2868-38cc-a6a4-f47883cdd8eb/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/056ee57d-2868-38cc-a6a4-f47883cdd8eb/front-500",
+   "resolved": "https://dn721905.ca.archive.org/0/items/mbid-55369087-f036-4044-9169-0173d1d91baa/mbid-55369087-f036-4044-9169-0173d1d91baa-26347671471_thumb250.jpg"
+  },
+  "f1e40085-a774-307a-a68a-76557b33a067": {
+   "title": "Blue Moses (album)",
+   "kind": "album",
+   "released": "June 1972",
+   "qid": "Q4929474",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f1e40085-a774-307a-a68a-76557b33a067/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f1e40085-a774-307a-a68a-76557b33a067/front-500",
+   "resolved": "https://dn710203.ca.archive.org/0/items/mbid-4574c14e-5570-4d16-8250-18a7f8f7de1a/mbid-4574c14e-5570-4d16-8250-18a7f8f7de1a-28871252462_thumb250.jpg"
+  },
+  "85cf6c61-9d2e-3d01-8252-d69ffd2878aa": {
+   "title": "Charles Mingus and Friends in Concert",
+   "kind": "live",
+   "released": "1973",
+   "qid": "Q1065532",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/85cf6c61-9d2e-3d01-8252-d69ffd2878aa/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/85cf6c61-9d2e-3d01-8252-d69ffd2878aa/front-500",
+   "resolved": "https://ia600604.us.archive.org/23/items/mbid-d461c131-c94d-4ea5-adc9-dedce780d69a/mbid-d461c131-c94d-4ea5-adc9-dedce780d69a-19050007493_thumb250.jpg"
+  },
+  "9898d5d2-a5f3-3a11-8f3b-2a90f3680118": {
+   "title": "Tanjah (album)",
+   "kind": "album",
+   "released": "May 1974",
+   "qid": "Q17041415",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/9898d5d2-a5f3-3a11-8f3b-2a90f3680118/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/9898d5d2-a5f3-3a11-8f3b-2a90f3680118/front-500",
+   "resolved": "https://dn710304.ca.archive.org/0/items/mbid-2f5de1b8-b173-45fe-963a-2f6f3a8df0ef/mbid-2f5de1b8-b173-45fe-963a-2f6f3a8df0ef-3783227213_thumb250.jpg"
+  },
+  "78ac4cc7-d611-4872-aa44-d386084703f0": {
+   "title": "Informal Solo Piano",
+   "kind": "album",
+   "released": "1974",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/78ac4cc7-d611-4872-aa44-d386084703f0/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/78ac4cc7-d611-4872-aa44-d386084703f0/front-500",
+   "resolved": "https://ia802806.us.archive.org/13/items/mbid-67c15137-4248-4814-b82e-762e460c91f1/mbid-67c15137-4248-4814-b82e-762e460c91f1-16963663234_thumb250.jpg"
+  },
+  "fd704449-ba98-4e4f-b95a-46e4525a6407": {
+   "title": "African Rhythms",
+   "kind": "album",
+   "released": "1975",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/fd704449-ba98-4e4f-b95a-46e4525a6407/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/fd704449-ba98-4e4f-b95a-46e4525a6407/front-500",
+   "resolved": "https://dn710107.ca.archive.org/0/items/mbid-0ed9a5f0-48c6-4c90-b64c-631f27f510b0/mbid-0ed9a5f0-48c6-4c90-b64c-631f27f510b0-16963746799_thumb250.jpg"
+  },
+  "e933c3f0-dc31-3143-90ad-90b9e1661bbe": {
+   "title": "Blues to Africa",
+   "kind": "album",
+   "released": "1975",
+   "qid": "Q4930535",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/e933c3f0-dc31-3143-90ad-90b9e1661bbe/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/e933c3f0-dc31-3143-90ad-90b9e1661bbe/front-500",
+   "resolved": "https://dn710301.ca.archive.org/0/items/mbid-5025cc14-2b65-4446-b092-225b27ff71a8/mbid-5025cc14-2b65-4446-b092-225b27ff71a8-6199054478_thumb250.jpg"
+  },
+  "579f5ca6-d9db-37f8-a352-d8a1a474b096": {
+   "title": "Phenix (album)",
+   "kind": "album",
+   "released": "1975",
+   "qid": "Q7181349",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/579f5ca6-d9db-37f8-a352-d8a1a474b096/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/579f5ca6-d9db-37f8-a352-d8a1a474b096/front-500",
+   "resolved": "https://dn710909.ca.archive.org/0/items/mbid-ff9196b5-6426-48f7-aeb1-b9ac86b23500/mbid-ff9196b5-6426-48f7-aeb1-b9ac86b23500-15957501539_thumb250.jpg"
+  },
+  "2880e11b-5068-4df1-ab6a-8acf519bfdef": {
+   "title": "Randy Weston Meets Himself",
+   "kind": "album",
+   "released": "1976",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/2880e11b-5068-4df1-ab6a-8acf519bfdef/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/2880e11b-5068-4df1-ab6a-8acf519bfdef/front-500",
+   "resolved": "https://dn710802.ca.archive.org/0/items/mbid-036aa072-6e09-43c0-b61f-2110b823af22/mbid-036aa072-6e09-43c0-b61f-2110b823af22-16963814893_thumb250.jpg"
+  },
+  "57bc8353-bbc5-4da3-931a-24a863b89f6b": {
+   "title": "Rhythms-Sounds Piano",
+   "kind": "album",
+   "released": "1978",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/57bc8353-bbc5-4da3-931a-24a863b89f6b/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/57bc8353-bbc5-4da3-931a-24a863b89f6b/front-500",
+   "resolved": "https://dn710808.ca.archive.org/0/items/mbid-eb23c4c7-ecb7-47ea-9010-7f1200c2c80f/mbid-eb23c4c7-ecb7-47ea-9010-7f1200c2c80f-16965150098_thumb250.jpg"
+  },
+  "d59bb2d6-564f-366c-8890-aa82dcfe99a2": {
+   "title": "The Berlin Concerts",
+   "kind": "live",
+   "released": "1978",
+   "qid": "Q111165315",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/d59bb2d6-564f-366c-8890-aa82dcfe99a2/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/d59bb2d6-564f-366c-8890-aa82dcfe99a2/front-500",
+   "resolved": "https://dn721502.ca.archive.org/0/items/mbid-1d35a4a9-19c2-4142-8dd8-c3144f9113b6/mbid-1d35a4a9-19c2-4142-8dd8-c3144f9113b6-43795732148_thumb250.jpg"
+  },
+  "7e77ea62-43dd-4a88-b648-67eb4b1dd443": {
+   "title": "In Memory Of (Stanley Turrentine album)",
+   "kind": "album",
+   "released": "1979",
+   "qid": "Q6009988",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/7e77ea62-43dd-4a88-b648-67eb4b1dd443/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/7e77ea62-43dd-4a88-b648-67eb4b1dd443/front-500",
+   "resolved": "https://dn721601.ca.archive.org/0/items/mbid-7504739e-f146-4024-8901-4be21501436e/mbid-7504739e-f146-4024-8901-4be21501436e-37991105819_thumb250.jpg"
+  },
+  "6e81ba6d-2069-41f2-bbe2-797e37a11853": {
+   "title": "Roots, Branches & Dances",
+   "kind": "album",
+   "released": "1979",
+   "qid": "Q43303045",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/6e81ba6d-2069-41f2-bbe2-797e37a11853/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/6e81ba6d-2069-41f2-bbe2-797e37a11853/front-500",
+   "resolved": "https://ia800701.us.archive.org/7/items/mbid-4260500f-3370-427e-ad8b-1f0ff61c1161/mbid-4260500f-3370-427e-ad8b-1f0ff61c1161-34854589884_thumb250.jpg"
+  },
+  "40a91248-5a8b-4918-ac29-7fedf5b7e158": {
+   "title": "Very Personal",
+   "kind": "album",
+   "released": "1981",
+   "qid": "Q48817973",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/40a91248-5a8b-4918-ac29-7fedf5b7e158/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/40a91248-5a8b-4918-ac29-7fedf5b7e158/front-500",
+   "resolved": "https://dn721305.ca.archive.org/0/items/mbid-6c2705c4-d014-44e3-8670-435a5f0f790b/mbid-6c2705c4-d014-44e3-8670-435a5f0f790b-16868535001_thumb250.jpg"
+  },
+  "5c6fc8a8-32d1-3ba8-872b-7391e6eaddfc": {
+   "title": "Torch (Carly Simon album)",
+   "kind": "studio",
+   "released": "August 1981",
+   "qid": "Q7825532",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/5c6fc8a8-32d1-3ba8-872b-7391e6eaddfc/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/5c6fc8a8-32d1-3ba8-872b-7391e6eaddfc/front-500",
+   "resolved": "https://dn721801.ca.archive.org/0/items/mbid-54363f90-042b-47f5-8d2c-f45eed2603e1/mbid-54363f90-042b-47f5-8d2c-f45eed2603e1-19975834671_thumb250.jpg"
+  },
+  "eadc3dd2-40e8-41b0-961a-00bfa22b1fec": {
+   "title": "The Artistry of Mark Murphy",
+   "kind": "album",
+   "released": "1982",
+   "qid": "Q125975539",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/eadc3dd2-40e8-41b0-961a-00bfa22b1fec/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/eadc3dd2-40e8-41b0-961a-00bfa22b1fec/front-500",
+   "resolved": "https://dn710207.ca.archive.org/0/items/mbid-e7cdf831-94f0-45d1-b87e-d22d48f63f48/mbid-e7cdf831-94f0-45d1-b87e-d22d48f63f48-38136621721_thumb250.jpg"
+  },
+  "0ef68d31-ddd8-4807-baf4-2f14ee57ca02": {
+   "title": "Blue",
+   "kind": "album",
+   "released": "1984",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/0ef68d31-ddd8-4807-baf4-2f14ee57ca02/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/0ef68d31-ddd8-4807-baf4-2f14ee57ca02/front-500",
+   "resolved": "https://dn710306.ca.archive.org/0/items/mbid-18e72d8e-5f67-4b40-861a-4922f1882c92/mbid-18e72d8e-5f67-4b40-861a-4922f1882c92-16965196476_thumb250.jpg"
+  },
+  "24a301d0-6dc6-42a8-9319-ae0318339aec": {
+   "title": "Babe's Blues",
+   "kind": "album",
+   "released": "1986",
+   "qid": "Q4837627",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/24a301d0-6dc6-42a8-9319-ae0318339aec/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/24a301d0-6dc6-42a8-9319-ae0318339aec/front-500",
+   "resolved": "https://dn721800.ca.archive.org/0/items/mbid-0d07f0b5-a1fb-456e-9a77-4f232575086e/mbid-0d07f0b5-a1fb-456e-9a77-4f232575086e-38462880543_thumb250.jpg"
+  },
+  "f4fca771-7533-49f2-967e-69f29fc716e3": {
+   "title": "Happy Frame of Mind",
+   "kind": "studio",
+   "released": "1986",
+   "qid": "Q5652740",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f4fca771-7533-49f2-967e-69f29fc716e3/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f4fca771-7533-49f2-967e-69f29fc716e3/front-500",
+   "resolved": "https://dn711209.ca.archive.org/0/items/mbid-42af9d12-12fc-421a-8ea6-cc971c1a1daf/mbid-42af9d12-12fc-421a-8ea6-cc971c1a1daf-2411398993_thumb250.jpg"
+  },
+  "088ac3ad-d9be-4635-9a1e-e986224060bb": {
+   "title": "The Healers (album)",
+   "kind": "album",
+   "released": "1987",
+   "qid": "Q7739129",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/088ac3ad-d9be-4635-9a1e-e986224060bb/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/088ac3ad-d9be-4635-9a1e-e986224060bb/front-500",
+   "resolved": "https://dn710907.ca.archive.org/0/items/mbid-eda8df45-9189-4704-9230-f215e5969519/mbid-eda8df45-9189-4704-9230-f215e5969519-3295376349_thumb250.jpg"
+  },
+  "7c0fecb3-2f61-414a-ac69-34c86278452e": {
+   "title": "Harlem Blues (Donald Byrd album)",
+   "kind": "album",
+   "released": "1988",
+   "qid": "Q17993656",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/7c0fecb3-2f61-414a-ac69-34c86278452e/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/7c0fecb3-2f61-414a-ac69-34c86278452e/front-500",
+   "resolved": "https://dn711206.ca.archive.org/0/items/mbid-1deb8889-6dc7-455e-b716-a1494902c6b3/mbid-1deb8889-6dc7-455e-b716-a1494902c6b3-8746886904_thumb250.jpg"
+  },
+  "da888f9b-7b16-4904-be09-9c528e21952f": {
+   "title": "Portraits of Duke Ellington: Caravan",
+   "kind": "album",
+   "released": "1989",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/da888f9b-7b16-4904-be09-9c528e21952f/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/da888f9b-7b16-4904-be09-9c528e21952f/front-500",
+   "resolved": "https://dn720707.ca.archive.org/0/items/mbid-d2e13894-0a9d-4f50-bbdd-404cc1837f3a/mbid-d2e13894-0a9d-4f50-bbdd-404cc1837f3a-19378576129_thumb250.jpg"
+  },
+  "d929dee9-55c2-3dd8-84f9-8d2ede9ee98a": {
+   "title": "Self Portraits: The Last Day",
+   "kind": "album",
+   "released": "1989",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/d929dee9-55c2-3dd8-84f9-8d2ede9ee98a/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/d929dee9-55c2-3dd8-84f9-8d2ede9ee98a/front-500",
+   "resolved": "https://dn711208.ca.archive.org/0/items/mbid-9bde537b-846f-4d07-8cce-89b4773a617f/mbid-9bde537b-846f-4d07-8cce-89b4773a617f-19434207000_thumb250.jpg"
+  },
+  "db3e3caf-2f56-400f-a8f1-012747655bdc": {
+   "title": "Four Play (album)",
+   "kind": "album",
+   "released": "1990",
+   "qid": "Q25410046",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/db3e3caf-2f56-400f-a8f1-012747655bdc/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/db3e3caf-2f56-400f-a8f1-012747655bdc/front-500",
+   "resolved": "https://dn721800.ca.archive.org/0/items/mbid-05a331e2-ecc9-4c67-999e-caec7fc59cec/mbid-05a331e2-ecc9-4c67-999e-caec7fc59cec-5779113766_thumb250.jpg"
+  },
+  "a3a4e82b-b76c-4986-8afa-4ae6456c17f1": {
+   "title": "The Spirits of Our Ancestors",
+   "kind": "album",
+   "released": "1992 ( 1992 )",
+   "qid": "Q7765953",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/a3a4e82b-b76c-4986-8afa-4ae6456c17f1/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/a3a4e82b-b76c-4986-8afa-4ae6456c17f1/front-500",
+   "resolved": "https://dn710609.ca.archive.org/0/items/mbid-f7e164e6-1db2-305c-986b-bbf0c5a9471e/mbid-f7e164e6-1db2-305c-986b-bbf0c5a9471e-40705847619_thumb250.jpg"
+  },
+  "f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e": {
+   "title": "I Can't Help It (album)",
+   "kind": "compilation",
+   "released": "1992",
+   "qid": "Q5976430",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e/front-500",
+   "resolved": "https://dn710200.ca.archive.org/0/items/mbid-89dfcbb1-1304-4ac4-9a19-c80f686c8837/mbid-89dfcbb1-1304-4ac4-9a19-c80f686c8837-28710923273_thumb250.jpg"
+  },
+  "52ee7d19-5fbe-3f77-a023-3193346b949e": {
+   "title": "Marrakech in the Cool of the Evening",
+   "kind": "album",
+   "released": "1992",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/52ee7d19-5fbe-3f77-a023-3193346b949e/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/52ee7d19-5fbe-3f77-a023-3193346b949e/front-500",
+   "resolved": "https://dn710305.ca.archive.org/0/items/mbid-ef48716a-6070-4642-a959-2745187f3d7c/mbid-ef48716a-6070-4642-a959-2745187f3d7c-16965362506_thumb250.jpg"
+  },
+  "3288e4f7-8f51-4cf1-8e51-9affee5dbe71": {
+   "title": "Volcano Blues",
+   "kind": "studio",
+   "released": "1993",
+   "qid": "Q125358433",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/3288e4f7-8f51-4cf1-8e51-9affee5dbe71/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/3288e4f7-8f51-4cf1-8e51-9affee5dbe71/front-500",
+   "resolved": "https://dn711009.ca.archive.org/0/items/mbid-b2224cc2-bdda-4380-9bd0-cc5c776a9717/mbid-b2224cc2-bdda-4380-9bd0-cc5c776a9717-12899291815_thumb250.jpg"
+  },
+  "0ac52cde-f2e2-4a66-a831-776fceed048e": {
+   "title": "Work Song: Live at Sweet Basil",
+   "kind": "live",
+   "released": "1993",
+   "qid": "Q21282847",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/0ac52cde-f2e2-4a66-a831-776fceed048e/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/0ac52cde-f2e2-4a66-a831-776fceed048e/front-500",
+   "resolved": "https://dn710205.ca.archive.org/0/items/mbid-8b9737a1-a411-491a-a7cc-033a4f6e8dc5/mbid-8b9737a1-a411-491a-a7cc-033a4f6e8dc5-38889073608_thumb250.jpg"
+  },
+  "53ea88a8-09de-327f-b9a0-8eb537287933": {
+   "title": "Damn! (Jimmy Smith album)",
+   "kind": "album",
+   "released": "1995",
+   "qid": "Q19757755",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/53ea88a8-09de-327f-b9a0-8eb537287933/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/53ea88a8-09de-327f-b9a0-8eb537287933/front-500",
+   "resolved": "https://dn721802.ca.archive.org/0/items/mbid-859cc7f4-4817-4d93-b2e2-038afa9859ec/mbid-859cc7f4-4817-4d93-b2e2-038afa9859ec-22456917926_thumb250.jpg"
+  },
+  "5b4ca8c6-2879-4afa-aaf2-b986c1bf8753": {
+   "title": "Earth Birth",
+   "kind": "album",
+   "released": "1997",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/5b4ca8c6-2879-4afa-aaf2-b986c1bf8753/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/5b4ca8c6-2879-4afa-aaf2-b986c1bf8753/front-500",
+   "resolved": "https://dn710805.ca.archive.org/0/items/mbid-4dfb55de-27fa-4e83-b69f-f87108f1b12c/mbid-4dfb55de-27fa-4e83-b69f-f87108f1b12c-4313210629_thumb250.jpg"
+  },
+  "daeb5f4a-50f8-3f79-ada2-b0f53d3afc58": {
+   "title": "Smack My Bitch Up",
+   "kind": "single",
+   "released": "17 November 1997 ( 1997-11-17 )",
+   "qid": "Q371487",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/daeb5f4a-50f8-3f79-ada2-b0f53d3afc58/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/daeb5f4a-50f8-3f79-ada2-b0f53d3afc58/front-500",
+   "resolved": "https://dn711200.ca.archive.org/0/items/mbid-7a3e28a8-04fc-3304-9e3e-877dcb6166b3/mbid-7a3e28a8-04fc-3304-9e3e-877dcb6166b3-3085390601_thumb250.jpg"
+  },
+  "17716ffd-705b-4a1f-b760-03b63d5b727d": {
+   "title": "Jazz Standards (Mark Murphy album)",
+   "kind": "album",
+   "released": "1998",
+   "qid": "Q126127926",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/17716ffd-705b-4a1f-b760-03b63d5b727d/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/17716ffd-705b-4a1f-b760-03b63d5b727d/front-500",
+   "resolved": "https://ia801406.us.archive.org/27/items/mbid-e12b6c7f-63c4-433d-8935-cc5bebca336c/mbid-e12b6c7f-63c4-433d-8935-cc5bebca336c-38146329420_thumb250.jpg"
+  },
+  "bfc7f577-3515-36f2-a626-4382f4206ce8": {
+   "title": "Khepera (album)",
+   "kind": "studio",
+   "released": "1998",
+   "qid": "Q112701906",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/bfc7f577-3515-36f2-a626-4382f4206ce8/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/bfc7f577-3515-36f2-a626-4382f4206ce8/front-500",
+   "resolved": "https://dn721809.ca.archive.org/0/items/mbid-43ec23d4-76a6-44ed-8685-630a0cd427d6/mbid-43ec23d4-76a6-44ed-8685-630a0cd427d6-30230270003_thumb250.jpg"
+  },
+  "1c6caf40-e29e-448f-bc14-e649dc6dd0b7": {
+   "title": "Wildflowers: The New York Loft Jazz Sessions",
+   "kind": "compilation",
+   "released": "1977",
+   "qid": "Q104845518",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/1c6caf40-e29e-448f-bc14-e649dc6dd0b7/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/1c6caf40-e29e-448f-bc14-e649dc6dd0b7/front-500",
+   "resolved": "https://dn711008.ca.archive.org/0/items/mbid-1b3ba800-0cfe-4220-bc80-770c19aaa202/mbid-1b3ba800-0cfe-4220-bc80-770c19aaa202-22217276556_thumb250.jpg"
+  },
+  "ad88bf16-ab29-4686-a654-fe8adf25f193": {
+   "title": "Knitting Factory (Piano/Quartet) 1994, Vol. 2",
+   "kind": "live",
+   "released": "2000",
+   "qid": "Q30612119",
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/ad88bf16-ab29-4686-a654-fe8adf25f193/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/ad88bf16-ab29-4686-a654-fe8adf25f193/front-500",
+   "resolved": "https://ia801806.us.archive.org/20/items/mbid-bcfd983e-d3c1-4b3c-b76d-48438ee6dac2/mbid-bcfd983e-d3c1-4b3c-b76d-48438ee6dac2-28210297774_thumb250.jpg"
+  },
+  "7c13695f-69db-49ec-9e46-324045d7c285": {
+   "title": "Live In St. Lucia",
+   "kind": "album",
+   "released": "2003",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/7c13695f-69db-49ec-9e46-324045d7c285/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/7c13695f-69db-49ec-9e46-324045d7c285/front-500",
+   "resolved": "https://dn711300.ca.archive.org/0/items/mbid-19fb8d7c-5e32-4950-a840-1c53ff0cef0e/mbid-19fb8d7c-5e32-4950-a840-1c53ff0cef0e-16965385577_thumb250.jpg"
+  },
+  "8a726920-3c18-4246-9244-3ea25d23fccd": {
+   "title": "The Storyteller",
+   "kind": "album",
+   "released": "2009",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/8a726920-3c18-4246-9244-3ea25d23fccd/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/8a726920-3c18-4246-9244-3ea25d23fccd/front-500",
+   "resolved": "https://dn710309.ca.archive.org/0/items/mbid-3c78330c-359d-4159-9e8a-a6a852c37d78/mbid-3c78330c-359d-4159-9e8a-a6a852c37d78-22892258682_thumb250.jpg"
+  },
+  "3e206818-732c-4341-b25d-893be9dd1726": {
+   "title": "The Roots of the Blues",
+   "kind": "album",
+   "released": "2013",
+   "qid": null,
+   "subjects": [
+    "weston"
+   ],
+   "thumb_250": "https://coverartarchive.org/release-group/3e206818-732c-4341-b25d-893be9dd1726/front-250",
+   "thumb_500": "https://coverartarchive.org/release-group/3e206818-732c-4341-b25d-893be9dd1726/front-500",
+   "resolved": "https://dn710206.ca.archive.org/0/items/mbid-a54c918a-7938-4bab-9de7-83bc69d704f2/mbid-a54c918a-7938-4bab-9de7-83bc69d704f2-35245606951_thumb250.jpg"
+  }
+ }
+}

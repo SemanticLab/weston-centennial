@@ -1,0 +1,2577 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "generated_from": "linked_jazz.sqlite + this repo + ~/git/linked-jazz-coltrane-davis + ~/git/liston-centennial-2026 (both read-only)",
+ "note": "Four jazz musicians born in 1926. All joins; nothing judged here. he_said comes from his_words.json; liston.they_said and liston.weston_as_her_witness come from the Liston build's judged files. shared_releases counts every release in both discographies, including ones that merely carry a tune of his -- sessions_together counts only those he led or played on.",
+ "weston": {
+  "name": "Randy Weston",
+  "qid": "Q1371187",
+  "born": "1926-04-06"
+ },
+ "others": {
+  "liston": {
+   "name": "Melba Liston",
+   "qid": "Q274146",
+   "born": "1926-01-13",
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "who_speaks_of_them": "weston",
+    "summary": "Weston said only Melba Liston could arrange “Spirit of Our Ancestors”, told how he goaded her back to work after her stroke — she learned to write music on a computer with her left hand — and recalled her arrangements arriving from a California hospital in time for the 1959 Five Spot date and the 1985 Montreal concert.",
+    "one_liner": "his arranger; wrote left-handed after her stroke",
+    "his_quote": "I went to see her, and I insulted her as only musicians can do. I called her all kinds of names. I said to her, “You have to do these arrangements stroke or no stroke, handicap or no handicap,” you know? She cried a little bit, you know?",
+    "his_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2",
+    "more_his_quotes": [
+     {
+      "block_id": 305794,
+      "quote": "Then I realized that only Melba Liston could do this.",
+      "page": 3,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2"
+     },
+     {
+      "block_id": 305794,
+      "quote": "Well, it was her genius and her strength, and her spiritual strength.",
+      "page": 3,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2"
+     },
+     {
+      "block_id": 305800,
+      "quote": "Spirit. It makes no difference where she was: North Pole, or the middle of the Congo, it makes no difference.",
+      "page": 3,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-8"
+     },
+     {
+      "block_id": 305801,
+      "quote": "She was in the hospital in California, and by some miracle the music arrived the day of the recording.",
+      "page": 4,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+     }
+    ],
+    "interviewer_quote": null,
+    "era": "1959–1990s",
+    "notable": 3,
+    "notes": "Jenkins supplies 'such a long partnership'. Weston says Melba 'can no longer play the trombone'."
+   },
+   "on_his_records": true,
+   "albums_together": [
+    "Destry Rides Again (Randy Weston album)",
+    "Highlife (Randy Weston album)",
+    "Little Niles",
+    "Live at the Five Spot (Randy Weston album)",
+    "Tanjah (album)",
+    "The Spirits of Our Ancestors",
+    "Uhuru Afrika",
+    "Volcano Blues"
+   ],
+   "direct_edge": {
+    "weight": 3.193,
+    "n": 2,
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "count": 2,
+      "direction": "mutual"
+     }
+    ],
+    "evidence_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/ev/e0/e08c187878339e15.json"
+   },
+   "shared_neighbours": {
+    "count": 9,
+    "jaccard": 0.0391,
+    "weston_neighbours": 116,
+    "their_neighbours": 123,
+    "top": [
+     {
+      "node_id": "wd:Q599429",
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "weston_weight": 3.599,
+      "their_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q322308",
+      "label": "Teddy Edwards",
+      "qid": "Q322308",
+      "weston_weight": 3.0,
+      "their_weight": 3.0
+     },
+     {
+      "node_id": "wd:Q104358",
+      "label": "Billie Holiday",
+      "qid": "Q104358",
+      "weston_weight": 1.0,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q109612",
+      "label": "Thelonious Monk",
+      "qid": "Q109612",
+      "weston_weight": 1.0,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q353943",
+      "label": "John Lewis",
+      "qid": "Q353943",
+      "weston_weight": 0.4,
+      "their_weight": 3.0
+     },
+     {
+      "node_id": "wd:Q1145565",
+      "label": "Curtis Fuller",
+      "qid": "Q1145565",
+      "weston_weight": 0.4,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q373286",
+      "label": "Hale Smith",
+      "qid": "Q373286",
+      "weston_weight": 2.5,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q49575",
+      "label": "Dizzy Gillespie",
+      "qid": "Q49575",
+      "weston_weight": 0.4,
+      "their_weight": 2.2
+     },
+     {
+      "node_id": "wd:Q107008",
+      "label": "Count Basie",
+      "qid": "Q107008",
+      "weston_weight": 0.4,
+      "their_weight": 0.4
+     }
+    ]
+   },
+   "documents_naming_both": {
+    "count": 4,
+    "items": [
+     {
+      "doc_id": "275855",
+      "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+      "collection": "hamilton",
+      "interviewee": "Benny Powell",
+      "year": 1999,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855"
+     },
+     {
+      "doc_id": "Fuller_Curtis_Transcript",
+      "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Curtis Fuller",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript"
+     },
+     {
+      "doc_id": "Liston_Melba_Interview_Transcription",
+      "title": "Melba Liston — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Melba Liston",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription"
+     },
+     {
+      "doc_id": "Randy-Weston-Transcription-2020_0",
+      "title": "Randy Weston — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Randy Weston",
+      "year": 2020,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0"
+     }
+    ]
+   },
+   "shared_releases": {
+    "count": 14,
+    "sessions_together": 9,
+    "items": [
+     {
+      "title": "Out There (Betty Carter album)",
+      "qid": "Q7111471",
+      "year": "1958",
+      "weston_role": "composer",
+      "weston_credit": [],
+      "their_role": "sidewoman",
+      "their_credit": [
+       "trombone"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Out_There_(Betty_Carter_album)"
+     },
+     {
+      "title": "Destry Rides Again (Randy Weston album)",
+      "qid": "Q5265430",
+      "year": "1959",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "sidewoman",
+      "their_credit": [
+       "trombone"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Destry_Rides_Again_(Randy_Weston_album)"
+     },
+     {
+      "title": "Little Niles",
+      "qid": "Q6651167",
+      "year": "1959",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "sidewoman",
+      "their_credit": [
+       "trombone",
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Little_Niles"
+     },
+     {
+      "title": "Live at the Five Spot (Randy Weston album)",
+      "qid": "Q6656704",
+      "year": "1959",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "arranger",
+      "their_credit": [
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Live_at_the_Five_Spot_(Randy_Weston_album)"
+     },
+     {
+      "title": "Uhuru Afrika",
+      "qid": "Q7878031",
+      "year": "1960",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "arranger",
+      "their_credit": [
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Uhuru_Afrika"
+     },
+     {
+      "title": "Hub Cap (album)",
+      "qid": "Q5926650",
+      "year": "1961",
+      "weston_role": "composer",
+      "weston_credit": [
+       "composer"
+      ],
+      "their_role": "arranger",
+      "their_credit": [],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hub_Cap_(album)"
+     },
+     {
+      "title": "Snap Your Fingers (album)",
+      "qid": "Q30605460",
+      "year": "1962",
+      "weston_role": "composer",
+      "weston_credit": [
+       "composer"
+      ],
+      "their_role": "composer",
+      "their_credit": [
+       "composer"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Snap_Your_Fingers_(album)"
+     },
+     {
+      "title": "The Al Grey – Billy Mitchell Sextet",
+      "qid": "Q30636367",
+      "year": "1962",
+      "weston_role": "composer",
+      "weston_credit": [
+       "composer"
+      ],
+      "their_role": "composer",
+      "their_credit": [
+       "composer"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Al_Grey_–_Billy_Mitchell_Sextet"
+     },
+     {
+      "title": "Highlife (Randy Weston album)",
+      "qid": "Q5759468",
+      "year": "1963",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "arranger",
+      "their_credit": [
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Highlife_(Randy_Weston_album)"
+     },
+     {
+      "title": "Tanjah (album)",
+      "qid": "Q17041415",
+      "year": "1973",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "arranger",
+      "their_credit": [
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tanjah_(album)"
+     },
+     {
+      "title": "The Spirits of Our Ancestors",
+      "qid": "Q7765953",
+      "year": "1991",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano",
+       "arranger",
+       "producer",
+       "liner notes"
+      ],
+      "their_role": "arranger",
+      "their_credit": [
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Spirits_of_Our_Ancestors"
+     },
+     {
+      "title": "I Can't Help It (album)",
+      "qid": "Q5976430",
+      "year": "1992",
+      "weston_role": "composer",
+      "weston_credit": [
+       "composer"
+      ],
+      "their_role": "sidewoman",
+      "their_credit": [
+       "trombone",
+       "arranger"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/I_Can't_Help_It_(album)"
+     },
+     {
+      "title": "Volcano Blues",
+      "qid": "Q125358433",
+      "year": "1993",
+      "weston_role": "leader",
+      "weston_credit": [
+       "piano"
+      ],
+      "their_role": "leader",
+      "their_credit": [
+       "conductor"
+      ],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Volcano_Blues"
+     },
+     {
+      "title": "Khepera (album)",
+      "qid": "Q112701906",
+      "year": "1998",
+      "weston_role": "leader",
+      "weston_credit": [],
+      "their_role": "arranger",
+      "their_credit": [],
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Khepera_(album)"
+     }
+    ],
+    "available": true
+   },
+   "shared_roster": {
+    "count": 85,
+    "items": [
+     {
+      "name": "Jimmy Cleveland",
+      "qid": "Q386883",
+      "albums_with_weston": 2,
+      "albums_with_them": 24,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jerome Richardson",
+      "qid": "Q720693",
+      "albums_with_weston": 1,
+      "albums_with_them": 24,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Clark Terry",
+      "qid": "Q432924",
+      "albums_with_weston": 1,
+      "albums_with_them": 23,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Ernie Royal",
+      "qid": "Q491422",
+      "albums_with_weston": 1,
+      "albums_with_them": 22,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Charlie Persip",
+      "qid": "Q1066973",
+      "albums_with_weston": 4,
+      "albums_with_them": 13,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Julius Watkins",
+      "qid": "Q1357150",
+      "albums_with_weston": 3,
+      "albums_with_them": 13,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Quentin Jackson",
+      "qid": "Q720707",
+      "albums_with_weston": 2,
+      "albums_with_them": 13,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Paul Faulise",
+      "qid": "Q26250511",
+      "albums_with_weston": 1,
+      "albums_with_them": 13,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Sahib Shihab",
+      "qid": "Q968887",
+      "albums_with_weston": 1,
+      "albums_with_them": 13,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Budd Johnson",
+      "qid": "Q349082",
+      "albums_with_weston": 3,
+      "albums_with_them": 10,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Ray Copeland",
+      "qid": "Q356168",
+      "albums_with_weston": 6,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Dizzy Gillespie",
+      "qid": "Q49575",
+      "albums_with_weston": 2,
+      "albums_with_them": 8,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Al Grey",
+      "qid": "Q715687",
+      "albums_with_weston": 1,
+      "albums_with_them": 8,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Danny Bank",
+      "qid": "Q355970",
+      "albums_with_weston": 1,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "George Duvivier",
+      "qid": "Q1370288",
+      "albums_with_weston": 1,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Burrell",
+      "qid": "Q255355",
+      "albums_with_weston": 1,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Milt Hinton",
+      "qid": "Q491411",
+      "albums_with_weston": 1,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Freddie Hubbard",
+      "qid": "Q346762",
+      "albums_with_weston": 2,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jamil Nasser",
+      "qid": "Q354026",
+      "albums_with_weston": 4,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Cecil Payne",
+      "qid": "Q485927",
+      "albums_with_weston": 5,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Slide Hampton",
+      "qid": "Q1369035",
+      "albums_with_weston": 2,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Frank Rehak",
+      "qid": "Q1444006",
+      "albums_with_weston": 1,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Les Spann",
+      "qid": "Q1577989",
+      "albums_with_weston": 1,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Rudy Van Gelder",
+      "qid": "Q945681",
+      "albums_with_weston": 1,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Peck Morrison",
+      "qid": "Q2066063",
+      "albums_with_weston": 3,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Ron Carter",
+      "qid": "Q434593",
+      "albums_with_weston": 3,
+      "albums_with_them": 4,
+      "said_about_weston": true,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "G.T. Hogan",
+      "qid": "Q1490595",
+      "albums_with_weston": 5,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Gigi Gryce",
+      "qid": "Q563275",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "James Buffington",
+      "qid": "Q1689321",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "James Moody",
+      "qid": "Q962310",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Max Roach",
+      "qid": "Q175899",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Richard Williams",
+      "qid": "Q2150923",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Art Blakey",
+      "qid": "Q311715",
+      "albums_with_weston": 2,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Benny Powell",
+      "qid": "Q599429",
+      "albums_with_weston": 2,
+      "albums_with_them": 3,
+      "said_about_weston": true,
+      "said_about_them": true,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Romeo Penque",
+      "qid": "Q111734787",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Idrees Sulieman",
+      "qid": "Q1656883",
+      "albums_with_weston": 2,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Billy Harper",
+      "qid": "Q863114",
+      "albums_with_weston": 3,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Ahmed Abdul-Malik",
+      "qid": "Q401088",
+      "albums_with_weston": 4,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Bennie Green",
+      "qid": "Q817875",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Johnny Griffin",
+      "qid": "Q708439",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Babatunde Olatunji",
+      "qid": "Q797599",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Benny Bailey",
+      "qid": "Q583913",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Connie Kay",
+      "qid": "Q431520",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Dorham",
+      "qid": "Q498729",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Rudy Collins",
+      "qid": "Q2174545",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Art Taylor",
+      "qid": "Q705751",
+      "albums_with_weston": 2,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Brock Peters",
+      "qid": "Q580587",
+      "albums_with_weston": 2,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Cándido Camero",
+      "qid": "Q83693",
+      "albums_with_weston": 2,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "T. K. Blue",
+      "qid": "Q2390289",
+      "albums_with_weston": 2,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Booker Ervin",
+      "qid": "Q892998",
+      "albums_with_weston": 3,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Danny \"Big Black\" Rey",
+      "qid": "Q858535",
+      "albums_with_weston": 3,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Charles Mingus",
+      "qid": "Q107432",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Elvin Jones",
+      "qid": "Q357179",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jon Faddis",
+      "qid": "Q1350269",
+      "albums_with_weston": 2,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Frankie Dunlop",
+      "qid": "Q353990",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Norris Turney",
+      "qid": "Q527821",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Roy Haynes",
+      "qid": "Q448235",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Yusef Lateef",
+      "qid": "Q539832",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Teddy Edwards",
+      "qid": "Q322308",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Aaron Bell",
+      "qid": "Q254460",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Al Dreares",
+      "qid": "Q1927358",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Alex Blake",
+      "qid": "Q1242049",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Armando Peraza",
+      "qid": "Q678703",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Charles McPherson",
+      "qid": "Q1065516",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Clifford Jarvis",
+      "qid": "Q356881",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Coleman Hawkins",
+      "qid": "Q217812",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Delores Ivory Davis",
+      "qid": "Q5254338",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Dewey Redman",
+      "qid": "Q374479",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Eddie Bert",
+      "qid": "Q351910",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Garnett Brown",
+      "qid": "Q1494373",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Hamiet Bluiett",
+      "qid": "Q1573406",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Idris Muhammad",
+      "qid": "Q1391952",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jean-Philippe Allard",
+      "qid": "Q3168738",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Johnny Copeland",
+      "qid": "Q325273",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Lonnie Hillyer",
+      "qid": "Q1869624",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Martha Flowers",
+      "qid": "Q111697740",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Neil Clarke",
+      "qid": "Q99706043",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Obo Addy",
+      "qid": "Q3813611",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Orrin Keepnews",
+      "qid": "Q352028",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": true,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Pharoah Sanders",
+      "qid": "Q470617",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     }
+    ],
+    "available": true
+   },
+   "they_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "her_statement",
+    "tie": [
+     "arranging_client",
+     "friend"
+    ],
+    "era": "1956–1996",
+    "summary": "Liston said she met Randy Weston while playing with Dizzy Gillespie at Birdland, arranged his music (including Little Niles) for some forty years with complete freedom, and credited him with pulling her through after her stroke when nobody else stuck with her.",
+    "one_liner": "arranged his music for 40 years",
+    "her_quote": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+    "her_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-4",
+    "more_her_quotes": [
+     {
+      "block_id": 291883,
+      "quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+      "page": 28,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-10"
+     },
+     {
+      "block_id": 291885,
+      "quote": "He brought Little Niles and all those things up to the house, and he said, “I think you should write these things for an album for me.” And I wrote them. I think it’s the best thing.",
+      "page": 28,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-12"
+     },
+     {
+      "block_id": 291865,
+      "quote": "But we’ve been together – what? – ’56 to ’96. How many is that? 40 years. He don’t tell me anything.",
+      "page": 27,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-5"
+     },
+     {
+      "block_id": 291867,
+      "quote": "He says I write like he writes.",
+      "page": 27,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-7"
+     }
+    ],
+    "stance": "positive",
+    "notable": 3,
+    "notes": "Many further Liston lines: 295713 ('He took me to Jamaica.'), 295899 ('Randy, I have all the freedom I want.'), 295937 ('Randy pulled me out of the stroke, so I have to go with him.'), 296190 ('Randy likes Thelonious much.'), 296393/296397 (helped her start writing again after the stroke). Bryant's narration of the recordings (Little Niles 1956/1973 Tanjah/Earth Birth, Hi-Fly) is hers, not Liston's.",
+    "source": "~/git/liston-centennial-2026/liston/her_words.json",
+    "interview": "Smithsonian Jazz Oral History, 4-5 December 1996"
+   },
+   "weston_as_her_witness": {
+    "relation": "collaborated with",
+    "one_liner": "relied on her arrangements, even after her stroke",
+    "summary": "Weston said only Liston could arrange 'Spirit of Our Ancestors', told how he goaded her back to work after the stroke that left her unable to play, after which she learned to write music by computer with her left hand, and praised her genius and spiritual strength through years of illness.",
+    "lead_quote": "Then I realized that only Melba Liston could do this.",
+    "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2",
+    "second_quote": "Unfortunately, she has had problems with illness. But, her spiritual strength is so powerful.",
+    "caution": "The stroke anecdote includes 'I insulted her as only musicians can do. I called her all kinds of names' and 'She cried a little bit' -- affectionate goading in context, but harsh if excerpted; avoid quoting those lines alone. Dates are Weston's recollection: he places the Hawkins Five Spot date in 1959 and the Montreal festival concert in 1985, while the interviewer dates the Montreal residency to '97 -- check against the discography. The interviewer's 'long partnership' phrase is hers, not his.",
+    "notable": 3,
+    "source": "~/git/liston-centennial-2026/liston/witnesses.json"
+   },
+   "liston_as_his_witness": {
+    "relation": "collaborated with",
+    "one_liner": "wrote his arrangements for forty years",
+    "summary": "Liston recalled meeting Weston while playing with Dizzy Gillespie, said she had arranged his music with complete freedom from ’56 to ’96, and thanked him for pulling her through after her stroke when nobody else stuck with her.",
+    "lead_quote": "I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+    "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-4",
+    "second_quote": "He brought Little Niles and all those things up to the house, and he said, “I think you should write these things for an album for me.” And I wrote them. I think it’s the best thing.",
+    "caution": "'because nobody else did' is her view after the stroke; in the next turn she names Frank and other arrangers as friends, so it should not be read as an accusation against named people. Many Weston lines in this interview are the interviewer Clora Bryant's ('Randy is your horn right now', the recording dates, 'in different clothing') and must not be attributed to Liston. '[Weston]' in 'Randy [Weston]' is the transcriber's bracket. 'He don’t tell me anything' (295901) means he gives her free rein, not that he is uncommunicative; do not show it without the freedom context.",
+    "notable": 3,
+    "source": "weston/witnesses.json"
+   }
+  },
+  "davis": {
+   "name": "Miles Davis",
+   "qid": "Q93341",
+   "born": "1926-05-26",
+   "he_said": null,
+   "on_his_records": false,
+   "albums_together": [],
+   "direct_edge": null,
+   "shared_neighbours": {
+    "count": 18,
+    "jaccard": 0.0437,
+    "weston_neighbours": 116,
+    "their_neighbours": 314,
+    "top": [
+     {
+      "node_id": "wd:Q434593",
+      "label": "Ron Carter",
+      "qid": "Q434593",
+      "weston_weight": 3.832,
+      "their_weight": 2.81
+     },
+     {
+      "node_id": "nm:jimmy owens",
+      "label": "Jimmy Owens",
+      "qid": null,
+      "weston_weight": 2.81,
+      "their_weight": 2.299
+     },
+     {
+      "node_id": "wd:Q448235",
+      "label": "Roy Haynes",
+      "qid": "Q448235",
+      "weston_weight": 2.5,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "nm:billy taylor",
+      "label": "Billy Taylor",
+      "qid": null,
+      "weston_weight": 1.8,
+      "their_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q322308",
+      "label": "Teddy Edwards",
+      "qid": "Q322308",
+      "weston_weight": 3.0,
+      "their_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q599429",
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "weston_weight": 3.599,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q1702784",
+      "label": "Jon Hendricks",
+      "qid": "Q1702784",
+      "weston_weight": 2.5,
+      "their_weight": 1.439
+     },
+     {
+      "node_id": "wd:Q267184",
+      "label": "Annie Ross",
+      "qid": "Q267184",
+      "weston_weight": 0.4,
+      "their_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q349146",
+      "label": "Jack DeJohnette",
+      "qid": "Q349146",
+      "weston_weight": 0.4,
+      "their_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q721330",
+      "label": "Hubert Laws",
+      "qid": "Q721330",
+      "weston_weight": 2.5,
+      "their_weight": 1.0
+     },
+     {
+      "node_id": "wd:Q920490",
+      "label": "Jackie McLean",
+      "qid": "Q920490",
+      "weston_weight": 1.277,
+      "their_weight": 2.2
+     },
+     {
+      "node_id": "wd:Q732319",
+      "label": "Christian McBride",
+      "qid": "Q732319",
+      "weston_weight": 3.0,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q1145565",
+      "label": "Curtis Fuller",
+      "qid": "Q1145565",
+      "weston_weight": 0.4,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q1242553",
+      "label": "Lonnie Liston Smith",
+      "qid": "Q1242553",
+      "weston_weight": 0.4,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q352028",
+      "label": "Orrin Keepnews",
+      "qid": "Q352028",
+      "weston_weight": 1.277,
+      "their_weight": 1.277
+     },
+     {
+      "node_id": "nm:labarbera",
+      "label": "Labarbera",
+      "qid": null,
+      "weston_weight": 1.0,
+      "their_weight": 0.511
+     },
+     {
+      "node_id": "wd:Q1585901",
+      "label": "Harold Ousley",
+      "qid": "Q1585901",
+      "weston_weight": 1.0,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q86605",
+      "label": "Dan Morgenstern",
+      "qid": "Q86605",
+      "weston_weight": 1.0,
+      "their_weight": 0.4
+     }
+    ]
+   },
+   "documents_naming_both": {
+    "count": 17,
+    "items": [
+     {
+      "doc_id": "275752",
+      "title": "Ron Carter interviewed by Monk Rowe, New York City, New York, January 17, 1999",
+      "collection": "hamilton",
+      "interviewee": "Ron Carter",
+      "year": 1999,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275752"
+     },
+     {
+      "doc_id": "275810",
+      "title": "Orrin Keepnews interviewed by Monk Rowe, San Francisco, California, August 7, 2002",
+      "collection": "hamilton",
+      "interviewee": "Orrin Keepnews",
+      "year": 2002,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810"
+     },
+     {
+      "doc_id": "275842",
+      "title": "Harold Ousley interviewed by Monk Rowe, New York City, New York, January 12, 2001",
+      "collection": "hamilton",
+      "interviewee": "Harold Ousley",
+      "year": 2001,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275842"
+     },
+     {
+      "doc_id": "275843",
+      "title": "Jimmy Owens interviewed by Monk Rowe, New York City, New York, January 12, 2001",
+      "collection": "hamilton",
+      "interviewee": "Jimmy Owens",
+      "year": 2001,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275843"
+     },
+     {
+      "doc_id": "275855",
+      "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+      "collection": "hamilton",
+      "interviewee": "Benny Powell",
+      "year": 1999,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855"
+     },
+     {
+      "doc_id": "275865",
+      "title": "Annie Ross interviewed by Monk Rowe, New York City, New York, January 13, 2001",
+      "collection": "hamilton",
+      "interviewee": "Annie Ross",
+      "year": 2001,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275865"
+     },
+     {
+      "doc_id": "277167",
+      "title": "Lonnie Liston Smith interviewed by Monk Rowe, via Zoom, January 9, 2021",
+      "collection": "hamilton",
+      "interviewee": "Lonnie Liston Smith",
+      "year": 2021,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=277167"
+     },
+     {
+      "doc_id": "DeJohnette_Jack_Interview_Transcription",
+      "title": "Jack DeJohnette — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jack DeJohnette",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=DeJohnette_Jack_Interview_Transcription"
+     },
+     {
+      "doc_id": "Fuller_Curtis_Transcript",
+      "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Curtis Fuller",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript"
+     },
+     {
+      "doc_id": "Jon-Hendricks-Transcription-2020",
+      "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jon Hendricks",
+      "year": 2020,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020"
+     },
+     {
+      "doc_id": "Keepnews_Orrin_Transcript",
+      "title": "Orrin Keepnews — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Orrin Keepnews",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Keepnews_Orrin_Transcript"
+     },
+     {
+      "doc_id": "Laws_Hubert_Transcript",
+      "title": "Hubert Laws — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Hubert Laws",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript"
+     },
+     {
+      "doc_id": "McLean_Jackie_Interview_Transcription",
+      "title": "Jackie McLean — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jackie McLean",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=McLean_Jackie_Interview_Transcription"
+     },
+     {
+      "doc_id": "Owens_Jimmy_Transcript",
+      "title": "Jimmy Owens — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jimmy Owens",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript"
+     },
+     {
+      "doc_id": "Ron-Carter-Transcription-2020_0",
+      "title": "Ron Carter — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Ron Carter",
+      "year": 2020,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Ron-Carter-Transcription-2020_0"
+     },
+     {
+      "doc_id": "Taylor_Billy_Transcript",
+      "title": "Billy Taylor — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Billy Taylor",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript"
+     },
+     {
+      "doc_id": "yhm-jaz-laBarbera-p-2021",
+      "title": "Labarbera interviewed by Monk Rowe, 2021",
+      "collection": "hamilton",
+      "interviewee": "Pat LaBarbera",
+      "year": 2021,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=yhm-jaz-laBarbera-p-2021"
+     }
+    ]
+   },
+   "shared_releases": {
+    "count": 0,
+    "sessions_together": 0,
+    "items": [],
+    "available": true
+   },
+   "shared_roster": {
+    "count": 47,
+    "items": [
+     {
+      "name": "Ron Carter",
+      "qid": "Q434593",
+      "albums_with_weston": 3,
+      "albums_with_them": 33,
+      "said_about_weston": true,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Teo Macero",
+      "qid": "Q265494",
+      "albums_with_weston": 1,
+      "albums_with_them": 25,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Art Blakey",
+      "qid": "Q311715",
+      "albums_with_weston": 2,
+      "albums_with_them": 15,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Airto Moreira",
+      "qid": "Q409259",
+      "albums_with_weston": 1,
+      "albums_with_them": 15,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Ernie Royal",
+      "qid": "Q491422",
+      "albums_with_weston": 1,
+      "albums_with_them": 11,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Frank Rehak",
+      "qid": "Q1444006",
+      "albums_with_weston": 1,
+      "albums_with_them": 11,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Max Roach",
+      "qid": "Q175899",
+      "albums_with_weston": 1,
+      "albums_with_them": 10,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Billy Cobham",
+      "qid": "Q338786",
+      "albums_with_weston": 1,
+      "albums_with_them": 9,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Danny Bank",
+      "qid": "Q355970",
+      "albums_with_weston": 1,
+      "albums_with_them": 9,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Romeo Penque",
+      "qid": "Q111734787",
+      "albums_with_weston": 1,
+      "albums_with_them": 9,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Julius Watkins",
+      "qid": "Q1357150",
+      "albums_with_weston": 3,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Lee Konitz",
+      "qid": "Q453393",
+      "albums_with_weston": 1,
+      "albums_with_them": 8,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jimmy Cleveland",
+      "qid": "Q386883",
+      "albums_with_weston": 2,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Art Taylor",
+      "qid": "Q705751",
+      "albums_with_weston": 2,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Dizzy Gillespie",
+      "qid": "Q49575",
+      "albums_with_weston": 2,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Gerry Mulligan",
+      "qid": "Q156535",
+      "albums_with_weston": 1,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jerome Richardson",
+      "qid": "Q720693",
+      "albums_with_weston": 1,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Elvin Jones",
+      "qid": "Q357179",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Roy Haynes",
+      "qid": "Q448235",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Rudy Van Gelder",
+      "qid": "Q945681",
+      "albums_with_weston": 1,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Cecil Payne",
+      "qid": "Q485927",
+      "albums_with_weston": 5,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Charles Mingus",
+      "qid": "Q107432",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Budd Johnson",
+      "qid": "Q349082",
+      "albums_with_weston": 3,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "James Buffington",
+      "qid": "Q1689321",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "James Moody",
+      "qid": "Q962310",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Bennie Green",
+      "qid": "Q817875",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Billy Harper",
+      "qid": "Q863114",
+      "albums_with_weston": 3,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Connie Kay",
+      "qid": "Q431520",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Brock Peters",
+      "qid": "Q580587",
+      "albums_with_weston": 2,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Idrees Sulieman",
+      "qid": "Q1656883",
+      "albums_with_weston": 2,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Quentin Jackson",
+      "qid": "Q720707",
+      "albums_with_weston": 2,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Yusef Lateef",
+      "qid": "Q539832",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Hubert Laws",
+      "qid": "Q721330",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": true,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Burrell",
+      "qid": "Q255355",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Al Grey",
+      "qid": "Q715687",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Alan Rubin",
+      "qid": "Q1374127",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Benny Bailey",
+      "qid": "Q583913",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Coleman Hawkins",
+      "qid": "Q217812",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Frankie Dunlop",
+      "qid": "Q353990",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Garnett Brown",
+      "qid": "Q1494373",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "George Duvivier",
+      "qid": "Q1370288",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Geri Allen",
+      "qid": "Q448163",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Joe Chambers",
+      "qid": "Q717207",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Dorham",
+      "qid": "Q498729",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Marvin Stamm",
+      "qid": "Q886416",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Milt Hinton",
+      "qid": "Q491411",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Wallace Roney",
+      "qid": "Q343378",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     }
+    ],
+    "available": true
+   }
+  },
+  "coltrane": {
+   "name": "John Coltrane",
+   "qid": "Q7346",
+   "born": "1926-09-23",
+   "he_said": null,
+   "on_his_records": false,
+   "albums_together": [],
+   "direct_edge": null,
+   "shared_neighbours": {
+    "count": 18,
+    "jaccard": 0.0479,
+    "weston_neighbours": 116,
+    "their_neighbours": 278,
+    "top": [
+     {
+      "node_id": "wd:Q274146",
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "weston_weight": 3.193,
+      "their_weight": 3.0
+     },
+     {
+      "node_id": "nm:jimmy owens",
+      "label": "Jimmy Owens",
+      "qid": null,
+      "weston_weight": 2.81,
+      "their_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q448235",
+      "label": "Roy Haynes",
+      "qid": "Q448235",
+      "weston_weight": 2.5,
+      "their_weight": 2.5
+     },
+     {
+      "node_id": "wd:Q322308",
+      "label": "Teddy Edwards",
+      "qid": "Q322308",
+      "weston_weight": 3.0,
+      "their_weight": 2.0
+     },
+     {
+      "node_id": "wd:Q1175803",
+      "label": "David Murray",
+      "qid": "Q1175803",
+      "weston_weight": 2.5,
+      "their_weight": 2.0
+     },
+     {
+      "node_id": "wd:Q599429",
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "weston_weight": 3.599,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q349146",
+      "label": "Jack DeJohnette",
+      "qid": "Q349146",
+      "weston_weight": 0.4,
+      "their_weight": 3.193
+     },
+     {
+      "node_id": "wd:Q1702784",
+      "label": "Jon Hendricks",
+      "qid": "Q1702784",
+      "weston_weight": 2.5,
+      "their_weight": 0.511
+     },
+     {
+      "node_id": "nm:labarbera",
+      "label": "Labarbera",
+      "qid": null,
+      "weston_weight": 1.0,
+      "their_weight": 2.0
+     },
+     {
+      "node_id": "wd:Q721330",
+      "label": "Hubert Laws",
+      "qid": "Q721330",
+      "weston_weight": 2.5,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q1145565",
+      "label": "Curtis Fuller",
+      "qid": "Q1145565",
+      "weston_weight": 0.4,
+      "their_weight": 2.0
+     },
+     {
+      "node_id": "nm:billy taylor",
+      "label": "Billy Taylor",
+      "qid": null,
+      "weston_weight": 1.8,
+      "their_weight": 0.511
+     },
+     {
+      "node_id": "wd:Q920490",
+      "label": "Jackie McLean",
+      "qid": "Q920490",
+      "weston_weight": 1.277,
+      "their_weight": 0.511
+     },
+     {
+      "node_id": "wd:Q352028",
+      "label": "Orrin Keepnews",
+      "qid": "Q352028",
+      "weston_weight": 1.277,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q86605",
+      "label": "Dan Morgenstern",
+      "qid": "Q86605",
+      "weston_weight": 1.0,
+      "their_weight": 0.511
+     },
+     {
+      "node_id": "wd:Q386010",
+      "label": "Dave McKenna",
+      "qid": "Q386010",
+      "weston_weight": 0.4,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q1242553",
+      "label": "Lonnie Liston Smith",
+      "qid": "Q1242553",
+      "weston_weight": 0.4,
+      "their_weight": 0.4
+     },
+     {
+      "node_id": "wd:Q267184",
+      "label": "Annie Ross",
+      "qid": "Q267184",
+      "weston_weight": 0.4,
+      "their_weight": 0.4
+     }
+    ]
+   },
+   "documents_naming_both": {
+    "count": 15,
+    "items": [
+     {
+      "doc_id": "275810",
+      "title": "Orrin Keepnews interviewed by Monk Rowe, San Francisco, California, August 7, 2002",
+      "collection": "hamilton",
+      "interviewee": "Orrin Keepnews",
+      "year": 2002,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810"
+     },
+     {
+      "doc_id": "275830",
+      "title": "Dave McKenna interviewed by Monk Rowe, Chautauqua, New York, September 12, 1997",
+      "collection": "hamilton",
+      "interviewee": "Dave McKenna",
+      "year": 1997,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275830"
+     },
+     {
+      "doc_id": "275843",
+      "title": "Jimmy Owens interviewed by Monk Rowe, New York City, New York, January 12, 2001",
+      "collection": "hamilton",
+      "interviewee": "Jimmy Owens",
+      "year": 2001,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275843"
+     },
+     {
+      "doc_id": "275854",
+      "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, July 27, 1995 [interview 1 of 2]",
+      "collection": "hamilton",
+      "interviewee": "Benny Powell",
+      "year": 1995,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854"
+     },
+     {
+      "doc_id": "277167",
+      "title": "Lonnie Liston Smith interviewed by Monk Rowe, via Zoom, January 9, 2021",
+      "collection": "hamilton",
+      "interviewee": "Lonnie Liston Smith",
+      "year": 2021,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=277167"
+     },
+     {
+      "doc_id": "DeJohnette_Jack_Interview_Transcription",
+      "title": "Jack DeJohnette — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jack DeJohnette",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=DeJohnette_Jack_Interview_Transcription"
+     },
+     {
+      "doc_id": "Fuller_Curtis_Transcript",
+      "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Curtis Fuller",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript"
+     },
+     {
+      "doc_id": "Jon-Hendricks-Transcription-2020",
+      "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jon Hendricks",
+      "year": 2020,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020"
+     },
+     {
+      "doc_id": "Laws_Hubert_Transcript",
+      "title": "Hubert Laws — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Hubert Laws",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript"
+     },
+     {
+      "doc_id": "Liston_Melba_Interview_Transcription",
+      "title": "Melba Liston — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Melba Liston",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription"
+     },
+     {
+      "doc_id": "McLean_Jackie_Interview_Transcription",
+      "title": "Jackie McLean — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jackie McLean",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=McLean_Jackie_Interview_Transcription"
+     },
+     {
+      "doc_id": "Morgenstern_Dan_Transcript",
+      "title": "Dan Morgenstern — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Dan Morgenstern",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Morgenstern_Dan_Transcript"
+     },
+     {
+      "doc_id": "Owens_Jimmy_Transcript",
+      "title": "Jimmy Owens — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Jimmy Owens",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript"
+     },
+     {
+      "doc_id": "Taylor_Billy_Transcript",
+      "title": "Billy Taylor — Smithsonian Jazz Oral History",
+      "collection": "si",
+      "interviewee": "Billy Taylor",
+      "year": null,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript"
+     },
+     {
+      "doc_id": "yhm-jaz-laBarbera-p-2021",
+      "title": "Labarbera interviewed by Monk Rowe, 2021",
+      "collection": "hamilton",
+      "interviewee": "Pat LaBarbera",
+      "year": 2021,
+      "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=yhm-jaz-laBarbera-p-2021"
+     }
+    ]
+   },
+   "shared_releases": {
+    "count": 0,
+    "sessions_together": 0,
+    "items": [],
+    "available": true
+   },
+   "shared_roster": {
+    "count": 44,
+    "items": [
+     {
+      "name": "Elvin Jones",
+      "qid": "Q357179",
+      "albums_with_weston": 1,
+      "albums_with_them": 56,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Art Taylor",
+      "qid": "Q705751",
+      "albums_with_weston": 2,
+      "albums_with_them": 34,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Pharoah Sanders",
+      "qid": "Q470617",
+      "albums_with_weston": 1,
+      "albums_with_them": 16,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Rudy Van Gelder",
+      "qid": "Q945681",
+      "albums_with_weston": 1,
+      "albums_with_them": 14,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Freddie Hubbard",
+      "qid": "Q346762",
+      "albums_with_weston": 2,
+      "albums_with_them": 11,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Roy Haynes",
+      "qid": "Q448235",
+      "albums_with_weston": 1,
+      "albums_with_them": 9,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Jamil Nasser",
+      "qid": "Q354026",
+      "albums_with_weston": 4,
+      "albums_with_them": 6,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Ray Copeland",
+      "qid": "Q356168",
+      "albums_with_weston": 6,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Melba Liston",
+      "qid": "Q274146",
+      "albums_with_weston": 8,
+      "albums_with_them": 1,
+      "said_about_weston": true,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Kenny Burrell",
+      "qid": "Q255355",
+      "albums_with_weston": 1,
+      "albums_with_them": 7,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Art Blakey",
+      "qid": "Q311715",
+      "albums_with_weston": 2,
+      "albums_with_them": 5,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Julius Watkins",
+      "qid": "Q1357150",
+      "albums_with_weston": 3,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Cecil Payne",
+      "qid": "Q485927",
+      "albums_with_weston": 5,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Idrees Sulieman",
+      "qid": "Q1656883",
+      "albums_with_weston": 2,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Ahmed Abdul-Malik",
+      "qid": "Q401088",
+      "albums_with_weston": 4,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Connie Kay",
+      "qid": "Q431520",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Frank Rehak",
+      "qid": "Q1444006",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "James Buffington",
+      "qid": "Q1689321",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Sahib Shihab",
+      "qid": "Q968887",
+      "albums_with_weston": 1,
+      "albums_with_them": 4,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Jimmy Cleveland",
+      "qid": "Q386883",
+      "albums_with_weston": 2,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Charlie Persip",
+      "qid": "Q1066973",
+      "albums_with_weston": 4,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Teo Macero",
+      "qid": "Q265494",
+      "albums_with_weston": 1,
+      "albums_with_them": 3,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Ron Carter",
+      "qid": "Q434593",
+      "albums_with_weston": 3,
+      "albums_with_them": 1,
+      "said_about_weston": true,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Aaron Bell",
+      "qid": "Q254460",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Coleman Hawkins",
+      "qid": "Q217812",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Ernie Royal",
+      "qid": "Q491422",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Gene Ammons",
+      "qid": "Q713291",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Gigi Gryce",
+      "qid": "Q563275",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Jerome Richardson",
+      "qid": "Q720693",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Johnny Griffin",
+      "qid": "Q708439",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Kenny Dorham",
+      "qid": "Q498729",
+      "albums_with_weston": 1,
+      "albums_with_them": 2,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Lee Konitz",
+      "qid": "Q453393",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Orrin Keepnews",
+      "qid": "Q352028",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": true,
+      "said_about_them": true,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Airto Moreira",
+      "qid": "Q409259",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Billy Cobham",
+      "qid": "Q338786",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Danny Bank",
+      "qid": "Q355970",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Frankie Dunlop",
+      "qid": "Q353990",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "George Duvivier",
+      "qid": "Q1370288",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Gerry Mulligan",
+      "qid": "Q156535",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Joe Chambers",
+      "qid": "Q717207",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Max Roach",
+      "qid": "Q175899",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": true
+     },
+     {
+      "name": "Milt Hinton",
+      "qid": "Q491411",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Paul Bacon",
+      "qid": "Q1306220",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     },
+     {
+      "name": "Romeo Penque",
+      "qid": "Q111734787",
+      "albums_with_weston": 1,
+      "albums_with_them": 1,
+      "said_about_weston": false,
+      "said_about_them": false,
+      "weston_spoke_of_them": false
+     }
+    ],
+    "available": true
+   }
+  }
+ }
+}

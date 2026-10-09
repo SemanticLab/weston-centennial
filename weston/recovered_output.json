@@ -1,0 +1,944 @@
+{
+ "subject": "weston",
+ "judged_by": "Opus 5.5 (claude-opus-5-5)",
+ "threads": [
+  {
+   "key": "weston:answer:308787",
+   "kind": "answer",
+   "anchor_block_id": 308787,
+   "items": [
+    {
+     "block_id": 308790,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Marshall Brown (Newport Youth Band director); interviewer changes subject after a recording break",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Interviewer's question; Weston thread ended at [Recording Stops]."
+    },
+    {
+     "block_id": 308791,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Marshall Brown and the Newport Youth Band",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:287303",
+   "kind": "answer",
+   "anchor_block_id": 287303,
+   "items": [
+    {
+     "block_id": 287305,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Miles Davis",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Interviewer moves from Weston to Miles Davis."
+    },
+    {
+     "block_id": 287306,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Miles Davis",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:295938",
+   "kind": "answer",
+   "anchor_block_id": 295938,
+   "items": [
+    {
+     "block_id": 295940,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Liston's prospects for paid writing work in New York generally (the many people waiting for her), not Weston specifically",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 295941,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Liston's dislike of present-day popular music",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:286788",
+   "kind": "answer",
+   "anchor_block_id": 286788,
+   "items": [
+    {
+     "block_id": 286790,
+     "is_about_subject": true,
+     "subject_confidence": "medium",
+     "actually_about": "",
+     "mention_kind": "passing_reference",
+     "stance": "neutral",
+     "stance_strength": 0,
+     "content_type": [
+      "composition"
+     ],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "Interviewer Zimmerman noted that Hendricks had written lyrics to Weston's Little Niles and Hi-Fly, alongside Horace Silver's Doodlin'.",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Interviewer's question, not Hendricks speaking. 'All of those guys' groups Weston with Horace Silver and others; only Little Niles and Hi-Fly are Weston's. Low value; a human may prefer to drop it."
+    },
+    {
+     "block_id": 286791,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Gigi Gryce and Benny Golson (Hendricks's lyrics to their tunes)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:226809",
+   "kind": "answer",
+   "anchor_block_id": 226809,
+   "items": [
+    {
+     "block_id": 226813,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Lonnie Liston Smith's own early playing and Baltimore jam sessions",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Block has no speaker label; it is LLS continuing after playing Hi-Fly."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:295918",
+   "kind": "answer",
+   "anchor_block_id": 295918,
+   "items": [
+    {
+     "block_id": 295919,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 2,
+     "content_type": [
+      "personal_memory",
+      "working_relationship"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": true,
+     "summary": "Liston recalled that she met Weston while playing with Dizzy Gillespie, probably at Birdland, when he waited after the gig to meet her and they hit it off at once.",
+     "pull_quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+     "notable": 2,
+     "notes": "'He' is Weston (answer to 'How did you meet Randy?'). Liston hedges the venue ('I guess Birdland')."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:296203",
+   "kind": "answer",
+   "anchor_block_id": 296203,
+   "items": [
+    {
+     "block_id": 296204,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Liston's own featured solo on an untitled Weston waltz recording; she says nothing about Weston himself",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Spoken over the music; about her feature, not about Weston."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:295835",
+   "kind": "answer",
+   "anchor_block_id": 295835,
+   "items": [
+    {
+     "block_id": 295838,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Liston's arranger friends ('Frank and all of those')",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Follows her praise of Weston for sticking with her; 'my friends really are Frank' names others, not Weston."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:295712",
+   "kind": "answer",
+   "anchor_block_id": 295712,
+   "items": [
+    {
+     "block_id": 295713,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "anecdote_continuation",
+     "stance": "positive",
+     "stance_strength": 1,
+     "content_type": [
+      "personal_memory",
+      "working_relationship",
+      "biographical_fact"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Liston confirmed meeting Weston and said it was a good thing, recalling that he took her to Jamaica when he was visiting relatives there.",
+     "pull_quote": "It was a good thing. He took me to Jamaica. He was there visiting his relatives from there, and I was just hanging out.",
+     "notable": 1,
+     "notes": "'He' follows Bryant's 'Randy Weston.' Liston's chronology is compressed after her stroke; the Jamaica trip's date is not given."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:295932",
+   "kind": "answer",
+   "anchor_block_id": 295932,
+   "items": [
+    {
+     "block_id": 295933,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 1,
+     "content_type": [
+      "working_relationship"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Liston said Weston was looking forward to her coming to New York to write for him, though many others were also waiting for her.",
+     "pull_quote": "He’s looking forward to my coming there",
+     "notable": 1,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:296241",
+   "kind": "answer",
+   "anchor_block_id": 296241,
+   "items": [
+    {
+     "block_id": 296244,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "the sound/production of the 1973 Tanjah recording of Little Niles (how it could be mixed today), not Weston himself",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Borderline: it is Weston's record in Liston's arrangement, but the comment is on recording technology."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:246437",
+   "kind": "answer",
+   "anchor_block_id": 246437,
+   "items": [
+    {
+     "block_id": 246438,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Hank Jones (his recording with kora)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "'Randy Weston territory' is the interviewer's passing aside; Barron answers about Hank Jones."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:310571",
+   "kind": "answer",
+   "anchor_block_id": 310571,
+   "items": [
+    {
+     "block_id": 310575,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Ron Carter's long Five Spot engagement with Sonny Rollins",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Following block shows the Five Spot gig was with Sonny Rollins's trio."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:296263",
+   "kind": "answer",
+   "anchor_block_id": 296263,
+   "items": [
+    {
+     "block_id": 296264,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "neutral",
+     "stance_strength": 1,
+     "content_type": [
+      "composition",
+      "working_relationship"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Liston said Weston returned to Pam's Waltz and Little Niles every time he recorded, and they did those pieces again each time.",
+     "pull_quote": "But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things.",
+     "notable": 1,
+     "notes": "Answer to Bryant's remark that Randy keeps re-dressing Little Niles; 'he' is Weston."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:292074",
+   "kind": "answer",
+   "anchor_block_id": 292074,
+   "items": [
+    {
+     "block_id": 292076,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Hubert Laws's own instrumentation (flutes, piccolo) on Weston's Blue Moses session",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Interviewer listing Laws's credits on a Weston album; nothing about Weston himself."
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:296269",
+   "kind": "answer",
+   "anchor_block_id": 296269,
+   "items": [
+    {
+     "block_id": 296270,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Liston's own history of writing for strings",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:answer:296267",
+   "kind": "answer",
+   "anchor_block_id": 296267,
+   "items": [
+    {
+     "block_id": 296268,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "no subject: Liston cannot recall the trumpeter and asks to stop the record",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Mostly transcriber's bracketed notes; nothing quotable."
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:307083",
+   "kind": "continuation",
+   "anchor_block_id": 307083,
+   "items": [
+    {
+     "block_id": 307084,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Dan Morgenstern's move to Down Beat and his editor Don DeMicheal",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 307085,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Chicago, Down Beat perks, and Richard Abrams / the AACM",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 307086,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Morgenstern's Down Beat work and staff (Bill Quinn, Larry Kart, LeRoi Jones)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 307087,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Down Beat publisher John Maher and Chuck Suber",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 307088,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Down Beat staff (Jim Zantor, Jim Schaffer) and Morgenstern's move back to New York",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 307089,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Jim Schaffer and the end of Morgenstern's Down Beat tenure",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:308987",
+   "kind": "continuation",
+   "anchor_block_id": 308987,
+   "items": [
+    {
+     "block_id": 308988,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Jimmy Owens's teaching at The New School (business course, big band, sight-reading)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 308989,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Owens's student Barry Cooper (Count Basie band) and Benny Powell",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 308991,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Owens's organizing of a faculty union at The New School",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 308992,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "the New School faculty union and musicians' pension funds",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:194627",
+   "kind": "continuation",
+   "anchor_block_id": 194627,
+   "items": [
+    {
+     "block_id": 194628,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Thelonious Monk (Keepnews learning to produce through working with Monk)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 194633,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Orrin Keepnews's non-musical childhood and 1930s radio / Artie Shaw",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:308680",
+   "kind": "continuation",
+   "anchor_block_id": 308680,
+   "items": [
+    {
+     "block_id": 308681,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Lionel Hampton (dispute over Owens's arrangement 'Complicity') and Owens's later bands",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Weston is named only in the anchor as a source of Owens's publishing knowledge."
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:196952",
+   "kind": "continuation",
+   "anchor_block_id": 196952,
+   "items": [
+    {
+     "block_id": 196954,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Pat LaBarbera's return to Berklee and Jimmy Mosher",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    },
+    {
+     "block_id": 196955,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "LaBarbera joining Buddy Rich's band",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:216650",
+   "kind": "continuation",
+   "anchor_block_id": 216650,
+   "items": [
+    {
+     "block_id": 216652,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "substantive_comment",
+     "stance": "positive",
+     "stance_strength": 2,
+     "content_type": [
+      "bandleading",
+      "working_relationship",
+      "character_description"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Powell said Weston knew whom he could trust with loose guidance, that he felt chosen by Weston, and that Weston paid very well and performed in every format from solo to symphony.",
+     "pull_quote": "Well he knows what he’s got. He knows he couldn’t say that to anybody you know. So I feel like I am chosen by him and, to make matters better, he pays very well.",
+     "notable": 2,
+     "notes": "'He' continues the anchor, where Powell quotes Weston's 'find a pretty one and play it'."
+    },
+    {
+     "block_id": 216653,
+     "is_about_subject": true,
+     "subject_confidence": "high",
+     "actually_about": "",
+     "mention_kind": "anecdote_continuation",
+     "stance": "positive",
+     "stance_strength": 2,
+     "content_type": [
+      "bandleading",
+      "business",
+      "working_relationship"
+     ],
+     "block_is_firsthand": true,
+     "quotes_the_subject": false,
+     "summary": "Powell said Weston performed all over the world, added him to the band when the budget allowed, and would rather not hire a musician than underpay him.",
+     "pull_quote": "But if he can’t pay what he’d like to pay, he just won’t hire you. This is good. I like it. So I know whenever he calls it’s a well paying gig and no nonsense.",
+     "notable": 1,
+     "notes": "Unlabelled continuation of Powell's previous block across a page break."
+    },
+    {
+     "block_id": 216655,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Benny Powell's general views on artists vs. sidemen and the NEA",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Answers a new question about artists vs. entertainers; Weston not mentioned."
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:216745",
+   "kind": "continuation",
+   "anchor_block_id": 216745,
+   "items": [
+    {
+     "block_id": 216747,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Benny Powell's time with Lionel Hampton's band and move to Ottawa/Hull",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:308856",
+   "kind": "continuation",
+   "anchor_block_id": 308856,
+   "items": [
+    {
+     "block_id": 308857,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "J.J. Johnson (the 'Hindu Myth' book) and Owens giving business advice to musicians",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "'He' in the opening sentence is J.J. Johnson, from the end of the anchor block."
+    },
+    {
+     "block_id": 308861,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Gigi Gryce",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:220560",
+   "kind": "continuation",
+   "anchor_block_id": 220560,
+   "items": [
+    {
+     "block_id": 220562,
+     "is_about_subject": false,
+     "subject_confidence": "medium",
+     "actually_about": "Lambert, Hendricks & Ross's rehearsal process (Dave Lambert's apartment)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "Question asks about rehearsing 'those tunes' (possibly the Weston pieces), but the answer describes the trio's rehearsals generally and does not mention Weston."
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:286785",
+   "kind": "continuation",
+   "anchor_block_id": 286785,
+   "items": [
+    {
+     "block_id": 286787,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "Clifford Brown, Horace Silver and Art Blakey (the original Jazz Messengers)",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "key": "weston:continuation:296214",
+   "kind": "continuation",
+   "anchor_block_id": 296214,
+   "items": [
+    {
+     "block_id": 296216,
+     "is_about_subject": false,
+     "subject_confidence": "high",
+     "actually_about": "the conductor Paul West",
+     "mention_kind": "not_about_subject",
+     "stance": null,
+     "stance_strength": 0,
+     "content_type": [],
+     "block_is_firsthand": false,
+     "quotes_the_subject": false,
+     "summary": "",
+     "pull_quote": null,
+     "notable": 0,
+     "notes": "'He' is the conductor/bassist Bryant then names as Paul West."
+    }
+   ]
+  }
+ ]
+}

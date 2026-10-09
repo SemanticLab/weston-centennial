@@ -1,0 +1,74 @@
+{
+ "entries": 114,
+ "real_people": 100,
+ "not_people": 14,
+ "not_people_kinds": {
+  "people_or_group": 4,
+  "descriptor": 7,
+  "deity": 2,
+  "tune_title": 1
+ },
+ "reader_added_people": 11,
+ "reader_added_before_merging": 11,
+ "merged_duplicates": 10,
+ "chunks_missing": [],
+ "with_a_relation": 89,
+ "by_relation": {
+  "collaborated with": 31,
+  "in music group with": 15,
+  "knows of": 15,
+  "none": 11,
+  "influenced by": 10,
+  "acquaintance of": 9,
+  "has met": 5,
+  "friend of": 2,
+  "played with": 1,
+  "mentor of": 1
+ },
+ "by_basis": {
+  "his_statement": 93,
+  "interviewer_only": 5,
+  "none": 2
+ },
+ "by_who_speaks": {
+  "weston": 91,
+  "jenkins_only": 4,
+  "both": 3,
+  "front_matter_only": 2
+ },
+ "by_notable": {
+  "3": 14,
+  "2": 28,
+  "1": 55,
+  "0": 3
+ },
+ "by_tie": {
+  "sideman": 29,
+  "guest_or_one_off": 21,
+  "idol": 16,
+  "unknown": 16,
+  "traditional_musician": 5,
+  "family": 5,
+  "promoter_or_host": 4,
+  "classical_musician": 4,
+  "guide_or_stranger": 3,
+  "friend": 3,
+  "recording_staff": 3,
+  "teacher": 2,
+  "scholar_or_author": 2,
+  "arranger": 1,
+  "spouse": 1,
+  "record_producer_or_label": 1,
+  "interviewer": 1
+ },
+ "with_his_own_quote": 94,
+ "his_quotes_total": 192,
+ "names_transcribed_wrong": 19,
+ "reconciled_to_wikidata": 65,
+ "reconciled_via_corrected_name": 16,
+ "identity_rejected": 2,
+ "upstream_relation_wrong": 53,
+ "upstream_relation_judged": 103,
+ "upstream_relation_wrong_pct": 51.5,
+ "quotes_dropped_on_verification": {}
+}

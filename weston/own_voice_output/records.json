@@ -1,0 +1,1415 @@
+{
+ "subject": "weston",
+ "part": "records",
+ "count": 34,
+ "items": [
+  {
+   "key": "saga",
+   "title_as_transcribed": "Saga",
+   "title": "Saga",
+   "kind": "album",
+   "year_as_stated": "’95",
+   "year": 1995,
+   "label_as_stated": "Verve",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309812,
+    309813,
+    309814,
+    309815,
+    309816
+   ],
+   "what_he_says": "He recorded Saga for Verve in Paris; the title came from the name of the African shop of the woman he later married, and he said 'saga' means family, which is what all his music is geared towards. He named Billy Higgins, Neil Clarke, Alex Blake, Billy Harper, T.K. Blue and Benny Powell, said most of the songs were his originals, and that Stereo Review chose it number one. Asked whether family tied the songs together, he said all his recordings carry the history of the music as Africa's contribution, with the blues underneath.",
+   "title_meaning": "Named after his future wife's African shop, 'Saga'; in language the word means family.",
+   "pull_quote": "At the time “Saga” came, actually, from the name of an African shop that my wife, who I married afterwards, her shop was called “Saga”. Saga, in the world of language means family. All of my music is geared towards family, because I think that is so important, and that’s what I learned from my ancestors.",
+   "pull_quote_block_id": 309813,
+   "more_quotes": [
+    {
+     "block_id": 309813,
+     "quote": "It was, for me, a very wonderful, wonderful date. It was chosen number one by Stereo Review Magazine."
+    },
+    {
+     "block_id": 309816,
+     "quote": "So, all of my compositions, all of my music is based upon love, history, and family, and respect."
+    },
+    {
+     "block_id": 309816,
+     "quote": "The blues is always underneath it all because the blues, I feel, is the language of our people, how we survived."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Billy Higgins",
+     "name": "Billy Higgins",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Neil Clarke",
+     "name": "Neil Clarke",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Billy Harper",
+     "name": "Billy Harper",
+     "role": ""
+    },
+    {
+     "as_transcribed": "T.K. Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    }
+   ],
+   "pieces_named": [
+    "Uncle Nemo"
+   ],
+   "part_of": null,
+   "discrepancies": "'Jean Philippe Alad', called 'the president of Verve', is evidently Jean-Philippe Allard, the Verve (France) producer with whom Weston made his Verve/Gitanes albums; 'president' is Weston's word.",
+   "notable": 3,
+   "notes": "The sentence about Allard is split across a page break (309813/309814), so it cannot be quoted whole. The shop owner is Fatoumata Mbengue (Fatou), whom he describes in 309907; here he says only 'my wife, who I married afterwards'."
+  },
+  {
+   "key": "uncle_nemo",
+   "title_as_transcribed": "Uncle Nemo",
+   "title": "Uncle Nemo",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309813
+   ],
+   "what_he_says": "He named 'Uncle Nemo' as one of the songs on Saga and said he wrote it for an elderly gentleman, Dooley Chelson, who wore a hat and a beard.",
+   "title_meaning": "",
+   "pull_quote": "It was great it was a combination of a song like “Uncle Nemo”, which I wrote for an elderly gentleman, Dooley Chelson, with a hat on his head and a beard.",
+   "pull_quote_block_id": 309813,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "saga",
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "'Dooley Chelson' is as transcribed; I cannot identify him, so the spelling is unverified."
+  },
+  {
+   "key": "earth_birth_album",
+   "title_as_transcribed": "Earth Birth",
+   "title": "Earth Birth",
+   "kind": "album",
+   "year_as_stated": "1997 (Jenkins)",
+   "year": 1997,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309817,
+    309819,
+    309820,
+    309821,
+    309822,
+    309823,
+    309829
+   ],
+   "what_he_says": "Asked about the 1997 Earth Birth record, he identified it as 'that one with strings'. He said what took place in Montreal was a smaller version of the Three African Queens performance with the Boston Pops: 25 strings of the Montreal Symphony Orchestra, Billy Higgins, Christian McBride and himself. Jenkins said it was part of a residency at the Montreal Jazz Festival that year, for which Weston said Melba Liston did all the arrangements.",
+   "title_meaning": "",
+   "pull_quote": "So, what took place in Montreal was a smaller version of that. We got 25 strings of the Montreal Symphony Orchestra, Billy Higgins, Christian McBride, and myself.",
+   "pull_quote_block_id": 309822,
+   "more_quotes": [
+    {
+     "block_id": 309820,
+     "quote": "Oh, you mean that one with strings?"
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "25 strings of the Montreal Symphony Orchestra",
+     "name": "Montreal Symphony Orchestra (25 strings)",
+     "role": "strings"
+    },
+    {
+     "as_transcribed": "Billy Higgins",
+     "name": "Billy Higgins",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Christian McBride",
+     "name": "Christian McBride",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Melba Liston",
+     "name": "Melba Liston",
+     "role": "arrangements"
+    }
+   ],
+   "pieces_named": [
+    "Earth Birth"
+   ],
+   "part_of": null,
+   "discrepancies": "The year 1997 comes from Jenkins, and Weston does not confirm it. Weston calls the Montreal date 'a smaller version' of Three African Queens, the Boston Pops work, but Jenkins describes the record as an update of the waltz 'Earth Birth'. The transcript does not settle how the two relate. Melba Liston's role as arranger is stated for the residency as a whole (309824) and by Jenkins (309829), not specifically for this record. Bass and drums roles are not given in the transcript. I added them from the known line-up, so treat them as identification only.",
+   "notable": 2,
+   "notes": "The published Verve album 'Earth Birth' was recorded in Montreal with Montreal Symphony strings, Higgins and McBride. The recording date (1995 or 1997) should be checked by a human against the discography."
+  },
+  {
+   "key": "earth_birth",
+   "title_as_transcribed": "Earth Birth",
+   "title": "Earth Birth",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309817,
+    309818,
+    309821
+   ],
+   "what_he_says": "He said he wrote most of his works in the Berkshires, moved by children and their freedom; 'Earth Birth' was the first of seven waltzes for children. He explained that it means that when a child is born the first thing that happens is music: the child moves its arms and legs and makes sounds.",
+   "title_meaning": "When a child is born, the first thing that happens is music: the child moves its arms and legs and makes sounds.",
+   "pull_quote": "The first waltz was called, “Earth Birth” and that’s to be meant when a child is born the first thing that happens is music. The child is moving his arms, or his legs, or he’s making sounds. That’s what “Earth Birth” meant.",
+   "pull_quote_block_id": 309818,
+   "more_quotes": [
+    {
+     "block_id": 309818,
+     "quote": "So, that’s where I wrote most of my works because I was always moved by children. Their freedom, the way they move; they’re very free children."
+    }
+   ],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "seven_waltzes_for_children",
+   "discrepancies": "",
+   "notable": 2,
+   "notes": "Re-recorded with strings on the album Earth Birth (key earth_birth_album)."
+  },
+  {
+   "key": "seven_waltzes_for_children",
+   "title_as_transcribed": "seven waltzes for children",
+   "title": "Little Niles",
+   "kind": "album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309818
+   ],
+   "what_he_says": "He described his 'original recording', a set of seven waltzes for children written in the Berkshires, where he had met Lukas Foss and Leonard Bernstein. Its first waltz was 'Earth Birth'.",
+   "title_meaning": "",
+   "pull_quote": "So, my original recording with Bernstein and Lucas, it was called seven waltzes for children.",
+   "pull_quote_block_id": 309818,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [
+    "Earth Birth"
+   ],
+   "part_of": null,
+   "discrepancies": "'my original recording with Bernstein and Lucas' cannot be literal: Leonard Bernstein and Lukas Foss did not play on Weston's waltz album. The phrase probably means the Berkshires period when he knew them, but it is garbled. 'Luckas Foss' and 'Lucas' are transcribed by ear for Lukas Foss.",
+   "notable": 1,
+   "notes": "He gives no title, only 'seven waltzes for children'. I identify it as Little Niles (United Artists), Weston's album of waltzes for children that includes 'Earth Birth'; a human should confirm. Bernstein and Foss are not listed as personnel because the transcript does not say they played on it."
+  },
+  {
+   "key": "three_african_queens",
+   "title_as_transcribed": "Three African Queens",
+   "title": "Three African Queens",
+   "kind": "composition",
+   "year_as_stated": "1991 … 1981",
+   "year": 1991,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309822
+   ],
+   "what_he_says": "He said he wrote three compositions, 'Portrait of Billie Holiday', 'Blues for Elma Lewis' and one for a royal lady, together entitled Three African Queens, and performed them with the Boston Pops Symphony Orchestra under John Williams, about 133 musicians. His own group was Idrees Sulieman, 'Frank Gap', 'Jamie Onaso' and himself, and they also played 'High Fly'.",
+   "title_meaning": "Three compositions for three women: Billie Holiday, Elma Lewis and 'a royal lady'.",
+   "pull_quote": "Okay, what happened was in 1991 I was very fortunate to write three compositions: “Portrait of Billie Holliday”, “Blues for Elma Lewis”, and a royal lady. And it was entitled “Three African Queens” and we were lucky to perform with the Boston Pops Symphony Orchestra.",
+   "pull_quote_block_id": 309822,
+   "more_quotes": [
+    {
+     "block_id": 309822,
+     "quote": "John Williams was the conductor and it was like 133 musicians."
+    },
+    {
+     "block_id": 309822,
+     "quote": "That was a smaller version of the bigger work"
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Boston Pops Symphony Orchestra",
+     "name": "Boston Pops Orchestra",
+     "role": "orchestra"
+    },
+    {
+     "as_transcribed": "John Williams",
+     "name": "John Williams",
+     "role": "conductor"
+    },
+    {
+     "as_transcribed": "Idrees Sulieman",
+     "name": "Idrees Sulieman",
+     "role": "trumpet"
+    },
+    {
+     "as_transcribed": "Frank Gap",
+     "name": "Frank Gant (?)",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Jamie Onaso",
+     "name": "Jamil Nasser",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "piano"
+    }
+   ],
+   "pieces_named": [
+    "Portrait of Billie Holiday",
+    "Blues for Elma Lewis",
+    "High Fly"
+   ],
+   "part_of": null,
+   "discrepancies": "The transcript contradicts itself on the year: 'in 1991 I was very fortunate to write' and then 'the bigger work that we did in 1981, in Boston'. Weston also says the Montreal Earth Birth date was 'a smaller version of that', which mixes this suite with the Earth Birth record. 'Jamie Onaso' is almost certainly Jamil Nasser, Weston's long-time bassist. 'Frank Gap' is probably drummer Frank Gant, but that is a guess. 'Billie Holliday' is misspelled.",
+   "notable": 2,
+   "notes": "The third queen is unnamed ('a royal lady'). This is a performed work, not a named album."
+  },
+  {
+   "key": "portrait_of_billie_holiday",
+   "title_as_transcribed": "Portrait of Billie Holliday",
+   "title": "Portrait of Billie Holiday",
+   "kind": "composition",
+   "year_as_stated": "1991",
+   "year": 1991,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309822
+   ],
+   "what_he_says": "One of the three compositions of Three African Queens, performed with the Boston Pops.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "three_african_queens",
+   "discrepancies": "The transcript spells it 'Holliday'. The year is in conflict as for the suite (1991 or 1981).",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "blues_for_elma_lewis",
+   "title_as_transcribed": "Blues for Elma Lewis",
+   "title": "Blues for Elma Lewis",
+   "kind": "composition",
+   "year_as_stated": "1991",
+   "year": 1991,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309822
+   ],
+   "what_he_says": "One of the three compositions of Three African Queens, performed with the Boston Pops.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "three_african_queens",
+   "discrepancies": "The year is in conflict as for the suite (1991 or 1981).",
+   "notable": 1,
+   "notes": "Elma Lewis was the Boston arts educator; identification only."
+  },
+  {
+   "key": "high_fly",
+   "title_as_transcribed": "High Fly",
+   "title": "Hi-Fly",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309822
+   ],
+   "what_he_says": "He said his group played 'High Fly' along with the Three African Queens compositions at the Boston Pops concert.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "The transcript has 'High Fly'. Weston's best-known tune is published as 'Hi-Fly'.",
+   "notable": 1,
+   "notes": "It is named only in passing, with nothing quotable about the piece itself."
+  },
+  {
+   "key": "volcano",
+   "title_as_transcribed": "Volcano",
+   "title": "Volcano Blues",
+   "kind": "album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309824,
+    309825,
+    309826
+   ],
+   "what_he_says": "He said that on the blues night of the Montreal residency 'it came out on an album called Volcano'. Normally Johnny Copeland would sing the blues, but he could not make it, so an older singer came in, whom Jenkins named as Robert Lockwood Jr.",
+   "title_meaning": "",
+   "pull_quote": "The next time we did the blues. It came out on an album called “Volcano”, and normally we would have a guy, Johnny Copeland, singing the blues but Johnny couldn’t make it.",
+   "pull_quote_block_id": 309824,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Johnny Copeland",
+     "name": "Johnny Copeland",
+     "role": "blues vocals (usually; absent that night)"
+    },
+    {
+     "as_transcribed": "Robert Lockwood Jr.",
+     "name": "Robert Lockwood Jr.",
+     "role": "blues vocals (named by Jenkins)"
+    }
+   ],
+   "pieces_named": [
+    "Volcano Blues",
+    "Harlem Blues"
+   ],
+   "part_of": null,
+   "discrepancies": "The published album is 'Volcano Blues' (Antilles/Verve, early 1990s), a studio record on which Johnny Copeland sings. As far as I know it is not a recording of the Montreal blues night with Robert Lockwood Jr. Weston seems to link the blues repertoire of the residency to the earlier album, and his phrase 'it came out on an album' is probably loose. A human should check.",
+   "notable": 1,
+   "notes": "Copeland and Lockwood are listed as the transcript gives them; neither is clearly stated to be on the album."
+  },
+  {
+   "key": "volcano_blues",
+   "title_as_transcribed": "Volcano Blues",
+   "title": "Volcano Blues",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309826
+   ],
+   "what_he_says": "He named 'Volcano Blues' as one of his favourite blues, sung on the Montreal blues night.",
+   "title_meaning": "",
+   "pull_quote": "And with this blues, one of my favorite blues had always been “Volcano Blues” and also “Harlem Blues” which was Count Basie.",
+   "pull_quote_block_id": 309826,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "volcano",
+   "discrepancies": "'which was Count Basie' may attach to 'Harlem Blues' or to both titles. The transcript is ambiguous.",
+   "notable": 1,
+   "notes": "part_of is inferred from the album title; the transcript does not say it is the title track."
+  },
+  {
+   "key": "harlem_blues",
+   "title_as_transcribed": "Harlem Blues",
+   "title": "Harlem Blues",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309826
+   ],
+   "what_he_says": "He named 'Harlem Blues', 'which was Count Basie', as a favourite blues done on the Montreal blues night.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "'Harlem Blues' is usually credited to W. C. Handy, so the attribution to Count Basie is doubtful. Basie may only have recorded it, or the phrase may refer to 'Volcano Blues'.",
+   "notable": 0,
+   "notes": ""
+  },
+  {
+   "key": "spirits_of_our_ancestors",
+   "title_as_transcribed": "Spirit of Our Ancestors",
+   "title": "The Spirits of Our Ancestors",
+   "kind": "album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309829,
+    309830,
+    309914
+   ],
+   "what_he_says": "He said he wanted the record to bring the ancestors, who are very much alive, to everybody. He wrote the whole concept and realised only Melba Liston could arrange it. She was in a wheelchair after a stroke and could no longer play trombone, so he goaded her into doing the arrangements 'stroke or no stroke'. With her aunt Thelma's help she learned to write music on the computer with her left hand.",
+   "title_meaning": "The ancestors, who are very much alive; the royalty of Armstrong, Bolden and Ellington, going back to Africa.",
+   "pull_quote": "I wanted to do this recording, “Spirit of Our Ancestors”, again, trying to bring the ancestors to everybody. They are very much alive.",
+   "pull_quote_block_id": 309830,
+   "more_quotes": [
+    {
+     "block_id": 309830,
+     "quote": "Then I realized that only Melba Liston could do this. She was in a wheelchair, she had been paralyzed on one side, and she can no longer play the trombone. I went to see her, and I insulted her as only musicians can do. I called her all kinds of names. I said to her, “You have to do these arrangements stroke or no stroke, handicap or no handicap,” you know? She cried a little bit, you know?"
+    },
+    {
+     "block_id": 309830,
+     "quote": "But, it turned out her aunt Thelma was a computer specialist and Melba started studying the computer and how to write the music with her left hand."
+    },
+    {
+     "block_id": 309830,
+     "quote": "What Louie Armstrong and Buddy Boland, and Duke Ellington, all they created, that’s our royalty going back to Africa itself."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Melba Liston",
+     "name": "Melba Liston",
+     "role": "arrangements"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "The published title is 'The Spirits of Our Ancestors' (Antilles, early 1990s). Weston brings it up in answer to a question set in '97', so the transcript places it later than its actual release. Names in the same block are transcribed by ear: 'Louie Armstrong' is Louis Armstrong and 'Buddy Boland' is Buddy Bolden.",
+   "notable": 3,
+   "notes": "Jenkins alludes to it later ('you even named a record after it', 309914)."
+  },
+  {
+   "key": "body_and_soul",
+   "title_as_transcribed": "Body and Soul",
+   "title": "Body and Soul",
+   "kind": "composition",
+   "year_as_stated": "When “Body and Soul” came out I was 17 years old",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309836,
+    309837
+   ],
+   "what_he_says": "Coleman Hawkins was his idol. When Hawkins's 'Body and Soul' came out, Weston was 17; he bought three copies, hid two, and played one so loud that people could hear it in the street.",
+   "title_meaning": "",
+   "pull_quote": "When “Body and Soul” came out I was 17 years old. I bought 3 copies and I hid two.",
+   "pull_quote_block_id": 309836,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Coleman Hawkins",
+     "name": "Coleman Hawkins",
+     "role": "tenor saxophone"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "Hawkins recorded 'Body and Soul' in October 1939, when Weston (born 1926 per the header) was 13, not 17. The age implies about 1943. The final sentence of the anecdote runs across a page break (309836/309837) and cannot be quoted whole.",
+   "notable": 1,
+   "notes": "This is Hawkins's record, not Weston's. year is null because the transcript gives only his age."
+  },
+  {
+   "key": "five_spot_1959",
+   "title_as_transcribed": "the date with Coleman Hawkins … 1959 at the Five Spot, a live date",
+   "title": "Live at the Five Spot",
+   "kind": "live_album",
+   "year_as_stated": "I think it was 1959",
+   "year": 1959,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309836,
+    309837
+   ],
+   "what_he_says": "He called the live date with his idol Coleman Hawkins at the Five Spot 'another miracle'. Melba Liston wrote the arrangements from a hospital in California, and the music arrived on the day of the Monday-night recording. There was no time to rehearse, but the musicians played beautifully.",
+   "title_meaning": "",
+   "pull_quote": "What happened was, the recording took place on a Monday night at the Five Spot, and there was no time for rehearsal. She was in the hospital in California, and by some miracle the music arrived the day of the recording. I passed out the music, no time to rehearse, but I had such great musicians that they played beautifully.",
+   "pull_quote_block_id": 309837,
+   "more_quotes": [
+    {
+     "block_id": 309836,
+     "quote": "A good example of that is this, when we did the date with Coleman Hawkins, which was another miracle for me because Coleman Hawkins was my idol."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Roy Haynes",
+     "name": "Roy Haynes",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Clifford Jones",
+     "name": "Clifford Jordan",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Wilbur Little",
+     "name": "Wilbur Little",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Coleman Hawkins",
+     "name": "Coleman Hawkins",
+     "role": "tenor saxophone"
+    },
+    {
+     "as_transcribed": "Kenny Durham",
+     "name": "Kenny Dorham",
+     "role": "trumpet"
+    },
+    {
+     "as_transcribed": "Melba Liston",
+     "name": "Melba Liston",
+     "role": "arrangements"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "'Clifford Jones' is Clifford Jordan (tenor saxophone). 'Kenny Durham' is Kenny Dorham.",
+   "notable": 2,
+   "notes": "Identified as the United Artists album 'Live at the Five Spot' (1959), with Hawkins as guest. Haynes is given no role in the transcript (just 'Roy Haynes'); 'drums' is my identification."
+  },
+  {
+   "key": "montreal_1985",
+   "title_as_transcribed": "",
+   "title": "1985 Montreal Jazz Festival performance (untitled)",
+   "kind": "session",
+   "year_as_stated": "1985",
+   "year": 1985,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309837
+   ],
+   "what_he_says": "In 1985 he brought a ten-piece group with the Gnawa on African percussion to the Montreal Jazz Festival. Melba Liston was ill in hospital in California, so Hale Smith conducted in her place. Her music arrived in time for the tour, and after the performance the whole band phoned her. He said the recording 'should be coming out soon'.",
+   "title_meaning": "",
+   "pull_quote": "Melba got sick in the hospital in California at that time so Hale Smith took her place as conductor. The music arrived in time for the tour and after we performed at the Montreal Jazz Festival, which should be coming out soon, it was a fantastic performance, all of us got on the telephone and we called Melba in California.",
+   "pull_quote_block_id": 309837,
+   "more_quotes": [
+    {
+     "block_id": 309837,
+     "quote": "But, her spiritual strength is so powerful."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Benny Bailey",
+     "name": "Benny Bailey",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Sahib Shihab",
+     "name": "Sahib Shihab",
+     "role": ""
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Clyde Lucas",
+     "name": "Clyde Lucas",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Mohammad Bin Fata",
+     "name": "Mohammad Bin Fata",
+     "role": ""
+    },
+    {
+     "as_transcribed": "the Gnawa",
+     "name": "Gnawa musicians",
+     "role": "African percussion"
+    },
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "piano"
+    },
+    {
+     "as_transcribed": "Woodward Little",
+     "name": "Woodward Little",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Hale Smith",
+     "name": "Hale Smith",
+     "role": "conductor"
+    },
+    {
+     "as_transcribed": "Melba Liston",
+     "name": "Melba Liston",
+     "role": "arrangements"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "Several names look misheard and cannot be verified: 'Clyde Lucas' (drums), 'Mohammad Bin Fata' and 'Woodward Little' (bass; perhaps Wilbur Little, named in the previous story). In the 1974 story 'Montreal' is clearly Montreux, but nothing here tells us whether the 1985 festival was Montreal or Montreux.",
+   "notable": 1,
+   "notes": "He says only that it 'should be coming out soon'; no album title is given."
+  },
+  {
+   "key": "khepera",
+   "title_as_transcribed": "Khepera",
+   "title": "Khepera",
+   "kind": "album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309838,
+    309839,
+    309840
+   ],
+   "what_he_says": "He said Khepera is an ancient Egyptian word meaning to regenerate: to win back the human contact lost to machines. He met the pipa player Min Xiao-Fen through her work with a Senegalese musician in Atlanta. Dr. Wayne Chandler's book Ancient Future and a Guggenheim exhibition of Shang masks convinced them both of an ancient Africa–China connection, and the record was built to make that connection. Pharoah Sanders, Chief Bey, Victor Lewis, Alex Blake and Benny Powell played, and Melba Liston arranged.",
+   "title_meaning": "An ancient Egyptian word meaning to regenerate, to bring back the senses: a return to human contact.",
+   "pull_quote": "“Khepera” is a way saying that we have to bring that back, to regenerate, to clean ourselves and come back, to get back to human contact.",
+   "pull_quote_block_id": 309839,
+   "more_quotes": [
+    {
+     "block_id": 309839,
+     "quote": "Well, “Khepera” is like an ancient Egyptian word that means “like to regenerate, to bring back out senses.” We become so involved with machines that we loose that human contact that we had before."
+    },
+    {
+     "block_id": 309840,
+     "quote": "So “Khepera” consisted of connecting China and Africa, which, people just can’t believe the connection."
+    },
+    {
+     "block_id": 309840,
+     "quote": "So, “Khepera” is a very, very spiritual word."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Min Xiao Fen",
+     "name": "Min Xiao-Fen",
+     "role": "pipa"
+    },
+    {
+     "as_transcribed": "Pharaoh Sanders",
+     "name": "Pharoah Sanders",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Chief Bey",
+     "name": "Chief Bey",
+     "role": "African percussion, singing"
+    },
+    {
+     "as_transcribed": "Victor Lewis",
+     "name": "Victor Lewis",
+     "role": "drums (\"I think\")"
+    },
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Melba Liston",
+     "name": "Melba Liston",
+     "role": "arrangements"
+    }
+   ],
+   "pieces_named": [
+    "The Shang",
+    "Blue Moses",
+    "Love, the Mystery Of"
+   ],
+   "part_of": null,
+   "discrepancies": "'Pharaoh Sanders' is Pharoah Sanders. 'Love The History Of' is 'Love, the Mystery Of', Guy Warren's composition and Weston's theme song. 'Mortiem', the Senegalese musician in Atlanta, is probably the percussionist Mor Thiam.",
+   "notable": 3,
+   "notes": "The year is not stated. The book is Wayne B. Chandler, 'Ancient Future'."
+  },
+  {
+   "key": "the_shang",
+   "title_as_transcribed": "The Shang",
+   "title": "The Shang",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309840
+   ],
+   "what_he_says": "A piece Min Xiao-Fen composed for Khepera, after the Shang-dynasty masks they saw together. They described it as piano and pipa.",
+   "title_meaning": "The Shang dynasty, which he describes as one of the original African/Chinese dynasties of China.",
+   "pull_quote": "We did a piece that she composed called “The Shang” and we described that as piano and pipa.",
+   "pull_quote_block_id": 309840,
+   "more_quotes": [
+    {
+     "block_id": 309840,
+     "quote": "The Shang dynasty is one of the original dynasties of China; it’s one of the original African/Chinese dynasties."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Min Xiao Fen",
+     "name": "Min Xiao-Fen",
+     "role": "composer, pipa"
+    },
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "piano"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": "khepera",
+   "discrepancies": "",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "blue_moses",
+   "title_as_transcribed": "Blue Moses",
+   "title": "Blue Moses",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309840
+   ],
+   "what_he_says": "He called it one of the Gnawa pieces, played on Khepera with Pharoah Sanders.",
+   "title_meaning": "",
+   "pull_quote": "With Pharaoh Sanders we did one of the Gnawa pieces, “Blue Moses”",
+   "pull_quote_block_id": 309840,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Pharaoh Sanders",
+     "name": "Pharoah Sanders",
+     "role": ""
+    }
+   ],
+   "pieces_named": [],
+   "part_of": "khepera",
+   "discrepancies": "'Pharaoh' is a misspelling of Pharoah.",
+   "notable": 1,
+   "notes": "The quote ends where the transcript's run-on sentence turns to Chief Bey."
+  },
+  {
+   "key": "love_the_mystery_of",
+   "title_as_transcribed": "Love The History Of",
+   "title": "Love, the Mystery Of",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309840
+   ],
+   "what_he_says": "On Khepera, Chief Bey played African percussion and sang on Kofi Ghanaba's theme song, a composition by Ghanaba (formerly Guy Warren of Ghana), which Weston also calls his own theme song.",
+   "title_meaning": "",
+   "pull_quote": "Chief played African percussion and did some singing on Kofi Ghanaba, before known as Guy Warren from Ghana, his theme song. My theme song, which his composition called, “Love The History Of.”",
+   "pull_quote_block_id": 309840,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Chief Bey",
+     "name": "Chief Bey",
+     "role": "African percussion, singing"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": "khepera",
+   "discrepancies": "The transcript's 'Love The History Of' is a mishearing of 'Love, the Mystery Of', Guy Warren's (Kofi Ghanaba's) composition and Weston's long-time theme.",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "spirit_the_power_of_music",
+   "title_as_transcribed": "Spirit: The Power of Music",
+   "title": "Spirit! The Power of Music",
+   "kind": "live_album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309841,
+    309843,
+    309846,
+    309847
+   ],
+   "what_he_says": "He brought six Gnawa to New York, three from Tangier and three from Marrakech, for a concert in a Christian church on Lafayette Avenue in Brooklyn. Babatunde Olatunji opened with his dancers and musicians, and then Weston's group played with the Gnawa. He said Yoruba, Islam and Christianity were present together through music, before an audience of every denomination, colour, age and gender.",
+   "title_meaning": "",
+   "pull_quote": "In this Christian church we had three religions at the same time, through music: Yoruba, Islam, and Christianity. In the audience were all the denominations, all the colors, all the ages, and all the genders.",
+   "pull_quote_block_id": 309847,
+   "more_quotes": [
+    {
+     "block_id": 309847,
+     "quote": "It was powerful because we all experience a very powerful experience to see the whole connection of humanity, which can only happened with music."
+    },
+    {
+     "block_id": 309847,
+     "quote": "With music you don’t have to read to music, you don’t have to see to music, you just hear and you feel."
+    },
+    {
+     "block_id": 309846,
+     "quote": "I had these six Gnawa come to New York for concerts; three were from Tangiers, three from Marrakech."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "six Gnawa",
+     "name": "six Gnawa musicians (three from Tangier, three from Marrakech)",
+     "role": "Gnawa"
+    },
+    {
+     "as_transcribed": "Abdullah Al-Gourd",
+     "name": "Abdellah El Gourd",
+     "role": "Gnawa, Tangier"
+    },
+    {
+     "as_transcribed": "M’Barek Ben Othman",
+     "name": "M’Barek Ben Othman",
+     "role": "Gnawa chief, Marrakech"
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Neil Clarke",
+     "name": "Neil Clarke",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Babatunde Olatunji",
+     "name": "Babatunde Olatunji",
+     "role": "opening act, with his dancers and musicians"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "Weston contradicts himself on Olatunji. First 'at that particular concert we opened up with Babatunde Olatunji', then 'the night before that we had Olatunji'. Jenkins's 'Gnawa church' is presumably a mis-speaking or mishearing; the venue was a Christian church. The published title is 'Spirit! The Power of Music'. 'Abdullah Al-Gourd' is the Gnawa maalem Abdellah El Gourd. The transcript does not say Al-Gourd and Ben Othman performed at this concert, only that they are the Tangier and Marrakech contacts.",
+   "notable": 3,
+   "notes": "Weston could not remember the church's name. It may be the Lafayette Avenue Presbyterian Church, but that is unverified."
+  },
+  {
+   "key": "gnawa_field_recordings",
+   "title_as_transcribed": "I recorded and I met some of the old Gnawa",
+   "title": "Recordings of the old Gnawa, Tangier",
+   "kind": "session",
+   "year_as_stated": "1967",
+   "year": 1967,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309846
+   ],
+   "what_he_says": "Through Abdullah Al-Gourd, his first Gnawa contact in Tangier in 1967, he recorded and met some of the old Gnawa, men of 80 and 90 who remembered walking across the Sahara.",
+   "title_meaning": "",
+   "pull_quote": "Because of him, I recorded and I met some of the old Gnawa. I met Gnawa who were 80 and 90 years old, who remember were walking across the Sahara desert.",
+   "pull_quote_block_id": 309846,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Abdullah Al-Gourd",
+     "name": "Abdellah El Gourd",
+     "role": "contact, Gnawa"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "The year is that of his first contact; the transcript does not date the recordings themselves."
+  },
+  {
+   "key": "ancient_future",
+   "title_as_transcribed": "Ancient Future",
+   "title": "Ancient Future",
+   "kind": "album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309851,
+    309852,
+    309853,
+    309854,
+    309855,
+    309856
+   ],
+   "what_he_says": "He said the solo piano record took its idea from Dr. Wayne Chandler's book: to go ahead we have to go back and know where we came from as a human race. He set this against a world hung up on machines, cell phones and buttons, and said he plays as he does because of human contact with masters such as Monk, Basie, Hawkins and Gillespie. Asked why it was solo, he traced his solo playing to the 1974 festival, the Berkshires and Antibes, and said 'maybe with this one, I wanted to express something by doing solo piano'.",
+   "title_meaning": "From Wayne Chandler's book: in order to go ahead we have to go back.",
+   "pull_quote": "The whole idea from “Ancient Future” is for us to go ahead we have to know where we came from as a human race, and where we are going to go.",
+   "pull_quote_block_id": 309852,
+   "more_quotes": [
+    {
+     "block_id": 309852,
+     "quote": "That wonderful book that Dr. Wayne Chandler wrote, which says that in order for us to go ahead we have got to go back."
+    },
+    {
+     "block_id": 309852,
+     "quote": "The purpose of “Ancient Future” was inspired by that book to somehow bring us back."
+    },
+    {
+     "block_id": 309856,
+     "quote": "Maybe with this one, I wanted to express something by doing solo piano."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "solo piano"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "",
+   "notable": 2,
+   "notes": "Jenkins calls it a solo piano record; Weston does not dispute this."
+  },
+  {
+   "key": "rites_of_spring",
+   "title_as_transcribed": "Rites Of Spring",
+   "title": "The Rite of Spring",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309852
+   ],
+   "what_he_says": "He cited Stravinsky's piece as an example of music adapting to its environment: in it you can feel Russia.",
+   "title_meaning": "",
+   "pull_quote": "So if you listen to “Rites Of Spring” by Stravinsky, you can feel Russia, you know?",
+   "pull_quote_block_id": 309852,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Stravinsky",
+     "name": "Igor Stravinsky",
+     "role": "composer"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "The published title is 'The Rite of Spring'.",
+   "notable": 0,
+   "notes": "This is not Weston's work. He names it only as an example."
+  },
+  {
+   "key": "duke_ellington_solo_1974",
+   "title_as_transcribed": "a solo rendition of Duke Ellington",
+   "title": "Tribute to Duke Ellington (solo piano, 1974)",
+   "kind": "session",
+   "year_as_stated": "1974",
+   "year": 1974,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309856
+   ],
+   "what_he_says": "At his first European festival in 1974, the year Duke Ellington died, he played a solo rendition of Ellington lasting about seven minutes. The Swiss audience told him they loved his solo piano.",
+   "title_meaning": "",
+   "pull_quote": "I was very close to Duke and I did a solo rendition of Duke Ellington, just solo piano, about seven minutes. When I got through those seven minutes, the Swiss audience said to me, “We love your solo piano.”",
+   "pull_quote_block_id": 309856,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "solo piano"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "The transcript says 'Montreal Jazz Festival', but the 'Swiss audience' makes it the Montreux Jazz Festival, Switzerland.",
+   "notable": 2,
+   "notes": "He gives no record. I believe the 1974 Montreux set was issued as the album 'Carnival' (Freedom), which includes a 'Tribute to Duke Ellington', but that is identification only and should be confirmed."
+  },
+  {
+   "key": "cole_porter_in_a_modern_mood",
+   "title_as_transcribed": "a solo recording for Riverside … my first recording of Cole Porter",
+   "title": "Cole Porter in a Modern Mood",
+   "kind": "album",
+   "year_as_stated": "1954",
+   "year": 1954,
+   "label_as_stated": "Riverside",
+   "raised_by": "weston",
+   "block_ids": [
+    309856,
+    309882
+   ],
+   "what_he_says": "Riverside heard him playing solo piano in Berkshires hotels in 1954 and wanted a solo album. It was their first recording and his. He wanted a trio, they argued, and they compromised on piano and bass with Sam Gill. He said he was always reluctant to play solo because he grew up with the royalty of the piano.",
+   "title_meaning": "",
+   "pull_quote": "But, they heard me in solo piano in 1954 and Riverside Records; they wanted me to do a solo album. I didn’t want to do a solo album, I wanted a trio and we argued about that. Finally, we compromised with myself and Sam Gill on bass. So, my first recording of Cole Porter was piano and bass, but they wanted me to do solo piano.",
+   "pull_quote_block_id": 309882,
+   "more_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "My very first recording, Riverside records heard me in the Berkshires. I did their first recording, and my first recording."
+    },
+    {
+     "block_id": 309882,
+     "quote": "But I’m happy that people like me doing solo piano, but I was always reluctant because, like I said, I grew up with the heavyweights."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "piano"
+    },
+    {
+     "as_transcribed": "Sam Gill",
+     "name": "Sam Gill",
+     "role": "bass"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "The transcript contradicts itself: 'I did a solo recording for Riverside' (309856), but then the first Riverside record was a compromise for piano and bass with Sam Gill (309882). As far as I know Weston made no solo album for Riverside. 'their first recording' is Weston's claim and is not verified.",
+   "notable": 2,
+   "notes": "I identified the title, 'Cole Porter in a Modern Mood' (Riverside, 1954), from his description; he does not name it."
+  },
+  {
+   "key": "live_in_st_lucia",
+   "title_as_transcribed": "a concert live in St. Lucia",
+   "title": "Live in St. Lucia",
+   "kind": "dvd",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309857,
+    309858,
+    309859,
+    309860,
+    309861
+   ],
+   "what_he_says": "Jenkins called it his most recent recording with his regular ensemble, an outdoor concert in St. Lucia also issued on DVD. Weston said the hot weather, the audience and the climate made it wonderful. They played his usual songs, which he defended as carrying eternal messages, as Duke Ellington's did.",
+   "title_meaning": "",
+   "pull_quote": "In a warm climate, you know, like St. Lucia, it was wonderful. There was a lot of energy and everybody felt really good.",
+   "pull_quote_block_id": 309859,
+   "more_quotes": [
+    {
+     "block_id": 309858,
+     "quote": "Then I realized, certain songs, the messages are eternal, nothing changes."
+    },
+    {
+     "block_id": 309859,
+     "quote": "The climate has a lot to do with how you play. Maybe what you had for breakfast may affect how you play, maybe who you see, I don’t know. It’s a whole spiritual thing."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Benny",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Alex",
+     "name": "Alex Blake",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Randy Weston",
+     "name": "Randy Weston",
+     "role": "piano"
+    },
+    {
+     "as_transcribed": "Neil Clarke",
+     "name": "Neil Clarke",
+     "role": ""
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "",
+   "notable": 2,
+   "notes": "Jenkins says it exists on DVD and Weston agrees ('Yes'). The title is my identification."
+  },
+  {
+   "key": "zep_tepi",
+   "title_as_transcribed": "Zep Tepi",
+   "title": "Zep Tepi",
+   "kind": "album",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309862,
+    309863,
+    309864,
+    309865
+   ],
+   "what_he_says": "He said the trio record with his regular men, Alex Blake and Neil Clarke, is named for an ancient Egyptian phrase meaning 'the first time': the moment after silence when the creator gave us music, vibration by vibration. He repeated earlier songs such as 'Berkshire Blues'. It was recorded at a studio on the Lower East Side by an independent engineer, 'Rick Congress'.",
+   "title_meaning": "Ancient Egyptian for 'the first time': when the creator first gave us music.",
+   "pull_quote": "“Zep Tepi” is an ancient Egyptian word, it means “the first time”. It’s when the creator decided to give us music, because it was a time when there was just silence, there was nothing.",
+   "pull_quote_block_id": 309863,
+   "more_quotes": [
+    {
+     "block_id": 309863,
+     "quote": "All of the sudden there was one vibration, then two vibrations, then three vibrations, and these vibrations came to various kingdoms: the animal kingdom, the vegetable kingdom, and then man; man arrived."
+    },
+    {
+     "block_id": 309863,
+     "quote": "That means when the creator gave us music for the first time, he gave us the foundation and from that up until 2009 the whole planet can share, express, and enjoy, what we call music."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Neil Clark",
+     "name": "Neil Clarke",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Rick Congress",
+     "name": "Rick Congress",
+     "role": "recording engineer"
+    }
+   ],
+   "pieces_named": [
+    "Berkshire Blues",
+    "Tamashii"
+   ],
+   "part_of": null,
+   "discrepancies": "'Neil Clark' is Neil Clarke. 'Rick Congress' is unverified and may be misheard. The roles for Blake and Clarke are not stated in this block; I added them from the rest of the interview and identification.",
+   "notable": 3,
+   "notes": "'up until 2009' is about music since creation, not a recording date. Jenkins calls Zep Tepi his most recent recording."
+  },
+  {
+   "key": "berkshire_blues",
+   "title_as_transcribed": "Berkshire Blues",
+   "title": "Berkshire Blues",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309863
+   ],
+   "what_he_says": "An earlier song of his that he repeated on Zep Tepi.",
+   "title_meaning": "",
+   "pull_quote": "I repeated some of my earlier songs like “Berkshire Blues”.",
+   "pull_quote_block_id": 309863,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "zep_tepi",
+   "discrepancies": "",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "tamashii",
+   "title_as_transcribed": "Tamashii",
+   "title": "Tamashii",
+   "kind": "composition",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "",
+   "raised_by": "jenkins",
+   "block_ids": [
+    309864,
+    309865,
+    309866,
+    309867
+   ],
+   "what_he_says": "Jenkins pointed to a short piece on Zep Tepi with a Japanese feel. Weston named it 'Tamashii' and said yes, it was inspired by his Japanese experience. That led into the story of his sister's death in 2001 and the Kamigamo shrine.",
+   "title_meaning": "",
+   "pull_quote": "Oh my god yes. Japanese experience, wow! That’s very deep.",
+   "pull_quote_block_id": 309867,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": "zep_tepi",
+   "discrepancies": "",
+   "notable": 2,
+   "notes": "He does not translate the title. ('Tamashii' is Japanese for soul or spirit; identification only.)"
+  },
+  {
+   "key": "african_sunrise",
+   "title_as_transcribed": "African Sunrise",
+   "title": "African Sunrise",
+   "kind": "composition",
+   "year_as_stated": "November 5th and 6th",
+   "year": 2009,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309880
+   ],
+   "what_he_says": "One of three pieces he was about to perform in two concerts with Arturo O'Farrill's orchestra on 5 and 6 November.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Arturo O’Farrill’s Cuban Orchestra",
+     "name": "Arturo O'Farrill's Afro Latin Jazz Orchestra",
+     "role": "orchestra"
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "'Cuban Orchestra' is presumably Arturo O'Farrill's Afro Latin Jazz Orchestra.",
+   "notable": 1,
+   "notes": "The year is the interview year (October 2009), for concerts still to come. The sentence naming the pieces contains '[inaudible]' and cannot be quoted."
+  },
+  {
+   "key": "blues_to_africa",
+   "title_as_transcribed": "Blues to Africa",
+   "title": "Blues to Africa",
+   "kind": "composition",
+   "year_as_stated": "November 5th and 6th",
+   "year": 2009,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309880
+   ],
+   "what_he_says": "One of three pieces for the forthcoming O'Farrill orchestra concerts.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "This is also the title of a Weston album, but here it is named as a piece."
+  },
+  {
+   "key": "african_village_bedford_stuyvesant",
+   "title_as_transcribed": "African Voodoo [inaudible]",
+   "title": "African Voodoo [inaudible]",
+   "kind": "composition",
+   "year_as_stated": "November 5th and 6th",
+   "year": 2009,
+   "label_as_stated": "",
+   "raised_by": "weston",
+   "block_ids": [
+    309880
+   ],
+   "what_he_says": "The third piece named for the forthcoming O'Farrill orchestra concerts; the title is partly inaudible.",
+   "title_meaning": "",
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "personnel_as_stated": [],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "The title is garbled and partly inaudible. It is probably Weston's 'African Village Bedford-Stuyvesant', but that is a guess.",
+   "notable": 0,
+   "notes": "I kept the title in its transcribed form because I am not sure of it."
+  },
+  {
+   "key": "randy_in_tangiers",
+   "title_as_transcribed": "Randy in Tangiers",
+   "title": "Randy in Tangiers",
+   "kind": "film",
+   "year_as_stated": "",
+   "year": null,
+   "label_as_stated": "channel three in France and Spanish television",
+   "raised_by": "weston",
+   "block_ids": [
+    309885,
+    309887
+   ],
+   "what_he_says": "He said a French director made a documentary on him, 'Randy in Tangiers', for French and Spanish television, covering his life in Morocco through three traditional groups: the Gnawa, a Sufi brotherhood in Tangier, and the musicians of Jajouka in the Rif. He brought over his sextet, who had to ride donkeys up the mountain to Jajouka.",
+   "title_meaning": "",
+   "pull_quote": "They did a film, a documentary, on me called “Randy in Tangiers,” which was a combination of channel three in France and Spanish television.",
+   "pull_quote_block_id": 309885,
+   "more_quotes": [
+    {
+     "block_id": 309885,
+     "quote": "The director was a French director and so, to do the film it would cover my life in Morocco, basically with three traditional groups."
+    },
+    {
+     "block_id": 309885,
+     "quote": "When you go with traditional music anywhere on the planet, that’s when you become close to the people. The music and the food are the two keys, anywhere you go on the planet earth."
+    }
+   ],
+   "personnel_as_stated": [
+    {
+     "as_transcribed": "Alan Hayward",
+     "name": "Al Hayward",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Tom McKenzie",
+     "name": "Tom McKenzie",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Eric Asante",
+     "name": "Eric Asante",
+     "role": "African percussion"
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Billy Hopper",
+     "name": "Billy Harper",
+     "role": ""
+    }
+   ],
+   "pieces_named": [],
+   "part_of": null,
+   "discrepancies": "'Billy Hopper' (309885) is Billy Harper, as he names him in 309887. The drummer appears as both 'Alan Hayward' and 'Al Hayward'. The bassist Weston could not recall at first is later given as 'Tom McKenzie', which is unverified. The French broadcaster ('channel three') is presumably France 3. The second group, 'the Gullah people', 'Sufi masters' in Tangier, is likely a mishearing, perhaps of Jilala, a Sufi brotherhood; it cannot be the Gullah of the US.",
+   "notable": 2,
+   "notes": "The film's title is given only as transcribed; I could not verify the published title."
+  }
+ ]
+}

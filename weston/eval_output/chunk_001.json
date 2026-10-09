@@ -1,0 +1,1113 @@
+{
+ "subject": "weston",
+ "chunk": 1,
+ "count": 41,
+ "chunk_top": [
+  216728,
+  216650,
+  289827
+ ],
+ "items": [
+  {
+   "block_id": 168734,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hamilton front matter"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Archive front-matter biography of Ron Carter (not interview speech); lists Weston among early New York employers alongside Chico Hamilton and Eric Dolphy. relationship 'personally' rests only on this bio's statement that Carter played with Weston; Carter himself says nothing about him in this chunk."
+  },
+  {
+   "block_id": 194627,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Riverside Records",
+    "Thelonious Monk"
+   ],
+   "summary": "Keepnews named Weston among the easygoing artists ('all pussycats') he had recorded before the formidable Thelonious Monk.",
+   "pull_quote": "before I got involved with Thelonious I had been in the studio with people like Randy Weston, Mundell Lowe, Billy Taylor, you know all pussycats.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Pull quote starts mid-sentence (preceded by 'I mean I had done a few things — '). The block is about Monk; Weston is one of three names offered as contrast. Target is split across page breaks at both ends, but the Weston sentence is complete."
+  },
+  {
+   "block_id": 194705,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition",
+    "historical_context",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Hi-Fly",
+    "Cannonball Adderley",
+    "This Here",
+    "6/8 / waltz"
+   ],
+   "summary": "Keepnews said Cannonball Adderley's live album held what he believed was the first recording of Weston's 'Hi-Fly', by then a classic, and that Cannonball introduced it by calling Weston the waltz king of jazz.",
+   "pull_quote": "But we weren’t a hundred percent sure, and it was another number that got tremendous reaction, this was the first recording as far as I know of Randy Weston’s “High Fly” which of course has become quite a classic in its own right, and so we put that as the first number on the B side, as a back-up.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Tune transcribed as 'High Fly' (= Hi-Fly). The 'waltz king' line is Cannonball's on-record patter, reported by Keepnews, not Weston's words. In context_after 'He got into 6/8 a lot' refers to Cannonball, not Weston (pronoun trap). Keepnews's 'first recording as far as I know' is his own hedge."
+  },
+  {
+   "block_id": 204752,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "humor"
+   ],
+   "relationship": "secondhand",
+   "block_is_firsthand": false,
+   "topics": [
+    "height"
+   ],
+   "summary": "McKenna, joking about being called a giant of the piano, offered Weston (with Stan Kenton) as an example of a bigger piano player.",
+   "pull_quote": "Yeah, but there’s bigger piano players, too. Remember Stan Kenton? How about Randy Weston?",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "A joke about physical height; continues in the next block (204754). No first-person contact with Weston anywhere in the window."
+  },
+  {
+   "block_id": 204754,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "humor",
+    "anecdote",
+    "hearsay"
+   ],
+   "relationship": "secondhand",
+   "block_is_firsthand": false,
+   "topics": [
+    "height",
+    "Wilt Chamberlain"
+   ],
+   "summary": "McKenna passed on a story about the very tall Weston being dwarfed when he stood next to Wilt Chamberlain.",
+   "pull_quote": "Did you hear about Randy Weston and some other tall piano player came in and happened to be standing next to Wilt Chamberlain, and that reduced everything.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Hearsay ('Did you hear about…'). 'He's tall' in the last sentence is ambiguous: probably Weston, possibly Chamberlain."
+  },
+  {
+   "block_id": 211029,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Five Spot",
+    "Café Bohemia",
+    "Greenwich Village",
+    "1957"
+   ],
+   "summary": "Ousley recalled going down to the Village clubs around 1957, when Weston had a residency there working six nights a week.",
+   "pull_quote": "And then down at the Village they had the Five Spot and they had the Club Bohemia, you know and I would go down there at the time Randy Weston was down there and he worked, in fact they had music seven nights a week, I think Randy worked six and on Monday nights they had off night groups.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Input flagged ends_midsentence, but the block ends on a complete sentence followed by the page marker; corrected to false. Date ('I came here in ’57') is from context_after. relationship 'personally' is set for the whole Ousley interview on the strength of 211065 (he interviewed artists such as Weston on his TV show); this block itself only shows Ousley hearing him at a club."
+  },
+  {
+   "block_id": 211065,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Manhattan Neighborhood Network",
+    "cable TV interviews"
+   ],
+   "summary": "Ousley named Weston as an example of the artists he interviewed on his public-access TV shows so audiences could hear what they think.",
+   "pull_quote": "And so doing interviews gives me an opportunity to do interviews with artists, say like Randy Weston, that people may go to hear but don’t get a chance to hear what they feel and what they think and what’s important to them.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "'say like Randy Weston' is an example; it implies but does not state outright that Weston was a guest. Input flagged ends_midsentence; block ends on a complete sentence before the page marker, corrected to false."
+  },
+  {
+   "block_id": 211108,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "music publishing",
+    "Donald Byrd"
+   ],
+   "summary": "Owens named Weston, after Donald Byrd, as one of his mentors and said Weston taught him how music publishing works.",
+   "pull_quote": "Randy Weston was one of my mentors also. He taught me a lot about the business — publishing, and how publishing works.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "block_id": 211176,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Collective Black Artists",
+    "Donald Byrd",
+    "music business"
+   ],
+   "summary": "Owens repeated that his mentors Donald Byrd and Weston taught him the business side of music, which led him to co-found the Collective Black Artists and teach a course on the music industry.",
+   "pull_quote": "As I had mentioned earlier, you know, mentors like Donald Byrd and Randy Weston helped me to understand the business side of music and speaking after getting to know these men as musicians, and speaking with people like Horace Silver and Benny Golson and Quincy Jones, they taught me more.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Repeats 211108 ('As I had mentioned earlier'); 211108 has the cleaner line."
+  },
+  {
+   "block_id": 216608,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hamilton front matter"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Front-matter biography of Benny Powell (interview 1 of 2): 'Benny currently lives in New York and tours with the jazz ensemble led by Randy Weston.' Metadata: the title says 'interviewed by Monk Rowe', but the note in context_after and the speaker labels (MW) say Michael Woods conducted this interview."
+  },
+  {
+   "block_id": 216628,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "anecdote",
+    "personal_memory",
+    "working_relationship",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Morocco",
+    "Tangier",
+    "Gnawa",
+    "Al Harewood"
+   ],
+   "summary": "Powell recalled going to Morocco with Weston about seven years earlier to film his return there, said fifteen years in his band had been glorious, and told how Weston's father had told him he was an African born in America.",
+   "pull_quote": "I’ve been playing with Randy Weston for about the last 15 years, and it’s really been glorious what I’ve been through.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Long anecdote (donkeys up the hill, the falling branch); most of it is about the trip, Al Harewood and the village rather than Weston. Powell runs the Gnawa together with the village he calls 'Joujouka' and says 'Brian Smith' of the Rolling Stones; kept as spoken. Also usable: 'his father told him that he was an African who just happened to be born in America' (inside a messier sentence). Continues into 216629 ('whirl themselves into a trance')."
+  },
+  {
+   "block_id": 216650,
+   "is_about_subject": true,
+   "mention_kind": "quoted_speech",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "bandleading",
+    "musical_assessment",
+    "character_description",
+    "comparison",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Count Basie",
+    "BET"
+   ],
+   "summary": "Powell said that when he joined Weston fifteen years earlier, Weston told him he was 'just trying to put the magic back in music', called him a spellbinder who leads by example like Count Basie, and said Weston gave him room to create his own parts.",
+   "pull_quote": "He said, “BP,” most people who like me call me BP, he said, “I’m just trying to put the magic back in music.” And boy can he ever do it. He is a spellbinder.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Also strong in the same block: 'he’s just like Count Basie, I can’t say only better' and Weston's reply about the unwritten parts: 'I don’t know, find a pretty one and play it.' Starts mid-sentence at a page break, but the Weston passage is whole. context_after (216652-53): Weston pays well and will not hire you if he cannot pay properly."
+  },
+  {
+   "block_id": 216680,
+   "is_about_subject": true,
+   "mention_kind": "archive_boilerplate",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hamilton front matter"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Front-matter biography of Benny Powell (interview 2 of 2), nearly identical to 216608."
+  },
+  {
+   "block_id": 216706,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "practice",
+    "piano"
+   ],
+   "summary": "Powell called Weston the greatest pianist in the world and said it was a joy to work with him, because every time he sat down at the piano it sounded like a concerto.",
+   "pull_quote": "I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Shorter alternative: 'It sounds like a concerto every time he sits down. It’s amazing.' The sentence 'you know Randy Weston is the greatest pianist in the world' trails off into a self-correction about practising and is hard to quote cleanly."
+  },
+  {
+   "block_id": 216708,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description",
+    "africa"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "spirituality",
+    "research",
+    "Talib Kibwe",
+    "Morocco"
+   ],
+   "summary": "Powell agreed that Weston was exceptionally spiritual, called him the most scholarly person he knew, and said Weston and his bandmates spent their days off researching in libraries.",
+   "pull_quote": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'Oh he is' answers Rowe's 'He seems like a very spiritual person, reading his liner notes' (216707), so 'he' is Weston. The later 'these guys' widens to the whole band."
+  },
+  {
+   "block_id": 216710,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "character_description",
+    "humor",
+    "africa",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Jamaica",
+    "Morocco",
+    "United Nations",
+    "airport"
+   ],
+   "summary": "Powell called Weston's communication skills magnificent and told how, flying back from Jamaica, Weston charmed a ticket agent into putting a load of percussion on his first-class ticket while telling the band how pretty she was.",
+   "pull_quote": "For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'Oh well he does fantastic stuff' follows Rowe quoting Powell's earlier line about communicating with people; 'he' is Weston. Weston's words are reported without quotation marks ('isn’t she pretty? I love the people down here'). Biographical claims (lives in Marrakesh and Brooklyn, working with the United Nations, 30 years in Africa) are Powell's own and not checked."
+  },
+  {
+   "block_id": 216712,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Alex Blake",
+    "Seville",
+    "Khepera",
+    "Min Xiao Fen"
+   ],
+   "summary": "Powell showed a newspaper photo of Weston's group in Seville and described the band and its latest album, Khepera, about the African presence in the Shang dynasty.",
+   "pull_quote": "Our last album concerned the African presence in the Shang Dynasty.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Mostly about bassist Alex Blake and pipa player Min Xiao Fen. The block ends mid-sentence ('But Randy has such a beautiful'), and the good line is in the next block, 216713 ('he’s like Duke Ellington. He can meld anything'). 'the regular bass player with her' is probably a mis-hearing or a slip."
+  },
+  {
+   "block_id": 216713,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "bandleading",
+    "musical_assessment",
+    "comparison",
+    "africa"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Duke Ellington",
+    "Moroccan musicians",
+    "Min Xiao Fen",
+    "pipa"
+   ],
+   "summary": "Powell compared Weston to Duke Ellington, saying he could meld anything thanks to his beautiful organizational sense, so that within minutes of starting with Moroccan musicians the band sounded as if they had worked together for years.",
+   "pull_quote": "way, he’s like Duke Ellington. He can meld anything because I think, well I don’t know, he has just the most beautiful organizational sense.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Begins mid-sentence: the sentence starts in 216712 ('But Randy has such a beautiful'). The pull quote therefore opens on the fragment 'way,'. An editor could join it to the previous block's end. Alternative from inside the block: 'And in two or three minutes it sounds like they’ve been working together for years.'"
+  },
+  {
+   "block_id": 216727,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Melba Liston",
+    "dialysis"
+   ],
+   "summary": "Powell said Melba Liston and Weston were very close, that Weston looked out for her, and called him a wonderful human being, which leads into his dialysis story.",
+   "pull_quote": "She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Ends mid-sentence at a page break ('before I got a kidney'); the dialysis story continues in 216728. 'She' is Melba Liston (from context_before), who did Weston's arrangements."
+  },
+  {
+   "block_id": 216728,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "character_description",
+    "bandleading",
+    "personal_memory",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "dialysis",
+    "European tour",
+    "Seville",
+    "New York organ donor network"
+   ],
+   "summary": "Powell told how Weston arranged dialysis for him three times a week on European tours, had the back of the tour bus made into a bed for him, and offered to carry the trombonist's bags, which made Powell call him an example of an employer who understands an employee's problems.",
+   "pull_quote": "One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.” But he’s just a wonderful — I can’t sing his praises enough.",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "fts_supplement: the block names him only as 'Randy' plus pronouns. Identity is certain from the window: it continues 216727 ('she and Randy are very close… When I was going through this dialysis'), from a Powell interview about touring in Randy Weston's group, and he is 'six foot six' and 'the boss'. Begins and ends mid-sentence across page breaks. The last third switches to Al Grey and the Basie band (pronoun trap). Also usable: 'he comes across the Atlantic like it’s the crosstown bus'."
+  },
+  {
+   "block_id": 216730,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "bandleading",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "April in Paris",
+    "Count Basie",
+    "long solos"
+   ],
+   "summary": "Powell contrasted the eight-bar bridge he got with Basie with Weston's band, where he could play long solos until he was blue in the face.",
+   "pull_quote": "So to be with Randy, you can play until you’re blue in the face with Randy. I mean you can play long solos. I run out of breath before we run out of time.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Most of the block is about Basie, 'April in Paris' and Mel Tormé; Weston appears only in the last three sentences. 'Randy' here is clearly Weston (his band, same interview)."
+  },
+  {
+   "block_id": 216744,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Lionel Hampton band",
+    "showmanship"
+   ],
+   "summary": "Powell, talking about showmanship in Hampton's band, began a story about touring with Weston in Germany that continues in the next block.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "The only mention is the last words, 'Randy, working with', which are cut off at the page break. The anecdote itself (Weston's solo opening set) is in 216745. Nothing quotable about him."
+  },
+  {
+   "block_id": 216745,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "humor",
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "solo piano",
+    "African clothes",
+    "European tour"
+   ],
+   "summary": "Powell recalled listening on a dressing-room monitor as Weston opened a concert solo and joked to the band that Weston played so much piano he did not need them, except as company to swap stories with after the gig.",
+   "pull_quote": "He was playing so much piano that I told the guys in the band, “Damn, Randy doesn’t need us out her with him, what the hell are we doing out here?”",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "The input says the block does not start mid-sentence, but it does: it continues 216744 ('Randy, working with / Randy Weston, he usually goes on first'), so truncated_target is set to true. 'out her' is the transcript's spelling of 'out here', kept verbatim."
+  },
+  {
+   "block_id": 216788,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "small groups"
+   ],
+   "summary": "Powell said that after years in big bands he was pleased to finally be playing in a small group with Weston.",
+   "pull_quote": "That’s why I’m so pleased about Randy’s thing, because I’ve always wanted to work with a small group and here I am 587 and I’m getting the chance to do it.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Most of the block is about Charlie Ventura, Mingus and Illinois Jacquet. '587' is Powell's joke about his age or a transcription oddity, kept verbatim."
+  },
+  {
+   "block_id": 216819,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "European tour",
+    "Dizzy Gillespie",
+    "Talib Kibwe",
+    "photograph"
+   ],
+   "summary": "Powell showed a photo taken on a European tour with Weston's band, which they sent to Dizzy Gillespie when he was ill.",
+   "pull_quote": "This was taken on a tour with Randy Weston, when Dizzy Gillespie was sick.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts mid-sentence ('band leader friend' completes the Lionel Hampton sentence in 216818). Sidemen names are transcribed unevenly (Eric Assasnte / Ajie / Assante)."
+  },
+  {
+   "block_id": 216821,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Max Roach",
+    "idols"
+   ],
+   "summary": "Powell said that even around Max Roach and Weston he still felt like a little kid in the presence of his idols.",
+   "pull_quote": "And I still feel like a little kid when I’m around — just recently I was at Lincoln Center two nights ago, and to pay tribute to Duke Ellington, and well even around Max and Randy, I still feel like the little kid who’s wow, these are my idols.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "He is named only as a bare 'Randy' paired with 'Max'. In this interview the bare 'Randy' always means Weston and Powell has just shown a Weston tour photo, so it is very likely him."
+  },
+  {
+   "block_id": 220560,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Lambert, Hendricks & Ross",
+    "High Flying"
+   ],
+   "summary": "Ross named the Lambert, Hendricks & Ross album 'High Flyin’' as a favourite and said its Weston pieces were wonderful.",
+   "pull_quote": "I loved “High Flyin’” which didn’t get that much distribution but it was a good album, and those things of Randy Weston’s are wonderful.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'those things of Randy Weston’s' means his tunes as sung by LH&R; the window doesn't name which. No personal contact with Weston is shown in the window, so relationship is 'unclear'."
+  },
+  {
+   "block_id": 226809,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hi-Fly",
+    "Baltimore",
+    "Gary Bartz"
+   ],
+   "summary": "Smith, asked about his early set lists with Gary Bartz in Baltimore, played a tune at the piano that Rowe identified as Weston's 'Hi-Fly', and Smith said they played things like that.",
+   "pull_quote": "Oh yeah, Randy Weston. “High Fly”?",
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Rowe is naming the tune Smith had just played ([plays] in 216808). Smith answers 'I forgot it. Then you know we’d do something like that' and adds nothing about Weston. Hi-Fly is transcribed as 'High Fly'."
+  },
+  {
+   "block_id": 246437,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "legacy_influence"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "kora",
+    "African instruments"
+   ],
+   "summary": "Brown called a possible Barron project with African instruments like the kora 'Randy Weston territory'; Barron answered only with Hank Jones's kora recording and said nothing about Weston.",
+   "pull_quote": "Randy Weston territory.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement: the full name 'Randy Weston' is spoken by the interviewer (speaker label 'Brown') in response to Barron's mention of African instruments (cora). Identity is clear from the African-music context; it is not one of the other Randys. The interviewer's framing treats Weston as the reference point for jazz with African instruments; the interviewee adds nothing."
+  },
+  {
+   "block_id": 262856,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": true,
+   "topics": [
+    "Jazzmobile",
+    "Harlem",
+    "Billy Taylor"
+   ],
+   "summary": "DeJohnette said he used to go to hear Weston play on the Jazzmobile in Harlem in the mid-1960s.",
+   "pull_quote": "I used to go hear Randy Weston play there.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'there' refers to the Jazzmobile flatbed-truck concerts in Harlem. DeJohnette heard him from the audience; no personal contact is shown, so relationship is 'unclear'. The story moves straight on to Idris Muhammad and Don Pullen."
+  },
+  {
+   "block_id": 272701,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Five Spot",
+    "Jazztet"
+   ],
+   "summary": "Fuller recalled that the Five Spot always booked two groups, and that the first had been Weston and his quartet before Art Farmer came in.",
+   "pull_quote": "They always hire two groups at The Five Spot. First, it was Randy Weston and his quartet.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "The transcript is garbled ('Jerry Mulligan', 'Danny Golson'); it is unclear whether Weston's quartet was the other band on the bill with the Jazztet or an earlier booking. The rest of the block is about forming the Jazztet."
+  },
+  {
+   "block_id": 286785,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition",
+    "working_relationship",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "New York 1950s",
+    "Horace Silver"
+   ],
+   "summary": "Hendricks, asked whom he admired when he arrived on the scene, named Weston first, said he worked with him then, and called him very creative, writing what Hendricks considered his best tunes at that time.",
+   "pull_quote": "I liked Randy Weston. I worked with Randy at that time. Randy was very creative. At that time he did all of what I consider his best tunes.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'his best tunes' is mild praise with a reservation: it implies the later work was less strong. The block then turns to Horace Silver and the Jazz Messengers."
+  },
+  {
+   "block_id": 286788,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Jazz Messengers",
+    "Horace Silver"
+   ],
+   "summary": "Asked where Weston fitted among Horace Silver and the Jazz Messengers, Hendricks answered that he was not part of that group, had his own style, and often used Ray Copeland on trumpet and Booker Ervin on tenor.",
+   "pull_quote": "Where did Randy Weston fit in there?",
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Zimmerman's question; the answer is in 286789. Next Zimmerman notes Hendricks wrote lyrics to 'Little Niles' and 'Hi-Fly' (286790), and Hendricks does not take up the Weston tunes. relationship follows the Hendricks interview as a whole."
+  },
+  {
+   "block_id": 286789,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "bandleading"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Ray Copeland",
+    "Booker Ervin"
+   ],
+   "summary": "Hendricks said Weston was not part of the Silver–Blakey circle but had his own style, often using Ray Copeland on trumpet and Booker Ervin on tenor.",
+   "pull_quote": "Randy really wasn’t in there. He had his own style. He used Ray Copeland a lot on trumpet and Booker Ervin on tenor.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'That was a great tenor player, Booker' praises Ervin, not Weston (pronoun trap). The block only makes sense with Zimmerman's question in 286788."
+  },
+  {
+   "block_id": 287303,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "lyrics",
+    "vocalese"
+   ],
+   "summary": "Asked what drew him to write lyrics for composers including Weston, Hendricks said he heard a religious origin in their music and had written Weston's 'Blues for Strayhorn' as a church song.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Zimmerman's question lists Weston among Ellington, Basie, Davis, Parker and Timmons. The answer is in 287304."
+  },
+  {
+   "block_id": 287304,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Blues for Strayhorn",
+    "lyrics",
+    "church music"
+   ],
+   "summary": "Hendricks said he heard a religious origin in the music he set to words and had written his lyric to Weston's 'Blues for Strayhorn' as a church song.",
+   "pull_quote": "Randy Weston’s Blues for Strayhorn, I wrote as a church song.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The hymn lyric Hendricks sings and the 'secular lyric… sounded sacrilegious' passage are about Monk's 'Monk’s Mood', not Weston's tune (antecedent trap). There is a transcriber's bracket '[Hendricks sings:]' in the block; the pull quote avoids it."
+  },
+  {
+   "block_id": 287319,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "comparison",
+    "influence",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Duke Ellington",
+    "Thelonious Monk",
+    "Miles Davis",
+    "lineage"
+   ],
+   "summary": "Hendricks placed Weston in a lineage of depth running from Duke Ellington through Monk, saying that because he came from Monk he had some of that depth.",
+   "pull_quote": "Randy Weston also has depth, because he comes from Monk, which is the lineage Duke – Monk – Randy. So he has some of that depth.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "'some of that depth' is a slight hedge: praise ranked just below Duke and Monk. Most of the block compares Duke and Monk with Miles."
+  },
+  {
+   "block_id": 289827,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "business",
+    "hearsay",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Riverside Records",
+    "Miles Davis",
+    "Prestige",
+    "Bob Weinstock"
+   ],
+   "summary": "Keepnews recalled Miles Davis seeing Weston's Riverside albums on his office wall and saying he was glad somebody had finally recorded him, then refusing with scorn to recommend anyone to his own label boss, Bob Weinstock.",
+   "pull_quote": "We had some recent albums on the wall, including a couple of Randy Weston. I had, no, I look around and saw that Miles was looking at these things and I was…and he said, “Oh, Randy! I’m glad somebody got around to recording him. It should have been done along time ago,” and I said, “Well if you feel that way about Randy, why didn’t you recommend him to your label?”",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "The praise is Miles Davis's, reported first-hand by Keepnews. These are not Weston's words, so quotes_the_subject is false. 'along time ago' is verbatim. The block ends mid-sentence at a page break ('the same musical / compulsions?'), long after the Weston part. Most of the block is about Bill Evans and Jimmy Heath."
+  },
+  {
+   "block_id": 292074,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "legacy_influence",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Blue Moses",
+    "CTI",
+    "1972",
+    "Africa"
+   ],
+   "summary": "Brown introduced Weston's 1972 CTI album Blue Moses as the work of a strong spirit who influenced his generation by embracing and living in Africa; Laws replied that his own first trip to Africa came because of Weston.",
+   "pull_quote": "Randy Weston, who fortunately is still with us at 85, and a very strong spirit, very influential for a lot of – for at least my generation of musicians coming up and looking at him as somebody who’s bringing in other cultures, going out to Africa, embracing African culture, and actually living in Africa.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The interviewer's (Brown's) own warm framing, capped at notable 1. Laws added his own memory in 292077/292079: the Tangier trip with CTI artists. 'still with us at 85' dates the interview to about 2011."
+  },
+  {
+   "block_id": 292077,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "personal_memory",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Africa",
+    "Blue Moses",
+    "Tangier"
+   ],
+   "summary": "Laws said his first trip to Africa came about because of Weston.",
+   "pull_quote": "First time I went to Africa was because of Randy Weston.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Responds to Brown bringing up Blue Moses, on which Laws played. The trip is described in 292079 (Tangier with CTI artists)."
+  },
+  {
+   "block_id": 292079,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Tangier",
+    "CTI",
+    "Moroccan flute players"
+   ],
+   "summary": "Laws described playing in Tangier with other CTI artists and hearing Moroccan flute players, and was unsure whether Weston lived there.",
+   "pull_quote": "Randy Weston, I think he – I don’t know if he lived there.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The block is about the Tangier venue and the local flute players; Weston comes up only at the end. Brown confirms in context_after that he lived there ('He had his own place there'), and Laws concludes 'That’s why we got there.'"
+  }
+ ]
+}

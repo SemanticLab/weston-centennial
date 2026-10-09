@@ -1,0 +1,33 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+ "generated_from": "linked_jazz.sqlite + subagent evaluation pass",
+ "count": 1,
+ "method": "blocks the evaluators judged not to be about the subject; audit list for the upstream alias layer",
+ "items": [
+  {
+   "block_id": 292037,
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "speaker": "Liston",
+   "text": "I don’t know of anybody that’s doing that, but I don’t hear Benny Golson’s and Randy – I mean Ernie’s – I don’t hear those things, so I don’t know whether they’re doing that or not.",
+   "notes": "False positive: Liston says \"Randy\" and immediately corrects herself (\"I mean Ernie’s\") while naming arrangers whose shadings she has not heard (Benny Golson and, by the correction, presumably Ernie Wilkins). The block is not about Weston; at most a slip of the tongue.",
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b39-1"
+   },
+   "mention_source": "person_layer"
+  }
+ ]
+}

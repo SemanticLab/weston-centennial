@@ -1,0 +1,9 @@
+{
+ "weston": {
+  "items": 84,
+  "chunks": 2,
+  "chunk_size": 60,
+  "avg_before_blocks": 5.95,
+  "avg_window_chars": 3593
+ }
+}

@@ -1,0 +1,1736 @@
+{
+ "subject": "weston",
+ "subject_qid": "Q1371187",
+ "source": "track lines of album articles that link to him and credit him as a writer",
+ "count": 27,
+ "recordings": 87,
+ "method": "His tunes on OTHER people's records, as English Wikipedia's album articles document them: every release whose track listing names him as a writer and on which he does not play. Grouped by tune title (the first quoted string on the track line; 'Hi Fly' / 'Hi-Fli' folded into 'Hi-Fly'). This is a floor, not a count -- only albums with an article that links to him are seen, and most recordings of 'Hi-Fly' have neither. A track line may carry co-writers (Jon Hendricks's lyrics to 'Babe's Blues' and 'Pretty Strange'); it is kept verbatim in track_line.",
+ "items": [
+  {
+   "key": "hi fly",
+   "title": "Hi-Fly",
+   "spellings": [
+    "Hi Fly",
+    "Hi-Fli",
+    "Hi-Fly",
+    "High Fly"
+   ],
+   "recordings": [
+    {
+     "release": "At the Jazz Corner of the World",
+     "year": "1959",
+     "performers": [
+      {
+       "qid": "Q311715",
+       "name": "Art Blakey"
+      },
+      {
+       "qid": "Q1684482",
+       "name": "The Jazz Messengers"
+      }
+     ],
+     "description": "1959 live album by Art Blakey and the Jazz Messengers",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/At_the_Jazz_Corner_of_the_World",
+     "qid": "Q4812531",
+     "track_line": "3. - \" Hi-Fly \" - Randy Weston - 8:00",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Cannonball Adderley Quintet in San Francisco",
+     "year": "1959",
+     "performers": [
+      {
+       "qid": "Q110477",
+       "name": "Cannonball Adderley"
+      }
+     ],
+     "description": "1959 live album by Cannonball Adderley",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cannonball_Adderley_Quintet_in_San_Francisco",
+     "qid": "Q7721208",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 11:09",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Sister Salvation",
+     "year": "1960",
+     "performers": [
+      {
+       "qid": "Q1369035",
+       "name": "Slide Hampton"
+      }
+     ],
+     "description": "album by Slide Hampton",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Sister_Salvation",
+     "qid": "Q20979385",
+     "track_line": "\" Hi-Fli \" ( Randy Weston ) - 6:06",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Hottest New Group in Jazz",
+     "year": "1960",
+     "performers": [
+      {
+       "qid": "Q1801348",
+       "name": "Lambert, Hendricks & Ross"
+      }
+     ],
+     "description": "album by Lambert, Hendricks & Ross",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hottest_New_Group_in_Jazz",
+     "qid": "Q6481211",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 3:47",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Comin' Home Baby!",
+     "year": "1962",
+     "performers": [
+      {
+       "qid": "Q470848",
+       "name": "Mel Tormé"
+      }
+     ],
+     "description": "1962 studio album by Mel Tormé",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Comin'_Home_Baby!",
+     "qid": "Q5151866",
+     "track_line": "\" Hi-Fly \" ( Jon Hendricks , Randy Weston ) – 3:13",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Hi-Fly (Jaki Byard album)",
+     "year": "1962",
+     "performers": [
+      {
+       "qid": "Q1346401",
+       "name": "Jaki Byard"
+      }
+     ],
+     "description": "album by Jaki Byard",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Hi-Fly_(Jaki_Byard_album)",
+     "qid": "Q5750188",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 3:58",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Snap Your Fingers (album)",
+     "year": "1962",
+     "performers": [
+      {
+       "qid": "Q715687",
+       "name": "Al Grey"
+      }
+     ],
+     "description": "album by Al Grey",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Snap_Your_Fingers_(album)",
+     "qid": "Q30605460",
+     "track_line": "\" Hi-Fly \" (Weston) – 9:22",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Jazz Guitarist (album)",
+     "year": "1975",
+     "performers": [
+      {
+       "qid": "Q2399762",
+       "name": "Ted Dunbar"
+      }
+     ],
+     "description": "album by Ted Dunbar",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_Guitarist_(album)",
+     "qid": "Q6168244",
+     "track_line": "\" Hi-Fly \" - 5:50 ( Randy Weston )",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Phenix (album)",
+     "year": "1975",
+     "performers": [
+      {
+       "qid": "Q110477",
+       "name": "Cannonball Adderley"
+      },
+      {
+       "qid": "Q499649",
+       "name": "Nat Adderley"
+      }
+     ],
+     "description": "album by Cannonball Adderley and Nat Adderley",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Phenix_(album)",
+     "qid": "Q7181349",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) - 6:04",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Hi-Fly (Karin Krog and Archie Shepp album)",
+     "year": "1976",
+     "performers": [
+      {
+       "qid": "Q200791",
+       "name": "Archie Shepp"
+      },
+      {
+       "qid": "Q469800",
+       "name": "Karin Krog"
+      }
+     ],
+     "description": "1976 studio album by Karin Krog and Archie Shepp",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Hi-Fly_(Karin_Krog_and_Archie_Shepp_album)",
+     "qid": "Q11975309",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 14:01",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "No Blues (Horace Parlan album)",
+     "year": "1976",
+     "performers": [
+      {
+       "qid": "Q1627905",
+       "name": "Horace Parlan"
+      }
+     ],
+     "description": "1976 studio album by Horace Parlan",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/No_Blues_(Horace_Parlan_album)",
+     "qid": "Q7043986",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 8:03",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Hi-Fly (Horace Parlan album)",
+     "year": "1978",
+     "performers": [
+      {
+       "qid": "Q1627905",
+       "name": "Horace Parlan"
+      }
+     ],
+     "description": "1978 studio album by Horace Parlan",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Hi-Fly_(Horace_Parlan_album)",
+     "qid": "Q5750191",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 6:58",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Berlin Concerts",
+     "year": "1978",
+     "performers": [
+      {
+       "qid": "Q367508",
+       "name": "Eric Dolphy"
+      }
+     ],
+     "description": "1978 live album by Eric Dolphy",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Berlin_Concerts",
+     "qid": "Q111165315",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 14:36",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Attica Blues Big Band Live At The Palais Des Glaces",
+     "year": "1979",
+     "performers": [],
+     "description": "1979 studio album by Archie Shepp",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Attica_Blues_Big_Band_Live_At_The_Palais_Des_Glaces",
+     "qid": "Q131913884",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 7:27",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Roots, Branches & Dances",
+     "year": "1979",
+     "performers": [
+      {
+       "qid": "Q2166025",
+       "name": "Ronnie Mathews"
+      }
+     ],
+     "description": "album by Ronnie Mathews",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Roots,_Branches_&_Dances",
+     "qid": "Q43303045",
+     "track_line": "3. - \" Hi-Fly \" - Randy Weston - 6:08",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Gotham City (album)",
+     "year": "1981",
+     "performers": [
+      {
+       "qid": "Q118116",
+       "name": "Dexter Gordon"
+      }
+     ],
+     "description": "1981 studio album by Dexter Gordon",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Gotham_City_(album)",
+     "qid": "Q96379742",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 9:33",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Top Drawer",
+     "year": "1983",
+     "performers": [
+      {
+       "qid": "Q470848",
+       "name": "Mel Tormé"
+      }
+     ],
+     "description": "album by Mel Tormé",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Top_Drawer",
+     "qid": "Q7824487",
+     "track_line": "\" Hi Fly \" ( Randy Weston ) – 3:24",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Hi Fly (Peter King album)",
+     "year": "1984",
+     "performers": [
+      {
+       "qid": "Q2076274",
+       "name": "Peter King"
+      }
+     ],
+     "description": "live album by Peter King",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Hi_Fly_(Peter_King_album)",
+     "qid": "Q5750367",
+     "track_line": "\" Hi Fly \" ( Randy Weston ) – 12:18",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Pannonica (album)",
+     "year": "1984",
+     "performers": [
+      {
+       "qid": "Q1627905",
+       "name": "Horace Parlan"
+      }
+     ],
+     "description": "1984 live album by Horace Parlan Trio",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Pannonica_(album)",
+     "qid": "Q55628527",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 9:18",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Drum Song",
+     "year": "1985",
+     "performers": [
+      {
+       "qid": "Q709873",
+       "name": "Philly Joe Jones"
+      }
+     ],
+     "description": "album by Philly Joe Jones",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Drum_Song",
+     "qid": "Q16550709",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 7:45",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Hi Fly (Rio Nido album)",
+     "year": "1985",
+     "performers": [
+      {
+       "qid": "Q7335284",
+       "name": "Rio Nido"
+      }
+     ],
+     "description": "album by Rio Nido",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Hi_Fly_(Rio_Nido_album)",
+     "qid": "Q5750369",
+     "track_line": "\" Hi-Fly \" ( Randy Weston , lyrics by Jon Hendricks) arr. and additional lyrics by Rio Nido",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Bright Moments (Max Roach album)",
+     "year": "1986",
+     "performers": [
+      {
+       "qid": "Q175899",
+       "name": "Max Roach"
+      }
+     ],
+     "description": "album by Max Roach",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Bright_Moments_(Max_Roach_album)",
+     "qid": "Q4967460",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) - 7:46",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Generation (Kenny Burrell album)",
+     "year": "1987",
+     "performers": [
+      {
+       "qid": "Q255355",
+       "name": "Kenny Burrell"
+      }
+     ],
+     "description": "1987 live album by Kenny Burrell and the Jazz Guitar Band",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Generation_(Kenny_Burrell_album)",
+     "qid": "Q60787533",
+     "track_line": "\" High Fly \" ( Randy Weston ) – 8:51",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Harlem Blues (Donald Byrd album)",
+     "year": "1988",
+     "performers": [
+      {
+       "qid": "Q362764",
+       "name": "Donald Byrd"
+      }
+     ],
+     "description": "1988 album by Donald Byrd",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Harlem_Blues_(Donald_Byrd_album)",
+     "qid": "Q17993656",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 10:56 Additional track on CD release",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Four Play (album)",
+     "year": "1990",
+     "performers": [
+      {
+       "qid": "Q1101297",
+       "name": "Clifford Jordan"
+      }
+     ],
+     "description": "1990 album by Clifford Jordan",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Four_Play_(album)",
+     "qid": "Q25410046",
+     "track_line": "5. - \" Hi-Fly \" - Randy Weston - 10:14",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Mr. A.T.",
+     "year": "1991",
+     "performers": [
+      {
+       "qid": "Q705751",
+       "name": "Art Taylor"
+      }
+     ],
+     "description": "album by Art Taylor",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Mr._A.T.",
+     "qid": "Q15617374",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 7:01",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Work Song: Live at Sweet Basil",
+     "year": "1993",
+     "performers": [
+      {
+       "qid": "Q79343487",
+       "name": "Nat Adderley Sextet"
+      }
+     ],
+     "description": "1993 live album by Nat Adderley Sextet",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Work_Song:_Live_at_Sweet_Basil",
+     "qid": "Q21282847",
+     "track_line": "\"High Fly\" ( Randy Weston ) – 13:05",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Damn! (Jimmy Smith album)",
+     "year": "1995",
+     "performers": [
+      {
+       "qid": "Q318948",
+       "name": "Jimmy Smith"
+      }
+     ],
+     "description": "album by Jimmy Smith",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Damn!_(Jimmy_Smith_album)",
+     "qid": "Q19757755",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 6:35",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Bluesology (album)",
+     "year": "1998",
+     "performers": [
+      {
+       "qid": "Q365812",
+       "name": "George Cables"
+      }
+     ],
+     "description": "album by George Andrew Cables",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Bluesology_(album)",
+     "qid": "Q30603979",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 7:23",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "So What? (Ron Carter album)",
+     "year": "1998",
+     "performers": [
+      {
+       "qid": "Q434593",
+       "name": "Ron Carter"
+      }
+     ],
+     "description": "album by Ron Carter",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/So_What?_(Ron_Carter_album)",
+     "qid": "Q48797939",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 6:02",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "In the City of Lights",
+     "year": "1999",
+     "performers": [
+      {
+       "qid": "Q229513",
+       "name": "Sarah Vaughan"
+      }
+     ],
+     "description": "1999 live album by Sarah Vaughan",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/In_the_City_of_Lights",
+     "qid": "Q6011988",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 8:23 ( instrumental )",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Great Jazz Trio at the Village Vanguard Again",
+     "year": "2000",
+     "performers": [
+      {
+       "qid": "Q11300808",
+       "name": "The Great Jazz Trio"
+      }
+     ],
+     "description": "2000 live album by The Great Jazz Trio",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Great_Jazz_Trio_at_the_Village_Vanguard_Again",
+     "qid": "Q20813414",
+     "track_line": "\"Hi-Fly\" ( Randy Weston ) - 12:02",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Big City Sounds",
+     "year": "2004",
+     "performers": [
+      {
+       "qid": "Q500464",
+       "name": "Art Farmer"
+      }
+     ],
+     "description": "album by Art Farmer",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Big_City_Sounds",
+     "qid": "Q4905467",
+     "track_line": "\" Hi-Fly \" ( Randy Weston ) – 5:50",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Live at the 4 Queens",
+     "year": "2016",
+     "performers": [
+      {
+       "qid": "Q270893",
+       "name": "Shirley Horn"
+      }
+     ],
+     "description": "2016 live album by Shirley Horn",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Live_at_the_4_Queens",
+     "qid": "Q65240552",
+     "track_line": "1. - \"Hi-Fly\" - Randy Weston - 6:30",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 34,
+   "first_year": "1959",
+   "last_year": "2016"
+  },
+  {
+   "key": "little niles",
+   "title": "Little Niles",
+   "spellings": [
+    "Little Niles"
+   ],
+   "recordings": [
+    {
+     "release": "Jazz Lab",
+     "year": "1957",
+     "performers": [
+      {
+       "qid": "Q362764",
+       "name": "Donald Byrd"
+      }
+     ],
+     "description": "1957 album by Donald Byrd",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_Lab",
+     "qid": "Q6168265",
+     "track_line": "\"Little Niles\" ( Randy Weston ) – 7:04",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Salute to the Flute",
+     "year": "1957",
+     "performers": [
+      {
+       "qid": "Q551912",
+       "name": "Herbie Mann"
+      }
+     ],
+     "description": "album by Herbie Mann",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Salute_to_the_Flute",
+     "qid": "Q20814008",
+     "track_line": "\" Little Niles \" ( Randy Weston ) - 6:10",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "It's Magic (Abbey Lincoln album)",
+     "year": "1958",
+     "performers": [
+      {
+       "qid": "Q231071",
+       "name": "Abbey Lincoln"
+      }
+     ],
+     "description": "album by Abbey Lincoln",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/It's_Magic_(Abbey_Lincoln_album)",
+     "qid": "Q6090285",
+     "track_line": "\" Little Niles \" ( Randy Weston , Hendricks) – 5:03",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Oscar Pettiford Orchestra in Hi-Fi Volume Two",
+     "year": "1958",
+     "performers": [
+      {
+       "qid": "Q497183",
+       "name": "Oscar Pettiford"
+      }
+     ],
+     "description": "album by Oscar Pettiford",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Oscar_Pettiford_Orchestra_in_Hi-Fi_Volume_Two",
+     "qid": "Q15965655",
+     "track_line": "\" Little Niles \" ( Randy Weston ) - 4:40",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Reflections (Abdullah Ibrahim album)",
+     "year": "1965",
+     "performers": [
+      {
+       "qid": "Q317677",
+       "name": "Abdullah Ibrahim"
+      }
+     ],
+     "description": "album by Abdullah Ibrahim",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Reflections_(Abdullah_Ibrahim_album)",
+     "qid": "Q48805946",
+     "track_line": "\" Little Niles \" ( Randy Weston ) – 5:58",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Please Send Me Someone to Love (album)",
+     "year": "1969",
+     "performers": [
+      {
+       "qid": "Q707599",
+       "name": "Phineas Newborn Jr."
+      }
+     ],
+     "description": "album by Phineas Newborn",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Please_Send_Me_Someone_to_Love_(album)",
+     "qid": "Q19895195",
+     "track_line": "\" Little Niles \" ( Randy Weston ) – 4:20",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Spiral (Kenny Barron album)",
+     "year": "1982",
+     "performers": [
+      {
+       "qid": "Q489233",
+       "name": "Kenny Barron"
+      }
+     ],
+     "description": "album by Kenny Barron",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Spiral_(Kenny_Barron_album)",
+     "qid": "Q28453420",
+     "track_line": "\" Little Niles \" ( Randy Weston ) – 6:05",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "In the Vanguard",
+     "year": "1987",
+     "performers": [
+      {
+       "qid": "Q888571",
+       "name": "Bobby Hutcherson"
+      }
+     ],
+     "description": "album by Bobby Hutcherson",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/In_the_Vanguard",
+     "qid": "Q48742088",
+     "track_line": "\" Little Niles \" ( Randy Weston ) – 6:44",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Gotstabe a Better Way!",
+     "year": "1990",
+     "performers": [
+      {
+       "qid": "Q1681118",
+       "name": "James Spaulding"
+      }
+     ],
+     "description": "1990 studio album by James Spaulding",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Gotstabe_a_Better_Way!",
+     "qid": "Q43302953",
+     "track_line": "\" Little Niles \" ( Randy Weston ) – 6:32",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Chimera (Erik Friedlander album)",
+     "year": "1995",
+     "performers": [
+      {
+       "qid": "Q862074",
+       "name": "Erik Friedlander"
+      }
+     ],
+     "description": "Erik Friedlander album",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Chimera_(Erik_Friedlander_album)",
+     "qid": "Q16245723",
+     "track_line": "\" Little Niles \" ( Randy Weston ) - 5:57",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Knitting Factory (Piano/Quartet) 1994, Vol. 2",
+     "year": "2000",
+     "performers": [
+      {
+       "qid": "Q572924",
+       "name": "Anthony Braxton"
+      }
+     ],
+     "description": "2000 live album by Anthony Braxton",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Knitting_Factory_(Piano/Quartet)_1994,_Vol._2",
+     "qid": "Q30612119",
+     "track_line": "\" Little Niles \" ( Randy Weston ) – 11:18",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Kindred (Jacky Terrasson and Stefon Harris album)",
+     "year": "2001",
+     "performers": [
+      {
+       "qid": "Q186351",
+       "name": "Jacky Terrasson"
+      }
+     ],
+     "description": "2001 studio album by Jacky Terrasson & Stefon Harris",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Kindred_(Jacky_Terrasson_and_Stefon_Harris_album)",
+     "qid": "Q104853207",
+     "track_line": "12. - \" Little Niles \" - Randy Weston - 4:59",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 12,
+   "first_year": "1957",
+   "last_year": "2001"
+  },
+  {
+   "key": "saucer eyes",
+   "title": "Saucer Eyes",
+   "spellings": [
+    "Saucer Eyes"
+   ],
+   "recordings": [
+    {
+     "release": "Patterns of Jazz",
+     "year": "1957",
+     "performers": [
+      {
+       "qid": "Q485927",
+       "name": "Cecil Payne"
+      }
+     ],
+     "description": "album by Cecil Payne",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Patterns_of_Jazz",
+     "qid": "Q17508633",
+     "track_line": "\"Saucer Eyes\" (Weston) - 6:38",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Where? (album)",
+     "year": "1961",
+     "performers": [
+      {
+       "qid": "Q434593",
+       "name": "Ron Carter"
+      }
+     ],
+     "description": "1961 studio album by Ron Carter with Eric Dolphy and Mal Waldron",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Where?_(album)",
+     "qid": "Q19898226",
+     "track_line": "\"Saucer Eyes\" (Weston)\" —5:08",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Black Orchid (album)",
+     "year": "1964",
+     "performers": [
+      {
+       "qid": "Q3376285",
+       "name": "The Three Sounds"
+      }
+     ],
+     "description": "1964 studio album by The Three Sounds",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Orchid_(album)",
+     "qid": "Q4921408",
+     "track_line": "\"Saucer Eyes\" ( Weston ) - 4:41",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Many Faces of Art Farmer",
+     "year": "1964",
+     "performers": [
+      {
+       "qid": "Q500464",
+       "name": "Art Farmer"
+      }
+     ],
+     "description": "album by Art Farmer",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Many_Faces_of_Art_Farmer",
+     "qid": "Q7750246",
+     "track_line": "\"Saucer Eyes\" ( Randy Weston ) - 4:48",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Arrival (Horace Parlan album)",
+     "year": "1974",
+     "performers": [
+      {
+       "qid": "Q1627905",
+       "name": "Horace Parlan"
+      }
+     ],
+     "description": "1974 studio album by Horace Parlan",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Arrival_(Horace_Parlan_album)",
+     "qid": "Q4796028",
+     "track_line": "\"Saucer Eyes\" ( Randy Weston ) – 5:54",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 5,
+   "first_year": "1957",
+   "last_year": "1974"
+  },
+  {
+   "key": "babe s blues",
+   "title": "Babe's Blues",
+   "spellings": [
+    "Babe's Blues"
+   ],
+   "recordings": [
+    {
+     "release": "Out There (Betty Carter album)",
+     "year": "1958",
+     "performers": [
+      {
+       "qid": "Q465943",
+       "name": "Betty Carter"
+      }
+     ],
+     "description": "1958 album from Betty Carter",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Out_There_(Betty_Carter_album)",
+     "qid": "Q7111471",
+     "track_line": "“Babe's Blues” ( Randy Weston , Jon Hendricks ) – 2:49",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Black Orchid (album)",
+     "year": "1964",
+     "performers": [
+      {
+       "qid": "Q3376285",
+       "name": "The Three Sounds"
+      }
+     ],
+     "description": "1964 studio album by The Three Sounds",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Orchid_(album)",
+     "qid": "Q4921408",
+     "track_line": "\"Babe's Blues\" ( Randy Weston ) - 4:37",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Babe's Blues",
+     "year": "1986",
+     "performers": [
+      {
+       "qid": "Q3376285",
+       "name": "The Three Sounds"
+      }
+     ],
+     "description": "album by The Three Sounds",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Babe's_Blues",
+     "qid": "Q4837627",
+     "track_line": "\"Babe's Blues\" ( Randy Weston ) - 4:37",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "I Can't Help It (album)",
+     "year": "1992",
+     "performers": [
+      {
+       "qid": "Q465943",
+       "name": "Betty Carter"
+      }
+     ],
+     "description": "compilation album by Betty Carter",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/I_Can't_Help_It_(album)",
+     "qid": "Q5976430",
+     "track_line": "\"Babe's Blues\" ( Jon Hendricks , Randy Weston ) – 2:49",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 4,
+   "first_year": "1958",
+   "last_year": "1992"
+  },
+  {
+   "key": "pretty strange",
+   "title": "Pretty Strange",
+   "spellings": [
+    "Pretty Strange"
+   ],
+   "recordings": [
+    {
+     "release": "A Good Git-Together",
+     "year": "1959",
+     "performers": [
+      {
+       "qid": "Q1702784",
+       "name": "Jon Hendricks"
+      }
+     ],
+     "description": "album by Jon Hendricks",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/A_Good_Git-Together",
+     "qid": "Q4657109",
+     "track_line": "\"Pretty Strange\" ( Randy Weston ) – 2:53",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Takin' Care of Business (Charlie Rouse album)",
+     "year": "1960",
+     "performers": [
+      {
+       "qid": "Q1066994",
+       "name": "Charlie Rouse"
+      }
+     ],
+     "description": "album by Charlie Rouse",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Takin'_Care_of_Business_(Charlie_Rouse_album)",
+     "qid": "Q7678304",
+     "track_line": "\"Pretty Strange\" (Weston) - 5:14",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Cannonball Adderley and the Poll-Winners",
+     "year": "1961",
+     "performers": [
+      {
+       "qid": "Q110477",
+       "name": "Cannonball Adderley"
+      }
+     ],
+     "description": "album by Cannonball Adderley",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Cannonball_Adderley_and_the_Poll-Winners",
+     "qid": "Q5032820",
+     "track_line": "\"Pretty Strange\" ( Randy Weston ) – 2:53",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Torch (Carly Simon album)",
+     "year": "1981",
+     "performers": [
+      {
+       "qid": "Q181683",
+       "name": "Carly Simon"
+      }
+     ],
+     "description": "1981 studio album by Carly Simon",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Torch_(Carly_Simon_album)",
+     "qid": "Q7825532",
+     "track_line": "4. - \"Pretty Strange\" - Jon Hendricks Randy Weston - 2:59",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 4,
+   "first_year": "1959",
+   "last_year": "1981"
+  },
+  {
+   "key": "african lady",
+   "title": "African Lady",
+   "spellings": [
+    "African Lady"
+   ],
+   "recordings": [
+    {
+     "release": "Straight Ahead (Abbey Lincoln album)",
+     "year": "1961",
+     "performers": [
+      {
+       "qid": "Q231071",
+       "name": "Abbey Lincoln"
+      }
+     ],
+     "description": "album by Abbey Lincoln",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Straight_Ahead_(Abbey_Lincoln_album)",
+     "qid": "Q7620988",
+     "track_line": "\"African Lady\" ( Langston Hughes , Randy Weston ) — 3:46",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Snap Your Fingers (album)",
+     "year": "1962",
+     "performers": [
+      {
+       "qid": "Q715687",
+       "name": "Al Grey"
+      }
+     ],
+     "description": "album by Al Grey",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Snap_Your_Fingers_(album)",
+     "qid": "Q30605460",
+     "track_line": "\"African Lady\" ( Randy Weston ) – 4:29",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 2,
+   "first_year": "1961",
+   "last_year": "1962"
+  },
+  {
+   "key": "beef stew blues",
+   "title": "Beef Stew Blues",
+   "spellings": [
+    "Beef Stew Blues"
+   ],
+   "recordings": [
+    {
+     "release": "On View at the Five Spot Cafe",
+     "year": "1959",
+     "performers": [
+      {
+       "qid": "Q255355",
+       "name": "Kenny Burrell"
+      }
+     ],
+     "description": "1959 live album by Kenny Burrell",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/On_View_at_the_Five_Spot_Cafe",
+     "qid": "Q7091193",
+     "track_line": "\"Beef Stew Blues\" ( Randy Weston ) – 4:32 (Bonus track on CD reissue)",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Swingin' (Kenny Burrell album)",
+     "year": "1980",
+     "performers": [
+      {
+       "qid": "Q255355",
+       "name": "Kenny Burrell"
+      }
+     ],
+     "description": "album by Kenny Burrell",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Swingin'_(Kenny_Burrell_album)",
+     "qid": "Q48812363",
+     "track_line": "3. - \"Beef Stew Blues\" - Randy Weston - 4:36",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 2,
+   "first_year": "1959",
+   "last_year": "1980"
+  },
+  {
+   "key": "berkshire blues",
+   "title": "Berkshire Blues",
+   "spellings": [
+    "Berkshire Blues"
+   ],
+   "recordings": [
+    {
+     "release": "Structurally Sound",
+     "year": "1967",
+     "performers": [
+      {
+       "qid": "Q892998",
+       "name": "Booker Ervin"
+      }
+     ],
+     "description": "1967 studio album by Booker Ervin",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Structurally_Sound",
+     "qid": "Q7625076",
+     "track_line": "\"Berkshire Blues\" ( Randy Weston ) - 5:30",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Very Personal",
+     "year": "1980",
+     "performers": [
+      {
+       "qid": "Q582740",
+       "name": "Houston Person"
+      }
+     ],
+     "description": "album by Houston Person",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Very_Personal",
+     "qid": "Q48817973",
+     "track_line": "\"Berkshire Blues\" ( Randy Weston ) − 7:36",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 2,
+   "first_year": "1967",
+   "last_year": "1980"
+  },
+  {
+   "key": "cry me not",
+   "title": "Cry Me Not",
+   "spellings": [
+    "Cry Me Not"
+   ],
+   "recordings": [
+    {
+     "release": "Hub Cap (album)",
+     "year": "1961",
+     "performers": [
+      {
+       "qid": "Q346762",
+       "name": "Freddie Hubbard"
+      }
+     ],
+     "description": "album by Freddie Hubbard",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Hub_Cap_(album)",
+     "qid": "Q5926650",
+     "track_line": "\"Cry Me Not\" ( Randy Weston ) – 4:49",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "The Freedom Book",
+     "year": "1964",
+     "performers": [
+      {
+       "qid": "Q892998",
+       "name": "Booker Ervin"
+      }
+     ],
+     "description": "1964 studio album by Booker Ervin",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Freedom_Book",
+     "qid": "Q7735218",
+     "track_line": "\"Cry Me Not\" ( Randy Weston ) - 4:53",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 2,
+   "first_year": "1961",
+   "last_year": "1964"
+  },
+  {
+   "key": "ego",
+   "title": "Ego",
+   "spellings": [
+    "Ego"
+   ],
+   "recordings": [
+    {
+     "release": "Betty Carter at the Village Vanguard",
+     "year": "1970",
+     "performers": [
+      {
+       "qid": "Q465943",
+       "name": "Betty Carter"
+      }
+     ],
+     "description": "1970 live album by Betty Carter",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Betty_Carter_at_the_Village_Vanguard",
+     "qid": "Q4898775",
+     "track_line": "\"Ego\" ( Randy Weston , Betty Carter ) – 3:04",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Finally, Betty Carter",
+     "year": "1975",
+     "performers": [
+      {
+       "qid": "Q465943",
+       "name": "Betty Carter"
+      }
+     ],
+     "description": "1975 live album by Betty Carter",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Finally,_Betty_Carter",
+     "qid": "Q5449485",
+     "track_line": "\"Ego\" ( Betty Carter , Randy Weston ) - 3:23",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 2,
+   "first_year": "1970",
+   "last_year": "1975"
+  },
+  {
+   "key": "sketch of melba",
+   "title": "Sketch of Melba",
+   "spellings": [
+    "Sketch of Melba"
+   ],
+   "recordings": [
+    {
+     "release": "Out There (Eric Dolphy album)",
+     "year": "1960",
+     "performers": [
+      {
+       "qid": "Q367508",
+       "name": "Eric Dolphy"
+      }
+     ],
+     "description": "1961 studio album by Eric Dolphy",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Out_There_(Eric_Dolphy_album)",
+     "qid": "Q7111474",
+     "track_line": "\"Sketch of Melba\" ( Randy Weston ) – 4:40",
+     "how": "composer",
+     "needs_review": false
+    },
+    {
+     "release": "Cracklin'",
+     "year": "1963",
+     "performers": [
+      {
+       "qid": "Q448235",
+       "name": "Roy Haynes"
+      }
+     ],
+     "description": "album by Roy Haynes",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Cracklin'",
+     "qid": "Q16246895",
+     "track_line": "\"Sketch of Melba\" ( Randy Weston ) – 7:37",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 2,
+   "first_year": "1960",
+   "last_year": "1963"
+  },
+  {
+   "key": "204",
+   "title": "204",
+   "spellings": [
+    "204"
+   ],
+   "recordings": [
+    {
+     "release": "Takin' Care of Business (Charlie Rouse album)",
+     "year": "1960",
+     "performers": [
+      {
+       "qid": "Q1066994",
+       "name": "Charlie Rouse"
+      }
+     ],
+     "description": "album by Charlie Rouse",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Takin'_Care_of_Business_(Charlie_Rouse_album)",
+     "qid": "Q7678304",
+     "track_line": "\"204\" ( Randy Weston ) - 7:24",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1960",
+   "last_year": "1960"
+  },
+  {
+   "key": "african cookbook",
+   "title": "African Cookbook",
+   "spellings": [
+    "African Cookbook"
+   ],
+   "recordings": [
+    {
+     "release": "First Class Kloss!",
+     "year": "1967",
+     "performers": [
+      {
+       "qid": "Q1234037",
+       "name": "Eric Kloss"
+      }
+     ],
+     "description": "album by Eric Kloss",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/First_Class_Kloss!",
+     "qid": "Q17019735",
+     "track_line": "\"African Cookbook\" ( Randy Weston ) - 6:47",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1967",
+   "last_year": "1967"
+  },
+  {
+   "key": "bantu",
+   "title": "Bantu",
+   "spellings": [
+    "Bantu"
+   ],
+   "recordings": [
+    {
+     "release": "The Al Grey – Billy Mitchell Sextet",
+     "year": "1962",
+     "performers": [
+      {
+       "qid": "Q715687",
+       "name": "Al Grey"
+      }
+     ],
+     "description": "1962 live album by Al Grey – Billy Mitchell Sextet",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Al_Grey_–_Billy_Mitchell_Sextet",
+     "qid": "Q30636367",
+     "track_line": "\"Bantu\" ( Randy Weston ) – 3:05",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1962",
+   "last_year": "1962"
+  },
+  {
+   "key": "chessman s delight",
+   "title": "Chessman's Delight",
+   "spellings": [
+    "Chessman's Delight"
+   ],
+   "recordings": [
+    {
+     "release": "Patterns of Jazz",
+     "year": "1957",
+     "performers": [
+      {
+       "qid": "Q485927",
+       "name": "Cecil Payne"
+      }
+     ],
+     "description": "album by Cecil Payne",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Patterns_of_Jazz",
+     "qid": "Q17508633",
+     "track_line": "\"Chessman's Delight\" ( Randy Weston ) - 5:27",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1957",
+   "last_year": "1957"
+  },
+  {
+   "key": "congolese children",
+   "title": "Congolese Children",
+   "spellings": [
+    "Congolese Children"
+   ],
+   "recordings": [
+    {
+     "release": "Cold Turkey (album)",
+     "year": "1964",
+     "performers": [
+      {
+       "qid": "Q492143",
+       "name": "Ray Bryant"
+      }
+     ],
+     "description": "1964 live album by Ray Bryant",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Cold_Turkey_(album)",
+     "qid": "Q85753275",
+     "track_line": "\"Congolese Children\" ( Randy Weston ) – 2:43",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1964",
+   "last_year": "1964"
+  },
+  {
+   "key": "funky man",
+   "title": "Funky Man",
+   "spellings": [
+    "Funky Man"
+   ],
+   "recordings": [
+    {
+     "release": "Smack My Bitch Up",
+     "year": "1997",
+     "performers": [
+      {
+       "qid": "Q7256860",
+       "name": "The Prodigy"
+      }
+     ],
+     "description": "single",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Smack_My_Bitch_Up",
+     "qid": "Q371487",
+     "track_line": "The track also contains samples from \"Funky Man\" by Kool & the Gang , \"In Memory Of\" by Randy Weston , \"House of Rising Funk\" by Afrique, \"Like This\" by Mixmaster Gee and the Turntable Orchestra and \" Bulls on Parade \" by Rage Against the Machine .",
+     "how": "sampled",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1997",
+   "last_year": "1997"
+  },
+  {
+   "key": "gee blues gee",
+   "title": "Gee Blues Gee",
+   "spellings": [
+    "Gee Blues Gee"
+   ],
+   "recordings": [
+    {
+     "release": "Reminiscin'",
+     "year": "1960",
+     "performers": [
+      {
+       "qid": "Q563275",
+       "name": "Gigi Gryce"
+      }
+     ],
+     "description": "album by Gigi Gryce",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Reminiscin'",
+     "qid": "Q17508866",
+     "track_line": "\"Gee Blues Gee\" ( Randy Weston ) – 3:22",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1960",
+   "last_year": "1960"
+  },
+  {
+   "key": "in memory of",
+   "title": "In Memory Of",
+   "spellings": [
+    "In Memory Of"
+   ],
+   "recordings": [
+    {
+     "release": "In Memory Of (Stanley Turrentine album)",
+     "year": "1979",
+     "performers": [
+      {
+       "qid": "Q638824",
+       "name": "Stanley Turrentine"
+      }
+     ],
+     "description": "album by Stanley Turrentine",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/In_Memory_Of_(Stanley_Turrentine_album)",
+     "qid": "Q6009988",
+     "track_line": "\"In Memory Of\" ( Randy Weston ) - 6:58",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1979",
+   "last_year": "1979"
+  },
+  {
+   "key": "kuchenza blues",
+   "title": "Kuchenza Blues",
+   "spellings": [
+    "Kuchenza Blues"
+   ],
+   "recordings": [
+    {
+     "release": "Back from the Gig",
+     "year": "1976",
+     "performers": [
+      {
+       "qid": "Q892998",
+       "name": "Booker Ervin"
+      }
+     ],
+     "description": "1976 studio album by Booker Ervin",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Back_from_the_Gig",
+     "qid": "Q4839243",
+     "track_line": "\"Kuchenza Blues\" ( Randy Weston ) – 5:39",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1976",
+   "last_year": "1976"
+  },
+  {
+   "key": "kucheza blues",
+   "title": "Kucheza Blues",
+   "spellings": [
+    "Kucheza Blues"
+   ],
+   "recordings": [
+    {
+     "release": "Happy Frame of Mind",
+     "year": "1986",
+     "performers": [
+      {
+       "qid": "Q1627905",
+       "name": "Horace Parlan"
+      }
+     ],
+     "description": "1986 studio album by Horace Parlan",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Happy_Frame_of_Mind",
+     "qid": "Q5652740",
+     "track_line": "\"Kucheza Blues\" ( Randy Weston ) - 6:10",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1986",
+   "last_year": "1986"
+  },
+  {
+   "key": "little susan",
+   "title": "Little Susan",
+   "spellings": [
+    "Little Susan"
+   ],
+   "recordings": [
+    {
+     "release": "Gigi Gryce (album)",
+     "year": "1958",
+     "performers": [
+      {
+       "qid": "Q563275",
+       "name": "Gigi Gryce"
+      }
+     ],
+     "description": "album by Gigi Gryce",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Gigi_Gryce_(album)",
+     "qid": "Q17508098",
+     "track_line": "\"Little Susan\" ( Randy Weston ) - 2:29",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1958",
+   "last_year": "1958"
+  },
+  {
+   "key": "portrait of frank edward weston",
+   "title": "Portrait Of Frank Edward Weston",
+   "spellings": [
+    "Portrait Of Frank Edward Weston"
+   ],
+   "recordings": [
+    {
+     "release": "Wildflowers: The New York Loft Jazz Sessions",
+     "year": "1999",
+     "performers": [
+      {
+       "qid": "Q3108914",
+       "name": "various artists"
+      }
+     ],
+     "description": "1999 live box set; various artists",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Wildflowers:_The_New_York_Loft_Jazz_Sessions",
+     "qid": "Q104845518",
+     "track_line": "\"Portrait Of Frank Edward Weston\" - 8:50 - Randy Weston , piano with Alex Blake , bass, and Azzedin Weston, congas",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1999",
+   "last_year": "1999"
+  },
+  {
+   "key": "trilogy for kids babe s blues little niles dat dere",
+   "title": "Trilogy for Kids: Babe's Blues / Little Niles / Dat Dere",
+   "spellings": [
+    "Trilogy for Kids: Babe's Blues / Little Niles / Dat Dere"
+   ],
+   "recordings": [
+    {
+     "release": "Jazz Standards (Mark Murphy album)",
+     "year": "1998",
+     "performers": [
+      {
+       "qid": "Q933550",
+       "name": "Mark Murphy"
+      }
+     ],
+     "description": "Mark Murphy album",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_Standards_(Mark_Murphy_album)",
+     "qid": "Q126127926",
+     "track_line": "8. - \"Trilogy for Kids: Babe's Blues / Little Niles / Dat Dere \" - Hendricks / Weston / Oscar Brown Jr. - Randy Weston / Weston / Bobby Timmons",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1998",
+   "last_year": "1998"
+  },
+  {
+   "key": "triology for kids babe s blues little niles dat dere",
+   "title": "Triology for Kids: Babe's Blues / Little Niles / Dat Dere",
+   "spellings": [
+    "Triology for Kids: Babe's Blues / Little Niles / Dat Dere"
+   ],
+   "recordings": [
+    {
+     "release": "The Artistry of Mark Murphy",
+     "year": "1982",
+     "performers": [
+      {
+       "qid": "Q933550",
+       "name": "Mark Murphy"
+      }
+     ],
+     "description": "Mark Murphy album",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Artistry_of_Mark_Murphy",
+     "qid": "Q125975539",
+     "track_line": "\"Triology for Kids: Babe's Blues / Little Niles / Dat Dere \" ( Randy Weston , Jon Hendricks / Weston / Bobby Timmons , Oscar Brown Jr. ) – 5:11",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1982",
+   "last_year": "1982"
+  },
+  {
+   "key": "when april comes again",
+   "title": "When April Comes Again",
+   "spellings": [
+    "When April Comes Again"
+   ],
+   "recordings": [
+    {
+     "release": "Mel Tormé and the Marty Paich Dek-Tette",
+     "year": "1956",
+     "performers": [
+      {
+       "qid": "Q470848",
+       "name": "Mel Tormé"
+      }
+     ],
+     "description": "album by Mel Tormé",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Mel_Tormé_and_the_Marty_Paich_Dek-Tette",
+     "qid": "Q6810879",
+     "track_line": "\"When April Comes Again\" ( Jerry Livingston , Doris Schaefer, Randy Weston ) – 2:59",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1956",
+   "last_year": "1956"
+  },
+  {
+   "key": "where",
+   "title": "Where?",
+   "spellings": [
+    "Where?"
+   ],
+   "recordings": [
+    {
+     "release": "Where? (album)",
+     "year": "1961",
+     "performers": [
+      {
+       "qid": "Q434593",
+       "name": "Ron Carter"
+      }
+     ],
+     "description": "1961 studio album by Ron Carter with Eric Dolphy and Mal Waldron",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Where?_(album)",
+     "qid": "Q19898226",
+     "track_line": "\"Where?\" ( Randy Weston )\" — 5:58",
+     "how": "composer",
+     "needs_review": false
+    }
+   ],
+   "count": 1,
+   "first_year": "1961",
+   "last_year": "1961"
+  }
+ ]
+}

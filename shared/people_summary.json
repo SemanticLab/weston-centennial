@@ -1,0 +1,79 @@
+{
+ "witnesses": {
+  "witness_documents": 23,
+  "spoke_themselves": 20,
+  "name_only_in_interviewer_words": 3,
+  "distinct_people": 17,
+  "by_relation": {
+   "knows of": 8,
+   "collaborated with": 5,
+   "played under": 2,
+   "mentor of": 2,
+   "friend of": 1,
+   "played with": 1,
+   "in music group with": 1
+  },
+  "by_tier": {
+   "knew_of": 8,
+   "band": 7,
+   "learned": 4,
+   "social": 1
+  },
+  "by_contact_level": {
+   "worked_together": 9,
+   "unclear": 4,
+   "same_scene": 4,
+   "knew_personally": 3
+  },
+  "by_stance": {
+   "positive": 12,
+   "neutral": 8
+  },
+  "by_notable": {
+   "3": 6,
+   "2": 5,
+   "1": 8,
+   "0": 4
+  },
+  "with_lead_quote": 18,
+  "one_liners": 20,
+  "one_liners_grounded": 16,
+  "with_caution": 19,
+  "also_on_his_records": 7,
+  "he_also_spoke_of_them": [
+   "Benny Powell",
+   "Jackie McLean",
+   "Melba Liston"
+  ],
+  "upstream_relation_wrong": 11,
+  "upstream_relation_judged": 22,
+  "quotes_dropped_on_verification": {}
+ },
+ "people": {
+  "people": 217,
+  "with_qid": 183,
+  "by_layer": {
+   "witness": 17,
+   "he_spoke_of": 96,
+   "on_his_records": 130,
+   "network": 62
+  },
+  "both_directions": [
+   "Melba Liston",
+   "Benny Powell"
+  ],
+  "witness_and_on_his_records": 5,
+  "he_spoke_of_and_on_his_records": 25,
+  "in_all_four_layers": [
+   "Melba Liston",
+   "Benny Powell"
+  ],
+  "by_layer_count": {
+   "1": 155,
+   "2": 38,
+   "3": 22,
+   "4": 2
+  },
+  "with_image": 131
+ }
+}

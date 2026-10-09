@@ -1,0 +1,144 @@
+{
+ "weston": {
+  "releases": 138,
+  "releases_with_article": 114,
+  "releases_listed_without_article": 24,
+  "from_his_discography_section": 53,
+  "musicbrainz_ids": {
+   "from_wikidata": 55,
+   "by_title_match": 22,
+   "leader_releases_without": [
+    "Ancient Future",
+    "Blues",
+    "Carnival (Randy Weston album)",
+    "Destry Rides Again (Randy Weston album)",
+    "Get Happy with the Randy Weston Trio",
+    "Highlife (Randy Weston album)",
+    "Jazz à la Bohemia",
+    "Live at the Five Spot (Randy Weston album)",
+    "New Faces at Newport",
+    "Niles Littlebig",
+    "Nuit Africa",
+    "Perspective",
+    "Randy (album)",
+    "Sound — Solo Piano",
+    "Spirit! The Power of Music",
+    "The African Nubian Suite",
+    "The Randy Weston Trio",
+    "The Splendid Master Gnawa Musicians of Morocco",
+    "With These Hands...",
+    "Zep Tepi"
+   ]
+  },
+  "records_he_discussed_in_his_interview": 12,
+  "records_he_discussed_not_in_this_discography": [
+   "1985 Montreal Jazz Festival performance (untitled)",
+   "Recordings of the old Gnawa, Tangier",
+   "Tribute to Duke Ellington (solo piano, 1974)"
+  ],
+  "found_only_by_backlink": 85,
+  "backlinked_releases_rejected_no_credit": 587,
+  "releases_where_he_is_only_mentioned": [
+   "Havin' a Ball at the Village Gate",
+   "Points (album)"
+  ],
+  "by_kind": {
+   "album": 90,
+   "live": 24,
+   "studio": 19,
+   "single": 2,
+   "compilation": 2,
+   "film": 1
+  },
+  "by_subject_role": {
+   "leader": 51,
+   "composer": 83,
+   "sideman": 2,
+   "sampled": 1,
+   "appears_on_screen": 1
+  },
+  "credit_found_in": {
+   "personnel": 29,
+   "tracks": 82,
+   "prose": 3,
+   "his_discography_list_only": 24
+  },
+  "credited_as_arranger_or_conductor": 1,
+  "credited_as_composer": 90,
+  "his_tunes_on_others_records": {
+   "tunes": 27,
+   "recordings": 87,
+   "top": [
+    [
+     "Hi-Fly",
+     34
+    ],
+    [
+     "Little Niles",
+     12
+    ],
+    [
+     "Saucer Eyes",
+     5
+    ],
+    [
+     "Babe's Blues",
+     4
+    ],
+    [
+     "Pretty Strange",
+     4
+    ],
+    [
+     "African Lady",
+     2
+    ],
+    [
+     "Beef Stew Blues",
+     2
+    ],
+    [
+     "Berkshire Blues",
+     2
+    ],
+    [
+     "Cry Me Not",
+     2
+    ],
+    [
+     "Ego",
+     2
+    ]
+   ]
+  },
+  "credits_needing_review": [],
+  "unlinked_bullets_merged_into_articles": 0,
+  "credited_as_player": 29,
+  "credited_as_both": 1,
+  "total_credits": 952,
+  "roster_size": 162,
+  "roster_with_qid": 129,
+  "roster_interviewed_in_corpus": 29,
+  "roster_who_spoke_about_subject": 5,
+  "musicians_who_played_and_spoke": 4,
+  "critics_producers_who_were_credited_and_spoke": 1,
+  "critics_producers_named": [
+   "Orrin Keepnews"
+  ],
+  "his_words_available": true,
+  "roster_he_spoke_of": 27,
+  "roster_both_directions": 2,
+  "roster_both_directions_named": [
+   "Benny Powell",
+   "Melba Liston"
+  ],
+  "quote_blocks_from_credited_people": 40,
+  "quote_blocks_from_musicians": 37,
+  "attribution_methods": {
+   "qid": 40
+  },
+  "unattributed_quote_blocks": {
+   "interviewee_not_on_roster_or_ambiguous": 28
+  }
+ }
+}

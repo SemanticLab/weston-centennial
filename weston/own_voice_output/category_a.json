@@ -1,0 +1,915 @@
+{
+ "items": [
+  {
+   "id": "q001",
+   "category": "records_and_compositions",
+   "secondary": "what_music_is",
+   "confidence": "high",
+   "reason": "Explains the album title Saga; title meaning goes to records even though it generalises to all his music."
+  },
+  {
+   "id": "j01",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q002",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Ancestors ignored in the music history, as a claim: ancestors rule over records."
+  },
+  {
+   "id": "q003",
+   "category": "the_masters",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Earlier masters writing for families and community."
+  },
+  {
+   "id": "q004",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q005",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "What his music as a whole is built on."
+  },
+  {
+   "id": "q006",
+   "category": "ancestors_and_destiny",
+   "secondary": "what_music_is",
+   "confidence": "medium",
+   "reason": "Blues as the survival language of his people (blues rule), though it opens on the blues as foundation."
+  },
+  {
+   "id": "q007",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q008",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Berkshires summers where he wrote his works (composing place); the line itself is about who he met there."
+  },
+  {
+   "id": "q009",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q010",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q011",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Blues as foundation of the music; the residency blues night is only the setting."
+  },
+  {
+   "id": "q012",
+   "category": "on_the_road",
+   "secondary": "africa_the_source",
+   "confidence": "medium",
+   "reason": "The festival residency as an occasion; Africa is named only as its connecting theme."
+  },
+  {
+   "id": "q013",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q014",
+   "category": "records_and_compositions",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "A record made to honour the ancestors goes to records."
+  },
+  {
+   "id": "q015",
+   "category": "africa_the_source",
+   "secondary": "the_masters",
+   "confidence": "high",
+   "reason": "Masters named to say their work is royalty going back to Africa."
+  },
+  {
+   "id": "q016",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q017",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q018",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q019",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q020",
+   "category": "the_masters",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "j02",
+   "category": "the_masters",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q021",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q022",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q023",
+   "category": "records_and_compositions",
+   "secondary": "what_music_is",
+   "confidence": "high",
+   "reason": "Ends by tying human contact to the Khepera title; records vs what_music_is rule."
+  },
+  {
+   "id": "j03",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Museum visit that inspired a record."
+  },
+  {
+   "id": "q024",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q025",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "African peoples everywhere creating spiritual music; general claim in the Gnawa conversation."
+  },
+  {
+   "id": "q026",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q027",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "j04",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q028",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Gnawa instrument and spiritual practice stay with Gnawa even when spiritual."
+  },
+  {
+   "id": "q029",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Account of who attended a Gnawa concert in a Brooklyn church."
+  },
+  {
+   "id": "q030",
+   "category": "what_music_is",
+   "secondary": "morocco_and_the_gnawa",
+   "confidence": "high",
+   "reason": "General conclusion about music connecting humanity drawn from a Gnawa concert."
+  },
+  {
+   "id": "q031",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Kinship with the Gnawa."
+  },
+  {
+   "id": "q032",
+   "category": "ancestors_and_destiny",
+   "secondary": "morocco_and_the_gnawa",
+   "confidence": "high",
+   "reason": "Compares ancestors survival with the Gnawa; survival is the subject."
+  },
+  {
+   "id": "q033",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q034",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q035",
+   "category": "what_music_is",
+   "secondary": "the_masters",
+   "confidence": "high",
+   "reason": "Masters cited to illustrate the one-note idea."
+  },
+  {
+   "id": "q036",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "j05",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q037",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Origin of music in early people listening to nature."
+  },
+  {
+   "id": "q038",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q039",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Book that inspired Ancient Future."
+  },
+  {
+   "id": "q040",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q041",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Ancient Egypt as root of a concept of music; not tied to the album title in the line."
+  },
+  {
+   "id": "q042",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q043",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q044",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Part of his case against machines behind Ancient Future; the line itself never names the record and is not about music."
+  },
+  {
+   "id": "q045",
+   "category": "the_masters",
+   "secondary": "at_the_piano",
+   "confidence": "high",
+   "reason": "His own human and spiritual contact with the masters."
+  },
+  {
+   "id": "q046",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q047",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Father teaching African history at home."
+  },
+  {
+   "id": "q048",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q049",
+   "category": "family_and_brooklyn",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "Father telling him he is an African born in America; family rule over ancestors."
+  },
+  {
+   "id": "q050",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Being made to take lessons as a boy."
+  },
+  {
+   "id": "q051",
+   "category": "the_masters",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "New York as the city the giants came to."
+  },
+  {
+   "id": "q052",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Apology closing a turn about his father and Brooklyn; no subject of its own."
+  },
+  {
+   "id": "q053",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q054",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "A solo tribute he played goes to at_the_piano."
+  },
+  {
+   "id": "q055",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q056",
+   "category": "what_music_is",
+   "secondary": "the_masters",
+   "confidence": "medium",
+   "reason": "Starts as wondering about Ellington (the_masters include) but lands on the idea that songs carry eternal messages (what_music_is include); the idea is the point."
+  },
+  {
+   "id": "j06",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q057",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q058",
+   "category": "records_and_compositions",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Title meaning, even though cosmological."
+  },
+  {
+   "id": "q059",
+   "category": "what_music_is",
+   "secondary": "records_and_compositions",
+   "confidence": "high",
+   "reason": "Creation account carried on without reference to the record."
+  },
+  {
+   "id": "q060",
+   "category": "what_music_is",
+   "secondary": "records_and_compositions",
+   "confidence": "medium",
+   "reason": "\"That means\" ties back to Zep Tepi, but the line states the creator gave music to the planet; read as the idea carried on."
+  },
+  {
+   "id": "q061",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "j07",
+   "category": "on_the_road",
+   "secondary": "family_and_brooklyn",
+   "confidence": "medium",
+   "reason": "Sister's death and the Japan invitation in one line; it turns to Japan, so on_the_road per rule."
+  },
+  {
+   "id": "q062",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q063",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q064",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q065",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Healer on a concert trip goes to on_the_road."
+  },
+  {
+   "id": "q066",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Ceremony on a concert trip."
+  },
+  {
+   "id": "q067",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "A piano he loved."
+  },
+  {
+   "id": "q068",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Character line goes to the shrine story."
+  },
+  {
+   "id": "q069",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q070",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Solo built from another musician's last note on tour goes to on_the_road."
+  },
+  {
+   "id": "q071",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q072",
+   "category": "what_music_is",
+   "secondary": "at_the_piano",
+   "confidence": "medium",
+   "reason": "Answer to solo-vs-trio question, but says the approach is always the same (love), which the what_music_is includes name."
+  },
+  {
+   "id": "q073",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q074",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q075",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Working trio rapport."
+  },
+  {
+   "id": "q076",
+   "category": "at_the_piano",
+   "secondary": "the_masters",
+   "confidence": "high",
+   "reason": "Timidity at the piano from growing up among the greats."
+  },
+  {
+   "id": "q077",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Label wanting a solo album."
+  },
+  {
+   "id": "q078",
+   "category": "at_the_piano",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q079",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "How he chooses to travel, even though Africa is named."
+  },
+  {
+   "id": "q080",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q081",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Band adventure on the Moroccan trip."
+  },
+  {
+   "id": "q082",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q083",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "j08",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Tangier festival."
+  },
+  {
+   "id": "q084",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q085",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "His Tangier club; blues in Tangier goes to Morocco."
+  },
+  {
+   "id": "q086",
+   "category": "morocco_and_the_gnawa",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Gnawa instrument tuning at Canterbury; the instrument is the point."
+  },
+  {
+   "id": "q087",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Cathedral setting and talk with spiritual leaders, Gnawa instrument not the point (rule); but it was a Gnawa performance, which the Morocco include also claims."
+  },
+  {
+   "id": "q088",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Library opening incident."
+  },
+  {
+   "id": "q089",
+   "category": "on_the_road",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q090",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q091",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q092",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "j09",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q093",
+   "category": "his_marriage",
+   "secondary": "what_music_is",
+   "confidence": "medium",
+   "reason": "Music heard on the Egypt trip with his future wife goes to his_marriage per rule, though the line is a statement about feeling music's power."
+  },
+  {
+   "id": "q094",
+   "category": "ancestors_and_destiny",
+   "secondary": "his_marriage",
+   "confidence": "high",
+   "reason": "General statement that ancestors and spirits guide him, said on the Egypt trip."
+  },
+  {
+   "id": "q095",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "The driver on the Egypt trip."
+  },
+  {
+   "id": "j10",
+   "category": "his_marriage",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "Spirit moving him to propose."
+  },
+  {
+   "id": "q096",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q097",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q098",
+   "category": "his_marriage",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q099",
+   "category": "his_marriage",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "Closing remark that spirits guided the proposal goes to his_marriage."
+  },
+  {
+   "id": "q100",
+   "category": "ancestors_and_destiny",
+   "secondary": "at_the_piano",
+   "confidence": "medium",
+   "reason": "Rule sends the teacher-gave-up-on-him reaction to the national honour to ancestors_and_destiny, though nothing in the line is about ancestors or destiny."
+  },
+  {
+   "id": "q101",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q102",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q103",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q104",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q105",
+   "category": "what_music_is",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q106",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "medium",
+   "reason": "Disbelief at the national honour is an ancestors_and_destiny include, but the words carry no ancestor/destiny content."
+  },
+  {
+   "id": "q107",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q108",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q109",
+   "category": "family_and_brooklyn",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Parents' own struggle against the colour line."
+  },
+  {
+   "id": "q110",
+   "category": "family_and_brooklyn",
+   "secondary": "the_masters",
+   "confidence": "high",
+   "reason": "Starts from his parents and extends to musicians: family rule."
+  },
+  {
+   "id": "q111",
+   "category": "ancestors_and_destiny",
+   "secondary": "what_music_is",
+   "confidence": "high",
+   "reason": "Blues understood only at slavery's sites."
+  },
+  {
+   "id": "q112",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q113",
+   "category": "ancestors_and_destiny",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q114",
+   "category": "what_music_is",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "Defines music via the ancestors' example: what_music_is rule."
+  },
+  {
+   "id": "q115",
+   "category": "africa_the_source",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "Lists sufferings and ends on Africa's contribution: contribution decides."
+  },
+  {
+   "id": "q116",
+   "category": "africa_the_source",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  },
+  {
+   "id": "q117",
+   "category": "the_masters",
+   "secondary": null,
+   "confidence": "high",
+   "reason": "Baton passed by a master."
+  },
+  {
+   "id": "q118",
+   "category": "the_masters",
+   "secondary": "ancestors_and_destiny",
+   "confidence": "high",
+   "reason": "Hardships of the earlier jazz musicians he met, not the enslaved forebears."
+  },
+  {
+   "id": "q119",
+   "category": "the_masters",
+   "secondary": null,
+   "confidence": "high",
+   "reason": null
+  }
+ ],
+ "scheme_problems": [
+  "Recognition has no home of its own: the national-honour reaction lines (teacher who gave up on him; 'I still can't believe it') are sent by rule to ancestors_and_destiny, but their own words contain nothing about ancestors or destiny; a reader opening 'Ancestors and Destiny' would not expect them.",
+  "the_masters includes 'wondering about a master's habits' while what_music_is includes 'songs carrying eternal messages'; a line that does both (wondering why Ellington replayed songs, then realising messages are eternal) sits on an unresolved overlap. Sorted to what_music_is as the idea is the point.",
+  "Canterbury: morocco_and_the_gnawa includes 'concerts with Gnawa musicians wherever they took place, including ... an English cathedral', while the morocco/on_the_road rule sends the cathedral's setting to on_the_road. Workable but invites split readings of the same occasion.",
+  "Zep Tepi / Khepera / Ancient Future turns: the records-vs-what_music_is test ('without reference to the record') is hard to apply to lines that begin 'That means' or sit mid-explanation; several such lines could go either way.",
+  "what_music_is includes 'his approach to playing always is when not tied to solo or trio', but the 'just love' line is a direct answer to the solo-vs-trio question that the at_the_piano rule claims; resolved to what_music_is.",
+  "Anti-machine lines that do not name a record (cell phones in New York) are sent to records_and_compositions by the 'case against machines' include, which a reader opening a records section may not expect."
+ ]
+}

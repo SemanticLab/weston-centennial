@@ -1,0 +1,2667 @@
+{
+ "portraits": {
+  "Q274146": {
+   "name": "Melba Liston",
+   "file": "File:Melba Liston.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Melba_Liston.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Finnish Heritage Agency",
+    "credit": "https://finna.fi/Record/museovirasto.cd2374c4-723c-4338-95e1-cb71291d00cf – cropped from Quincy Jones Orchestra 1960 (JOKAHBL3E A05-13).tif",
+    "restrictions": null,
+    "date": "1960"
+   },
+   "artist": null,
+   "attribution": "Finnish Heritage Agency (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q599429": {
+   "name": "Benny Powell",
+   "file": "File:Count Basie and His Orchestra performs in Helsinki 1962 (JOKAHBL3E C04-11).tif",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_(JOKAHBL3E_C04-11).tif",
+   "licence": {
+    "short": "CC BY 4.0",
+    "usage_terms": "Creative Commons Attribution 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null,
+    "credit": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f",
+    "restrictions": null,
+    "date": "25 April 1962 date QS:P571,+1962-04-25T00:00:00Z/11"
+   },
+   "artist": null,
+   "attribution": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f (CC BY 4.0), via Wikimedia Commons"
+  },
+  "Q352028": {
+   "name": "Orrin Keepnews",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q721330": {
+   "name": "Hubert Laws",
+   "file": "File:Hubert Laws.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Hubert_Laws.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Catalin Neacsu Seattle, WA",
+    "credit": "Hubert-Laws",
+    "restrictions": null,
+    "date": "2007-11-30"
+   },
+   "artist": null,
+   "attribution": "Catalin Neacsu Seattle, WA (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q434593": {
+   "name": "Ron Carter",
+   "file": "File:Ron plays.JPG",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ron_plays.JPG",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Kku",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2008-10-07"
+   },
+   "artist": null,
+   "attribution": "Kku (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q1371187": {
+   "name": "Randy Weston",
+   "file": "File:Randy Weston.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Randy_Weston.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Bob Travis Casco, Maine, USA",
+    "credit": "Randy Weston African Rhythms Trio -- Randy Weston",
+    "restrictions": null,
+    "date": "2007"
+   },
+   "artist": null,
+   "attribution": "Bob Travis Casco, Maine, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q217812": {
+   "name": "Coleman Hawkins",
+   "file": "File:Coleman Hawkins.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Coleman_Hawkins.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Unknown author Unknown author",
+    "credit": "Ad on page 15 of June 30, 1945 Billboard magazine.",
+    "restrictions": null,
+    "date": "circa 1945 date QS:P,+1945-00-00T00:00:00Z/9,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "Unknown author Unknown author (Public domain), via Wikimedia Commons"
+  },
+  "Q109612": {
+   "name": "Thelonious Monk",
+   "file": "File:Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947 (William P. Gottlieb 06191).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Thelonious_Monk,_Minton%27s_Playhouse,_New_York,_N.Y.,_ca._Sept._1947_(William_P._Gottlieb_06191).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb / Adam Cuerden",
+    "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.06191 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "circa September 1947 date QS:P,+1947-09-00T00:00:00Z/10,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb / Adam Cuerden (Public domain), via Wikimedia Commons"
+  },
+  "Q4030": {
+   "name": "Duke Ellington",
+   "file": "File:Duke Ellington - publicity.JPG",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_-_publicity.JPG",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Unknown author Unknown author",
+    "credit": "eBay",
+    "restrictions": null,
+    "date": "circa 1940 date QS:P,+1940-00-00T00:00:00Z/9,P1480,Q5727902 s"
+   },
+   "artist": null,
+   "attribution": "Unknown author Unknown author (Public domain), via Wikimedia Commons"
+  },
+  "Q104358": {
+   "name": "Billie Holiday",
+   "file": "File:Billie Holiday Billboard.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Billie_Holiday_Billboard.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Unknown author Unknown author",
+    "credit": "Ad on page 2 of July 28, 1945 Billboard magazine.",
+    "restrictions": null,
+    "date": "circa 1945 date QS:P,+1945-00-00T00:00:00Z/9,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "Unknown author Unknown author (Public domain), via Wikimedia Commons"
+  },
+  "Q1779": {
+   "name": "Louis Armstrong",
+   "file": "File:Louis Armstrong, by Harry Warnecke and Gus Schoenbaechler, 1947.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Louis_Armstrong,_by_Harry_Warnecke_and_Gus_Schoenbaechler,_1947.jpg",
+   "licence": {
+    "short": "CC0",
+    "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Harry Warnecke, Gus Schoenbaechler",
+    "credit": "https://npg.si.edu/object/npg_NPG.94.43",
+    "restrictions": null,
+    "date": "1947"
+   },
+   "artist": null,
+   "attribution": "Harry Warnecke, Gus Schoenbaechler (CC0), via Wikimedia Commons"
+  },
+  "Q863114": {
+   "name": "Billy Harper",
+   "file": "File:Billy Harper photo 2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Billy_Harper_photo_2.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Dmitry Scherbie New York",
+    "credit": "Billy Harper, Jazz Standard, Mar 2007",
+    "restrictions": null,
+    "date": "2007"
+   },
+   "artist": null,
+   "attribution": "Dmitry Scherbie New York (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1242049": {
+   "name": "Alex Blake",
+   "file": "File:Alex Blake photo 2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Alex_Blake_photo_2.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Dmitry Scherbie New York",
+    "credit": "Alex Balke, Jazz Standard, March 2007",
+    "restrictions": null,
+    "date": "March 2007"
+   },
+   "artist": null,
+   "attribution": "Dmitry Scherbie New York (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q797599": {
+   "name": "Babatunde Olatunji",
+   "file": "File:Tal_Vadya_Utsav-India_AtillaEngin-OkayTemiz-BurhanÖçal.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Tal_Vadya_Utsav-India_AtillaEngin-OkayTemiz-Burhan%C3%96%C3%A7al.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Egon Gade",
+    "credit": "Atilla Engin's archive",
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "Egon Gade (Public domain), via Wikimedia Commons"
+  },
+  "Q3168738": {
+   "name": "Jean-Philippe Allard",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q1351212": {
+   "name": "Robert Lockwood Jr.",
+   "file": "File:Robert Lockwood Jr.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Robert_Lockwood_Jr.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Lioneldecoster",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "1982-12-03"
+   },
+   "artist": null,
+   "attribution": "Lioneldecoster (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q324522": {
+   "name": "Billy Higgins",
+   "file": "File:Billy Higgins.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Billy_Higgins.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2014-05-20"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q5096668": {
+   "name": "Chief Bey",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q152505": {
+   "name": "Leonard Bernstein",
+   "file": "File:Leonard Bernstein by Jack Mitchell (high quality).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Leonard_Bernstein_by_Jack_Mitchell_(high_quality).jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Jack Mitchell",
+    "credit": "User:X4n6",
+    "restrictions": null,
+    "date": "1977-12-01"
+   },
+   "artist": null,
+   "attribution": "Jack Mitchell (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q470617": {
+   "name": "Pharoah Sanders",
+   "file": "File:Pharoah Sanders photo.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Pharoah_Sanders_photo.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Dmitry Scherbie New York",
+    "credit": "Pharoah Sanders, Iridium, New York, Dec. 2006",
+    "restrictions": null,
+    "date": "2006"
+   },
+   "artist": null,
+   "attribution": "Dmitry Scherbie New York (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q137042": {
+   "name": "Nat King Cole",
+   "file": "File:Nat King Cole (Gottlieb 01511).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Nat_King_Cole_(Gottlieb_01511).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb",
+    "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.01511 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "circa June 1947 date QS:P,+1947-06-00T00:00:00Z/10,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons"
+  },
+  "Q107008": {
+   "name": "Count Basie",
+   "file": "File:Count Basie in Rhythm and Blues Revue.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Count_Basie_in_Rhythm_and_Blues_Revue.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": null,
+    "credit": "https://archive.org/details/rhythm_blues_review",
+    "restrictions": null,
+    "date": "1955"
+   },
+   "artist": null,
+   "attribution": "https://archive.org/details/rhythm_blues_review (Public domain), via Wikimedia Commons"
+  },
+  "Q49575": {
+   "name": "Dizzy Gillespie",
+   "file": "File:Dizzy Gillespie playing horn 1955.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Dizzy_Gillespie_playing_horn_1955.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Carl Van Vechten",
+    "credit": "Van Vechten Collection at Library of Congress",
+    "restrictions": null,
+    "date": "Unknown date"
+   },
+   "artist": null,
+   "attribution": "Carl Van Vechten (Public domain), via Wikimedia Commons"
+  },
+  "Q1431797": {
+   "name": "Guy Warren",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q273233": {
+   "name": "Paul Robeson",
+   "file": "File:Paul Robeson 1942 crop.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Paul_Robeson_1942_crop.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Gordon Parks , Office of War Information; cropped by Beyond My Ken ( talk ) 07:13, 3 February 2011 (UTC)",
+    "credit": "Library of Congress Prints and Photographs Division, Farm Security Administration - Office of War Information Photograph Collection. http://hdl.loc.gov/loc.pnp/fsa.8b14812",
+    "restrictions": "personality",
+    "date": "1942-06"
+   },
+   "artist": null,
+   "attribution": "Gordon Parks , Office of War Information; cropped by Beyond My Ken ( talk ) 07:13, 3 February 2011 (UTC) (Public domain), via Wikimedia Commons"
+  },
+  "Q968887": {
+   "name": "Sahib Shihab",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q1771946": {
+   "name": "Steve Berrios",
+   "file": "File:Steve Berrios.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Steve_Berrios.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Johan Broberg",
+    "credit": "Cropped from this image on Flickr",
+    "restrictions": null,
+    "date": "2012-10-21 20:24:57"
+   },
+   "artist": null,
+   "attribution": "Johan Broberg (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q715390": {
+   "name": "Arturo O'Farrill",
+   "file": "File:Arturo O’Farrill Oslo Jazzfestival 2018 (221903).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Arturo_O%E2%80%99Farrill_Oslo_Jazzfestival_2018_(221903).jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tore Sætre",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2018-08-14"
+   },
+   "artist": null,
+   "attribution": "Tore Sætre (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q448235": {
+   "name": "Roy Haynes",
+   "file": "File:Roy Haynes drummer (cropped).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Roy_Haynes_drummer_(cropped).jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2016-03-13 13:51:47"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q583913": {
+   "name": "Benny Bailey",
+   "file": "File:Benny Bailey (cropped).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Benny_Bailey_(cropped).jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello Webster, New York, USA",
+    "credit": "Dexter Gordon & Benny Bailey",
+    "restrictions": null,
+    "date": "1977-06"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q732319": {
+   "name": "Christian McBride",
+   "file": "File:Five Peace Band.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Five_Peace_Band.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Pierre C. Camera location 43° 44′ 37.2″ N, 7° 25′ 55.2″ E View this and other nearby images on: OpenStreetMap 43.743667; 7.432000",
+    "credit": "originally posted to Flickr as John McLaughlin, Christian McBride, Kenny Garrett & Vinnie Colaiuta",
+    "restrictions": null,
+    "date": "2008-10-22 22:04:11"
+   },
+   "artist": null,
+   "attribution": "Pierre C. Camera location 43° 44′ 37.2″ N, 7° 25′ 55.2″ E View this and other nearby images on: OpenStreetMap 43.743667; 7.432000 (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1175803": {
+   "name": "David Murray",
+   "file": "File:David Murray 1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:David_Murray_1.jpg",
+   "licence": {
+    "short": "CC BY 3.0",
+    "usage_terms": "Creative Commons Attribution 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Dietmar Liste - http://www.jazzimage.de",
+    "credit": "Dietmar Liste - http://www.jazzimage.de",
+    "restrictions": null,
+    "date": "2007-11-17"
+   },
+   "artist": null,
+   "attribution": "Dietmar Liste - http://www.jazzimage.de (CC BY 3.0), via Wikimedia Commons"
+  },
+  "Q1443287": {
+   "name": "Frank Gant",
+   "file": "File:Frank_Gant.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Frank_Gant.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Charles Alden Music Co.",
+    "credit": "DownBeat",
+    "restrictions": null,
+    "date": "1976-04-22"
+   },
+   "artist": null,
+   "attribution": "Charles Alden Music Co. (Public domain), via Wikimedia Commons"
+  },
+  "Q498729": {
+   "name": "Kenny Dorham",
+   "file": "File:Kenny Dorham Advertisement.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Kenny_Dorham_Advertisement.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": null,
+    "credit": "DownBeat Magazine",
+    "restrictions": null,
+    "date": "1961-12-07"
+   },
+   "artist": null,
+   "attribution": "DownBeat Magazine (Public domain), via Wikimedia Commons"
+  },
+  "Q322308": {
+   "name": "Teddy Edwards",
+   "file": "File:Teddy Edwards.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Teddy_Edwards.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2010-07-22 21:02:28"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q2522458": {
+   "name": "Victor Lewis",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q109053": {
+   "name": "Art Tatum",
+   "file": "File:Art Tatum, Vogue Room 1948 (Gottlieb).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Art_Tatum,_Vogue_Room_1948_(Gottlieb).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb",
+    "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.08301 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "between 1946 and 1948 date QS:P,+1946-00-00T00:00:00Z/8,P1319,+1946-00-00T00:00:00Z/9,P1326,+1948-00-00T00:00:00Z/9"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons"
+  },
+  "Q430888": {
+   "name": "Dorothy Donegan",
+   "file": "File:Dorothy Donegan Great Lakes Naval Station.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Dorothy_Donegan_Great_Lakes_Naval_Station.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "unknown Navy photographer",
+    "credit": "https://www.archives.gov/research/african-americans/ww2-pictures/",
+    "restrictions": null,
+    "date": "https://www.archives.gov/research/african-americans/ww2-pictures/images/african-americans-wwii-212.jpg"
+   },
+   "artist": null,
+   "attribution": "unknown Navy photographer (Public domain), via Wikimedia Commons"
+  },
+  "Q354883": {
+   "name": "Earl Hines",
+   "file": "File:\"Earl `Father' (Fatha) Hines, a great swing musician, is shown with Pvt. Charles Carpenter, former manager of the Hines - NARA - 535834.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:%22Earl_%60Father%27_(Fatha)_Hines,_a_great_swing_musician,_is_shown_with_Pvt._Charles_Carpenter,_former_manager_of_the_Hines_-_NARA_-_535834.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Unknown author Unknown author or not provided",
+    "credit": "U.S. National Archives and Records Administration",
+    "restrictions": null,
+    "date": "between circa 1941 and circa 1945 date QS:P571,+1941-00-00T00:00:00Z/8,P1319,+1941-00-00T00:00:00Z/9,P1326,+1945-00-00T00:00:00Z/9,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "Unknown author Unknown author or not provided (Public domain), via Wikimedia Commons"
+  },
+  "Q1052278": {
+   "name": "Cecil Bridgewater",
+   "file": "File:Cecil Bridgewater.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cecil_Bridgewater.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello Webster, New York, USA",
+    "credit": "Cecil Bridgewater",
+    "restrictions": null,
+    "date": "1976"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q7352590": {
+   "name": "Robin Kelley",
+   "file": "File:Robin D. G. Kelley 2014 A.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Robin_D._G._Kelley_2014_A.jpg",
+   "licence": {
+    "short": "CC BY 3.0",
+    "usage_terms": "Creative Commons Attribution 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "The Laura Flanders Show",
+    "credit": "YouTube : https://www.youtube.com/watch?v=i0mYrn7TjIU – View/save archived versions on archive.org",
+    "restrictions": null,
+    "date": "2014-11-24"
+   },
+   "artist": null,
+   "attribution": "The Laura Flanders Show (CC BY 3.0), via Wikimedia Commons"
+  },
+  "Q436176": {
+   "name": "Buddy Bolden",
+   "file": "File:Buddy Bolden 001.png",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Buddy_Bolden_001.png",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Anonymous Unknown author",
+    "credit": "unknown photographer; from personal collection of trombonist Willie Cornish, loaned for reproduction in book \"Jazzmen\" in 1938. Via copy at Public Broadcasting Service (PBS)",
+    "restrictions": null,
+    "date": "circa 1905 date QS:P,+1905-00-00T00:00:00Z/9,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "Anonymous Unknown author (Public domain), via Wikimedia Commons"
+  },
+  "Q215120": {
+   "name": "Cole Porter",
+   "file": "File:Coleporter.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Coleporter.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "unattributed, see link",
+    "credit": "http://lcweb2.loc.gov/diglib/ihas/loc.natlib.scdb.200033557/default.html",
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "unattributed, see link (Public domain), via Wikimedia Commons"
+  },
+  "Q229322": {
+   "name": "Dinah Washington",
+   "file": "File:Dinah Washington 1952.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Dinah_Washington_1952.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Mercury Records The full size copy of the photo shows the photographer to be James Kriegsmann, New York.",
+    "credit": "Billboard 30 August 1952 page 30",
+    "restrictions": null,
+    "date": "1952-08-30"
+   },
+   "artist": null,
+   "attribution": "Mercury Records The full size copy of the photo shows the photographer to be James Kriegsmann, New York. (Public domain), via Wikimedia Commons"
+  },
+  "Q5366368": {
+   "name": "Elma Lewis",
+   "file": "File:Elma Lewis 1975 press photo.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Elma_Lewis_1975_press_photo.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Ira Wyman",
+    "credit": "[1] , [2]",
+    "restrictions": null,
+    "date": "1975"
+   },
+   "artist": null,
+   "attribution": "Ira Wyman (Public domain), via Wikimedia Commons"
+  },
+  "Q919632": {
+   "name": "Eubie Blake",
+   "file": "File:EubieBlake.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:EubieBlake.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Unknown author Unknown author",
+    "credit": "This image has been downloaded on English Wikipedia by en:user:Emerson7 from the website of the the U.S. Library of Congress at [1]",
+    "restrictions": null,
+    "date": "Unknown date"
+   },
+   "artist": null,
+   "attribution": "Unknown author Unknown author (Public domain), via Wikimedia Commons"
+  },
+  "Q7314": {
+   "name": "Igor Stravinsky",
+   "file": "File:Igor Stravinsky LOC 32392u.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Igor_Stravinsky_LOC_32392u.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "George Grantham Bain Collection",
+    "credit": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID ggbain.32392 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "Not dated. From age and fashion, between c. 1920 and c. 1925"
+   },
+   "artist": null,
+   "attribution": "George Grantham Bain Collection (Public domain), via Wikimedia Commons"
+  },
+  "Q5950": {
+   "name": "James Brown",
+   "file": "File:Jamesbrown4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jamesbrown4.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Dbking @ Flickr",
+    "credit": "https://www.flickr.com/photos/bootbearwdc/39038159/",
+    "restrictions": null,
+    "date": "2001"
+   },
+   "artist": null,
+   "attribution": "Dbking @ Flickr (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q461011": {
+   "name": "Louis Jordan",
+   "file": "File:Louis Jordan, New York, N.Y., ca. July 1946 (William P. Gottlieb 04721).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Louis_Jordan,_New_York,_N.Y.,_ca._July_1946_(William_P._Gottlieb_04721).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb",
+    "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.04721 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "1946-07"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons"
+  },
+  "Q189758": {
+   "name": "Marvin Gaye",
+   "file": "File:Marvin Gaye (1973 publicity photo).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Marvin_Gaye_(1973_publicity_photo).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Photograph by Jim Britt, whose other (copyrighted) photos of Gaye from the same session—many of them in full color—can be seen at his website . Originally distributed by Motown Records .",
+    "credit": "Scan via NYTimes . Retouched by uploader.",
+    "restrictions": null,
+    "date": "Photograph taken in 1973 and published shortly thereafter; first published no later than 1976."
+   },
+   "artist": null,
+   "attribution": "Photograph by Jim Britt, whose other (copyrighted) photos of Gaye from the same session—many of them in full color—can be seen at his website . Originally distributed by Motown Records . (Public domain), via Wikimedia Commons"
+  },
+  "Q175899": {
+   "name": "Max Roach",
+   "file": "File:Max Roach, Three Deuces, ca. 1947.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Max_Roach,_Three_Deuces,_ca._1947.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb",
+    "credit": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID gottlieb.07461 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "1947-10"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons"
+  },
+  "Q544387": {
+   "name": "Ray Charles",
+   "file": "File:Ray Charles classic piano pose.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ray_Charles_classic_piano_pose.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William Morris Agency (management)/Photo by Maurice Seymour, New York.",
+    "credit": "eBay front back",
+    "restrictions": null,
+    "date": "1969-11-10"
+   },
+   "artist": null,
+   "attribution": "William Morris Agency (management)/Photo by Maurice Seymour, New York. (Public domain), via Wikimedia Commons"
+  },
+  "Q714": {
+   "name": "Stevie Wonder",
+   "file": "File:Stevie Wonder 1994.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Stevie_Wonder_1994.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA",
+    "credit": "Stevie Wonder",
+    "restrictions": null,
+    "date": "2010-10-24 22:49"
+   },
+   "artist": null,
+   "attribution": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q920490": {
+   "name": "Jackie McLean",
+   "file": "File:Jackie McLean.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jackie_McLean.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2011-04-12 03:57:36"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q353943": {
+   "name": "John Lewis",
+   "file": "File:John Lewis 1977.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:John_Lewis_1977.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0 nl",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0 nl",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Bert Verhoeff for Anefo",
+    "credit": "[1] Dutch National Archives, The Hague, Fotocollectie Algemeen Nederlands Persbureau (ANeFo), 1945-1989 , Nummer toegang 2.24.01.05 Bestanddeelnummer 929-2705",
+    "restrictions": null,
+    "date": "1977-07-16"
+   },
+   "artist": null,
+   "attribution": "Bert Verhoeff for Anefo (CC BY-SA 3.0 nl), via Wikimedia Commons"
+  },
+  "Q1702784": {
+   "name": "Jon Hendricks",
+   "file": "File:Jon Hendricks 0157.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jon_Hendricks_0157.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Atael Weissman @ ataelw",
+    "credit": "Hendricks_0157",
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "Atael Weissman @ ataelw (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q86605": {
+   "name": "Dan Morgenstern",
+   "file": "File:Dan Morgenstern Cropped 2012.JPG",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Dan_Morgenstern_Cropped_2012.JPG",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Infrogmation ( talk ), same person as Infrogmation of New Orleans",
+    "credit": "Photo by Infrogmation ( talk ). Also uploaded in uncropped by me to Flickr : Satchmo SummerFest 2012 Dan Morgenstern",
+    "restrictions": null,
+    "date": "2012-08-04"
+   },
+   "artist": null,
+   "attribution": "Infrogmation ( talk ), same person as Infrogmation of New Orleans (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q1585901": {
+   "name": "Harold Ousley",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q267184": {
+   "name": "Annie Ross",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q1145565": {
+   "name": "Curtis Fuller",
+   "file": "File:Curtis Fuller.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Curtis_Fuller.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Photo by Tom Pich",
+    "credit": "http://www.nea.gov/about/NEARTS/2008_v1/story.php?id=p13_fuller Transferred from en.wikipedia to Commons by Stanmar using CommonsHelper .",
+    "restrictions": null,
+    "date": "2008-06-29"
+   },
+   "artist": null,
+   "attribution": "Photo by Tom Pich (Public domain), via Wikimedia Commons"
+  },
+  "Q386010": {
+   "name": "Dave McKenna",
+   "file": "File:Dave McKenna.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Dave_McKenna.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Laura Kolb Satellite Beach, Fl.- Taos,N.M., USA",
+    "credit": "Dave McKenna",
+    "restrictions": null,
+    "date": "Unknown date"
+   },
+   "artist": null,
+   "attribution": "Laura Kolb Satellite Beach, Fl.- Taos,N.M., USA (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q229251": {
+   "name": "Dorothy Dandridge",
+   "file": "File:Stevan Kragujevic, Dorothy Dandridge, 1962 (1).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Stevan_Kragujevic,_Dorothy_Dandridge,_1962_(1).jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0 rs",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0 rs",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Stevan Kragujević",
+    "credit": "Transferred from sr.wikipedia to Commons.",
+    "restrictions": null,
+    "date": "31 May 2014 (original upload date)"
+   },
+   "artist": null,
+   "attribution": "Stevan Kragujević (CC BY-SA 3.0 rs), via Wikimedia Commons"
+  },
+  "Q349146": {
+   "name": "Jack DeJohnette",
+   "file": "File:Jack DeJohnette.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jack_DeJohnette.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Ric Brooks Knoxville, USA",
+    "credit": "Jack DeJohnette Bijou 2006",
+    "restrictions": null,
+    "date": "2006"
+   },
+   "artist": null,
+   "attribution": "Ric Brooks Knoxville, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1242553": {
+   "name": "Lonnie Liston Smith",
+   "file": "File:Lonnie Liston Smith Glastonbury 2009-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lonnie_Liston_Smith_Glastonbury_2009-1.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Cavie78",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2009-06-27"
+   },
+   "artist": null,
+   "attribution": "Cavie78 (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q489233": {
+   "name": "Kenny Barron",
+   "file": "File:Kenny Barron Oslo Jazzfestival 2018 (221007).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Kenny_Barron_Oslo_Jazzfestival_2018_(221007).jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tore Sætre",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2018-08-13"
+   },
+   "artist": null,
+   "attribution": "Tore Sætre (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q200767": {
+   "name": "Pat LaBarbera",
+   "file": "File:Pat Labarbera.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Pat_Labarbera.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "KSMF Webmaster",
+    "credit": "Pat Labarbera",
+    "restrictions": null,
+    "date": "2008-04-19"
+   },
+   "artist": null,
+   "attribution": "KSMF Webmaster (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q2390289": {
+   "name": "T. K. Blue",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q343378": {
+   "name": "Wallace Roney",
+   "file": "File:WallaceRoney (cropped).png",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:WallaceRoney_(cropped).png",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Juststreamit",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2004-08-15"
+   },
+   "artist": null,
+   "attribution": "Juststreamit (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q485927": {
+   "name": "Cecil Payne",
+   "file": "File:Cecil Payne.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cecil_Payne.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Ed Berger",
+    "credit": "Cecil Payne",
+    "restrictions": null,
+    "date": "2005-06-13"
+   },
+   "artist": null,
+   "attribution": "Ed Berger (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q1066973": {
+   "name": "Charlie Persip",
+   "file": "File:Charlie Persip Gretsch drums.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Charlie_Persip_Gretsch_drums.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Gretsch Drums",
+    "credit": "DownBeat Magazine",
+    "restrictions": null,
+    "date": "1958-10-02"
+   },
+   "artist": null,
+   "attribution": "Gretsch Drums (Public domain), via Wikimedia Commons"
+  },
+  "Q892998": {
+   "name": "Booker Ervin",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q349082": {
+   "name": "Budd Johnson",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q858535": {
+   "name": "Danny \"Big Black\" Rey",
+   "file": "File:Daniel Big Black Rey.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Daniel_Big_Black_Rey.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2018-07-08 13:27:25"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q1357150": {
+   "name": "Julius Watkins",
+   "file": "File:Quincy Jones Orchestra 1960 (JOKAHBL3E A05-3).tif",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Quincy_Jones_Orchestra_1960_(JOKAHBL3E_A05-3).tif",
+   "licence": {
+    "short": "CC BY 4.0",
+    "usage_terms": "Creative Commons Attribution 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null,
+    "credit": "https://finna.fi/Record/museovirasto.7a92a598-4545-486c-9c08-a73e042257da",
+    "restrictions": null,
+    "date": "29 August 1960 date QS:P571,+1960-08-29T00:00:00Z/11"
+   },
+   "artist": null,
+   "attribution": "https://finna.fi/Record/museovirasto.7a92a598-4545-486c-9c08-a73e042257da (CC BY 4.0), via Wikimedia Commons"
+  },
+  "Q311715": {
+   "name": "Art Blakey",
+   "file": "File:Art Blakey and the Jazz Messengers in the Kurzaal Concert Hall in Den Haag, 30.03.1963 - 10.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Art_Blakey_and_the_Jazz_Messengers_in_the_Kurzaal_Concert_Hall_in_Den_Haag,_30.03.1963_-_10.jpg",
+   "licence": {
+    "short": "CC0",
+    "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Fotopersbureau De Boer",
+    "credit": "Show jazz Art Blakey A. en B. , Noord-Hollands Archief, collectie Fotopersbureau De Boer, NL-HlmNHA_1478_00711K02_10",
+    "restrictions": null,
+    "date": "1963-03-30"
+   },
+   "artist": null,
+   "attribution": "Fotopersbureau De Boer (CC0), via Wikimedia Commons"
+  },
+  "Q705751": {
+   "name": "Art Taylor",
+   "file": "File:Art Taylor Advertisement.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Art_Taylor_Advertisement.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Gretsch",
+    "credit": "DownBeat Magazine",
+    "restrictions": null,
+    "date": "1963-02-14"
+   },
+   "artist": null,
+   "attribution": "Gretsch (Public domain), via Wikimedia Commons"
+  },
+  "Q580587": {
+   "name": "Brock Peters",
+   "file": "File:Brock Peters 1961.JPG",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Brock_Peters_1961.JPG",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Donald Young Associates, Chicago-public relations",
+    "credit": "eBay item photo front photo back",
+    "restrictions": null,
+    "date": "1961-05"
+   },
+   "artist": null,
+   "attribution": "Donald Young Associates, Chicago-public relations (Public domain), via Wikimedia Commons"
+  },
+  "Q83693": {
+   "name": "Cándido Camero",
+   "file": "File:Percussionist Candido Camero (cropped).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Percussionist_Candido_Camero_(cropped).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Tom Pich.",
+    "credit": "http://www.nea.gov/about/NEARTS/2008_v1/story.php?id=p04_camero http://en.wikipedia.org/wiki/File:Percussionist_Candido_Camero.jpg",
+    "restrictions": null,
+    "date": "2008"
+   },
+   "artist": null,
+   "attribution": "Tom Pich. (Public domain), via Wikimedia Commons"
+  },
+  "Q346762": {
+   "name": "Freddie Hubbard",
+   "file": "File:Freddie Hubbard 1976.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Freddie_Hubbard_1976.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello Webster, New York, USA",
+    "credit": "Freddie Hubbard - trumpet",
+    "restrictions": null,
+    "date": "1976"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q386883": {
+   "name": "Jimmy Cleveland",
+   "file": "File:Jimmy Cleveland.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jimmy_Cleveland.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Quad Wing",
+    "credit": "Wikipedia:Contact us/Photo submission",
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "Quad Wing (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q1350269": {
+   "name": "Jon Faddis",
+   "file": "File:Jon Faddis.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jon_Faddis.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Yves Moch",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2007-07-17 07:30"
+   },
+   "artist": null,
+   "attribution": "Yves Moch (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q720707": {
+   "name": "Quentin Jackson",
+   "file": "File:Quincy Jones Orchestra 1960 (JOKAHBL3E A05-10).tif",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Quincy_Jones_Orchestra_1960_(JOKAHBL3E_A05-10).tif",
+   "licence": {
+    "short": "CC BY 4.0",
+    "usage_terms": "Creative Commons Attribution 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null,
+    "credit": "https://finna.fi/Record/museovirasto.4c419b0d-4697-4b38-bb32-e1fe8af3b2e6",
+    "restrictions": null,
+    "date": "29 August 1960 date QS:P571,+1960-08-29T00:00:00Z/11"
+   },
+   "artist": null,
+   "attribution": "https://finna.fi/Record/museovirasto.4c419b0d-4697-4b38-bb32-e1fe8af3b2e6 (CC BY 4.0), via Wikimedia Commons"
+  },
+  "Q961172": {
+   "name": "Rebop Kwaku Baah",
+   "file": "File:Rebop Kwaku Baah.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Rebop_Kwaku_Baah.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Heinrich Klaffs",
+    "credit": "https://www.flickr.com/photos/heiner1947/4497727297/in/set-72157623793443430/",
+    "restrictions": null,
+    "date": "2010-04-07"
+   },
+   "artist": null,
+   "attribution": "Heinrich Klaffs (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1369035": {
+   "name": "Slide Hampton",
+   "file": "File:SlideHampton.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:SlideHampton.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Dugsalmon",
+    "credit": "http://en.wikipedia.org/wiki/File:SlideHampton.jpg",
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "Dugsalmon (Public domain), via Wikimedia Commons"
+  },
+  "Q409259": {
+   "name": "Airto Moreira",
+   "file": "File:Airto Moreira.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Airto_Moreira.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Daniel Shen Taipei, Taiwan",
+    "credit": "Airto Moreira",
+    "restrictions": null,
+    "date": "2007"
+   },
+   "artist": null,
+   "attribution": "Daniel Shen Taipei, Taiwan (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q715687": {
+   "name": "Al Grey",
+   "file": "File:Al Grey (Gottlieb).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Al_Grey_(Gottlieb).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb / Adam Cuerden",
+    "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.16221 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "1980s date QS:P,+1980-00-00T00:00:00Z/8"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb / Adam Cuerden (Public domain), via Wikimedia Commons"
+  },
+  "Q678703": {
+   "name": "Armando Peraza",
+   "file": "File:Armando Peraza London 1999 001.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Armando_Peraza_London_1999_001.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "No machine-readable author provided. Simon Baptista~commonswiki assumed (based on copyright claims).",
+    "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+    "restrictions": null,
+    "date": "4 February 2006 (original upload date)"
+   },
+   "artist": null,
+   "attribution": "No machine-readable author provided. Simon Baptista~commonswiki assumed (based on copyright claims). (Public domain), via Wikimedia Commons"
+  },
+  "Q817875": {
+   "name": "Bennie Green",
+   "file": "File:Benniegreenembraceableyou.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Benniegreenembraceableyou.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Freimut Bahlo",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2009-04-10"
+   },
+   "artist": null,
+   "attribution": "Freimut Bahlo (Public domain), via Wikimedia Commons"
+  },
+  "Q213512": {
+   "name": "Bill Cosby",
+   "file": "File:The World Affairs Council and Girard College present Bill Cosby (6343666943) (cropped to Cosby).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_(6343666943)_(cropped_to_Cosby).jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "The World Affairs Council of Philadelphia",
+    "credit": "The World Affairs Council and Girard College present Bill Cosby",
+    "restrictions": null,
+    "date": "2011-11-07 18:55"
+   },
+   "artist": null,
+   "attribution": "The World Affairs Council of Philadelphia (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q338786": {
+   "name": "Billy Cobham",
+   "file": "File:Billy-Cobham-1-2512.JPG",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Billy-Cobham-1-2512.JPG",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "La rédaction du magazine 2512 .",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2006-10-14"
+   },
+   "artist": null,
+   "attribution": "La rédaction du magazine 2512 . (Public domain), via Wikimedia Commons"
+  },
+  "Q888271": {
+   "name": "Bob Stewart",
+   "file": "File:Bob Stewart.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Bob_Stewart.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Richard Newhouse Marina, USA",
+    "credit": "Bob Stewart",
+    "restrictions": null,
+    "date": "2005-11-23"
+   },
+   "artist": null,
+   "attribution": "Richard Newhouse Marina, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1065516": {
+   "name": "Charles McPherson",
+   "file": "File:Charles McPherson.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Charles_McPherson.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Ed Newman",
+    "credit": "Charles McPherson at Smoke",
+    "restrictions": null,
+    "date": "2006"
+   },
+   "artist": null,
+   "attribution": "Ed Newman (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q107432": {
+   "name": "Charles Mingus",
+   "file": "File:Charles Mingus 1976.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Charles_Mingus_1976.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello Webster, New York, USA",
+    "credit": "CHARLES MINGUS",
+    "restrictions": null,
+    "date": "1976-07-04"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q432924": {
+   "name": "Clark Terry",
+   "file": "File:Clark Terry in 1981.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Clark_Terry_in_1981.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2011-10-27"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q431520": {
+   "name": "Connie Kay",
+   "file": "File:ModernJazzQuartet.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:ModernJazzQuartet.jpg",
+   "licence": {
+    "short": "CC BY 4.0",
+    "usage_terms": "Creative Commons Attribution 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Harry Pot",
+    "credit": "GaHetNa (Nationaal Archief NL)",
+    "restrictions": null,
+    "date": "1961-10-20"
+   },
+   "artist": null,
+   "attribution": "Harry Pot (CC BY 4.0), via Wikimedia Commons"
+  },
+  "Q374479": {
+   "name": "Dewey Redman",
+   "file": "File:Dewey-redman-sw1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Dewey-redman-sw1.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.5",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.5",
+    "url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "No machine-readable author provided. Nomo assumed (based on copyright claims).",
+    "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+    "restrictions": null,
+    "date": "5 June 2006 (according to Exif data)"
+   },
+   "artist": null,
+   "attribution": "No machine-readable author provided. Nomo assumed (based on copyright claims). (CC BY-SA 2.5), via Wikimedia Commons"
+  },
+  "Q358599": {
+   "name": "Don Moye",
+   "file": "File:Don Moye Art Ensemble of Chicago Kongsberg Jazzfestival 2017 (001246).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Don_Moye_Art_Ensemble_of_Chicago_Kongsberg_Jazzfestival_2017_(001246).jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tore Sætre",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2017-07-08"
+   },
+   "artist": null,
+   "attribution": "Tore Sætre (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q1239442": {
+   "name": "Don Pullen",
+   "file": "File:Don Pullen.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Don_Pullen.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "1988-06-13"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q1239500": {
+   "name": "Don Sebesky",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q351910": {
+   "name": "Eddie Bert",
+   "file": "File:Eddie Bert.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Eddie_Bert.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb",
+    "credit": "This image is available from the United States Library of Congress 's Music Division under the digital ID gottlieb.00741 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+    "restrictions": null,
+    "date": "1947"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons"
+  },
+  "Q357179": {
+   "name": "Elvin Jones",
+   "file": "File:Elvin Jones 1979 3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Elvin_Jones_1979_3.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Thomas Huther",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2022-06-10 17:15:05"
+   },
+   "artist": null,
+   "attribution": "Thomas Huther (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q491422": {
+   "name": "Ernie Royal",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q1494373": {
+   "name": "Garnett Brown",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q713291": {
+   "name": "Gene Ammons",
+   "file": "File:Gene Ammons PBS 1971.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gene_Ammons_PBS_1971.jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "PBS",
+    "credit": "https://www.ebay.com/itm/178285992043 https://www.newspapers.com/newspage/446260262",
+    "restrictions": null,
+    "date": "1971"
+   },
+   "artist": null,
+   "attribution": "PBS (Public domain), via Wikimedia Commons"
+  },
+  "Q1370288": {
+   "name": "George Duvivier",
+   "file": "File:George Duvivier.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:George_Duvivier.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Brianmcmillen",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2015-08-17"
+   },
+   "artist": null,
+   "attribution": "Brianmcmillen (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q448163": {
+   "name": "Geri Allen",
+   "file": "File:Geri-allen-by-pablo-secca.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Geri-allen-by-pablo-secca.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Pablosecca",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "2008-07-30"
+   },
+   "artist": null,
+   "attribution": "Pablosecca (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q156535": {
+   "name": "Gerry Mulligan",
+   "file": "File:Gerry Mulligan (1980s portrait by William P. Gottlieb).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gerry_Mulligan_(1980s_portrait_by_William_P._Gottlieb).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "William P. Gottlieb",
+    "credit": "Library of Congress . Cropped and retouched by uploader; see upload history below for unretouched original, and \"other versions\" for full-size with margins.",
+    "restrictions": null,
+    "date": "1980s date QS:P,+1980-00-00T00:00:00Z/8"
+   },
+   "artist": null,
+   "attribution": "William P. Gottlieb (Public domain), via Wikimedia Commons"
+  },
+  "Q563275": {
+   "name": "Gigi Gryce",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q463678": {
+   "name": "Grover Washington Jr.",
+   "file": "File:Grover Washington 1995.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Grover_Washington_1995.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA",
+    "credit": "GROVER WASHINGTON",
+    "restrictions": null,
+    "date": "2018-12-08 13:29"
+   },
+   "artist": null,
+   "attribution": "Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1573406": {
+   "name": "Hamiet Bluiett",
+   "file": "File:Hamiet Bluiett.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Hamiet_Bluiett.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Andy Newcombe Farnborough, UK",
+    "credit": "P1220230",
+    "restrictions": null,
+    "date": "2007"
+   },
+   "artist": null,
+   "attribution": "Andy Newcombe Farnborough, UK (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q711480": {
+   "name": "Henri Texier",
+   "file": "File:Henri Texier.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Henri_Texier.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "thibault geenen from Paris, France",
+    "credit": "Jazz - Henri Texier New Morning-14",
+    "restrictions": null,
+    "date": "2007-03-01 22:57"
+   },
+   "artist": null,
+   "attribution": "thibault geenen from Paris, France (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q728013": {
+   "name": "Howard Johnson",
+   "file": "File:Mansur Scott Harlem Quartet feat Howard Johnson - INNtöne Jazzfestival 2013 25 (cropped).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Mansur_Scott_Harlem_Quartet_feat_Howard_Johnson_-_INNt%C3%B6ne_Jazzfestival_2013_25_(cropped).jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Manfred Werner ( Tsui )",
+    "credit": "Own work",
+    "restrictions": "personality",
+    "date": "2013-05-18"
+   },
+   "artist": null,
+   "attribution": "Manfred Werner ( Tsui ) (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q1391952": {
+   "name": "Idris Muhammad",
+   "file": "File:PharoahSanders.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:PharoahSanders.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null,
+    "credit": null,
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "unknown author (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q962310": {
+   "name": "James Moody",
+   "file": "File:JamesMoody.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:JamesMoody.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Jaime Olmo from Barceloneta, Puerto Rico",
+    "credit": "James Moody (cropped)",
+    "restrictions": null,
+    "date": "2007-06-02 02:43"
+   },
+   "artist": null,
+   "attribution": "Jaime Olmo from Barceloneta, Puerto Rico (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q720693": {
+   "name": "Jerome Richardson",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q717207": {
+   "name": "Joe Chambers",
+   "file": "File:Joe_Chambers_and_Freddie_Waits.png",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Joe_Chambers_and_Freddie_Waits.png",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Presumably a cameraperson for the Educational Broadcasting Corporation",
+    "credit": "YouTube : https://www.youtube.com/watch?v=4eV1vrmSC5k – View/save archived versions on archive.org",
+    "restrictions": null,
+    "date": "1971"
+   },
+   "artist": null,
+   "attribution": "Presumably a cameraperson for the Educational Broadcasting Corporation (Public domain), via Wikimedia Commons"
+  },
+  "Q708439": {
+   "name": "Johnny Griffin",
+   "file": "File:Johnny Griffin 1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Johnny_Griffin_1.jpg",
+   "licence": {
+    "short": "CC BY-SA 3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Reyz at English Wikipedia ( Original text: Andrew Kounitskiy )",
+    "credit": "Own work ( Original text: self-made )",
+    "restrictions": null,
+    "date": "30 December 2007 (original upload date) ( Original text: feb 2007 )"
+   },
+   "artist": null,
+   "attribution": "Reyz at English Wikipedia ( Original text: Andrew Kounitskiy ) (CC BY-SA 3.0), via Wikimedia Commons"
+  },
+  "Q255355": {
+   "name": "Kenny Burrell",
+   "file": "File:Kenny Burrell 2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Kenny_Burrell_2.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "vernon.hyde",
+    "credit": "Kenny Burrell",
+    "restrictions": null,
+    "date": null
+   },
+   "artist": null,
+   "attribution": "vernon.hyde (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q453393": {
+   "name": "Lee Konitz",
+   "file": "File:Lee Konitz Bad Mergentheim.JPG",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lee_Konitz_Bad_Mergentheim.JPG",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Schorle",
+    "credit": "Own work",
+    "restrictions": "personality",
+    "date": "2015-11-06 20:58:17"
+   },
+   "artist": null,
+   "attribution": "Schorle (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q1869624": {
+   "name": "Lonnie Hillyer",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q111697740": {
+   "name": "Martha Flowers",
+   "file": "File:Anefo 910-8562 Persconferentie.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Anefo_910-8562_Persconferentie.jpg",
+   "licence": {
+    "short": "CC0",
+    "usage_terms": "Creative Commons Zero, Public Domain Dedication",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Harry Pot for Anefo ), 1945-1989 - negatiefstroken zwart/wit, nummer toegang 2.24.01.05, bestanddeelnummer 910-8562",
+    "credit": "Nationaal Archief Fotocollectie Anefo",
+    "restrictions": null,
+    "date": "1959-12-01"
+   },
+   "artist": null,
+   "attribution": "Harry Pot for Anefo ), 1945-1989 - negatiefstroken zwart/wit, nummer toegang 2.24.01.05, bestanddeelnummer 910-8562 (CC0), via Wikimedia Commons"
+  },
+  "Q886416": {
+   "name": "Marvin Stamm",
+   "file": "File:Marvin Stamm.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Marvin_Stamm.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Gilberto",
+    "credit": "Stasera jazz",
+    "restrictions": null,
+    "date": "2008-04-17"
+   },
+   "artist": null,
+   "attribution": "Gilberto (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q491411": {
+   "name": "Milt Hinton",
+   "file": "File:Milt Hinton.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Milt_Hinton.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Courtesy the Fraser MacPherson estate c/o Guy MacPherson",
+    "credit": "Milt Hinton",
+    "restrictions": null,
+    "date": "1989"
+   },
+   "artist": null,
+   "attribution": "Courtesy the Fraser MacPherson estate c/o Guy MacPherson (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q527821": {
+   "name": "Norris Turney",
+   "file": "File:Duke_Ellington_at_the_Minsk_Sports_Palace_01.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_at_the_Minsk_Sports_Palace_01.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Bk1949",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "21 верасня 1971"
+   },
+   "artist": null,
+   "attribution": "Bk1949 (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q3813611": {
+   "name": "Obo Addy",
+   "file": "File:Obo Addy.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Obo_Addy.jpg",
+   "licence": {
+    "short": "CC BY 2.0",
+    "usage_terms": "Creative Commons Attribution 2.0",
+    "url": "https://creativecommons.org/licenses/by/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "K. Kendall",
+    "credit": "https://www.flickr.com/photos/kkendall/3376507744/",
+    "restrictions": null,
+    "date": "2009-03-22"
+   },
+   "artist": null,
+   "attribution": "K. Kendall (CC BY 2.0), via Wikimedia Commons"
+  },
+  "Q2150923": {
+   "name": "Richard Williams",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q487942": {
+   "name": "Richie Kamuca",
+   "file": "File:Ritchie Kamuca & Shelly Manne.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ritchie_Kamuca_%26_Shelly_Manne.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Television broadcast of Jazz Scene USA",
+    "credit": "File is a screenshot captured from a video of Television broadcast of Jazz Scene USA",
+    "restrictions": null,
+    "date": "2021-08-01 14:42:52"
+   },
+   "artist": null,
+   "attribution": "Television broadcast of Jazz Scene USA (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q111734787": {
+   "name": "Romeo Penque",
+   "file": null,
+   "commons_page": null,
+   "licence": {
+    "short": null,
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": null
+   },
+   "artist": null,
+   "attribution": "Linked Jazz / Semantic Lab - licence unverified"
+  },
+  "Q356908": {
+   "name": "Roy Brooks",
+   "file": "File:Roy Brooks Drums.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Roy_Brooks_Drums.jpg",
+   "licence": {
+    "short": "CC BY-SA 4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Rasheed Ali",
+    "credit": "The Estate of Roy Brooks",
+    "restrictions": null,
+    "date": "1971-01-02"
+   },
+   "artist": null,
+   "attribution": "Rasheed Ali (CC BY-SA 4.0), via Wikimedia Commons"
+  },
+  "Q945681": {
+   "name": "Rudy Van Gelder",
+   "file": "File:RogerDawsonSeptet (cropped - Rudy Van Gelder).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:RogerDawsonSeptet_(cropped_-_Rudy_Van_Gelder).jpg",
+   "licence": {
+    "short": "Public domain",
+    "usage_terms": "Public domain",
+    "url": null,
+    "public_domain": true,
+    "attribution_required": false,
+    "artist": "Stephborel",
+    "credit": "Own work",
+    "restrictions": null,
+    "date": "1976-01-07"
+   },
+   "artist": null,
+   "attribution": "Stephborel (Public domain), via Wikimedia Commons"
+  },
+  "Q265494": {
+   "name": "Teo Macero",
+   "file": "File:Teo Macero.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Teo_Macero.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Catherine Rankovic",
+    "credit": "Teo Macero, 1996",
+    "restrictions": null,
+    "date": "Unknown date"
+   },
+   "artist": null,
+   "attribution": "Catherine Rankovic (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q168600": {
+   "name": "Woody Shaw",
+   "file": "File:Woody Shaw.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Woody_Shaw.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello Webster, New York, USA",
+    "credit": "Woody Shaw - trumpet",
+    "restrictions": null,
+    "date": "circa 1978 date QS:P,+1978-00-00T00:00:00Z/9,P1480,Q5727902"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q539832": {
+   "name": "Yusef Lateef",
+   "file": "File:Yusef Lateef.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Yusef_Lateef.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Beetz",
+    "credit": "Yusef Lateef",
+    "restrictions": null,
+    "date": "2007"
+   },
+   "artist": null,
+   "attribution": "Tom Beetz (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q1689415": {
+   "name": "Jimmy Owens",
+   "file": "File:Jimmy Owens.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jimmy_Owens.jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello from Webster, New York, USA",
+    "credit": "Jimmy Owens",
+    "restrictions": null,
+    "date": "2007-05-15 21:40"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello from Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  },
+  "Q718617": {
+   "name": "Billy Taylor",
+   "file": "File:Billy Taylor (jazz).jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Billy_Taylor_(jazz).jpg",
+   "licence": {
+    "short": "CC BY-SA 2.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "public_domain": false,
+    "attribution_required": true,
+    "artist": "Tom Marcello Webster, New York, USA",
+    "credit": "Billy Taylor",
+    "restrictions": null,
+    "date": "1977"
+   },
+   "artist": null,
+   "attribution": "Tom Marcello Webster, New York, USA (CC BY-SA 2.0), via Wikimedia Commons"
+  }
+ },
+ "covers": {
+  "722a7205-5c6a-4814-93f7-a000b6dab6c3": {
+   "title": "Cole Porter in a Modern Mood",
+   "released": "1955",
+   "qid": "Q5142679"
+  },
+  "fe4a7281-f70f-4a32-af69-88cafe61acc1": {
+   "title": "Trio and Solo",
+   "released": "1957",
+   "qid": "Q17062923"
+  },
+  "4a771c3c-5a40-4a54-b7bd-3c4a6b1053ca": {
+   "title": "The Modern Art of Jazz by Randy Weston",
+   "released": "1957",
+   "qid": "Q24077723"
+  },
+  "d4cfed60-6d71-4d09-a30b-7279a98b0726": {
+   "title": "Jazz Lab",
+   "released": "1958",
+   "qid": "Q6168265"
+  },
+  "46bd1594-9e62-4d60-aeb5-63ab9d7cc54c": {
+   "title": "Piano á la Mode",
+   "released": "1959",
+   "qid": "Q7190214"
+  },
+  "75a4c130-f194-424f-9e28-602dd5a98e11": {
+   "title": "Salute to the Flute",
+   "released": "1957",
+   "qid": "Q20814008"
+  },
+  "c90f7099-e640-33a6-9ffd-92557337b379": {
+   "title": "It's Magic (Abbey Lincoln album)",
+   "released": "1958",
+   "qid": "Q6090285"
+  },
+  "983daf0d-f0e7-4df8-b6a8-5e4edb101b2d": {
+   "title": "Out There (Betty Carter album)",
+   "released": "1958 ( 1958 )",
+   "qid": "Q7111471"
+  },
+  "42d94cae-f2e1-4a7c-acf3-856c81cb5db7": {
+   "title": "A Good Git-Together",
+   "released": "1959",
+   "qid": "Q4657109"
+  },
+  "d5f8521c-58a6-3c56-af99-a1a1c353925d": {
+   "title": "At the Jazz Corner of the World",
+   "released": "September/October 1959",
+   "qid": "Q4812531"
+  },
+  "0c0dce77-0668-4882-8ea5-cdd05c989fd4": {
+   "title": "Little Niles",
+   "released": "1959",
+   "qid": "Q6651167"
+  },
+  "4421b83f-472f-3417-bcab-263ed31100b6": {
+   "title": "On View at the Five Spot Cafe",
+   "released": "1959",
+   "qid": "Q7091193"
+  },
+  "7ea25306-da98-3b44-8bc8-7b87ee411cf9": {
+   "title": "The Cannonball Adderley Quintet in San Francisco",
+   "released": "1959",
+   "qid": "Q7721208"
+  },
+  "f17eb6cd-d1ef-3e2f-94a9-06e286368245": {
+   "title": "Out There (Eric Dolphy album)",
+   "released": "September 1961 ( 1961-09 )",
+   "qid": "Q7111474"
+  },
+  "5ad2cb32-9108-454b-93a4-c3c3f51c6b19": {
+   "title": "Reminiscin'",
+   "released": "1960",
+   "qid": "Q17508866"
+  },
+  "6f269111-f5b3-46c4-ae26-7b4e79c9bb02": {
+   "title": "Uhuru Afrika",
+   "released": "End of April 1961",
+   "qid": "Q7878031"
+  },
+  "0c1eaa4a-d660-3621-92b8-5957fa19700f": {
+   "title": "Cannonball Adderley and the Poll-Winners",
+   "released": "Early 1961",
+   "qid": "Q5032820"
+  },
+  "952cd2d7-53bc-34e4-9002-56ac659fbf34": {
+   "title": "Hub Cap (album)",
+   "released": "October 1961",
+   "qid": "Q5926650"
+  },
+  "c39391b8-a7eb-3000-853c-2ad00ebfd1dd": {
+   "title": "Straight Ahead (Abbey Lincoln album)",
+   "released": "1961",
+   "qid": "Q7620988"
+  },
+  "1bd39aae-4a62-3f64-abaf-29501ecc7f3d": {
+   "title": "Where? (album)",
+   "released": "1961",
+   "qid": "Q19898226"
+  },
+  "c5f03e7e-692c-4873-a800-fbcc404edb8d": {
+   "title": "Comin' Home Baby!",
+   "released": "1962",
+   "qid": "Q5151866"
+  },
+  "4d4f1f22-0d8e-3247-8c8a-43345a4a7efc": {
+   "title": "The Freedom Book",
+   "released": "March 1964",
+   "qid": "Q7735218"
+  },
+  "6f0b6e3a-0964-4c14-b161-97c2f0496299": {
+   "title": "Berkshire Blues",
+   "released": "1977",
+   "qid": "Q4892245"
+  },
+  "62741123-68f3-3951-97c0-9e9cce8b3a55": {
+   "title": "Reflections (Abdullah Ibrahim album)",
+   "released": null,
+   "qid": "Q48805946"
+  },
+  "47bde8e3-6f9b-4eb0-a6ee-e866ebcab04a": {
+   "title": "Monterey '66",
+   "released": "1994",
+   "qid": "Q6905281"
+  },
+  "3517ad1f-f32d-4e2b-858a-7a9f331cdbf7": {
+   "title": "Structurally Sound",
+   "released": "April 1967",
+   "qid": "Q7625076"
+  },
+  "056ee57d-2868-38cc-a6a4-f47883cdd8eb": {
+   "title": "African Cookbook",
+   "released": "1969",
+   "qid": "Q4689740"
+  },
+  "f1e40085-a774-307a-a68a-76557b33a067": {
+   "title": "Blue Moses (album)",
+   "released": "June 1972",
+   "qid": "Q4929474"
+  },
+  "85cf6c61-9d2e-3d01-8252-d69ffd2878aa": {
+   "title": "Charles Mingus and Friends in Concert",
+   "released": "1973",
+   "qid": "Q1065532"
+  },
+  "9898d5d2-a5f3-3a11-8f3b-2a90f3680118": {
+   "title": "Tanjah (album)",
+   "released": "May 1974",
+   "qid": "Q17041415"
+  },
+  "78ac4cc7-d611-4872-aa44-d386084703f0": {
+   "title": "Informal Solo Piano",
+   "released": "1974",
+   "qid": null
+  },
+  "fd704449-ba98-4e4f-b95a-46e4525a6407": {
+   "title": "African Rhythms",
+   "released": "1975",
+   "qid": null
+  },
+  "e933c3f0-dc31-3143-90ad-90b9e1661bbe": {
+   "title": "Blues to Africa",
+   "released": "1975",
+   "qid": "Q4930535"
+  },
+  "579f5ca6-d9db-37f8-a352-d8a1a474b096": {
+   "title": "Phenix (album)",
+   "released": "1975",
+   "qid": "Q7181349"
+  },
+  "2880e11b-5068-4df1-ab6a-8acf519bfdef": {
+   "title": "Randy Weston Meets Himself",
+   "released": "1976",
+   "qid": null
+  },
+  "57bc8353-bbc5-4da3-931a-24a863b89f6b": {
+   "title": "Rhythms-Sounds Piano",
+   "released": "1978",
+   "qid": null
+  },
+  "d59bb2d6-564f-366c-8890-aa82dcfe99a2": {
+   "title": "The Berlin Concerts",
+   "released": "1978",
+   "qid": "Q111165315"
+  },
+  "7e77ea62-43dd-4a88-b648-67eb4b1dd443": {
+   "title": "In Memory Of (Stanley Turrentine album)",
+   "released": "1979",
+   "qid": "Q6009988"
+  },
+  "6e81ba6d-2069-41f2-bbe2-797e37a11853": {
+   "title": "Roots, Branches & Dances",
+   "released": "1979",
+   "qid": "Q43303045"
+  },
+  "40a91248-5a8b-4918-ac29-7fedf5b7e158": {
+   "title": "Very Personal",
+   "released": "1981",
+   "qid": "Q48817973"
+  },
+  "5c6fc8a8-32d1-3ba8-872b-7391e6eaddfc": {
+   "title": "Torch (Carly Simon album)",
+   "released": "August 1981",
+   "qid": "Q7825532"
+  },
+  "eadc3dd2-40e8-41b0-961a-00bfa22b1fec": {
+   "title": "The Artistry of Mark Murphy",
+   "released": "1982",
+   "qid": "Q125975539"
+  },
+  "0ef68d31-ddd8-4807-baf4-2f14ee57ca02": {
+   "title": "Blue",
+   "released": "1984",
+   "qid": null
+  },
+  "24a301d0-6dc6-42a8-9319-ae0318339aec": {
+   "title": "Babe's Blues",
+   "released": "1986",
+   "qid": "Q4837627"
+  },
+  "f4fca771-7533-49f2-967e-69f29fc716e3": {
+   "title": "Happy Frame of Mind",
+   "released": "1986",
+   "qid": "Q5652740"
+  },
+  "088ac3ad-d9be-4635-9a1e-e986224060bb": {
+   "title": "The Healers (album)",
+   "released": "1987",
+   "qid": "Q7739129"
+  },
+  "7c0fecb3-2f61-414a-ac69-34c86278452e": {
+   "title": "Harlem Blues (Donald Byrd album)",
+   "released": "1988",
+   "qid": "Q17993656"
+  },
+  "da888f9b-7b16-4904-be09-9c528e21952f": {
+   "title": "Portraits of Duke Ellington: Caravan",
+   "released": "1989",
+   "qid": null
+  },
+  "d929dee9-55c2-3dd8-84f9-8d2ede9ee98a": {
+   "title": "Self Portraits: The Last Day",
+   "released": "1989",
+   "qid": null
+  },
+  "db3e3caf-2f56-400f-a8f1-012747655bdc": {
+   "title": "Four Play (album)",
+   "released": "1990",
+   "qid": "Q25410046"
+  },
+  "a3a4e82b-b76c-4986-8afa-4ae6456c17f1": {
+   "title": "The Spirits of Our Ancestors",
+   "released": "1992 ( 1992 )",
+   "qid": "Q7765953"
+  },
+  "f1bd5bc3-c475-3c1b-ac82-d6f8a1ff742e": {
+   "title": "I Can't Help It (album)",
+   "released": "1992",
+   "qid": "Q5976430"
+  },
+  "52ee7d19-5fbe-3f77-a023-3193346b949e": {
+   "title": "Marrakech in the Cool of the Evening",
+   "released": "1992",
+   "qid": null
+  },
+  "3288e4f7-8f51-4cf1-8e51-9affee5dbe71": {
+   "title": "Volcano Blues",
+   "released": "1993",
+   "qid": "Q125358433"
+  },
+  "0ac52cde-f2e2-4a66-a831-776fceed048e": {
+   "title": "Work Song: Live at Sweet Basil",
+   "released": "1993",
+   "qid": "Q21282847"
+  },
+  "53ea88a8-09de-327f-b9a0-8eb537287933": {
+   "title": "Damn! (Jimmy Smith album)",
+   "released": "1995",
+   "qid": "Q19757755"
+  },
+  "5b4ca8c6-2879-4afa-aaf2-b986c1bf8753": {
+   "title": "Earth Birth",
+   "released": "1997",
+   "qid": null
+  },
+  "daeb5f4a-50f8-3f79-ada2-b0f53d3afc58": {
+   "title": "Smack My Bitch Up",
+   "released": "17 November 1997 ( 1997-11-17 )",
+   "qid": "Q371487"
+  },
+  "17716ffd-705b-4a1f-b760-03b63d5b727d": {
+   "title": "Jazz Standards (Mark Murphy album)",
+   "released": "1998",
+   "qid": "Q126127926"
+  },
+  "bfc7f577-3515-36f2-a626-4382f4206ce8": {
+   "title": "Khepera (album)",
+   "released": "1998",
+   "qid": "Q112701906"
+  },
+  "1c6caf40-e29e-448f-bc14-e649dc6dd0b7": {
+   "title": "Wildflowers: The New York Loft Jazz Sessions",
+   "released": "1977",
+   "qid": "Q104845518"
+  },
+  "ad88bf16-ab29-4686-a654-fe8adf25f193": {
+   "title": "Knitting Factory (Piano/Quartet) 1994, Vol. 2",
+   "released": "2000",
+   "qid": "Q30612119"
+  },
+  "7c13695f-69db-49ec-9e46-324045d7c285": {
+   "title": "Live In St. Lucia",
+   "released": "2003",
+   "qid": null
+  },
+  "8a726920-3c18-4246-9244-3ea25d23fccd": {
+   "title": "The Storyteller",
+   "released": "2009",
+   "qid": null
+  },
+  "3e206818-732c-4341-b25d-893be9dd1726": {
+   "title": "The Roots of the Blues",
+   "released": "2013",
+   "qid": null
+  }
+ },
+ "_note": "Portraits are from Wikimedia Commons under the licence recorded per file; many require attribution. Album covers are from the Cover Art Archive, are under copyright, and are reproduced for identification only."
+}

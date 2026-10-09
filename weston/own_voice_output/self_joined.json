@@ -1,0 +1,221 @@
+{
+ "subject": "weston",
+ "part": "self_joined",
+ "count": 10,
+ "items": [
+  {
+   "id": "j01",
+   "block_ids": [
+    309813,
+    309814
+   ],
+   "pull_quote": "The president of Verve was Jean Philippe Alad, and he is the one that I did ten C.D.s with, so I was very happy about that date.",
+   "theme": [
+    "records"
+   ],
+   "period": "1995",
+   "summary": "He said Verve's president, Jean-Philippe Allard, was the man with whom he made ten CDs.",
+   "prompted_by": "the 1995 Verve album Saga",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'Jean / Philippe Alad' = Jean-Philippe Allard. Sits after q001 in the same turn; no overlap."
+  },
+  {
+   "id": "j02",
+   "block_ids": [
+    309836,
+    309837
+   ],
+   "pull_quote": "I played one so loud people could here “Body and Soul” in the streets.",
+   "theme": [
+    "the_masters",
+    "character"
+   ],
+   "period": "age 17",
+   "summary": "He recalled playing his copy of Body and Soul so loud that people could hear it in the street.",
+   "prompted_by": "how he and Liston worked at a distance",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Extends q020 ('Coleman Hawkins was my idol. … I bought 3 copies and I hid two.'), which ends immediately before this sentence; together they read as one passage. 'could here' is the transcript's typo for 'could hear'."
+  },
+  {
+   "id": "j03",
+   "block_ids": [
+    309839,
+    309840
+   ],
+   "pull_quote": "So we went to the Guggenheim museum together and it was 5,000 years of Chinese history. We discovered the mask of the Shang dynasty.",
+   "theme": [
+    "africa",
+    "journeys"
+   ],
+   "period": "",
+   "summary": "He recalled visiting a Guggenheim show of 5,000 years of Chinese history with Min Xiao Fen and finding the mask of the Shang dynasty.",
+   "prompted_by": "the Khepera recording session",
+   "stands_alone": false,
+   "context_block_ids": [
+    309839
+   ],
+   "length": "line",
+   "stance": "positive",
+   "notable": 1,
+   "notes": "'together' = with Min Xiao Fen, named earlier in b309839. Sits after q023; no overlap."
+  },
+  {
+   "id": "j04",
+   "block_ids": [
+    309846,
+    309847
+   ],
+   "pull_quote": "Their instruments are basic instruments we knew as a ginbiri. They call it the hajhouj. Sometimes it’s called a santir. It’s a three-stringed instrument.",
+   "theme": [
+    "gnawa_morocco"
+   ],
+   "period": "",
+   "summary": "He named the Gnawa's basic instrument — the ginbiri, hajhouj or santir — a three-stringed instrument.",
+   "prompted_by": "the Spirit: The Power of Music concert",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "Sits between q027 and q028 (q028 begins 'With the instrument they had contact with the creator.'), so the three read as a run. 'ginbiri' = gimbri/guembri; 'santir' = sintir."
+  },
+  {
+   "id": "j05",
+   "block_ids": [
+    309849,
+    309850
+   ],
+   "pull_quote": "For me, the continent was swinging before man ever arrived.",
+   "theme": [
+    "africa",
+    "spirit_of_music"
+   ],
+   "period": "",
+   "summary": "He said the continent of Africa was swinging before man ever arrived.",
+   "prompted_by": "whether he tried to force a fusion with the Gnawa",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 3,
+   "notes": "Completes the thought of q037 ('Africa, for me, it's the center of spirituality … the music describes the continent itself.'), which ends immediately before; and is followed directly by q038 ('Early man had to listen…')."
+  },
+  {
+   "id": "j06",
+   "block_ids": [
+    309858,
+    309859
+   ],
+   "pull_quote": "There’s no such things as this is old, this is new, certain songs have a particular message, you know?",
+   "theme": [
+    "spirit_of_music",
+    "the_masters"
+   ],
+   "period": "",
+   "summary": "He said there is no old or new in music: certain songs carry a particular message.",
+   "prompted_by": "the live concert in St. Lucia",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Follows directly on q056 ('…the messages are eternal, nothing changes.')."
+  },
+  {
+   "id": "j07",
+   "block_ids": [
+    309867,
+    309868
+   ],
+   "pull_quote": "She died; this was 2001. At the same time, I got a contact from people in Japan that they wanted me to play solo piano in the Shinto shrine.",
+   "theme": [
+    "family",
+    "journeys"
+   ],
+   "period": "2001",
+   "summary": "He said that when his sister died in 2001 he was at the same time invited to play solo piano in a Shinto shrine in Japan.",
+   "prompted_by": "whether Tamashii was inspired by Japan",
+   "stands_alone": false,
+   "context_block_ids": [
+    309867
+   ],
+   "length": "line",
+   "stance": "mixed",
+   "notable": 1,
+   "notes": "'She' = his sister; follows directly on q061 ('I have one sister, no brothers. … very giving.')."
+  },
+  {
+   "id": "j08",
+   "block_ids": [
+    309887,
+    309888
+   ],
+   "pull_quote": "We organized this festival and I brought over Odetta, Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion. We had Ahmed Abdul-Malik, we had Mandrill, and Pucho and His Latin Soul Brothers, and we had 40 African musicians.",
+   "theme": [
+    "gnawa_morocco",
+    "family"
+   ],
+   "period": "1972",
+   "summary": "He listed who came to his 1972 Tangier festival: Odetta, Max Roach's group without Max, his son Azzedine, Ahmed Abdul-Malik, Mandrill, Pucho and His Latin Soul Brothers and 40 African musicians.",
+   "prompted_by": "the spiritual highlights of recent years",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "passage",
+   "stance": "neutral",
+   "notable": 1,
+   "notes": "'Junior Booth' probably = Juini Booth. Sits after q083 and before q084 ('We had this three-day festival…'); no overlap."
+  },
+  {
+   "id": "j09",
+   "block_ids": [
+    309907,
+    309908
+   ],
+   "pull_quote": "I finally went into the shop after two or three trips from New York back to Paris. She saw me, I never saw her.",
+   "theme": [
+    "family",
+    "character"
+   ],
+   "period": "",
+   "summary": "He said he finally went into her shop after two or three trips from New York to Paris; she had seen him, but he had never seen her.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": true,
+   "context_block_ids": [],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Extends q092 ('I passed her shop many times … I'd never come out again.'); a transcriber's '(Laughs)' separates them, so the joined quote starts after it."
+  },
+  {
+   "id": "j10",
+   "block_ids": [
+    309910,
+    309911
+   ],
+   "pull_quote": "One day, we were sitting in a hotel, the three of us, and all of the sudden the spirit came and said to me…",
+   "theme": [
+    "ancestors",
+    "family"
+   ],
+   "period": "",
+   "summary": "He said that one day, sitting in a hotel with Fatou and their guide, the spirit suddenly came and spoke to him.",
+   "prompted_by": "how he met and married Fatou",
+   "stands_alone": false,
+   "context_block_ids": [
+    309910
+   ],
+   "length": "line",
+   "stance": "positive",
+   "notable": 2,
+   "notes": "Leads straight into q096 ('I told this guy, “I want to marry this woman.” …'), which begins immediately after the ellipsis; the two read as one passage. 'the three of us' = Weston, Fatou and the guide Shadley."
+  }
+ ]
+}

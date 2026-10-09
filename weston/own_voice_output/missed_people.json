@@ -1,0 +1,376 @@
+{
+ "subject": "weston",
+ "part": "missed_people",
+ "count": 11,
+ "items": [
+  {
+   "name": "Odetta",
+   "as_in_transcript": [
+    "Odetta"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309887
+   ],
+   "who_is_this": "the singer Weston brought to Tangier for the 1972 festival he organized",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off"
+   ],
+   "firsthand": true,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "era": "1972",
+   "summary": "Weston said that for the three-day festival he organized in Tangier in 1972 he brought over Odetta, alongside Max Roach's band without Max and others.",
+   "one_liner": "brought to his 1972 tangier festival",
+   "his_quote": "We organized this festival and I brought over Odetta, Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion.",
+   "his_quote_block_id": 309887,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Roll-call mention only; the transcript gives no instrument or role for her (she was a folk singer). 'Junior Booth' in the same sentence is probably Junior Cook."
+  },
+  {
+   "name": "James Brown",
+   "as_in_transcript": [
+    "James Brown"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309888
+   ],
+   "who_is_this": "singer whose records Weston played at his African Rhythms club in Tangier",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "early 1970s (African Rhythms club, Tangier)",
+   "summary": "Weston said that at his African Rhythms club in Tangier he played records of James Brown, among others, so that young Moroccans could hear the real African American music rather than European imitations.",
+   "one_liner": "records he played at his tangier club",
+   "his_quote": "We had singers from the Congo…we played records of James Brown, Marvin Gaye, Stevie Wonder, Ray Charles, so the young Moroccans could hear our real music cause they were getting imitations of our music from Europe; they weren’t hearing the real thing.",
+   "his_quote_block_id": 309888,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Named only in a list of records played at the club; no contact stated. The club is introduced in block 309887 alongside the 1972 Tangier festival."
+  },
+  {
+   "name": "Marvin Gaye",
+   "as_in_transcript": [
+    "Marvin Gaye"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309888
+   ],
+   "who_is_this": "singer whose records Weston played at his African Rhythms club in Tangier",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "early 1970s (African Rhythms club, Tangier)",
+   "summary": "Weston said that at his African Rhythms club in Tangier he played records of Marvin Gaye, among others, so that young Moroccans could hear the real African American music rather than European imitations.",
+   "one_liner": "records he played at his tangier club",
+   "his_quote": "We had singers from the Congo…we played records of James Brown, Marvin Gaye, Stevie Wonder, Ray Charles, so the young Moroccans could hear our real music cause they were getting imitations of our music from Europe; they weren’t hearing the real thing.",
+   "his_quote_block_id": 309888,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Named only in a list of records played at the club; no contact stated. The club is introduced in block 309887 alongside the 1972 Tangier festival."
+  },
+  {
+   "name": "Stevie Wonder",
+   "as_in_transcript": [
+    "Stevie Wonder"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309888
+   ],
+   "who_is_this": "singer whose records Weston played at his African Rhythms club in Tangier",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "early 1970s (African Rhythms club, Tangier)",
+   "summary": "Weston said that at his African Rhythms club in Tangier he played records of Stevie Wonder, among others, so that young Moroccans could hear the real African American music rather than European imitations.",
+   "one_liner": "records he played at his tangier club",
+   "his_quote": "We had singers from the Congo…we played records of James Brown, Marvin Gaye, Stevie Wonder, Ray Charles, so the young Moroccans could hear our real music cause they were getting imitations of our music from Europe; they weren’t hearing the real thing.",
+   "his_quote_block_id": 309888,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Named only in a list of records played at the club; no contact stated. The club is introduced in block 309887 alongside the 1972 Tangier festival."
+  },
+  {
+   "name": "Ray Charles",
+   "as_in_transcript": [
+    "Ray Charles"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309888
+   ],
+   "who_is_this": "singer and pianist whose records Weston played at his African Rhythms club in Tangier",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "early 1970s (African Rhythms club, Tangier)",
+   "summary": "Weston said that at his African Rhythms club in Tangier he played records of Ray Charles, among others, so that young Moroccans could hear the real African American music rather than European imitations.",
+   "one_liner": "records he played at his tangier club",
+   "his_quote": "We had singers from the Congo…we played records of James Brown, Marvin Gaye, Stevie Wonder, Ray Charles, so the young Moroccans could hear our real music cause they were getting imitations of our music from Europe; they weren’t hearing the real thing.",
+   "his_quote_block_id": 309888,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Named only in a list of records played at the club; no contact stated. The club is introduced in block 309887 alongside the 1972 Tangier festival."
+  },
+  {
+   "name": "Weston's father (unnamed)",
+   "as_in_transcript": [
+    "my father",
+    "my Dad",
+    "father",
+    "Pop"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309852,
+    309854,
+    309913,
+    309915
+   ],
+   "who_is_this": "Randy Weston's father, who taught him African history and made him take piano lessons",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family",
+    "teacher"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "childhood in Brooklyn",
+   "summary": "Weston said his father taught him to study African civilization from before slavery, kept maps of African kings and queens and books by African historians in their Brooklyn home, told him he was an African born in America, and made him take piano lessons.",
+   "one_liner": "taught him african history; made him play piano",
+   "his_quote": "My father taught me to study African civilization when Africa was great. Most of us get the education of Africa, Africa after slavery, that’s where we start.",
+   "his_quote_block_id": 309854,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 3,
+   "confidence": "high",
+   "notes": "The pipeline detected 'Pop' only in block 309852, where 'Mom and Pop' is a general saying ('I’m sure we all have the same experience'); the substantive passages about his own father (309854, 309913, 309915) were missed. Merge with the 'Pop' entry if preferred. In 309854 the closing quotation mark placement is garbled: Weston's own description of the house ('in my house in Brooklyn we grew up with maps...') sits inside his father's quoted words. Further lines: 309854 'So, my father conditioned me, he told me, “You have to go back because you’re an African born in America.'; 309913 the piano teacher 'told my father to save his money!'; 309915 'Everyday that I’m home I look at my mother and father and I say, “How did y’all do it?'"
+  },
+  {
+   "name": "Weston's mother (unnamed)",
+   "as_in_transcript": [
+    "my mother",
+    "Mom",
+    "mother"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309852,
+    309854,
+    309874,
+    309915
+   ],
+   "who_is_this": "Randy Weston's mother, who took him to church every Sunday; a member of the People's Institutional Church in Brooklyn",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "childhood in Brooklyn",
+   "summary": "Weston said that while his father made him take piano lessons his mother gave him the black church, which he had to attend every Sunday, and he marvelled at how his parents kept the family spiritual and loving despite poverty and racism.",
+   "one_liner": "gave him the black church every sunday",
+   "his_quote": "My father made me take piano lessons and my mother gave me black church. I had to be there every Sunday.",
+   "his_quote_block_id": 309854,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 2,
+   "confidence": "high",
+   "notes": "Not detected at all ('Mom' in 309852 and 309915 was not picked up). In 309874 his sister attended 'the same church as my mother, the People’s Institutional Church on Monroe Street and Stuyvesant Ave in Brooklyn.' In 309915: 'it was hard watching Mom and Pop having to struggle.'"
+  },
+  {
+   "name": "Weston's sister (unnamed)",
+   "as_in_transcript": [
+    "my sister",
+    "one sister",
+    "her"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309867,
+    309868,
+    309873,
+    309874
+   ],
+   "who_is_this": "Randy Weston's only sibling, five years older, who died in 2001 and was buried in Brooklyn on 11 September 2001",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "childhood; died 2001",
+   "summary": "Weston said his only sister, five years older, was his protector as a child, strong, spiritual and giving with a great sense of humour, and that she died in 2001 and was buried at Evergreen Cemetery on 11 September 2001 as the smoke from the World Trade Center was visible.",
+   "one_liner": "his older sister, buried on 9-11",
+   "his_quote": "I have one sister, no brothers. My sister was five years older than me. She was my boss, you know? When I was younger, despite my physical size, if anybody messed with me I’d get my sister. She was strong but very spiritual, very giving.",
+   "his_quote_block_id": 309867,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 3,
+   "confidence": "high",
+   "notes": "Weston first gave the funeral as 10 September 2001; Jenkins corrected to the 11th (309869, 309873) and Weston clarified that the church service was the day before and the burial at Evergreen Cemetery on the 11th. Second quote, 309874: 'I said, “Only my sister would be buried on a day like today with 9-11, only her.” She had a great sense of humor.' Her death framed his 2001 Kamigamo shrine concert in Kyoto two weeks later."
+  },
+  {
+   "name": "Fatoumata Mbengue's father (unnamed)",
+   "as_in_transcript": [
+    "her father"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309911
+   ],
+   "who_is_this": "the father of Weston's wife Fatou, whom Weston telephoned after their Nubian wedding",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "at his Nubian marriage, after the Jazz Masters award",
+   "summary": "Weston said that because his wife is Muslim he had to call her father to tell him she had married a man from Brooklyn in Nubia, and that her father was very nice about it.",
+   "one_liner": "his father-in-law, told of the nubian wedding",
+   "his_quote": "But, I called her father and he was so nice.",
+   "his_quote_block_id": 309911,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "high",
+   "notes": "Distinct from her grandfather, the 'Imam', which the pipeline detected. The fuller sentence before it contains '(Laughs)': 'Now, my wife, she’s Muslim, so I had to call her father and tell him that you married this guy from Brooklyn in Nubia!'"
+  },
+  {
+   "name": "Weston's childhood piano teacher (unnamed)",
+   "as_in_transcript": [
+    "the piano teacher"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309913
+   ],
+   "who_is_this": "the piano teacher who gave up on the young Weston after three years",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "mentor of",
+   "direction": "other_leads",
+   "tie": [
+    "teacher"
+   ],
+   "firsthand": true,
+   "stance": "negative",
+   "stance_strength": 1,
+   "era": "childhood",
+   "summary": "Weston recalled, on receiving the NEA Jazz Masters award, that his piano teacher had given up on him after three years and told his father to save his money.",
+   "one_liner": "gave up on him after three years",
+   "his_quote": "This is the guy that the piano teacher gave up on after three years. He told my father to save his money!",
+   "his_quote_block_id": 309913,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 2,
+   "confidence": "medium",
+   "notes": "Unnamed. Relation 'mentor of' is the only teaching term in the vocabulary; the transcript frames the teaching as a failure. Stance is wry rather than bitter ('You never are going to forget something like that you know.')."
+  },
+  {
+   "name": "wife of Maurice Cullaz (unnamed)",
+   "as_in_transcript": [
+    "Maurice Cullaz’s wife"
+   ],
+   "transcribed_wrong": false,
+   "block_ids": [
+    309882
+   ],
+   "who_is_this": "the wife of the Paris jazz writer Maurice Cullaz, who only wanted to hear Weston play solo piano",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "acquaintance of",
+   "direction": "mutual",
+   "tie": [
+    "friend"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "",
+   "summary": "Weston named Maurice Cullaz's wife in Paris, with Ruth Ellington, as people who only wanted to hear him play solo piano.",
+   "one_liner": "only wanted to hear him play solo",
+   "his_quote": "Maurice Cullaz’s wife in Paris, she only wanted to hear me solo piano.",
+   "his_quote_block_id": 309882,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "instrument_or_role": "",
+   "notable": 1,
+   "confidence": "medium",
+   "notes": "The pipeline attached this sentence to Maurice Cullaz himself; the person Weston speaks of is his wife, unnamed in the transcript. Tie 'friend' is an inference from her preference for his playing; 'acquaintance of' is the conservative relation."
+  }
+ ]
+}

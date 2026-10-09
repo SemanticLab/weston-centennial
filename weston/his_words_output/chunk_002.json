@@ -1,0 +1,1578 @@
+{
+ "subject": "weston",
+ "chunk": 2,
+ "count": 38,
+ "chunk_top": [
+  109409,
+  109407,
+  109486
+ ],
+ "items": [
+  {
+   "person_id": 109433,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Roy Haynes",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1959",
+   "summary": "Weston named Haynes first in the band for his 1959 live date at the Five Spot with Coleman Hawkins, which was played from Melba Liston's charts with no time to rehearse.",
+   "one_liner": "on his 1959 five spot date with hawkins",
+   "his_quote": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+   "his_quote_block_id": 309837,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309837,
+     "quote": "I passed out the music, no time to rehearse, but I had such great musicians that they played beautifully."
+    }
+   ],
+   "instrument_or_role": "",
+   "topics": [
+    "Five Spot",
+    "1959",
+    "Coleman Hawkins date",
+    "Melba Liston"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Instrument not given in the transcript. Upstream 'played with' is a weaker but not wrong term; a leader's record date is 'collaborated with'."
+  },
+  {
+   "person_id": 109441,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Clyde Lucas",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1985",
+   "summary": "Weston named Lucas as the drummer in his ten-piece group at the 1985 Montreal Jazz Festival, the concert for which Hale Smith conducted in place of the sick Melba Liston.",
+   "one_liner": "drummer in his 1985 ten-piece group",
+   "his_quote": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+   "his_quote_block_id": 309837,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309837,
+     "quote": "after we performed at the Montreal Jazz Festival, which should be coming out soon, it was a fantastic performance"
+    }
+   ],
+   "instrument_or_role": "drums",
+   "topics": [
+    "Montreal Jazz Festival",
+    "1985",
+    "ten-piece group"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Name unverified; could not confirm a drummer of this name. The '1985 Montreal Jazz Festival' may be Montreux - check against the release he says 'should be coming out soon'."
+  },
+  {
+   "person_id": 109445,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Mohammad Bin Fata",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman",
+    "traditional_musician"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1985",
+   "summary": "Weston listed Bin Fata in his ten-piece group at the 1985 Montreal Jazz Festival, apparently as the Gnawa member playing African percussion.",
+   "one_liner": "in his 1985 ten-piece group",
+   "his_quote": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+   "his_quote_block_id": 309837,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "African percussion (probable reading)",
+   "topics": [
+    "Montreal Jazz Festival",
+    "1985",
+    "Gnawa"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "The roll-call reads 'Mohammad Bin Fata, the Gnawa playing African percussion' - ambiguous whether 'the Gnawa' is apposition to him or a separate item. Name is a by-ear spelling (possibly 'Mohammed Ben Fatah' or similar); left as transcribed."
+  },
+  {
+   "person_id": 109449,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Sahib Shihab",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1985",
+   "summary": "Weston listed Shihab in his ten-piece group at the 1985 Montreal Jazz Festival.",
+   "one_liner": "in his 1985 ten-piece group",
+   "his_quote": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+   "his_quote_block_id": 309837,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [
+    "Montreal Jazz Festival",
+    "1985",
+    "ten-piece group"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Roll-call only. 'the great' grammatically attaches to Benny Bailey, so no stance recorded for Shihab."
+  },
+  {
+   "person_id": 109455,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Wilbur Little",
+   "transcribed_wrong": true,
+   "identity_ok": true,
+   "identity_note": "Transcript has 'Woodward Little ... on bass'; read as Wilbur Little, the bassist named a few sentences earlier in the same Weston turn.",
+   "same_person_as": "Wilbur Little",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1985",
+   "summary": "Weston named 'Woodward Little' as the bassist in his ten-piece group at the 1985 Montreal Jazz Festival.",
+   "one_liner": "bassist in his 1985 ten-piece group",
+   "his_quote": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+   "his_quote_block_id": 309837,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "bass",
+   "topics": [
+    "Montreal Jazz Festival",
+    "1985",
+    "ten-piece group"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Probably the same bassist Weston names as 'Wilbur Little on bass' on the 1959 Five Spot date in the same block; 'Woodward' looks like a mishearing of 'Wilbur'. Human should confirm."
+  },
+  {
+   "person_id": 109463,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Hale Smith",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1985",
+   "summary": "Weston said Hale Smith took Melba Liston's place as conductor of his ten-piece group at the 1985 Montreal Jazz Festival when she fell ill.",
+   "one_liner": "conducted in place of the sick melba liston",
+   "his_quote": "Melba got sick in the hospital in California at that time so Hale Smith took her place as conductor.",
+   "his_quote_block_id": 309837,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "conductor",
+   "topics": [
+    "Montreal Jazz Festival",
+    "1985",
+    "Melba Liston"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Upstream evidence mis-spells Melba Liston as 'Melba Lewis'."
+  },
+  {
+   "person_id": 109403,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Wayne B. Chandler",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "scholar_or_author"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Weston said Chandler's book 'Ancient Future', on ancient contact between Africa and China, inspired his solo record of that name; Chandler showed him photographs of ancient Chinese masks.",
+   "one_liner": "his book inspired the record ancient future",
+   "his_quote": "That wonderful book that Dr. Wayne Chandler wrote, which says that in order for us to go ahead we have got to go back.",
+   "his_quote_block_id": 309852,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309839,
+     "quote": "At the same time, Dr. Wayne Chandler had written a book called “Ancient Future” and in this book he describes how Africa and China had much contact together, 1000 years ago."
+    },
+    {
+     "block_id": 309839,
+     "quote": "To illustrate that, he had photographs that he showed me of ancient Chinese masks, just like African people, you see."
+    },
+    {
+     "block_id": 309852,
+     "quote": "The purpose of “Ancient Future” was inspired by that book to somehow bring us back."
+    }
+   ],
+   "instrument_or_role": "author",
+   "topics": [
+    "Ancient Future",
+    "Khepera",
+    "Africa and China"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Upstream 'knows of' is too weak: Chandler showed Weston photographs in person, and the book inspired a record. Name given as 'Wayne B. Chandler' from outside knowledge of the author of 'Ancient Future'; transcript has 'Dr. Wayne Chandler'."
+  },
+  {
+   "person_id": 109409,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Min Xiaofen",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off",
+    "traditional_musician"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "",
+   "summary": "Weston met the pipa master Min Xiao Fen in Atlanta, heard her play at his Brooklyn home, went with her to the Guggenheim to study the Shang dynasty, and recorded her composition 'The Shang' with her on 'Khepera'.",
+   "one_liner": "pipa master; recorded the shang with him",
+   "his_quote": "So, it turned out she was living in Brooklyn, at that particular time, so she came by my house and she took out the pipa and she started to play. It was so beautiful I said, “We have to play together.”",
+   "his_quote_block_id": 309839,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309839,
+     "quote": "So, I was very happy to have met a woman from China, her name was Min Xiao Fen."
+    },
+    {
+     "block_id": 309839,
+     "quote": "She’s a master but I didn’t know her and I didn’t know anything about the instrument."
+    },
+    {
+     "block_id": 309839,
+     "quote": "Min, I talked to Min about this, and she got excited because she knows this part of our history. So we went to the Guggenheim museum together and it was 5,000 years of Chinese history."
+    },
+    {
+     "block_id": 309840,
+     "quote": "We did a piece that she composed called “The Shang” and we described that as piano and pipa."
+    }
+   ],
+   "instrument_or_role": "pipa",
+   "topics": [
+    "Khepera",
+    "pipa",
+    "The Shang",
+    "Guggenheim"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Transcript spacing 'Min Xiao Fen' is a romanisation variant, not a mishearing. No year for the 'Khepera' session is given in the transcript."
+  },
+  {
+   "person_id": 109427,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Mor Thiam",
+   "transcribed_wrong": true,
+   "identity_ok": true,
+   "identity_note": "Transcript has 'Mortiem' (a Senegalese bandleader in Atlanta); read as Mor Thiam, the Atlanta-based Senegalese drummer - 'Mor Thiam' run together by ear. No upstream QID.",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Weston said that when he met Min Xiao Fen in Atlanta she was working in the multinational group of a Senegalese musician he called 'Mortiem'.",
+   "one_liner": "senegalese bandleader min xiao fen worked with",
+   "his_quote": "I met her in Atlanta, Georgia and she was working with a Senegalese named Mortiem.",
+   "his_quote_block_id": 309839,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309839,
+     "quote": "Mortiem had musicians from different parts of the world in his group"
+    }
+   ],
+   "instrument_or_role": "bandleader",
+   "topics": [
+    "Min Xiao Fen",
+    "Atlanta"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Probably the Senegalese percussionist Mor Thiam, who was based in Atlanta - human should confirm. No direct contact between Weston and him is stated."
+  },
+  {
+   "person_id": 109471,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Chief Bey",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Weston called Chief Bey 'the great African American percussionist' and said he played African percussion and sang on the 'Khepera' date.",
+   "one_liner": "the great percussionist on khepera",
+   "his_quote": "I also had Chief Bey, the great African American percussionist.",
+   "his_quote_block_id": 309840,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309840,
+     "quote": "Chief played African percussion and did some singing on Kofi Ghanaba, before known as Guy Warren from Ghana, his theme song."
+    }
+   ],
+   "instrument_or_role": "African percussion; singing",
+   "topics": [
+    "Khepera"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "person_id": 109474,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Victor Lewis",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Weston thought Victor Lewis played drums on the 'Khepera' date.",
+   "one_liner": "probably drums on khepera",
+   "his_quote": "I think we had Victor Lewis on drums, Alex Blake on bass, Benny Powell, you know.",
+   "his_quote_block_id": 309840,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "drums",
+   "topics": [
+    "Khepera"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Weston hedges ('I think'). One record date, not a standing band, so upstream 'in music group with' overstates it."
+  },
+  {
+   "person_id": 109477,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Pharoah Sanders",
+   "transcribed_wrong": true,
+   "identity_ok": true,
+   "identity_note": "Transcript spells 'Pharaoh Sanders'; the saxophonist is Pharoah Sanders. Upstream QID matches.",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Weston said 'the great' Pharoah Sanders was on the 'Khepera' date, where they recorded the Gnawa piece 'Blue Moses' together.",
+   "one_liner": "played blue moses with him on khepera",
+   "his_quote": "On that date, we also had the great Pharaoh Sanders. With Pharaoh Sanders we did one of the Gnawa pieces, “Blue Moses”",
+   "his_quote_block_id": 309840,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [
+    "Khepera",
+    "Blue Moses",
+    "Gnawa"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "person_id": 109482,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Guy Warren (Kofi Ghanaba)",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": "Kofi Ghanaba",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Weston said his theme song, sung on 'Khepera' by Chief Bey, was a composition by Kofi Ghanaba, 'before known as Guy Warren from Ghana'.",
+   "one_liner": "wrote the tune he made his theme song",
+   "his_quote": "Chief played African percussion and did some singing on Kofi Ghanaba, before known as Guy Warren from Ghana, his theme song. My theme song, which his composition called, “Love The History Of.”",
+   "his_quote_block_id": 309840,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "composer",
+   "topics": [
+    "Khepera",
+    "theme song",
+    "Ghana"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Kofi Ghanaba and Guy Warren are the same man (Weston says so). The tune title is garbled: 'Love The History Of' is surely 'Love, the Mystery Of'. No contact with Weston is stated; relation rests on Weston adopting his composition as his own theme song. Ghanaba was not on the session; upstream 'collaborated with' is wrong."
+  },
+  {
+   "person_id": 109483,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Kofi Ghanaba",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "Upstream Q95892879 ('Afro-jazz musician') may be a duplicate Wikidata item of Guy Warren (Q1431797); same man either way.",
+   "same_person_as": "Guy Warren",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Weston said his theme song, sung on 'Khepera' by Chief Bey, was a composition by Kofi Ghanaba, 'before known as Guy Warren from Ghana'.",
+   "one_liner": "wrote the tune he made his theme song",
+   "his_quote": "Chief played African percussion and did some singing on Kofi Ghanaba, before known as Guy Warren from Ghana, his theme song. My theme song, which his composition called, “Love The History Of.”",
+   "his_quote_block_id": 309840,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "composer",
+   "topics": [
+    "Khepera",
+    "theme song",
+    "Ghana"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Kofi Ghanaba and Guy Warren are the same man (Weston says so). The tune title is garbled: 'Love The History Of' is surely 'Love, the Mystery Of'. No contact with Weston is stated; relation rests on Weston adopting his composition as his own theme song. Ghanaba was not on the session; upstream 'collaborated with' is wrong."
+  },
+  {
+   "person_id": 109407,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Abdellah El Gourd",
+   "transcribed_wrong": true,
+   "identity_ok": true,
+   "identity_note": "Transcript has 'Abdullah Al-Gourd'; the Tangier Gnawa maalem is usually written Abdellah El Gourd - a romanisation difference rather than a mishearing.",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "traditional_musician",
+    "guide_or_stranger"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "since 1967",
+   "summary": "Weston said the young Gnawa Abdullah Al-Gourd, who worked for Voice of America and spoke English, was his first contact with the Gnawa in 1967 and led him to the old masters, and he led the Tangier Gnawa at Weston's Brooklyn church concert.",
+   "one_liner": "his first gnawa contact, tangier 1967",
+   "his_quote": "Abdullah Al-Gourd, he was very interested in the history of his people. Because of him, I recorded and I met some of the old Gnawa.",
+   "his_quote_block_id": 309846,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309846,
+     "quote": "The Tangiers Gnawa was my original contact with Gnawa in 1967. I met a young Gnawa; his name was Abdullah Al-Gourd. Abdullah worked for “Voice of America” so he spoke English."
+    },
+    {
+     "block_id": 309847,
+     "quote": "Abdullah from Tangiers, Marrakech, and the chief is M’Barek Ben Othman."
+    }
+   ],
+   "instrument_or_role": "Gnawa musician; worked for Voice of America",
+   "topics": [
+    "Gnawa",
+    "Tangier",
+    "1967",
+    "Spirit: The Power of Music"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Upstream 'has met' understates: Al-Gourd was the gateway to the Gnawa and played the Brooklyn concert."
+  },
+  {
+   "person_id": 109410,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Babatunde Olatunji",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "played with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off",
+    "traditional_musician"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "",
+   "summary": "Weston said Olatunji and his traditional group of dancers and musicians opened the Brooklyn church concert with the Gnawa that became 'Spirit: The Power of Music'.",
+   "one_liner": "opened his gnawa church concert in brooklyn",
+   "his_quote": "It was powerful because at that particular concert we opened up with Babatunde Olatunji, with his traditional group of dancers and music.",
+   "his_quote_block_id": 309847,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309847,
+     "quote": "After Babatunde Olatunji performed, then we came out, and then we performed with the Gnawa."
+    },
+    {
+     "block_id": 309847,
+     "quote": "and the night before that we had Olatunji."
+    }
+   ],
+   "instrument_or_role": "leader of a traditional group of dancers and music",
+   "topics": [
+    "Spirit: The Power of Music",
+    "Brooklyn",
+    "Gnawa"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Contradiction in the same block: Olatunji 'opened up' that concert, but later 'the night before that we had Olatunji'. They shared a bill; Weston does not say they played together on stage."
+  },
+  {
+   "person_id": 109479,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "M’Barek Ben Othman",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "traditional_musician"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "late 1960s",
+   "summary": "Weston named M'Barek Ben Othman as the chief of the Marrakech Gnawa, whom he met a year or two after 1967, apparently among the six Gnawa at the Brooklyn concert.",
+   "one_liner": "chief of the marrakech gnawa",
+   "his_quote": "Abdullah from Tangiers, Marrakech, and the chief is M’Barek Ben Othman. I met him one or two years later.",
+   "his_quote_block_id": 309847,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309847,
+     "quote": "Ever since then, when I can have a Gnawa performance I always get three from Tangiers and three from Marrakech."
+    }
+   ],
+   "instrument_or_role": "chief (Marrakech Gnawa)",
+   "topics": [
+    "Gnawa",
+    "Marrakech",
+    "Spirit: The Power of Music"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Garbled sentence; reading is that he led the three Marrakech Gnawa at the Brooklyn concert. If not, relation falls to 'has met' (upstream)."
+  },
+  {
+   "person_id": 109492,
+   "is_person": false,
+   "not_person_kind": "descriptor",
+   "name": "Western musicians",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "jenkins_only",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "his_quote": null,
+   "his_quote_block_id": null,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "A generic class of musicians in Jenkins's question about fusion; not a person."
+  },
+  {
+   "person_id": 109396,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Nat King Cole",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "",
+   "summary": "Weston said he played the piano as he did partly because of his 'spiritual contact' with Nat King Cole, whom he never met, and counted him among the royalty of piano.",
+   "one_liner": "spiritual contact, though they never met",
+   "his_quote": "I play the piano like I play because I had the human contact with Thelonious Monk, because I had the spiritual contact with Nat King Cole, who I never met.",
+   "his_quote_block_id": 309852,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "When you grow up with people like Dorothy Dandridge and Duke Ellington, and Count Basie, and Art Tatum, Earl Hines, Nat King Cole, Monk, I mean, you know that period, for me, it was the royalty of piano."
+    },
+    {
+     "block_id": 309915,
+     "quote": "How did Louie Jordan do it? How did Nat King Cole do it?"
+    }
+   ],
+   "instrument_or_role": "piano",
+   "topics": [
+    "royalty of piano",
+    "Ancient Future"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Upstream 'knows of' is not wrong (no contact), but he states influence explicitly."
+  },
+  {
+   "person_id": 109404,
+   "is_person": false,
+   "not_person_kind": "deity",
+   "name": "Isis",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "his_quote": null,
+   "his_quote_block_id": null,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Egyptian goddess; Weston calls her a queen and Pharaoh but asks 'Is she a myth; is she real?'. Mentioned for the temple of Isis at Aswan (actually Philae)."
+  },
+  {
+   "person_id": 109408,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Dizzy Gillespie",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "",
+   "summary": "Weston named Gillespie among the masters he had 'spiritual contact' with and whose hands he touched, and in the baton-passing image of jazz tradition.",
+   "one_liner": "a master whose hand he touched",
+   "his_quote": "I had the spiritual contact with Count Basie, or Coleman Hawkins, or Dizzy Gillespie. I saw them, I touched their hands, you see?",
+   "his_quote_block_id": 309852,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309915,
+     "quote": "Mr. Ellington said to Gillespie, “He passed it on me."
+    }
+   ],
+   "instrument_or_role": "",
+   "topics": [
+    "masters",
+    "Ancient Future"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Upstream 'knows of' is wrong: he says he saw them and touched their hands. The 309915 baton sentence is garbled."
+  },
+  {
+   "person_id": 109472,
+   "is_person": false,
+   "not_person_kind": "deity",
+   "name": "Osiris",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "his_quote": null,
+   "his_quote_block_id": null,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Egyptian god; Weston lists him among 'Pharaohs like Osiris, Isis' in the ancient Nubian origin of music. Not a historical person."
+  },
+  {
+   "person_id": 109473,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Igor Stravinsky",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "Bare surname; plainly Igor Stravinsky (Rite of Spring). No upstream QID.",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "classical_musician"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Weston cited Stravinsky's 'Rite of Spring' as music in which you can feel Russia, to show music adapts to its environment.",
+   "one_liner": "in his rites of spring you feel russia",
+   "his_quote": "So if you listen to “Rites Of Spring” by Stravinsky, you can feel Russia, you know?",
+   "his_quote_block_id": 309852,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "composer",
+   "topics": [
+    "Rite of Spring"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": ""
+  },
+  {
+   "person_id": 109486,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Frank Edward Weston",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "'Pop' is Weston's father; name supplied from outside knowledge (Frank Edward Weston).",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "family"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "era": "childhood",
+   "summary": "Weston said his father taught him to study African civilisation, filled their Brooklyn home with maps of African kings and queens, told him he was an African born in America, and made him take piano lessons.",
+   "one_liner": "taught him africa; made him take piano",
+   "his_quote": "My father taught me to study African civilization when Africa was great.",
+   "his_quote_block_id": 309854,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309854,
+     "quote": "So, my father conditioned me, he told me, “You have to go back because you’re an African born in America."
+    },
+    {
+     "block_id": 309854,
+     "quote": "So, it came from my Dad, plus he made me take piano lessons."
+    },
+    {
+     "block_id": 309913,
+     "quote": "This is the guy that the piano teacher gave up on after three years. He told my father to save his money!"
+    },
+    {
+     "block_id": 309915,
+     "quote": "it was hard watching Mom and Pop having to struggle."
+    }
+   ],
+   "instrument_or_role": "father",
+   "topics": [
+    "Brooklyn",
+    "Africa",
+    "piano lessons"
+   ],
+   "notable": 3,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "'Pop' in 309852 is generic ('Mom and Pop told us...'), but 'Mom and Pop' in 309915 and 'my father'/'my Dad' in 309854 are his own father. The name Frank Edward Weston is outside knowledge, not in the transcript. Not 'knows of'; family takes relation none. Other strings for him: 'my father', 'my Dad' (not entries)."
+  },
+  {
+   "person_id": 109399,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "William Allen",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1974",
+   "summary": "Weston named William Allen as bassist in the group he took on his first European tour in 1974; later he rejected Jenkins's suggestion that Allen was the bassist at the Alexandria library opening.",
+   "one_liner": "bassist on his first european tour, 1974",
+   "his_quote": "I had Ahmed Abdul- Malik on the oud; I had William Allen on bass, myself at the piano, Steve Berrios on percussion cause my son couldn’t make it. We toured, the first time, to play Europe.",
+   "his_quote_block_id": 309856,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309901,
+     "quote": "No. It’s on the tip of my tongue."
+    }
+   ],
+   "instrument_or_role": "bass",
+   "topics": [
+    "1974",
+    "Montreal Jazz Festival",
+    "first European tour"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Weston calls the 1974 festival the Montreal Jazz Festival, but he also says it was his first time in Europe and that 'the Swiss audience' praised his solo piano; Montreux (Switzerland) is probably meant. Jenkins's 'William Allen?' (309900) for the Alexandria bassist was rejected. The more_his_quotes 'No.' line is the rejection, kept for context."
+  },
+  {
+   "person_id": 109411,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Ahmed Abdul-Malik",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1972–1974",
+   "summary": "Weston named Abdul-Malik on oud in his 1974 European touring group and among the musicians at the festival he organised in Tangier in 1972.",
+   "one_liner": "played oud on his 1974 european tour",
+   "his_quote": "I had Ahmed Abdul- Malik on the oud; I had William Allen on bass, myself at the piano, Steve Berrios on percussion cause my son couldn’t make it. We toured, the first time, to play Europe.",
+   "his_quote_block_id": 309856,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309887,
+     "quote": "We had Ahmed Abdul-Malik, we had"
+    }
+   ],
+   "instrument_or_role": "oud",
+   "topics": [
+    "1974",
+    "Tangier festival 1972",
+    "oud"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Weston calls the 1974 festival the Montreal Jazz Festival, but he also says it was his first time in Europe and that 'the Swiss audience' praised his solo piano; Montreux (Switzerland) is probably meant."
+  },
+  {
+   "person_id": 109432,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Steve Berrios",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1974",
+   "summary": "Weston said Berrios played percussion in his 1974 European touring group because his son could not make it.",
+   "one_liner": "percussion in 1974, standing in for his son",
+   "his_quote": "Steve Berrios on percussion cause my son couldn’t make it.",
+   "his_quote_block_id": 309856,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "percussion",
+   "topics": [
+    "1974",
+    "Montreal Jazz Festival"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Weston calls the 1974 festival the Montreal Jazz Festival, but he also says it was his first time in Europe and that 'the Swiss audience' praised his solo piano; Montreux (Switzerland) is probably meant. The son is presumably Azzedine (named as percussionist in 309887)."
+  },
+  {
+   "person_id": 109489,
+   "is_person": false,
+   "not_person_kind": "tune_title",
+   "name": "Zep Tepi",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "both",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "his_quote": null,
+   "his_quote_block_id": null,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "Title of Weston's trio record; Weston explains it as ancient Egyptian for 'the first time'. Not a person."
+  },
+  {
+   "person_id": 109419,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Neil Clarke",
+   "transcribed_wrong": true,
+   "identity_ok": true,
+   "identity_note": "Transcript has 'Neil Clark' here and 'Neil Clarke' elsewhere; the percussionist is Neil Clarke.",
+   "same_person_as": "Neil Clarke",
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "in music group with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "1995–2009",
+   "summary": "Weston called Neil Clarke one of his 'regular guys' on the 'Zep Tepi' trio date; he also played on 'Saga', the Montreal Gnawa night, the Brooklyn church concert and in St. Lucia.",
+   "one_liner": "one of his regular guys, zep tepi trio",
+   "his_quote": "I had my regular guys: Alex Blake and Neil Clark.",
+   "his_quote_block_id": 309863,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309859,
+     "quote": "At this particular concert, which was outdoors, again, Benny, TK Blue, Alex, myself and Neil Clarke"
+    },
+    {
+     "block_id": 309847,
+     "quote": "I had TK Blue, Benny Powell, Alex Blake, Neil Clarke with the six Gnawa"
+    },
+    {
+     "block_id": 309813,
+     "quote": "I had Neil Clarke, Alex Blake; you had Billy Harper, T.K. Blue, and Benny Powell."
+    }
+   ],
+   "instrument_or_role": "",
+   "topics": [
+    "Zep Tepi",
+    "trio",
+    "Saga",
+    "St. Lucia"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "Instrument not given in the transcript."
+  },
+  {
+   "person_id": 109435,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Rick Congress",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "recording_staff"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "",
+   "summary": "Weston said the 'Zep Tepi' trio date was done at a Lower East Side studio by an independent man named Rick Congress, and that he enjoyed the date.",
+   "one_liner": "independent man who recorded zep tepi",
+   "his_quote": "It was done at a studio in the lower east side. The guy who did it, independent guy, named Rick Congress. I enjoyed that date.",
+   "his_quote_block_id": 309863,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "recorded the session (independent)",
+   "topics": [
+    "Zep Tepi",
+    "Lower East Side"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Name unverified; could be a by-ear spelling. Role (engineer vs producer/label) is not specified beyond 'the guy who did it'."
+  },
+  {
+   "person_id": 109478,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Eubie Blake",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "knows of",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "Weston placed his mother's and sister's church in Brooklyn right around the corner from where Eubie Blake used to live.",
+   "one_liner": "lived round the corner from his mother's church",
+   "his_quote": "It was right around the corner from where Eubie Blake used to live, okay?",
+   "his_quote_block_id": 309874,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [
+    "Brooklyn",
+    "People’s Institutional Church"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "high",
+   "notes": "A landmark reference only; no relationship stated."
+  },
+  {
+   "person_id": 109406,
+   "is_person": false,
+   "not_person_kind": "people_or_group",
+   "name": "Gnawa",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "both",
+   "basis": "none",
+   "relation": "none",
+   "direction": "na",
+   "tie": [
+    "unknown"
+   ],
+   "firsthand": false,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "",
+   "summary": "",
+   "one_liner": "",
+   "his_quote": null,
+   "his_quote_block_id": null,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [],
+   "instrument_or_role": "",
+   "topics": [],
+   "notable": 0,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "The Gnawa, black Moroccan spiritual musicians descended from people taken from the Mali Empire; Weston's central collaborators as a group. Individual Gnawa named: Abdullah Al-Gourd, M’Barek Ben Othman (possibly Mohammad Bin Fata)."
+  },
+  {
+   "person_id": 109487,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Arturo O’Farrill",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "guest_or_one_off"
+   ],
+   "firsthand": true,
+   "stance": "positive",
+   "stance_strength": 1,
+   "era": "November 2009",
+   "summary": "Weston said he was about to play two concerts, on 5 and 6 November, with Arturo O'Farrill's Cuban Orchestra, performing 'African Sunrise', 'Blues to Africa' and 'African Voodoo'.",
+   "one_liner": "two november concerts with his cuban orchestra",
+   "his_quote": "November 5th and 6th I’m doing two concerts with Arturo O’Farrill’s Cuban Orchestra.",
+   "his_quote_block_id": 309880,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309880,
+     "quote": "That’s great, but it’s more controlled."
+    }
+   ],
+   "instrument_or_role": "leader of a Cuban orchestra",
+   "topics": [
+    "African Sunrise",
+    "Blues to Africa",
+    "orchestra"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "The concerts were upcoming at the time of the interview (30 Oct 2009), not yet played."
+  },
+  {
+   "person_id": 109484,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Robin D. G. Kelley",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "Robin Kelley, historian (Monk biography, 2009); upstream match is right.",
+   "same_person_as": null,
+   "who_speaks_of_them": "jenkins_only",
+   "basis": "interviewer_only",
+   "relation": "has met",
+   "direction": "mutual",
+   "tie": [
+    "scholar_or_author"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "2009",
+   "summary": "Jenkins mentioned that a couple of weeks earlier Weston had done a book event with Robin Kelley for Kelley's Monk book; Weston did not take up the point.",
+   "one_liner": "shared a monk book event, per jenkins",
+   "his_quote": null,
+   "his_quote_block_id": null,
+   "interviewer_quote": "I have heard people say, for example, a couple of weeks ago when you did the book even with Robin Kelley with the Monk book, I was backstage and a gentleman came back and he told you that he had seen you playing trio and he really enjoyed that.",
+   "interviewer_quote_block_id": 309881,
+   "more_his_quotes": [],
+   "instrument_or_role": "author of the Monk book",
+   "topics": [
+    "Thelonious Monk",
+    "book event"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Interviewer-only. Weston's reply is about trio and solo piano, not Kelley. Upstream 'collaborated with' overstates."
+  },
+  {
+   "person_id": 109420,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Earl Hines",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "childhood",
+   "summary": "Weston named Earl Hines among the 'royalty of piano' he grew up with and felt timid trying to follow.",
+   "one_liner": "one of the royalty of piano",
+   "his_quote": "When you grow up with people like Dorothy Dandridge and Duke Ellington, and Count Basie, and Art Tatum, Earl Hines, Nat King Cole, Monk, I mean, you know that period, for me, it was the royalty of piano.",
+   "his_quote_block_id": 309882,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "But I’m happy that people like me doing solo piano, but I was always reluctant because, like I said, I grew up with the heavyweights."
+    }
+   ],
+   "instrument_or_role": "piano",
+   "topics": [
+    "royalty of piano"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Roll-call only. 'Grew up with' means in his era/listening, not personal contact."
+  },
+  {
+   "person_id": 109426,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Art Tatum",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "childhood",
+   "summary": "Weston named Art Tatum among the 'royalty of piano' he grew up with and felt timid trying to follow.",
+   "one_liner": "one of the royalty of piano",
+   "his_quote": "When you grow up with people like Dorothy Dandridge and Duke Ellington, and Count Basie, and Art Tatum, Earl Hines, Nat King Cole, Monk, I mean, you know that period, for me, it was the royalty of piano.",
+   "his_quote_block_id": 309882,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "But I’m happy that people like me doing solo piano, but I was always reluctant because, like I said, I grew up with the heavyweights."
+    }
+   ],
+   "instrument_or_role": "piano",
+   "topics": [
+    "royalty of piano"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": true,
+   "confidence": "medium",
+   "notes": "Roll-call only. 'Grew up with' means in his era/listening, not personal contact."
+  },
+  {
+   "person_id": 109438,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Dorothy Donegan",
+   "transcribed_wrong": true,
+   "identity_ok": false,
+   "identity_note": "Transcript has 'Dorothy Dandridge' in a list of the 'king and queens of piano'; read as the pianist Dorothy Donegan (mishearing or slip). Upstream Q229251 (Dorothy Dandridge, actress) is therefore probably the wrong person.",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "influenced by",
+   "direction": "other_leads",
+   "tie": [
+    "idol"
+   ],
+   "firsthand": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "era": "childhood",
+   "summary": "Weston named 'Dorothy Dandridge' first among the 'kings and queens of piano' he grew up with, almost certainly meaning the pianist Dorothy Donegan.",
+   "one_liner": "one of the royalty of piano",
+   "his_quote": "When you grow up with people like Dorothy Dandridge and Duke Ellington, and Count Basie, and Art Tatum, Earl Hines, Nat King Cole, Monk, I mean, you know that period, for me, it was the royalty of piano.",
+   "his_quote_block_id": 309882,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "But I’m happy that people like me doing solo piano, but I was always reluctant because, like I said, I grew up with the heavyweights."
+    }
+   ],
+   "instrument_or_role": "piano",
+   "topics": [
+    "royalty of piano"
+   ],
+   "notable": 1,
+   "upstream_relation_ok": false,
+   "confidence": "medium",
+   "notes": "Human should check: the list is explicitly of pianists ('the royalty of piano'); Dandridge was an actress-singer, Donegan a celebrated jazz pianist. If Dandridge was really meant, relation falls to 'knows of'."
+  },
+  {
+   "person_id": 109457,
+   "is_person": true,
+   "not_person_kind": null,
+   "name": "Sam Gill",
+   "transcribed_wrong": false,
+   "identity_ok": true,
+   "identity_note": "",
+   "same_person_as": null,
+   "who_speaks_of_them": "weston",
+   "basis": "his_statement",
+   "relation": "collaborated with",
+   "direction": "mutual",
+   "tie": [
+    "sideman"
+   ],
+   "firsthand": true,
+   "stance": null,
+   "stance_strength": 0,
+   "era": "1954",
+   "summary": "Weston said Riverside wanted his first record to be solo piano, he wanted a trio, and they compromised on a duo with Sam Gill on bass for the Cole Porter album.",
+   "one_liner": "bass on his first record, cole porter, 1954",
+   "his_quote": "Finally, we compromised with myself and Sam Gill on bass. So, my first recording of Cole Porter was piano and bass, but they wanted me to do solo piano.",
+   "his_quote_block_id": 309882,
+   "interviewer_quote": null,
+   "interviewer_quote_block_id": null,
+   "more_his_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "I didn’t want to do a solo album, I wanted a trio and we argued about that."
+    }
+   ],
+   "instrument_or_role": "bass",
+   "topics": [
+    "Riverside",
+    "Cole Porter",
+    "1954",
+    "first recording"
+   ],
+   "notable": 2,
+   "upstream_relation_ok": false,
+   "confidence": "high",
+   "notes": "A single record date (a duo), so upstream 'in music group with' overstates."
+  }
+ ]
+}

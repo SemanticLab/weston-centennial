@@ -1,0 +1,619 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "count": 17,
+ "answer_blocks": 21,
+ "method": "For every interviewer-spoken block that mentions the subject, the next 4 blocks are collected, keeping dialogue/prose turns of >=80 chars that are NOT already attributed to the subject by the person layer, stopping when the interviewer speaks again. These are CANDIDATES: the answer to a question about the subject is usually but not always about the subject. Nothing here has been evaluated — treat as unverified until classified.",
+ "items": [
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 304751,
+    "speaker": "Maxine Gordon",
+    "text": "That’s the second time you’ve mentioned Randy Weston, but how did he help you?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-1"
+   },
+   "answers": [
+    {
+     "block_id": 304754,
+     "page": 31,
+     "block": 4,
+     "speaker": "Maxine Gordon",
+     "text": "(Laughs) Jimmy Owens part three. Could we just go back a little bit to Marshall Brown, I know we’re taking us a few years back to the Newport Youth Band, because maybe you could talk about him and how that influenced you, and the importance of that.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-4"
+    },
+    {
+     "block_id": 304755,
+     "page": 31,
+     "block": 5,
+     "speaker": "Jimmy Owens",
+     "text": "The most important thing about Marshall Brown was, his whole concept was to train us, the students, and you had to leave the band when you were 17. When I was in the band, I was 16 years old. You had to leave the band at 16, and what he wanted to have happen was that you were a thorough professional, that you understood what it was like and what you had to do to be a professional. That you could read and interpret any music that was put in front of you, that you understood about being on time before time, you know? One o’clock rehearsal? You saxophone players are there at quarter to",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-5"
+    }
+   ],
+   "src": {
+    "doc_id": "Owens_Jimmy_Transcript",
+    "block_id": 304751,
+    "page": 31,
+    "block": 1,
+    "collection": "si",
+    "title": "Jimmy Owens — Smithsonian Jazz Oral History",
+    "interviewee": "Jimmy Owens",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-1",
+    "source_url": "https://amhistory.si.edu/jazz/Owens-Jimmy/Owens_Jimmy_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 283267,
+    "speaker": "Zimmerman",
+    "text": "You lyricize the works of many artists, composers, and orchestras, such as Duke Ellington, Count Basie, Miles Davis, Randy Weston, Charlie Parker, Bobby Timmons. What is it about their work that speaks to you or inspires you to write lyrics.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b78-2"
+   },
+   "answers": [
+    {
+     "block_id": 283269,
+     "page": 78,
+     "block": 4,
+     "speaker": "Zimmerman",
+     "text": "I can hear it. Miles Davis. There seems to be – he seems to be a source of inspiration and for others, but you in particular, I think, because I’ve heard several renderings by you of Miles Davis works.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b78-4"
+    },
+    {
+     "block_id": 283270,
+     "page": 78,
+     "block": 5,
+     "speaker": "Hendricks",
+     "text": "Yes. I love Miles from a certain period. I think that he experienced a deterioration, but it doesn’t erase him at what I consider his best period. What he created during that time is so brilliant and so beautiful, I think it will last forever. It will last forever.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b78-5"
+    }
+   ],
+   "src": {
+    "doc_id": "Jon-Hendricks-Transcription-2020",
+    "block_id": 283267,
+    "page": 78,
+    "block": 2,
+    "collection": "si",
+    "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+    "interviewee": "Jon Hendricks",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b78-2",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Jon-Hendricks-Transcription-2020.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 291902,
+    "speaker": "Bryant",
+    "text": "Because you used to say, whenever you would be sad or something, you’re horn would bring you out of it, but now you can’t depend on that, so Randy is your horn right now. Have you fulfilled all your dreams and goals and stuff for yourself, or did you have any new come along? You’ve written for everybody. You played with everybody.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b30-0"
+   },
+   "answers": [
+    {
+     "block_id": 291904,
+     "page": 30,
+     "block": 2,
+     "speaker": "Bryant",
+     "text": "That’s probably what you’ll do, going back to New York. Like you said, they’ll be ready for you, and they won’t be piddly-paddling with the money.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b30-2"
+    },
+    {
+     "block_id": 291905,
+     "page": 30,
+     "block": 3,
+     "speaker": "Liston",
+     "text": "I don’t like the music today, the music that the youngsters are doing today. I’m an old-fashioned broad, and I just want to do other . . .",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b30-3"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 291902,
+    "page": 30,
+    "block": 0,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b30-0",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 282752,
+    "speaker": "Zimmerman",
+    "text": "Where did Randy Weston fit in there?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b25-1"
+   },
+   "answers": [
+    {
+     "block_id": 282754,
+     "page": 25,
+     "block": 3,
+     "speaker": "Zimmerman",
+     "text": "All of those guys, you wrote lyrics to their music. Little Niles. Hi-Fly. Doodlin’, which is one of my all-time favorites. Gosh. Who else was there?",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b25-3"
+    },
+    {
+     "block_id": 282755,
+     "page": 25,
+     "block": 4,
+     "speaker": "Hendricks",
+     "text": "I did things for Gigi Gryce and Benny Golson too: Social Call and I Remember Clifford. Stablemates and all those things.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b25-4"
+    }
+   ],
+   "src": {
+    "doc_id": "Jon-Hendricks-Transcription-2020",
+    "block_id": 282752,
+    "page": 25,
+    "block": 1,
+    "collection": "si",
+    "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+    "interviewee": "Jon Hendricks",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b25-1",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Jon-Hendricks-Transcription-2020.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 222773,
+    "speaker": "MR",
+    "text": "Oh yeah, Randy Weston. “High Fly”?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=277167#b2-11"
+   },
+   "answers": [
+    {
+     "block_id": 222777,
+     "page": 3,
+     "block": 0,
+     "speaker": "",
+     "text": "So it’s just basic standards. I wasn’t writing back then. So but the North End Lounge, all the jazz groups when they came in town they would come by and do jam sessions. So like you know, so I was really in school in another way, both schools at the same time.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=277167#b3-0"
+    }
+   ],
+   "src": {
+    "doc_id": "277167",
+    "block_id": 222773,
+    "page": 2,
+    "block": 11,
+    "collection": "hamilton",
+    "title": "Lonnie Liston Smith interviewed by Monk Rowe, via Zoom, January 9, 2021",
+    "interviewee": "Lonnie Liston Smith",
+    "interviewer": null,
+    "year": 2021,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=277167#b2-11",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/lonnie-liston-smith-interviewed-monk-rowe-zoom-january-9-2021"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 291882,
+    "speaker": "Bryant",
+    "text": "What you come up with is good, all good. How did you meet Randy? Was he playing – was it out here or in New York when you met Randy?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-9"
+   },
+   "answers": [
+    {
+     "block_id": 291883,
+     "page": 28,
+     "block": 10,
+     "speaker": "Liston",
+     "text": "I was playing with Dizzy – I guess Birdland. I came out and did my usual thing. He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-10"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 291882,
+    "page": 28,
+    "block": 9,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-9",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 292167,
+    "speaker": "Bryant",
+    "text": "This is another one of Randy Weston’s tunes. It features Melba on this one, and we’ve searched and searched, and we can’t find the title of it, but maybe later on we can cue Matt as to what it is, and he can put it – fill it in, but let’s hear – I think it’s a ballad. [The music plays.]",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-3"
+   },
+   "answers": [
+    {
+     "block_id": 292168,
+     "page": 47,
+     "block": 4,
+     "speaker": "Liston",
+     "text": "[while the music plays] So that – don’t stop it, but that’s about all that I can say, that I’m featured on it. That little bit. But it’s nice.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-4"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 292167,
+    "page": 47,
+    "block": 3,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-3",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 291799,
+    "speaker": "Bryant",
+    "text": "But continuing on with the girl groups in New York – what came after? Did you do some more stuff with Randy?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-3"
+   },
+   "answers": [
+    {
+     "block_id": 291802,
+     "page": 23,
+     "block": 6,
+     "speaker": "Liston",
+     "text": "Oh yeah. My friends really are Frank and all of those. They’re arrangers too. I can’t take nothing away from them. They’ll be my friends.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-6"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 291799,
+    "page": 23,
+    "block": 3,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-3",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 291676,
+    "speaker": "Bryant",
+    "text": "Randy Weston.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b16-0"
+   },
+   "answers": [
+    {
+     "block_id": 291677,
+     "page": 16,
+     "block": 1,
+     "speaker": "Liston",
+     "text": "Um-hmm. It was a good thing. He took me to Jamaica. He was there visiting his relatives from there, and I was just hanging out.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b16-1"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 291676,
+    "page": 16,
+    "block": 0,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b16-0",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 291896,
+    "speaker": "Bryant",
+    "text": "I think that Basie thing was on a 78. When you go to New York, will you be writing with Randy?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-9"
+   },
+   "answers": [
+    {
+     "block_id": 291897,
+     "page": 29,
+     "block": 10,
+     "speaker": "Liston",
+     "text": "Yeah. He’s looking forward to my coming there, but so many others are waiting for me to come there too, to write or . . .",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-10"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 291896,
+    "page": 29,
+    "block": 9,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-9",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 292205,
+    "speaker": "Bryant",
+    "text": "I see what you’re saying. On the other record the horns are playing what the strings are playing on this. I get that. But it’s just the sound, and like you say, the voicing was the same on the horns, but the voicing on the strings made it a completely different thing, to me. The last version of Randy Weston’s Little Niles that we just heard, with strings, was from a new CD that hasn’t been released yet. It’s called Earth Birth, and of course the arrangement was by Melba Liston and the strings were out of sight. Wasn’t that beautiful. Okay. We going to jump back in time and hear another version of Little Niles by Randy in Melba’s arrangement. We’re going back to a 1973 version from a CD called Tanjah. Melba, you want to say anything about this before we start?",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b49-8"
+   },
+   "answers": [
+    {
+     "block_id": 292208,
+     "page": 49,
+     "block": 11,
+     "speaker": "Liston",
+     "text": "Today they could program it much better than it was on that, but you could hear it, but if they were to do it now . . .",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b49-11"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 292205,
+    "page": 49,
+    "block": 8,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b49-8",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 242401,
+    "speaker": "Brown",
+    "text": "Randy Weston territory.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Barron_Kenny_Transcript#b73-8"
+   },
+   "answers": [
+    {
+     "block_id": 242402,
+     "page": 73,
+     "block": 9,
+     "speaker": "Barron",
+     "text": "Yeah. Hank Jones did a recording with – I think it was cora. It was interesting, but I don’t know if it really worked.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Barron_Kenny_Transcript#b73-9"
+    }
+   ],
+   "src": {
+    "doc_id": "Barron_Kenny_Transcript",
+    "block_id": 242401,
+    "page": 73,
+    "block": 8,
+    "collection": "si",
+    "title": "Kenny Barron — Smithsonian Jazz Oral History",
+    "interviewee": "Kenny Barron",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Barron_Kenny_Transcript#b73-8",
+    "source_url": "https://amhistory.si.edu/jazz/Barron-Kenny/Barron_Kenny_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 306535,
+    "speaker": "Levy",
+    "text": "And you came home to your wife; I'm sure she was missing you at that point. You worked with Randy Weston.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Ron-Carter-Transcription-2020_0#b11-3"
+   },
+   "answers": [
+    {
+     "block_id": 306539,
+     "page": 12,
+     "block": 0,
+     "speaker": "Levy",
+     "text": "Plus. Okay. And then too there were some long gigs, specifically like … was it eight weeks at the Five Spot?",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Ron-Carter-Transcription-2020_0#b12-0"
+    }
+   ],
+   "src": {
+    "doc_id": "Ron-Carter-Transcription-2020_0",
+    "block_id": 306535,
+    "page": 11,
+    "block": 3,
+    "collection": "si",
+    "title": "Ron Carter — Smithsonian Jazz Oral History",
+    "interviewee": "Ron Carter",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Ron-Carter-Transcription-2020_0#b11-3",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Ron-Carter-Transcription-2020_0.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 292227,
+    "speaker": "Bryant",
+    "text": "But he – but Randy uses his song Little Niles in all these different versions kind of like Dizzy used Manteca and like you did. He changes it up, but it’s still the same song, in different clothing. And that’s great.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b50-16"
+   },
+   "answers": [
+    {
+     "block_id": 292228,
+     "page": 50,
+     "block": 17,
+     "speaker": "Liston",
+     "text": "But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things. So anyway . . .",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b50-17"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 292227,
+    "page": 50,
+    "block": 16,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b50-16",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 288038,
+    "speaker": "Brown",
+    "text": "Let’s modulate. Let’s switch from the tragic to the sublime. Randy Weston, who fortunately is still with us at 85, and a very strong spirit, very influential for a lot of – for at least my generation of musicians coming up and looking at him as somebody who’s bringing in other cultures, going out to Africa, embracing African culture, and actually living in Africa. The next project is March and April of 1972, CTI, Blue Moses.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-1"
+   },
+   "answers": [
+    {
+     "block_id": 288040,
+     "page": 88,
+     "block": 3,
+     "speaker": "Brown",
+     "text": "Yeah, you played everything. You’ve got flute, alto flute, bass flute, electric flute, and piccolo.",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-3"
+    }
+   ],
+   "src": {
+    "doc_id": "Laws_Hubert_Transcript",
+    "block_id": 288038,
+    "page": 88,
+    "block": 1,
+    "collection": "si",
+    "title": "Hubert Laws — Smithsonian Jazz Oral History",
+    "interviewee": "Hubert Laws",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-1",
+    "source_url": "https://amhistory.si.edu/jazz/Laws-Hubert/Laws_Hubert_Transcript.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 292233,
+    "speaker": "Bryant",
+    "text": "I never heard it done like that. It’s beautiful, with the strings and everything, and then I see Randy likes fourths and seconds. I do too. You write a lot of [?] fourths in the harmony, but that – I like the way you wove in and out with the strings – that’s the last one, but Randy was doing so much stuff with the – I mean he was creating so much stuff, but the strings is really a completely huge dimension to your writing that I’d never heard before, Melba. How long have you been writing? This is ’76? No, this is ’96.",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-4"
+   },
+   "answers": [
+    {
+     "block_id": 292234,
+     "page": 51,
+     "block": 5,
+     "speaker": "Liston",
+     "text": "Yeah, but I’ve been writing for strings as long as I’ve been – not as long, but once a year . . .",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-5"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 292233,
+    "page": 51,
+    "block": 4,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-4",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  },
+  {
+   "subject": "weston",
+   "qid": "Q1371187",
+   "question": {
+    "block_id": 292231,
+    "speaker": "Bryant",
+    "text": "You’re getting royalties and all – air play and stuff. That’s great. So that was 1973. Fantastic. Right now we’re going to a little bit more of comparing two of Randy’s tunes at different eras to – this first one we’re going to play would be – is that 1973? – and the tune is called Hi-Fly – h, i, fly. And then we’re going to listen to – just an excerpt of that – then we’re going to listen to the 1996 version of Hi-Fly with Melba’s arrangement, on a new CD that’s not out yet. It’s called Earth Birth. Right now it’s 1973 again. [The music plays, during which Bryant queries the identity of the trumpeter whose solo follows the statement of the theme.]",
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-2"
+   },
+   "answers": [
+    {
+     "block_id": 292232,
+     "page": 51,
+     "block": 3,
+     "speaker": "Liston",
+     "text": "[does not recall.] Okay. You can stop it now. [A slow version of Hi-Fly commences.]",
+     "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-3"
+    }
+   ],
+   "src": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "block_id": 292231,
+    "page": 51,
+    "block": 2,
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b51-2",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf"
+   },
+   "status": "unevaluated_candidate"
+  }
+ ]
+}

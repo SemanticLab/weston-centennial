@@ -1,0 +1,43 @@
+{
+  "subject": "weston",
+  "judged_by": "claude-opus-5-5",
+  "count": 4,
+  "items": [
+    {
+      "title": "Out There (Betty Carter album)",
+      "credited_on_this_release": "yes",
+      "role": "composer",
+      "scope": "\"Babe's Blues\" (Randy Weston, co-written with Jon Hendricks)",
+      "evidence": "“Babe's Blues” ( Randy Weston , Jon Hendricks ) – 2:49",
+      "reasoning": "The page's Tracks list names Randy Weston as co-writer of \"Babe's Blues\"; he is not in the personnel, so the credit is as composer only.",
+      "confidence": "high"
+    },
+    {
+      "title": "Havin' a Ball at the Village Gate",
+      "credited_on_this_release": "no",
+      "role": null,
+      "scope": "",
+      "evidence": "\" With 'er 'ead Tucked Underneath'er Arm \" ( Bert Lee , R.P. Weston ) - 3:17",
+      "reasoning": "The only Weston in the article body is R.P. Weston, the English music-hall songwriter (linked to R.P._Weston), not Randy Weston; Randy Weston appears only in the Booker Ervin navbox at the foot of the page (Highlife, Randy / African Cookbook, Monterey '66), which is how the page links to his article.",
+      "confidence": "high"
+    },
+    {
+      "title": "Points (album)",
+      "credited_on_this_release": "no",
+      "role": null,
+      "scope": "",
+      "evidence": "\"Afro Sonic\" was inspired by Randy Weston and utilizes the repetitive thematic pattern of a talking drum as its backbone.",
+      "reasoning": "Weston is named only as the inspiration for \"Afro Sonic\"; the page states all compositions are by Matthew Shipp and Weston is not in the personnel.",
+      "confidence": "high"
+    },
+    {
+      "title": "Smack My Bitch Up",
+      "credited_on_this_release": "yes",
+      "role": "sampled",
+      "scope": "samples Randy Weston's recording \"In Memory Of\"",
+      "evidence": "The track also contains samples from \"Funky Man\" by Kool & the Gang , \"In Memory Of\" by Randy Weston , \"House of Rising Funk\" by Afrique",
+      "reasoning": "The page explicitly says the track contains samples from \"In Memory Of\" by Randy Weston, so the release samples one of his recordings.",
+      "confidence": "high"
+    }
+  ]
+}

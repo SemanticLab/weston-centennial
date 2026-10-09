@@ -1,0 +1,1128 @@
+{
+ "subject": "weston",
+ "chunk": 2,
+ "count": 43,
+ "chunk_top": [
+  295836,
+  317445,
+  308788
+ ],
+ "items": [
+  {
+   "block_id": 295711,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "working_relationship",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie band",
+    "first meeting"
+   ],
+   "summary": "Liston recalled meeting Weston while she was playing with Dizzy Gillespie, when he asked her to copy music for him, which turned into her writing for him.",
+   "pull_quote": "Then I met Randy [Weston] when I was playing with Dizzy, and he said he wanted me to copy or something for him.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement hit on \"Randy [Weston]\": identity confirmed by Bryant's next turn (\"Randy Weston.\") and Liston's answer. The surname is the transcriber's bracketed expansion, not spoken. Her sentence breaks off (\"It turned out that I wrote . . .\") because Bryant cuts in, not because of a page break. Stance is mostly carried by the next block (\"It was a good thing. He took me to Jamaica.\")."
+  },
+  {
+   "block_id": 295712,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Jamaica"
+   ],
+   "summary": "Liston answered Bryant's prompt by saying the association with Weston was a good thing and that he took her to Jamaica, where he was visiting relatives.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant's whole turn is just \"Randy Weston.\" (supplying the name Liston was reaching for). Liston's answer in 295713 (\"Um-hmm. It was a good thing. He took me to Jamaica.\") is the usable line but refers to him only as \"He\" and sits in a neighbouring block."
+  },
+  {
+   "block_id": 295835,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "writing for Weston"
+   ],
+   "summary": "Liston answered that she had been writing for Weston ever since, up to her stroke and again afterwards, and credited him with pulling her out of it.",
+   "pull_quote": "Did you do some more stuff with Randy?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant raises him; Liston's substantive answer is the next block (295836), which is in this chunk as its own item."
+  },
+  {
+   "block_id": 295836,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke",
+    "arranging for Weston"
+   ],
+   "summary": "Liston said she had written for Weston until her stroke and was writing for him again, that he helped pull her out of it, and thanked him for sticking with her when nobody else did.",
+   "pull_quote": "I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Liston's own words, unbracketed. Stroke was 1985 (per spec). Strongest Liston line about him."
+  },
+  {
+   "block_id": 295899,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "bandleading"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "arranging freedom"
+   ],
+   "summary": "Liston said that, unlike clients who dictated what they wanted, Weston gave her all the freedom she wanted as his arranger.",
+   "pull_quote": "Randy, I have all the freedom I want.",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Good follow-ups sit in neighbouring blocks that call him only \"he\": 295901 (\"he gives me the song and the changes, and that’s all. But we’ve been together – what? – ’56 to ’96... 40 years. He don’t tell me anything.\") and 295903 (\"He says I write like he writes.\"). Context shows the contrast with clients who want a stage act."
+  },
+  {
+   "block_id": 295918,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "composition",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Birdland",
+    "Little Niles",
+    "first album with Liston"
+   ],
+   "summary": "Liston answered that Weston heard her play with Gillespie at Birdland, insisted on meeting her, brought Little Niles and other lead sheets to her house and asked her to arrange them for an album, which she called the best thing.",
+   "pull_quote": "How did you meet Randy?",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Answer is in 295919 and 295921 (not in this chunk; they say \"He\"): Weston's reported words \"I have to meet her.\" and \"Can I bring some lead sheets up to your house and you make them for me?\" ... \"I think you should write these things for an album for me.\" plus Liston's \"I think it’s the best thing.\" Those are strong lines a human should consider pulling from the neighbouring blocks."
+  },
+  {
+   "block_id": 295923,
+   "is_about_subject": true,
+   "mention_kind": "transcriber_summary",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "reissues",
+    "Little Niles album"
+   ],
+   "summary": "Liston said the first album she arranged for Weston had not yet been reissued but would be; the only mention of him is the transcriber's bracketed note.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Only mention of Weston is the transcriber's note \"[Randy’s newer things have been reissued.]\". Liston's own words (\"Not yet. But they will.\") refer to the album discussed in 295921."
+  },
+  {
+   "block_id": 295932,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "move to New York"
+   ],
+   "summary": "Liston answered that Weston was looking forward to her coming to New York to write for him, though many others were waiting for her too.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Answer in 295933 is brief; she adds only that he is looking forward to it."
+  },
+  {
+   "block_id": 295937,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke",
+    "move to New York"
+   ],
+   "summary": "Liston said that in planning her return to New York she put Weston first, because he had pulled her out of the stroke.",
+   "pull_quote": "Randy pulled me out of the stroke, so I have to go with him.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Repeats the theme of 295836 in fewer words. \"Colby\" is presumably her manager (named in 295993)."
+  },
+  {
+   "block_id": 295938,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "stroke",
+    "trombone"
+   ],
+   "summary": "Bryant suggested that Weston had replaced her trombone as what lifted her spirits; Liston did not respond about him and turned to not having made money.",
+   "pull_quote": "Because you used to say, whenever you would be sad or something, you’re horn would bring you out of it, but now you can’t depend on that, so Randy is your horn right now.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The line is Bryant's framing, not Liston's; Liston added nothing about Weston (her answer 295939 is about money). \"you’re horn\" is the transcript's spelling."
+  },
+  {
+   "block_id": 295989,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "four trombones"
+   ],
+   "summary": "Liston recalled that she and Weston also had a record date with four trombones.",
+   "pull_quote": "And Randy, we had a date with him and the 4 ’bones too.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Context: Bryant is asking about Liston's own trombone-section dates; the Weston date is mentioned in passing."
+  },
+  {
+   "block_id": 296073,
+   "is_about_subject": false,
+   "mention_kind": "false_positive",
+   "quotes_the_subject": false,
+   "stance": null,
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [],
+   "relationship": "not_applicable",
+   "block_is_firsthand": false,
+   "topics": [
+    "Benny Golson",
+    "Ernie Wilkins"
+   ],
+   "summary": "",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "medium",
+   "notes": "False positive: Liston says \"Randy\" and immediately corrects herself (\"I mean Ernie’s\") while naming arrangers whose shadings she has not heard (Benny Golson and, by the correction, presumably Ernie Wilkins). The block is not about Weston; at most a slip of the tongue."
+  },
+  {
+   "block_id": 296185,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Little Niles"
+   ],
+   "summary": "Bryant introduced Little Niles as Weston's tune in Liston's arrangement; Liston answered only that it featured the bass, then remarked that Weston liked Monk.",
+   "pull_quote": "Coming up right now, we’re going to do one of Randy Weston’s tunes, a song that was recorded for the first time I think in 1956.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant acting as DJ for the playback. Liston's Weston remark is the next item (296190). The 1956 date is Bryant's guess (\"I think\")."
+  },
+  {
+   "block_id": 296190,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "influence",
+    "comparison",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Thelonious Monk",
+    "Little Niles"
+   ],
+   "summary": "After Bryant heard a Monk flavour in Little Niles, Liston said Weston was very fond of Thelonious Monk.",
+   "pull_quote": "Randy likes Thelonious much.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Prompted by Bryant (\"it had a flavor of . . .\" / Liston: \"Of Monk?\"). Short but exact; needs the Little Niles context."
+  },
+  {
+   "block_id": 296193,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Little Niles"
+   ],
+   "summary": "Bryant remarked that she seldom heard Weston's work; Liston did not respond about him and moved to the next recording.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Liston added nothing about Weston in the answer."
+  },
+  {
+   "block_id": 296203,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "untitled ballad",
+    "waltz album"
+   ],
+   "summary": "Bryant introduced an untitled Weston ballad featuring Liston; Liston said only that she was featured on it, that it was nice, and that the album was all in 3/4.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Title of the tune unknown in the window; Liston's answer is about her own solo and the album being all waltzes."
+  },
+  {
+   "block_id": 296214,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Montreal",
+    "strings",
+    "Earth Birth"
+   ],
+   "summary": "Liston said she wrote the string record in Los Angeles but it was recorded in Montreal with Montreal strings, with Weston and the bass and drums from New York.",
+   "pull_quote": "the record was done in Montreal and they were all Montreal strings, but Randy and bass and drums are from New York.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Not trap 2: the \"Paul . . .\" / \"Paul West\" that follows is the conductor of the session, not Paul Weston, and not the subject. Bryant later (296241) identifies the strings record as Earth Birth."
+  },
+  {
+   "block_id": 296224,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "bandleading"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Little Niles",
+    "strings",
+    "Earth Birth"
+   ],
+   "summary": "Liston said that Weston told her only how many choruses he would take and where the violins came in, leaving everything else to her.",
+   "pull_quote": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Same theme as 295899 (freedom as his arranger). Spoken right after the strings version of Little Niles plays."
+  },
+  {
+   "block_id": 296241,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "associates",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Little Niles",
+    "Earth Birth",
+    "Tanjah"
+   ],
+   "summary": "Bryant introduced the Earth Birth strings version and the 1973 Tanjah version of Little Niles; Liston only said that today the 1973 recording could be programmed better.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bryant's praise lands on Liston's arrangement (associates), not on Weston. Album title spelt \"Tanjah\" here and \"Tanyah\" in 296281."
+  },
+  {
+   "block_id": 296263,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Little Niles",
+    "Pam’s Waltz",
+    "Manteca"
+   ],
+   "summary": "Bryant said Weston recast Little Niles in many versions as Gillespie did Manteca; Liston agreed that he recorded Pam's Waltz and Little Niles every time he made a record.",
+   "pull_quote": "He changes it up, but it’s still the same song, in different clothing.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "The line is Bryant's. Liston's answer (296264, \"But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things.\") is in a neighbouring block not in this chunk."
+  },
+  {
+   "block_id": 296267,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hi-Fly",
+    "Earth Birth",
+    "1973"
+   ],
+   "summary": "Bryant introduced 1973 and 1996 versions of Weston's Hi-Fly; Liston could not recall the trumpeter and said nothing about Weston.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Liston's reply is a bracketed \"[does not recall.]\" plus \"Okay. You can stop it now.\""
+  },
+  {
+   "block_id": 296269,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Hi-Fly",
+    "strings",
+    "Earth Birth"
+   ],
+   "summary": "Bryant praised the 1996 Hi-Fly and noted Weston's fondness for fourths and seconds; Liston's answer was about her own long history of string writing, not Weston.",
+   "pull_quote": "It’s beautiful, with the strings and everything, and then I see Randy likes fourths and seconds.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Assessment is Bryant's (a trumpeter), not Liston's; most praise is aimed at Liston's string writing."
+  },
+  {
+   "block_id": 296282,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "humor",
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Hi-Fly",
+    "Gloria Lynne"
+   ],
+   "summary": "Liston closed the run of Weston recordings by saying, \"Let's leave Randy alone now\", and asked for Gloria Lynne's Hi-Fly.",
+   "pull_quote": "No. Let’s leave Randy alone now and listen to Gloria Lynne’s Hi-Fly.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement hit on bare \"Randy\": identity is clear from the window (Hi-Fly, Earth Birth, Tanyah). Possible confusion: Bryant then introduces Liston's own \"Love, I've Found You\" sung by Gloria Lynne, not a Hi-Fly."
+  },
+  {
+   "block_id": 296393,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke recovery"
+   ],
+   "summary": "Asked about relearning everything after her stroke, Liston said she thought Weston pushed her along.",
+   "pull_quote": "Yeah, but I think Randy pushed me along.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Same theme as 295836, 295937, 296397."
+  },
+  {
+   "block_id": 296397,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke recovery",
+    "writing again"
+   ],
+   "summary": "Liston said Weston helped her start writing again after her stroke, though she was not yet writing as fast as before.",
+   "pull_quote": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Flag corrected: target ends \"as I . . .\" and continues in 296399 (\". . . I used to\"), after Bryant's interjection; meaning not inverted."
+  },
+  {
+   "block_id": 296439,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "writing since the stroke"
+   ],
+   "summary": "Liston said that in her years in Los Angeles after the stroke she had written for Weston and nobody else.",
+   "pull_quote": "For Randy, but nobody else.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement bare \"Randy\": clearly Weston given the document. Needs Bryant's preceding line to make sense; Bryant then challenges it (Al Grey, things for Bryant)."
+  },
+  {
+   "block_id": 301359,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Brooklyn",
+    "Harlem jam sessions"
+   ],
+   "summary": "McLean named Weston among the Brooklyn musicians who came to the Harlem jam sessions and said he in turn went to sessions in Brooklyn.",
+   "pull_quote": "So there were guys from Brooklyn that would come over and play. Randy Weston. We used to go to Brooklyn, to jam sessions over there.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "relationship \"personally\" inferred from shared jam sessions; no explicit description of contact."
+  },
+  {
+   "block_id": 301363,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Max Roach",
+    "Brooklyn"
+   ],
+   "summary": "McLean listed Weston among the Brooklyn musicians in Max Roach's circle.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Bare \"Randy\" in a roll-call of Brooklyn guys; identity clear from 301359."
+  },
+  {
+   "block_id": 307082,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "1947",
+    "union dance",
+    "Ahmed Abdul Malik"
+   ],
+   "summary": "Morgenstern recalled that one of the first live bands he saw, at a left-wing union dance around 1947, was Weston's, with Ahmed Abdul-Malik on bass.",
+   "pull_quote": "One of the first live bands I saw was at a left-wing union dance where Randy Weston had the band and Ahmed was the bass player.",
+   "notable": 2,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Weston is incidental to a story about hiring Malik for Earl Hines in 1964. Target ends mid-sentence (\"After the show\" / \"was taped\") but the split is far from the Weston mention. Speaker label is blank throughout this document."
+  },
+  {
+   "block_id": 307083,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "business",
+    "historical_context",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Jazz on Broadway",
+    "1964",
+    "Little Theater"
+   ],
+   "summary": "Morgenstern listed Weston leading a fairly large band among the concerts in his 1964 Jazz on Broadway series.",
+   "pull_quote": "for which we did Lucky Thompson with an octet, and Randy Weston with a fairly large band, and Coleman Hawkins and Ben Webster",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts mid-sentence (continuation of 307082). Pull quote is a fragment without a clean sentence boundary."
+  },
+  {
+   "block_id": 308680,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business",
+    "influence"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "music publishing",
+    "Lionel Hampton",
+    "Complicity"
+   ],
+   "summary": "Owens said he had learned about publishing and protecting his compositions from Donald Byrd and Weston, which is why he refused to give Lionel Hampton co-credit on his arrangement.",
+   "pull_quote": "And I had learned this stuff from Donald Byrd and Randy Weston.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Target ends mid-sentence; continuation 308681 does not change the reading. Fuller account of what Weston taught him is in 308788."
+  },
+  {
+   "block_id": 308786,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "music publishing"
+   ],
+   "summary": "Owens credited Donald Byrd and Weston with teaching him always to keep his own publishing.",
+   "pull_quote": "Again, that’s Donald Byrd, that’s Randy Weston, who helped me.",
+   "notable": 1,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Prompts the interviewer's follow-up (308787) and the detailed answer (308788)."
+  },
+  {
+   "block_id": 308787,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "lead sheets",
+    "music publishing"
+   ],
+   "summary": "Owens answered that Weston gave him a stack of his professionally prepared lead sheets at a musicians' meeting on 135th Street and told him to write his music out if he wanted it recorded.",
+   "pull_quote": "That’s the second time you’ve mentioned Randy Weston, but how did he help you?",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Interviewer is Maxine Gordon. The answer is 308788, in this chunk."
+  },
+  {
+   "block_id": 308788,
+   "is_about_subject": true,
+   "mention_kind": "quoted_speech",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business",
+    "personal_memory",
+    "anecdote"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "lead sheets",
+    "135th Street",
+    "music publishing"
+   ],
+   "summary": "Owens recalled that Weston invited him to a musicians' organizing meeting on 135th Street, gave him an inch-thick stack of his lead sheets, and told him he had to have his music written out if he wanted people to record it.",
+   "pull_quote": "Randy Weston gave me a stack of about an inch of his lead sheets. One of the things he said was, “You’ve gotta have your stuff written out if you want people to record it.”",
+   "notable": 3,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Contains Weston's own reported words twice (\"Sure, come by! We’re having a meeting up at 135th street about the organization to help musicians.\"). Last third of the block moves on to Cannonball Adderley."
+  },
+  {
+   "block_id": 308856,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "giving back"
+   ],
+   "summary": "Owens named Weston first among the musicians who gave him information freely, which he said made him want to give back.",
+   "pull_quote": "I recall how Randy Weston and Donald Byrd, and talking to Horace Silver and Cannonball Adderley, and all of these musicians, Nat Adderley, how they gave me information freely.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Target ends mid-sentence (\"I\" / \"showed him the book\"); the continuation is about J.J. Johnson, not Weston."
+  },
+  {
+   "block_id": 308909,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "historical_context"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Collective Black Artists",
+    "big bands"
+   ],
+   "summary": "Owens mentioned Weston as one of the few leaders, with Billy Taylor, who could occasionally be seen fronting a big band.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts mid-sentence (continuation of 308908). Passing comparison in an account of the CBA ensemble."
+  },
+  {
+   "block_id": 308987,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "legacy_influence"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Jazzmobile",
+    "saxophonist"
+   ],
+   "summary": "Owens noted that the saxophonist then playing with Weston had studied at the Jazzmobile workshop.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts and ends mid-sentence; the mention is about Owens's student, not Weston."
+  },
+  {
+   "block_id": 310571,
+   "is_about_subject": true,
+   "mention_kind": "interviewer_question",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "1960s New York"
+   ],
+   "summary": "Carter answered that he worked with Weston for almost a year, \"plus\".",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Interviewer (Levy) raises him; Carter adds only the duration, nothing about the music or the man."
+  },
+  {
+   "block_id": 310578,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Chico Hamilton",
+    "Sonny Rollins"
+   ],
+   "summary": "Carter supplied Weston's name to complete the interviewer's list of leaders he had worked with in quick succession.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Target is the single word \"Randy.\" His follow-up says only that all of them \"brought something to my table\"."
+  },
+  {
+   "block_id": 317235,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Thelonious Monk",
+    "spare style",
+    "Ellington"
+   ],
+   "summary": "Taylor said a pianist had to be either florid like Ellington or spare like Monk and Weston, leaving space for listeners to absorb the harmony.",
+   "pull_quote": "you had to either be florid in the Ellington way or you had to be spare in the way that Monk and Randy Western had chose to do, so that you left a lot of space for people to absorb the harmonic things that you were outlining.",
+   "notable": 2,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "fts_supplement hit on \"Randy Western\" (transcriber's mishearing). Identity judged high: a pianist named alongside Monk for a spare style, in an interview that names Randy Weston elsewhere (317445). The pull quote preserves \"Western\"; a display version would need an editorial [sic]/correction. relationship \"personally\" from 317445 (both on Riverside, talked often)."
+  },
+  {
+   "block_id": 317445,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "personal_memory",
+    "legacy_influence",
+    "influence",
+    "musical_assessment",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Africa trip",
+    "Riverside",
+    "Ellington",
+    "Monk"
+   ],
+   "summary": "Taylor said that when his radio contract kept him home he recommended Weston for the early-1960s cultural trip to Africa, recalled them sharing a fascination with Riverside's field recordings, and called Weston a remarkable musician who had gone back to the roots as no one else had.",
+   "pull_quote": "Randy Weston is a remarkable musician who has over the years taken the historical line from Africa that has been developed in the Americas and has done something very special with it.",
+   "notable": 3,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "confidence": "high",
+   "notes": "Starts and ends mid-sentence (\"It was too long and it was just not\" / \"possible\"); neither split touches the Weston passage. Also strong: \"So I recommended Randy Weston and this is when Randy first went to Africa\" and \"Randy was excited because he wanted to play like that.\" Taylor's claim that this was Weston's first Africa trip is his own recollection. Second half of the block turns to Taylor's own music."
+  },
+  {
+   "block_id": 321347,
+   "is_about_subject": true,
+   "mention_kind": "list_item",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Sonny Rollins",
+    "Jimmy Heath",
+    "spiritual leaders"
+   ],
+   "summary": "Oxenhorn named Weston with Sonny Rollins and Jimmy Heath as spiritual leaders.",
+   "pull_quote": "Him, and Randy Weston and Jimmy Heath, these spiritual... They’re spiritual leaders, is what they are.",
+   "notable": 1,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "One of three names; the praise is shared. Window shows no direct contact with Weston, so relationship is \"unclear\" although she implies working with these musicians at the Jazz Foundation."
+  },
+  {
+   "block_id": 196952,
+   "is_about_subject": true,
+   "mention_kind": "passing_reference",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "biographical_fact"
+   ],
+   "relationship": "secondhand",
+   "block_is_firsthand": false,
+   "topics": [
+    "Tanglewood",
+    "Avalock",
+    "Lenox"
+   ],
+   "summary": "LaBarbera recalled getting a summer gig at a jazz club near Tanglewood because Weston was leaving it.",
+   "pull_quote": null,
+   "notable": 0,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "confidence": "high",
+   "notes": "Hamilton transcript: PL = Pat LaBarbera, MR = Monk Rowe. The club is transcribed as \"Avalock\". Weston appears only as the act whose departure opened the slot."
+  }
+ ]
+}

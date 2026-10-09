@@ -1,0 +1,244 @@
+{
+ "categories": [
+  {
+   "key": "what_music_is",
+   "label": "What Music Is",
+   "definition": "His ideas about music itself: what it is, where it came from at the creation, what it does to people and to the planet, and what his own music is built on. The idea is the point, not the occasion or the record.",
+   "includes": [
+    "statements that music is a spiritual language or deeper than notes and chords",
+    "accounts of music's origin in creation, silence and vibration, or in early people listening to nature",
+    "claims about music's power to connect humanity or keep the planet alive",
+    "what his own music as a whole is built on (love, respect, history) and what his approach to playing always is when not tied to solo or trio",
+    "the blues as a musical resource or foundation (its many moods, its place under everything)",
+    "songs carrying eternal messages; the idea that nothing in music is old or new",
+    "what affects how a musician plays on a given day (climate, mood, who you meet)",
+    "great players used as illustrations of a musical idea, such as one note carrying everything"
+   ],
+   "excludes": [
+    "claims that the music comes from Africa or that Africa is its spiritual centre: go to africa_the_source",
+    "the meaning of a particular album title, even when it is cosmological: go to records_and_compositions",
+    "Gnawa instruments, rituals and masters, even when described as spiritual: go to morocco_and_the_gnawa",
+    "the blues as the survival language of his people or learned from slavery's sites: go to ancestors_and_destiny",
+    "solo versus trio versus orchestra: go to at_the_piano"
+   ],
+   "expected": 15
+  },
+  {
+   "key": "africa_the_source",
+   "label": "Africa the Source",
+   "definition": "Africa as the origin and spiritual centre of the music and of humanity: the continent, its ancient civilisations, its traditional music, and the music African peoples created wherever they were taken.",
+   "includes": [
+    "claims that jazz, blues, samba, reggae and the rest are Africa's contribution to the world",
+    "Africa as the centre of spirituality or the centre of gravity of the human race",
+    "African traditional music describing the continent, being in tune with nature, swinging",
+    "ancient Egypt or other ancient African civilisation as the root of a concept of music",
+    "African peoples everywhere creating a spiritual music whatever their religion",
+    "the great jazz masters' work framed as a royal lineage going back to Africa"
+   ],
+   "excludes": [
+    "what the ancestors suffered, the debt owed them, or their spirits' guidance: go to ancestors_and_destiny",
+    "the Gnawa specifically, or kinship with them: go to morocco_and_the_gnawa",
+    "his father teaching him African history at home: go to family_and_brooklyn",
+    "how he chooses to travel in Africa or elsewhere: go to on_the_road"
+   ],
+   "expected": 9
+  },
+  {
+   "key": "ancestors_and_destiny",
+   "label": "Ancestors and Destiny",
+   "definition": "The forebears who survived the crossing and slavery, what he owes them, and his sense that their spirits and the creator have guided his life, including the honours that came to him late.",
+   "includes": [
+    "the Atlantic crossing, slavery, the cotton field and the quota, segregation as the ancestors lived it",
+    "the blues as the language by which his people survived, or as something he only understood at slavery's sites",
+    "gratitude and awe at what the ancestors went through to produce him",
+    "the ancestors as neglected in the music's history, or as still alive",
+    "living in a world of ancestors and spirits who guide him; being born with it and having to go back to find it",
+    "his life as destiny laid out by the creator; being put in a place at a time rather than doing things himself",
+    "his disbelief and wonder at receiving a national honour late in life"
+   ],
+   "excludes": [
+    "the moment the spirit moved him to propose, and the wedding: go to his_marriage",
+    "a healer or ceremony on a concert trip: go to on_the_road",
+    "lines defining what music is, even through the ancestors' example: go to what_music_is",
+    "his parents' own struggle and how they kept the family loving: go to family_and_brooklyn",
+    "the hardships of the named jazz musicians of earlier generations: go to the_masters",
+    "a record made to honour the ancestors: go to records_and_compositions"
+   ],
+   "expected": 12
+  },
+  {
+   "key": "family_and_brooklyn",
+   "label": "Family and Brooklyn",
+   "definition": "His parents, his sister and the Brooklyn household he grew up in: what they taught him, how they lived, and his sister's death and funeral.",
+   "includes": [
+    "his father's teaching about Africa, the maps and books in the house, and being told he was an African born in America",
+    "being made to take piano lessons, and his mother's black church every Sunday",
+    "growing up poor but loved; watching his parents struggle against the colour line",
+    "what Mom and Pop said that is only understood later",
+    "his sister: her character, her death, the church, the cemetery on the day of the towers",
+    "asides and apologies that close a turn about his family"
+   ],
+   "excludes": [
+    "his wife and their marriage: go to his_marriage",
+    "New York as the place where all the giants came: go to the_masters",
+    "lines whose subject is the ancestors in general rather than his own parents: go to ancestors_and_destiny",
+    "the Japan trip that followed his sister's death, once the line is about Japan: go to on_the_road"
+   ],
+   "expected": 14
+  },
+  {
+   "key": "the_masters",
+   "label": "The Masters",
+   "definition": "The great musicians of the generations before him as he knew them: his idols, the ones he met and touched, what they did and endured, and the baton they passed to him.",
+   "includes": [
+    "his teenage idolising of a particular player or record",
+    "shaking hands with, sitting before, or having human or spiritual contact with the great players",
+    "anecdotes of him watching or wondering about a master's habits",
+    "the earlier musicians writing for their families and community",
+    "the hardships the named earlier musicians went through and how little is known of them",
+    "the baton passed down to him and his duty to honour them",
+    "New York as a blessing because the giants all came there"
+   ],
+   "excludes": [
+    "masters named only to illustrate a musical idea: go to what_music_is",
+    "masters named only to say their work goes back to Africa: go to africa_the_source",
+    "his own timidity at the piano because he grew up among the greats: go to at_the_piano",
+    "a solo tribute he played: go to at_the_piano",
+    "the arranger and players he worked with on his own records and tours: go to records_and_compositions or morocco_and_the_gnawa"
+   ],
+   "expected": 9
+  },
+  {
+   "key": "at_the_piano",
+   "label": "At the Piano",
+   "definition": "His own instrument and how he plays it: solo, trio and orchestra, how he came to play solo, his reluctance about it, and pianos he has loved.",
+   "includes": [
+    "how he approaches solo, trio and orchestral playing, and the freedom of each",
+    "his working trio's rapport",
+    "how and where his solo playing began, and audiences asking for it",
+    "a label wanting a solo record and his arguing for a trio",
+    "his timidity or reluctance, having grown up among the great pianists",
+    "a particular piano he loves, wherever it was"
+   ],
+   "excludes": [
+    "a concert story where the piano is only the setting: go to on_the_road",
+    "the meaning or making of a specific album other than the solo-or-trio question: go to records_and_compositions",
+    "his childhood piano lessons: go to family_and_brooklyn",
+    "the teacher who gave up on him, when told as wonder at a late honour: go to ancestors_and_destiny"
+   ],
+   "expected": 11
+  },
+  {
+   "key": "records_and_compositions",
+   "label": "Records and Compositions",
+   "definition": "The albums of these years and the pieces on them: what the titles mean, why each was made, where and why he composed, and how the music was arranged and recorded, including his partnership with his arranger.",
+   "includes": [
+    "what an album or piece title means and the idea behind it",
+    "the book, museum visit or argument that inspired a record, including his case against machines and for human contact",
+    "where he wrote his works and what moved him to write them",
+    "the label and its head who made the records possible",
+    "his arranger's illness, his push to get her working again, her genius and spirit, and how they worked at a distance",
+    "an arrangement arriving on the day and being played unrehearsed"
+   ],
+   "excludes": [
+    "a general statement about music developed beyond any title: go to what_music_is",
+    "lines about his father or mother said while explaining a record: go to family_and_brooklyn",
+    "the solo-or-trio question for a record: go to at_the_piano",
+    "live festivals, residencies and concerts: go to on_the_road, or to morocco_and_the_gnawa if in Morocco or with Gnawa"
+   ],
+   "expected": 20
+  },
+  {
+   "key": "morocco_and_the_gnawa",
+   "label": "Morocco and the Gnawa",
+   "definition": "Morocco, its peoples, and the Gnawa musicians: who they are, their instruments and spiritual practice, what playing with them taught him, and his Moroccan ventures from the Tangier festival to the trip up the mountain.",
+   "includes": [
+    "who the Gnawa are and how they came to Morocco",
+    "his first contacts with the Gnawa and the old masters he met",
+    "the Gnawa instrument: its names, tuning, its power to call spirits, the intensity of one note",
+    "playing with the Gnawa as going to a spiritual school; kinship with them",
+    "concerts with Gnawa musicians wherever they took place, including a church in Brooklyn or an English cathedral",
+    "the Tangier festival, his club there and bringing American music to young Moroccans",
+    "the band's journey to a mountain village and Morocco's variety of peoples"
+   ],
+   "excludes": [
+    "general claims about Africa or African music made in the same conversation: go to africa_the_source",
+    "general claims about music's power to connect humanity drawn from such a concert: go to what_music_is",
+    "the shared survival of slavery, when that is the point: go to ancestors_and_destiny"
+   ],
+   "expected": 16
+  },
+  {
+   "key": "on_the_road",
+   "label": "On the Road",
+   "definition": "Concerts and travels outside Morocco and apart from his marriage: festivals and residencies, Japan and its shrine, an English cathedral, a library opening in Egypt, and how he moves among people when he travels.",
+   "includes": [
+    "residencies and festival appearances as occasions",
+    "the Japan shrine story: the healer, the ceremony, the shoes, the listener who could not move",
+    "concerts in Japan and Japanese audiences",
+    "the English cathedral and the Egyptian library opening as occasions, including their incidents",
+    "how he travels: seeking traditional people, music and food as the keys to a place"
+   ],
+   "excludes": [
+    "anything with the Gnawa or in Morocco: go to morocco_and_the_gnawa",
+    "the Egypt trip with his future wife: go to his_marriage",
+    "a piano he loved, even if met on the road: go to at_the_piano",
+    "seeing slavery's sites in the American South, when the point is the ancestors: go to ancestors_and_destiny"
+   ],
+   "expected": 12
+  },
+  {
+   "key": "his_marriage",
+   "label": "His Marriage",
+   "definition": "How he met and married his wife: her shop in Paris, the trip to Egypt they took together, the sudden proposal, the Nubian wedding and its aftermath.",
+   "includes": [
+    "who his wife is and how he finally walked into her shop",
+    "the Egypt trip with her: the Sufi gathering, the drive south, the hotel",
+    "the moment the spirit moved him to propose, and its explanation",
+    "the Nubian village wedding and telling her father",
+    "his jokes about keeping the marriage story short"
+   ],
+   "excludes": [
+    "general statements that he lives among ancestors and spirits, even said on that trip: go to ancestors_and_destiny",
+    "the library opening in Alexandria: go to on_the_road",
+    "his parents and sister: go to family_and_brooklyn"
+   ],
+   "expected": 11
+  }
+ ],
+ "order_rationale": "The page opens with his ideas, because they are what he returns to throughout: what music is, then its source in Africa, then the ancestors and the sense of destiny that bind him to that source. It then turns to where he came from (his family and Brooklyn) and who formed him (the masters), then to his own instrument and the records of these years. It ends with the stories of the decade: Morocco and the Gnawa, the other journeys, and the marriage, which is the last story he tells and a natural close.",
+ "boundary_rules": [
+  "what_music_is vs africa_the_source: if the line says what music is or does, it goes to what_music_is; if its claim is that the music or its spirituality comes from Africa, or describes Africa, its ancient civilisations or African peoples' music, it goes to africa_the_source.",
+  "what_music_is vs ancestors_and_destiny: a line that defines music goes to what_music_is even when the definition rests on what the ancestors endured; a line about the ancestors themselves, their suffering or his debt goes to ancestors_and_destiny.",
+  "The blues: the blues as a musical form, foundation or mood goes to what_music_is; the blues as the survival language of his people, or as understood only at slavery's sites, goes to ancestors_and_destiny; blues played in Tangier goes to morocco_and_the_gnawa.",
+  "africa_the_source vs ancestors_and_destiny: a line about the continent, its civilisations, its music, or what African peoples created goes to africa_the_source; a line about what the forebears endured, their spirits, or his own destiny goes to ancestors_and_destiny. When a line lists sufferings and ends on what was created as Africa's contribution, the contribution decides: africa_the_source.",
+  "africa_the_source vs morocco_and_the_gnawa: Gnawa-specific lines, including kinship with the Gnawa, go to morocco_and_the_gnawa; general statements about Africa said in the Gnawa conversation go to africa_the_source.",
+  "ancestors_and_destiny vs morocco_and_the_gnawa: when a line compares the survival of his ancestors with the Gnawa's, survival is the subject: ancestors_and_destiny.",
+  "ancestors_and_destiny vs family_and_brooklyn: his own parents, sister and household go to family_and_brooklyn even when the father taught him about Africa or the ancestors; the forebears in general go to ancestors_and_destiny.",
+  "ancestors_and_destiny vs his_marriage: lines that narrate the proposal or wedding, including the spirit moving him and the closing remark that the spirits guided it, go to his_marriage; a general statement that he lives among guiding spirits goes to ancestors_and_destiny even when said on that trip.",
+  "ancestors_and_destiny vs on_the_road: a spiritual event on a concert trip (a healer, a ceremony) goes to on_the_road; a visit to slavery's sites where the point is what the ancestors bore goes to ancestors_and_destiny.",
+  "ancestors_and_destiny vs at_the_piano and the_masters: reactions to his national honour, including the teacher who gave up on him and his disbelief, go to ancestors_and_destiny; the baton passed by a master goes to the_masters.",
+  "ancestors_and_destiny vs the_masters: when the people who endured are named or are the jazz musicians of earlier generations he met, the_masters; when they are the enslaved forebears, ancestors_and_destiny.",
+  "what_music_is vs the_masters: masters cited to illustrate a musical idea go to what_music_is; his own encounter with, idolising of, or wondering about a master goes to the_masters.",
+  "africa_the_source vs the_masters: masters named only to say their work is a royalty going back to Africa go to africa_the_source.",
+  "the_masters vs at_the_piano: his own timidity or reluctance at solo piano because he grew up among the great pianists goes to at_the_piano; the masters themselves go to the_masters. A solo tribute he played goes to at_the_piano.",
+  "the_masters vs family_and_brooklyn: a line that starts from his parents and extends the question to musicians goes to family_and_brooklyn; New York as the city where the giants came goes to the_masters.",
+  "family_and_brooklyn vs at_the_piano: being made to take lessons as a boy goes to family_and_brooklyn.",
+  "family_and_brooklyn vs on_the_road: his sister's death goes to family_and_brooklyn; once the line is about the Japan invitation or trip it goes to on_the_road.",
+  "family_and_brooklyn vs records_and_compositions: what his parents said or did goes to family_and_brooklyn even when said while explaining a record; the family meaning of an album title goes to records_and_compositions.",
+  "records_and_compositions vs what_music_is: a line that explains a title or why a record was made goes to records_and_compositions, even when the explanation is cosmological or about machines and human contact; a line that carries the idea on without reference to the record goes to what_music_is.",
+  "records_and_compositions vs at_the_piano: the solo-or-trio question, including a label's request for a solo album, goes to at_the_piano; any other account of an album goes to records_and_compositions.",
+  "records_and_compositions vs the_masters: the earlier masters' own compositions go to the_masters; his arranger and the players on his records go to records_and_compositions.",
+  "records_and_compositions vs on_the_road: recordings, composing places and record inspirations (a museum visit, summers where he wrote) go to records_and_compositions; live festivals, residencies and concerts go to on_the_road.",
+  "records_and_compositions vs ancestors_and_destiny: a record made to honour the ancestors goes to records_and_compositions; the ancestors being ignored in history, as a claim, goes to ancestors_and_destiny.",
+  "morocco_and_the_gnawa vs on_the_road: anything in Morocco or performed with Gnawa musicians, wherever it took place, goes to morocco_and_the_gnawa; other occasions abroad go to on_the_road, including the cathedral's setting and atmosphere when the Gnawa instrument is not the point.",
+  "morocco_and_the_gnawa vs what_music_is: the Gnawa's instruments, rituals and teaching go to morocco_and_the_gnawa even when spiritual; a general conclusion about music connecting humanity goes to what_music_is; the account of who attended a Gnawa concert goes to morocco_and_the_gnawa.",
+  "morocco_and_the_gnawa vs records_and_compositions and the band: the band's adventures on the Moroccan trip go to morocco_and_the_gnawa.",
+  "on_the_road vs at_the_piano: a piano he loved goes to at_the_piano; a concert story, including how he built a solo performance from another musician's last note on tour, goes to on_the_road.",
+  "on_the_road vs his_marriage: the Egypt trip he took with his future wife, including the music they heard and the driver, goes to his_marriage; the library opening in Alexandria goes to on_the_road.",
+  "on_the_road vs africa_the_source: how he chooses to travel and meet people (traditional people, music and food) goes to on_the_road; what Africa is goes to africa_the_source.",
+  "his_marriage vs family_and_brooklyn: his wife goes to his_marriage; his parents and sister go to family_and_brooklyn.",
+  "Character lines (jokes about his size, his shoes, a taxi seat, a remark about the interview itself) go to the subject of the story or turn they sit in, never to a separate section."
+ ],
+ "notes": "Categorise the pull quote, not the whole block; use the question and summary only to see what the line is about. The interview covers roughly 1997 to 2009, so most stories are recent; reach-backs to childhood belong to family_and_brooklyn or the_masters. The transcript spells by ear (Robeson, Bolden, Allard and others misspelled); read through it. Ideas are spread across what_music_is, africa_the_source and ancestors_and_destiny and are also allowed in the story sections when they are explanations of a specific record, Gnawa practice or event: decide by what a reader opening the section would expect to find. Use a secondary category sparingly, mainly where a line sits squarely on one of the boundary rules above (masters and Africa; ancestors and Morocco; marriage and ancestors; music and ancestors)."
+}

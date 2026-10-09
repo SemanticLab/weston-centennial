@@ -1,0 +1,97 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "judged_by": "Opus 5.5 (claude-opus-5-5) subagent working to extract/RECOVERED_SPEC.md; whole set in one pass, with the surrounding transcript on both sides of every thread",
+ "source": "blocks recovered by build_answers.py + build_continuations.py that name-matching never captured",
+ "count": 2,
+ "method": "is_about_subject AND notable>=2 AND verbatim pull_quote; ranked by notable, subject_confidence, stance_strength",
+ "items": [
+  {
+   "block_id": 212788,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "source": "continuation",
+   "anchor": {
+    "block_id": 212786,
+    "speaker": null,
+    "text": "lot of times because when you get concerned with the blues scale and all of that, first of all, before you dealt with the blues scale you just find out what the blues is. I never did know whether that was plural or singular. The blues. That doesn’t sound right. You know I really, this is a favorite pastime for me. I love talking about jazz because a lot of the things that you’re bringing up I do feel are missing from jazz now. And unless people will talk about that and put that back in — when I first joined Randy Weston 15 years ago, he said something that impressed me then and made me understand him. He said, “BP,” most people who like me call me BP, he said, “I’m just trying to put the magic back in music.” And boy can he ever do it. He is a spellbinder. Every gig I’ve played with him has been a whole total experience. He has put the magic back in, I’ll tell you. We’re going to do a show for BET next August, the 8th I think. I really hope so. Because for me, I feel I’m extremely fortunate — working with Count Basie’s band, and I’ve had an amazing career, if I do say so myself. Because for one thing, it’s been interesting to me. I’ve really loved every second of it. But after having played with Lionel Hampton, that was my first entrance into it, then Count Basie. I recorded a little with Duke Ellington. Then I did the Merv Griffin Show for ten years. I did Broadway. I just did the whole gamut. So I thought by now, on the graph of things, I’d be at the peak and on the downward side. But amazingly enough, it seems like it just keeps going up. And I’m more amazed than anybody. Because Randy Weston for an instance, he’s just like Count Basie, I can’t say only better. I guess well the difference is Count Basie is dead and he’s alive you know. But still he’s a man who leads by example first of all. And then for me, it’s the greatest platform I’ve ever had just playing with bands. Big bands are nice. You get a little eight bar solo here or a little twelve bar. I think I was known for the bridge I played in “April in Paris” because “April in Paris” became a hit and I had the solo, I don’t know it must be eight bars. In big bands that’s all I got a chance to play sometimes. I knew I was going to get a chance to play that solo. But now with this group, there’s only, for the most part, basically five pieces. Two horns out front. So I get a chance to blow until I’m blue in the face. And a lot of it is music I’ve created myself because when I first joined his band there wasn’t really that much written music. I had to listen to some records and sometimes ask, “What note goes here?” He’d say, “I don’t know, find a pretty one and play it.”"
+   },
+   "speaker": "BP",
+   "speaker_missing": false,
+   "text": "Well he knows what he’s got. He knows he couldn’t say that to anybody you know. So I feel like I am chosen by him and, to make matters better, he pays very well. If he can’t — he performs in all configurations, from solo to symphony. So sometimes, a lot of times he’ll perform with just himself, an alto player Talib Kibwe, and an African percussionist.",
+   "competing_names": [],
+   "pronoun_risk": "low",
+   "is_about_subject": true,
+   "subject_confidence": "high",
+   "actually_about": "",
+   "mention_kind": "substantive_comment",
+   "stance": "positive",
+   "stance_strength": 2,
+   "content_type": [
+    "bandleading",
+    "working_relationship",
+    "character_description"
+   ],
+   "block_is_firsthand": true,
+   "quotes_the_subject": false,
+   "summary": "Powell said Weston knew whom he could trust with loose guidance, that he felt chosen by Weston, and that Weston paid very well and performed in every format from solo to symphony.",
+   "pull_quote": "Well he knows what he’s got. He knows he couldn’t say that to anybody you know. So I feel like I am chosen by him and, to make matters better, he pays very well.",
+   "notable": 2,
+   "notes": "'He' continues the anchor, where Powell quotes Weston's 'find a pretty one and play it'.",
+   "quote_rejected_non_verbatim": false,
+   "judged_by": "opus_subagent",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b8-2",
+   "doc_id": "275854",
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, July 27, 1995 [interview 1 of 2]",
+    "collection": "hamilton",
+    "year": 1995,
+    "interviewee": "Benny Powell",
+    "interviewer": null
+   }
+  },
+  {
+   "block_id": 291883,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "source": "answer",
+   "anchor": {
+    "block_id": 291882,
+    "speaker": "Bryant",
+    "text": "What you come up with is good, all good. How did you meet Randy? Was he playing – was it out here or in New York when you met Randy?"
+   },
+   "speaker": "Liston",
+   "speaker_missing": false,
+   "text": "I was playing with Dizzy – I guess Birdland. I came out and did my usual thing. He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+   "competing_names": [],
+   "pronoun_risk": null,
+   "is_about_subject": true,
+   "subject_confidence": "high",
+   "actually_about": "",
+   "mention_kind": "substantive_comment",
+   "stance": "positive",
+   "stance_strength": 2,
+   "content_type": [
+    "personal_memory",
+    "working_relationship"
+   ],
+   "block_is_firsthand": true,
+   "quotes_the_subject": true,
+   "summary": "Liston recalled that she met Weston while playing with Dizzy Gillespie, probably at Birdland, when he waited after the gig to meet her and they hit it off at once.",
+   "pull_quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+   "notable": 2,
+   "notes": "'He' is Weston (answer to 'How did you meet Randy?'). Liston hedges the venue ('I guess Birdland').",
+   "quote_rejected_non_verbatim": false,
+   "judged_by": "opus_subagent",
+   "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-10",
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee": "Melba Liston",
+    "interviewer": null
+   }
+  }
+ ]
+}

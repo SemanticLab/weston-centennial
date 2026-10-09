@@ -1,0 +1,5948 @@
+{
+ "subject": "weston",
+ "subject_qid": "Q1371187",
+ "subject_name": "Randy Weston",
+ "source": "en.wikipedia.org 'Randy Weston' (Discography section) + album articles that link to him; entities typed against Wikidata",
+ "count": 162,
+ "join_rule": "quote attributed only when the speaker is the interviewee and the document has exactly one QID-bearing interviewee; he_said is joined by QID, else by an exact normalised full-name match",
+ "stats": {
+  "releases": 138,
+  "releases_with_article": 114,
+  "releases_listed_without_article": 24,
+  "from_his_discography_section": 53,
+  "musicbrainz_ids": {
+   "from_wikidata": 55,
+   "by_title_match": 22,
+   "leader_releases_without": [
+    "Ancient Future",
+    "Blues",
+    "Carnival (Randy Weston album)",
+    "Destry Rides Again (Randy Weston album)",
+    "Get Happy with the Randy Weston Trio",
+    "Highlife (Randy Weston album)",
+    "Jazz à la Bohemia",
+    "Live at the Five Spot (Randy Weston album)",
+    "New Faces at Newport",
+    "Niles Littlebig",
+    "Nuit Africa",
+    "Perspective",
+    "Randy (album)",
+    "Sound — Solo Piano",
+    "Spirit! The Power of Music",
+    "The African Nubian Suite",
+    "The Randy Weston Trio",
+    "The Splendid Master Gnawa Musicians of Morocco",
+    "With These Hands...",
+    "Zep Tepi"
+   ]
+  },
+  "records_he_discussed_in_his_interview": 12,
+  "records_he_discussed_not_in_this_discography": [
+   "1985 Montreal Jazz Festival performance (untitled)",
+   "Recordings of the old Gnawa, Tangier",
+   "Tribute to Duke Ellington (solo piano, 1974)"
+  ],
+  "found_only_by_backlink": 85,
+  "backlinked_releases_rejected_no_credit": 587,
+  "releases_where_he_is_only_mentioned": [
+   "Havin' a Ball at the Village Gate",
+   "Points (album)"
+  ],
+  "by_kind": {
+   "album": 90,
+   "live": 24,
+   "studio": 19,
+   "single": 2,
+   "compilation": 2,
+   "film": 1
+  },
+  "by_subject_role": {
+   "leader": 51,
+   "composer": 83,
+   "sideman": 2,
+   "sampled": 1,
+   "appears_on_screen": 1
+  },
+  "credit_found_in": {
+   "personnel": 29,
+   "tracks": 82,
+   "prose": 3,
+   "his_discography_list_only": 24
+  },
+  "credited_as_arranger_or_conductor": 1,
+  "credited_as_composer": 90,
+  "his_tunes_on_others_records": {
+   "tunes": 27,
+   "recordings": 87,
+   "top": [
+    [
+     "Hi-Fly",
+     34
+    ],
+    [
+     "Little Niles",
+     12
+    ],
+    [
+     "Saucer Eyes",
+     5
+    ],
+    [
+     "Babe's Blues",
+     4
+    ],
+    [
+     "Pretty Strange",
+     4
+    ],
+    [
+     "African Lady",
+     2
+    ],
+    [
+     "Beef Stew Blues",
+     2
+    ],
+    [
+     "Berkshire Blues",
+     2
+    ],
+    [
+     "Cry Me Not",
+     2
+    ],
+    [
+     "Ego",
+     2
+    ]
+   ]
+  },
+  "credits_needing_review": [],
+  "unlinked_bullets_merged_into_articles": 0,
+  "credited_as_player": 29,
+  "credited_as_both": 1,
+  "total_credits": 952,
+  "roster_size": 162,
+  "roster_with_qid": 129,
+  "roster_interviewed_in_corpus": 29,
+  "roster_who_spoke_about_subject": 5,
+  "musicians_who_played_and_spoke": 4,
+  "critics_producers_who_were_credited_and_spoke": 1,
+  "critics_producers_named": [
+   "Orrin Keepnews"
+  ],
+  "his_words_available": true,
+  "roster_he_spoke_of": 27,
+  "roster_both_directions": 2,
+  "roster_both_directions_named": [
+   "Benny Powell",
+   "Melba Liston"
+  ],
+  "quote_blocks_from_credited_people": 40,
+  "quote_blocks_from_musicians": 37,
+  "attribution_methods": {
+   "qid": 40
+  },
+  "unattributed_quote_blocks": {
+   "interviewee_not_on_roster_or_ambiguous": 28
+  }
+ },
+ "people": [
+  {
+   "person_key": "Q274146",
+   "qid": "Q274146",
+   "name": "Melba Liston",
+   "identified_via": "wikilink",
+   "description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+   "wikipedia": "Melba Liston",
+   "birth": "1926-01-13",
+   "death": "1999-04-23",
+   "image": "Melba Liston.jpg",
+   "name_variants": [
+    "Melba Liston"
+   ],
+   "instruments": [
+    "arranger",
+    "conductor",
+    "trombone"
+   ],
+   "album_count": 8,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)",
+    "Highlife (Randy Weston album)",
+    "Little Niles",
+    "Live at the Five Spot (Randy Weston album)",
+    "Tanjah (album)",
+    "The Spirits of Our Ancestors",
+    "Uhuru Afrika",
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "matched_via": "qid",
+     "label": "Melba Liston",
+     "title": "Melba Liston — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": true,
+   "blocks_about_subject": 17,
+   "quotes": [
+    {
+     "block_id": 291800,
+     "quote": "I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+     "stance": "positive",
+     "notable": 3,
+     "summary": "Liston said she had written for Weston until her stroke and was writing for him again, that he helped pull her out of it, and thanked him for sticking with her when nobody else did.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-4"
+    },
+    {
+     "block_id": 291863,
+     "quote": "Randy, I have all the freedom I want.",
+     "stance": "positive",
+     "notable": 3,
+     "summary": "Liston said that, unlike clients who dictated what they wanted, Weston gave her all the freedom she wanted as his arranger.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-3"
+    },
+    {
+     "block_id": 291675,
+     "quote": "Then I met Randy [Weston] when I was playing with Dizzy, and he said he wanted me to copy or something for him.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Liston recalled meeting Weston while she was playing with Dizzy Gillespie, when he asked her to copy music for him, which turned into her writing for him.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-15"
+    },
+    {
+     "block_id": 291901,
+     "quote": "Randy pulled me out of the stroke, so I have to go with him.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Liston said that in planning her return to New York she put Weston first, because he had pulled her out of the stroke.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-14"
+    },
+    {
+     "block_id": 292154,
+     "quote": "Randy likes Thelonious much.",
+     "stance": "neutral",
+     "notable": 2,
+     "summary": "After Bryant heard a Monk flavour in Little Niles, Liston said Weston was very fond of Thelonious Monk.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b46-8"
+    },
+    {
+     "block_id": 292188,
+     "quote": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Liston said that Weston told her only how many choruses he would take and where the violins came in, leaving everything else to her.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b48-9"
+    },
+    {
+     "block_id": 292357,
+     "quote": "Yeah, but I think Randy pushed me along.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Asked about relearning everything after her stroke, Liston said she thought Weston pushed her along.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b59-16"
+    },
+    {
+     "block_id": 292361,
+     "quote": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Liston said Weston helped her start writing again after her stroke, though she was not yet writing as fast as before.",
+     "source": "mention",
+     "doc_id": "Liston_Melba_Interview_Transcription",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b60-2"
+    }
+   ],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "arranger"
+    ],
+    "summary": "Weston said only Melba Liston could arrange “Spirit of Our Ancestors”, told how he goaded her back to work after her stroke — she learned to write music on a computer with her left hand — and recalled her arrangements arriving from a California hospital in time for the 1959 Five Spot date and the 1985 Montreal concert.",
+    "one_liner": "his arranger; wrote left-handed after her stroke",
+    "his_quote": "I went to see her, and I insulted her as only musicians can do. I called her all kinds of names. I said to her, “You have to do these arrangements stroke or no stroke, handicap or no handicap,” you know? She cried a little bit, you know?",
+    "his_quote_block_id": 305794,
+    "interviewer_quote": null,
+    "instrument_or_role": "arranger; trombone",
+    "name_in_interview": "Melba Liston",
+    "notable": 3,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2"
+   }
+  },
+  {
+   "person_key": "Q599429",
+   "qid": "Q599429",
+   "name": "Benny Powell",
+   "identified_via": "wikilink",
+   "description": "American jazz trombonist (1930–2010)",
+   "wikipedia": "Benny Powell",
+   "birth": "1930-03-01",
+   "death": "2010-06-26",
+   "image": "Count Basie and His Orchestra performs in Helsinki 1962 (JOKAHBL3E C04-11).tif",
+   "name_variants": [
+    "Benny Powell"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 2,
+   "albums": [
+    "The Spirits of Our Ancestors",
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275854",
+     "matched_via": "qid",
+     "label": "Benny Powell",
+     "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, July 27, 1995 [interview 1 of 2]",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "275855",
+     "matched_via": "qid",
+     "label": "Benny Powell",
+     "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": true,
+   "blocks_about_subject": 17,
+   "quotes": [
+    {
+     "block_id": 212786,
+     "quote": "He said, “BP,” most people who like me call me BP, he said, “I’m just trying to put the magic back in music.” And boy can he ever do it. He is a spellbinder.",
+     "stance": "positive",
+     "notable": 3,
+     "summary": "Powell said that when he joined Weston fifteen years earlier, Weston told him he was 'just trying to put the magic back in music', called him a spellbinder who leads by example like Count Basie, and said Weston gave him room to create his own parts.",
+     "source": "mention",
+     "doc_id": "275854",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b8-0"
+    },
+    {
+     "block_id": 212842,
+     "quote": "I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down.",
+     "stance": "positive",
+     "notable": 3,
+     "summary": "Powell called Weston the greatest pianist in the world and said it was a joy to work with him, because every time he sat down at the piano it sounded like a concerto.",
+     "source": "mention",
+     "doc_id": "275855",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-4"
+    },
+    {
+     "block_id": 212864,
+     "quote": "One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.” But he’s just a wonderful — I can’t sing his praises enough.",
+     "stance": "positive",
+     "notable": 3,
+     "summary": "Powell told how Weston arranged dialysis for him three times a week on European tours, had the back of the tour bus made into a bed for him, and offered to carry the trombonist's bags, which made Powell call him an example of an employer who understands an employee's problems.",
+     "source": "mention",
+     "doc_id": "275855",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b8-0"
+    },
+    {
+     "block_id": 212764,
+     "quote": "I’ve been playing with Randy Weston for about the last 15 years, and it’s really been glorious what I’ve been through.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Powell recalled going to Morocco with Weston about seven years earlier to film his return there, said fifteen years in his band had been glorious, and told how Weston's father had told him he was an African born in America.",
+     "source": "mention",
+     "doc_id": "275854",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b4-0"
+    },
+    {
+     "block_id": 212844,
+     "quote": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Powell agreed that Weston was exceptionally spiritual, called him the most scholarly person he knew, and said Weston and his bandmates spent their days off researching in libraries.",
+     "source": "mention",
+     "doc_id": "275855",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-6"
+    },
+    {
+     "block_id": 212846,
+     "quote": "For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Powell called Weston's communication skills magnificent and told how, flying back from Jamaica, Weston charmed a ticket agent into putting a load of percussion on his first-class ticket while telling the band how pretty she was.",
+     "source": "mention",
+     "doc_id": "275855",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b6-0"
+    },
+    {
+     "block_id": 212849,
+     "quote": "way, he’s like Duke Ellington. He can meld anything because I think, well I don’t know, he has just the most beautiful organizational sense.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Powell compared Weston to Duke Ellington, saying he could meld anything thanks to his beautiful organizational sense, so that within minutes of starting with Moroccan musicians the band sounded as if they had worked together for years.",
+     "source": "mention",
+     "doc_id": "275855",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-0"
+    },
+    {
+     "block_id": 212863,
+     "quote": "She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Powell said Melba Liston and Weston were very close, that Weston looked out for her, and called him a wonderful human being, which leads into his dialysis story.",
+     "source": "mention",
+     "doc_id": "275855",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-14"
+    }
+   ],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named Powell in his band on “Saga”, “Khepera”, Montreal, the Brooklyn church concert and St. Lucia, and recalled him crying “We have adventure!” as the sextet rode donkeys up to Jajouka — echoing the line Jenkins quoted from Powell, his trombonist of many years.",
+    "one_liner": "trombonist; cried “we have adventure!” on the donkeys",
+    "his_quote": "Benny said, “We have adventure! We have adventure!”",
+    "his_quote_block_id": 305851,
+    "interviewer_quote": null,
+    "instrument_or_role": "trombone",
+    "name_in_interview": "Benny Powell",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b13-3"
+   }
+  },
+  {
+   "person_key": "Q352028",
+   "qid": "Q352028",
+   "name": "Orrin Keepnews",
+   "identified_via": "wikilink",
+   "description": "American record producer (1923–2015)",
+   "wikipedia": "Orrin Keepnews",
+   "birth": "1923-03-02",
+   "death": "2015-03-01",
+   "image": null,
+   "name_variants": [
+    "Orrin Keepnews"
+   ],
+   "instruments": [
+    "liner notes",
+    "producer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Jazz à la Bohemia"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275810",
+     "matched_via": "qid",
+     "label": "Orrin Keepnews",
+     "title": "Orrin Keepnews interviewed by Monk Rowe, San Francisco, California, August 7, 2002",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "Keepnews_Orrin_Transcript",
+     "matched_via": "qid",
+     "label": "Orrin Keepnews",
+     "title": "Orrin Keepnews — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": true,
+   "blocks_about_subject": 3,
+   "quotes": [
+    {
+     "block_id": 285791,
+     "quote": "We had some recent albums on the wall, including a couple of Randy Weston. I had, no, I look around and saw that Miles was looking at these things and I was…and he said, “Oh, Randy! I’m glad somebody got around to recording him. It should have been done along time ago,” and I said, “Well if you feel that way about Randy, why didn’t you recommend him to your label?”",
+     "stance": "positive",
+     "notable": 3,
+     "summary": "Keepnews recalled Miles Davis seeing Weston's Riverside albums on his office wall and saying he was glad somebody had finally recorded him, then refusing with scorn to recommend anyone to his own label boss, Bob Weinstock.",
+     "source": "mention",
+     "doc_id": "Keepnews_Orrin_Transcript",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Keepnews_Orrin_Transcript#b16-0"
+    },
+    {
+     "block_id": 191368,
+     "quote": "But we weren’t a hundred percent sure, and it was another number that got tremendous reaction, this was the first recording as far as I know of Randy Weston’s “High Fly” which of course has become quite a classic in its own right, and so we put that as the first number on the B side, as a back-up.",
+     "stance": "positive",
+     "notable": 2,
+     "summary": "Keepnews said Cannonball Adderley's live album held what he believed was the first recording of Weston's 'Hi-Fly', by then a classic, and that Cannonball introduced it by calling Weston the waltz king of jazz.",
+     "source": "mention",
+     "doc_id": "275810",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810#b20-4"
+    },
+    {
+     "block_id": 191290,
+     "quote": "before I got involved with Thelonious I had been in the studio with people like Randy Weston, Mundell Lowe, Billy Taylor, you know all pussycats.",
+     "stance": "positive",
+     "notable": 1,
+     "summary": "Keepnews named Weston among the easygoing artists ('all pussycats') he had recorded before the formidable Thelonious Monk.",
+     "source": "mention",
+     "doc_id": "275810",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810#b2-0"
+    }
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q721330",
+   "qid": "Q721330",
+   "name": "Hubert Laws",
+   "identified_via": "wikilink",
+   "description": "American flutist and saxophonist",
+   "wikipedia": "Hubert Laws",
+   "birth": "1939-11-10",
+   "death": null,
+   "image": "Hubert Laws.jpg",
+   "name_variants": [
+    "Hubert Laws"
+   ],
+   "instruments": [
+    "alto flute",
+    "bass flute",
+    "flute",
+    "piccolo"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Laws_Hubert_Transcript",
+     "matched_via": "qid",
+     "label": "Hubert Laws",
+     "title": "Hubert Laws — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": true,
+   "blocks_about_subject": 2,
+   "quotes": [
+    {
+     "block_id": 288041,
+     "quote": "First time I went to Africa was because of Randy Weston.",
+     "stance": "neutral",
+     "notable": 2,
+     "summary": "Laws said his first trip to Africa came about because of Weston.",
+     "source": "mention",
+     "doc_id": "Laws_Hubert_Transcript",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-4"
+    },
+    {
+     "block_id": 288043,
+     "quote": "Randy Weston, I think he – I don’t know if he lived there.",
+     "stance": "neutral",
+     "notable": 1,
+     "summary": "Laws described playing in Tangier with other CTI artists and hearing Moroccan flute players, and was unsure whether Weston lived there.",
+     "source": "mention",
+     "doc_id": "Laws_Hubert_Transcript",
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-6"
+    }
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q434593",
+   "qid": "Q434593",
+   "name": "Ron Carter",
+   "identified_via": "wikilink",
+   "description": "American jazz bassist, cellist, and composer (born 1937)",
+   "wikipedia": "Ron Carter",
+   "birth": "1937-05-04",
+   "death": null,
+   "image": "Ron plays.JPG",
+   "name_variants": [
+    "Ron Carter"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Blue Moses (album)",
+    "Tanjah (album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275752",
+     "matched_via": "qid",
+     "label": "Ron Carter",
+     "title": "Ron Carter interviewed by Monk Rowe, New York City, New York, January 17, 1999",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "Ron-Carter-Transcription-2020_0",
+     "matched_via": "qid",
+     "label": "Ron Carter",
+     "title": "Ron Carter — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": true,
+   "blocks_about_subject": 1,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q401088",
+   "qid": "Q401088",
+   "name": "Ahmed Abdul-Malik",
+   "identified_via": "wikilink",
+   "description": "bassist (1927–1993)",
+   "wikipedia": "Ahmed Abdul-Malik",
+   "birth": "1927-01-30",
+   "death": "1993-10-02",
+   "image": null,
+   "name_variants": [
+    "Ahmed Abdul-Malik"
+   ],
+   "instruments": [
+    "bass",
+    "narrator",
+    "oud"
+   ],
+   "album_count": 4,
+   "albums": [
+    "Jazz à la Bohemia",
+    "Tanjah (album)",
+    "The Modern Art of Jazz by Randy Weston",
+    "With These Hands..."
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named Abdul-Malik on oud in his 1974 European touring group and among the musicians at the festival he organised in Tangier in 1972.",
+    "one_liner": "played oud on his 1974 european tour",
+    "his_quote": "I had Ahmed Abdul- Malik on the oud; I had William Allen on bass, myself at the piano, Steve Berrios on percussion cause my son couldn’t make it. We toured, the first time, to play Europe.",
+    "his_quote_block_id": 305820,
+    "interviewer_quote": null,
+    "instrument_or_role": "oud",
+    "name_in_interview": "Ahmed Abdul- Malik",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b8-2"
+   }
+  },
+  {
+   "person_key": "Q354026",
+   "qid": "Q354026",
+   "name": "Jamil Nasser",
+   "identified_via": "wikilink",
+   "description": "American bassist (1932–2010)",
+   "wikipedia": "Jamil Nasser",
+   "birth": "1932-06-21",
+   "death": "2010-02-13",
+   "image": null,
+   "name_variants": [
+    "George Joyner",
+    "Jamil Nasser"
+   ],
+   "instruments": [
+    "bass",
+    "double bass"
+   ],
+   "album_count": 4,
+   "albums": [
+    "Little Niles",
+    "New Faces at Newport",
+    "The Spirits of Our Ancestors",
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman",
+     "guest_or_one_off"
+    ],
+    "summary": "Weston named him as the bassist in his quartet for the “Three African Queens” performance with the Boston Pops.",
+    "one_liner": "bass for three african queens, boston pops",
+    "his_quote": "With me, I had Idrees Sulieman on trumpet; I had Frank Gap on drums, Jamie Onaso on bass, and myself on piano.",
+    "his_quote_block_id": 305786,
+    "interviewer_quote": null,
+    "instrument_or_role": "bass",
+    "name_in_interview": "Jamie Onaso",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-1"
+   }
+  },
+  {
+   "person_key": "Q107637949",
+   "qid": "Q107637949",
+   "name": "Sam Gill",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Sam Gill"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 4,
+   "albums": [
+    "Cole Porter in a Modern Mood",
+    "Get Happy with the Randy Weston Trio",
+    "The Randy Weston Trio",
+    "Trio and Solo"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston said Riverside wanted his first record to be solo piano, he wanted a trio, and they compromised on a duo with Sam Gill on bass for the Cole Porter album.",
+    "one_liner": "bass on his first record, cole porter, 1954",
+    "his_quote": "Finally, we compromised with myself and Sam Gill on bass. So, my first recording of Cole Porter was piano and bass, but they wanted me to do solo piano.",
+    "his_quote_block_id": 305846,
+    "interviewer_quote": null,
+    "instrument_or_role": "bass",
+    "name_in_interview": "Sam Gill",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b12-3"
+   }
+  },
+  {
+   "person_key": "Q863114",
+   "qid": "Q863114",
+   "name": "Billy Harper",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "Billy Harper",
+   "birth": "1943-01-17",
+   "death": null,
+   "image": "Billy Harper photo 2.jpg",
+   "name_variants": [
+    "Billy Harper"
+   ],
+   "instruments": [
+    "flute",
+    "tenor sax",
+    "tenor saxophone"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Carnival (Randy Weston album)",
+    "Tanjah (album)",
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named Harper on “Saga”, the jazz night at Montreal in 1997 and the 1972 Tangier festival, and recalled that on the trip to Jajouka he was the only one who stayed cool because, being from Texas, he could ride donkeys.",
+    "one_liner": "from texas, could ride donkeys to jajouka",
+    "his_quote": "Billy Harper was the only one that was cool, because Billy, being from Texas, he knew how to ride horses and donkeys.",
+    "his_quote_block_id": 305851,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Billy Harper",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b13-3"
+   }
+  },
+  {
+   "person_key": "Q49575",
+   "qid": "Q49575",
+   "name": "Dizzy Gillespie",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter (1917–1993)",
+   "wikipedia": "Dizzy Gillespie",
+   "birth": "1917-10-21",
+   "death": "1993-01-06",
+   "image": "Dizzy Gillespie playing horn 1955.jpg",
+   "name_variants": [
+    "Dizzy Gillespie"
+   ],
+   "instruments": [
+    "trumpet",
+    "vocals"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Charles Mingus and Friends in Concert",
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "influenced by",
+    "direction": "other_leads",
+    "basis": "his_statement",
+    "tie": [
+     "idol"
+    ],
+    "summary": "Weston named Gillespie among the masters he had 'spiritual contact' with and whose hands he touched, and in the baton-passing image of jazz tradition.",
+    "one_liner": "a master whose hand he touched",
+    "his_quote": "I had the spiritual contact with Count Basie, or Coleman Hawkins, or Dizzy Gillespie. I saw them, I touched their hands, you see?",
+    "his_quote_block_id": 305816,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Dizzy Gillespie",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b7-2"
+   }
+  },
+  {
+   "person_key": "Q1656883",
+   "qid": "Q1656883",
+   "name": "Idrees Sulieman",
+   "identified_via": "wikilink",
+   "description": "American musician (1923-2002)",
+   "wikipedia": "Idrees Sulieman",
+   "birth": "1923-08-27",
+   "death": "2002-07-23",
+   "image": null,
+   "name_variants": [
+    "Idrees Sulieman"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Little Niles",
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman",
+     "guest_or_one_off"
+    ],
+    "summary": "Weston named Sulieman as the trumpeter in his quartet for the “Three African Queens” performance with the Boston Pops.",
+    "one_liner": "trumpet for three african queens, boston pops",
+    "his_quote": "With me, I had Idrees Sulieman on trumpet; I had Frank Gap on drums, Jamie Onaso on bass, and myself on piano.",
+    "his_quote_block_id": 305786,
+    "interviewer_quote": null,
+    "instrument_or_role": "trumpet",
+    "name_in_interview": "Idrees Sulieman",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-1"
+   }
+  },
+  {
+   "person_key": "Q2390289",
+   "qid": "Q2390289",
+   "name": "T. K. Blue",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "T. K. Blue",
+   "birth": "1953-01-01",
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Talib Kibwe"
+   ],
+   "instruments": [
+    "alt sax",
+    "alto saxophone",
+    "flute",
+    "musical director"
+   ],
+   "album_count": 2,
+   "albums": [
+    "The Spirits of Our Ancestors",
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named TK Blue in his bands from the 1985 Montreal ten-piece through the 1997 residency, the Brooklyn church concert and St. Lucia, and recalled him and “the guys” coming to the church to pray for his sister the day before her burial in 2001.",
+    "one_liner": "prayed with the band for his sister",
+    "his_quote": "Exactly, but the day before TK Blue and the guys came to the church and they all prayed for my sister in the church.",
+    "his_quote_block_id": 305838,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "TK Blue",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b10-6"
+   }
+  },
+  {
+   "person_key": "Q1242049",
+   "qid": "Q1242049",
+   "name": "Alex Blake",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "Alex Blake (musician)",
+   "birth": "1951-12-21",
+   "death": null,
+   "image": "Alex Blake photo 2.jpg",
+   "name_variants": [
+    "Alex Blake"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston called Blake one of his “regular guys”, the bassist of his trio on “Zep Tepi”, and named him on “Saga”, “Khepera”, the 1997 Montreal residency, the Brooklyn church concert, St. Lucia, and as the one he took to the Kamigamo Shinto shrine.",
+    "one_liner": "regular trio bassist; took him to kyoto",
+    "his_quote": "I had my regular guys: Alex Blake and Neil Clark.",
+    "his_quote_block_id": 305827,
+    "interviewer_quote": null,
+    "instrument_or_role": "bass",
+    "name_in_interview": "Alex Blake",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b9-4"
+   }
+  },
+  {
+   "person_key": "Q797599",
+   "qid": "Q797599",
+   "name": "Babatunde Olatunji",
+   "identified_via": "wikilink",
+   "description": "Nigerian percussionist (1927–2003)",
+   "wikipedia": "Babatunde Olatunji",
+   "birth": "1927-04-07",
+   "death": "2003-04-06",
+   "image": null,
+   "name_variants": [
+    "Babatunde Olatunji",
+    "Michael Olatunji"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "played with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "guest_or_one_off",
+     "traditional_musician"
+    ],
+    "summary": "Weston said Olatunji and his traditional group of dancers and musicians opened the Brooklyn church concert with the Gnawa that became 'Spirit: The Power of Music'.",
+    "one_liner": "opened his gnawa church concert in brooklyn",
+    "his_quote": "It was powerful because at that particular concert we opened up with Babatunde Olatunji, with his traditional group of dancers and music.",
+    "his_quote_block_id": 305811,
+    "interviewer_quote": null,
+    "instrument_or_role": "leader of a traditional group of dancers and music",
+    "name_in_interview": "Babatunde Olatunji",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b6-0"
+   }
+  },
+  {
+   "person_key": "Q583913",
+   "qid": "Q583913",
+   "name": "Benny Bailey",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter (1925–2005)",
+   "wikipedia": "Benny Bailey",
+   "birth": "1925-08-13",
+   "death": "2005-04-15",
+   "image": "Benny Bailey (cropped).jpg",
+   "name_variants": [
+    "Benny Bailey"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named “the great Benny Bailey” first in his ten-piece group at the 1985 Montreal Jazz Festival, for which Melba Liston’s music arrived from her hospital bed.",
+    "one_liner": "in his 1985 montreal ten-piece",
+    "his_quote": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+    "his_quote_block_id": 305801,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Benny Bailey",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+   }
+  },
+  {
+   "person_key": "Q217812",
+   "qid": "Q217812",
+   "name": "Coleman Hawkins",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist (1904–1969)",
+   "wikipedia": "Coleman Hawkins",
+   "birth": "1904-11-21",
+   "death": "1969-05-19",
+   "image": "Coleman Hawkins.jpg",
+   "name_variants": [
+    "Coleman Hawkins"
+   ],
+   "instruments": [
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Live at the Five Spot (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "influenced by",
+    "direction": "other_leads",
+    "basis": "his_statement",
+    "tie": [
+     "idol",
+     "guest_or_one_off"
+    ],
+    "summary": "Weston called Coleman Hawkins his idol — at 17 he bought three copies of “Body and Soul” and hid two — and said recording with him live at the Five Spot in 1959 was another miracle.",
+    "one_liner": "his idol; on his 1959 five spot date",
+    "his_quote": "A good example of that is this, when we did the date with Coleman Hawkins, which was another miracle for me because Coleman Hawkins was my idol. When “Body and Soul” came out I was 17 years old. I bought 3 copies and I hid two.",
+    "his_quote_block_id": 305800,
+    "interviewer_quote": null,
+    "instrument_or_role": "tenor saxophone",
+    "name_in_interview": "Coleman Hawkins",
+    "notable": 3,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-8"
+   }
+  },
+  {
+   "person_key": "Q1175803",
+   "qid": "Q1175803",
+   "name": "David Murray",
+   "identified_via": "wikilink",
+   "description": "American jazz musician (tenor saxophone and bass clarinet)",
+   "wikipedia": "David Murray (saxophonist)",
+   "birth": "1955-02-19",
+   "death": null,
+   "image": "David Murray 1.jpg",
+   "name_variants": [
+    "David Murray"
+   ],
+   "instruments": [
+    "bass clarinet",
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Healers (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275839",
+     "matched_via": "qid",
+     "label": "David Murray",
+     "title": "David Murray interviewed by Monk Rowe, Clinton, New York, September 18, 2003",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "guest_or_one_off"
+    ],
+    "summary": "Weston said the first night of his five-night Montreal residency was a duo with David Murray.",
+    "one_liner": "duo partner on the first montreal night",
+    "his_quote": "The first night was a duo with myself and David Murray.",
+    "his_quote_block_id": 305788,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "David Murray",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-3"
+   }
+  },
+  {
+   "person_key": "Q3168738",
+   "qid": "Q3168738",
+   "name": "Jean-Philippe Allard",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Jean-Philippe Allard"
+   ],
+   "instruments": [
+    "producer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "record_producer_or_label"
+    ],
+    "summary": "Weston said the president of Verve was Jean-Philippe Allard, with whom he made ten CDs, and that he was very happy about the “Saga” date.",
+    "one_liner": "president of verve; made ten cds with him",
+    "his_quote": "Philippe Alad, and he is the one that I did ten C.D.s with, so I was very happy about that date.",
+    "his_quote_block_id": 305778,
+    "interviewer_quote": null,
+    "instrument_or_role": "president of Verve",
+    "name_in_interview": "Philippe Alad",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b1-0"
+   }
+  },
+  {
+   "person_key": "Q325273",
+   "qid": "Q325273",
+   "name": "Johnny Copeland",
+   "identified_via": "wikilink",
+   "description": "American blues musician (1937-1997)",
+   "wikipedia": "Johnny Copeland",
+   "birth": "1937-03-27",
+   "death": "1997-07-03",
+   "image": null,
+   "name_variants": [
+    "Johnny Copeland"
+   ],
+   "instruments": [
+    "guitar",
+    "vocals"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "guest_or_one_off"
+    ],
+    "summary": "Weston said that normally Johnny Copeland sang the blues with them, but he could not make the 1997 Montreal blues night.",
+    "one_liner": "normally sang the blues with them",
+    "his_quote": "It came out on an album called “Volcano”, and normally we would have a guy, Johnny Copeland, singing the blues but Johnny couldn’t make it.",
+    "his_quote_block_id": 305788,
+    "interviewer_quote": null,
+    "instrument_or_role": "singing the blues",
+    "name_in_interview": "Johnny Copeland",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-3"
+   }
+  },
+  {
+   "person_key": "Q498729",
+   "qid": "Q498729",
+   "name": "Kenny Dorham",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter, singer, and composer (1924–1972)",
+   "wikipedia": "Kenny Dorham",
+   "birth": "1924-08-30",
+   "death": "1972-12-05",
+   "image": "Kenny Dorham Advertisement.jpg",
+   "name_variants": [
+    "Kenny Dorham"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Live at the Five Spot (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named Kenny Dorham on trumpet on the 1959 live date at the Five Spot with Coleman Hawkins.",
+    "one_liner": "trumpet on the 1959 five spot date",
+    "his_quote": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "his_quote_block_id": 305801,
+    "interviewer_quote": null,
+    "instrument_or_role": "trumpet",
+    "name_in_interview": "Kenny Durham",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+   }
+  },
+  {
+   "person_key": "Q175899",
+   "qid": "Q175899",
+   "name": "Max Roach",
+   "identified_via": "wikilink",
+   "description": "American jazz percussionist, drummer, and composer (1924–2007)",
+   "wikipedia": "Max Roach",
+   "birth": "1924-01-10",
+   "death": "2007-08-16",
+   "image": "Max Roach, Three Deuces, ca. 1947.jpg",
+   "name_variants": [
+    "Max Roach"
+   ],
+   "instruments": [
+    "drums",
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "knows of",
+    "direction": "na",
+    "basis": "his_statement",
+    "tie": [
+     "unknown"
+    ],
+    "summary": "Weston said he brought Max Roach's band, without Max himself, to his 1972 festival in Tangiers.",
+    "one_liner": "his band came to tangiers without him",
+    "his_quote": "We organized this festival and I brought over Odetta, Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion.",
+    "his_quote_block_id": 305851,
+    "interviewer_quote": null,
+    "instrument_or_role": "bandleader",
+    "name_in_interview": "Max Roach",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b13-3"
+   }
+  },
+  {
+   "person_key": "Q99706043",
+   "qid": "Q99706043",
+   "name": "Neil Clarke",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Neil Clarke"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston counted Clarke among his “regular guys” in the “Zep Tepi” trio and named him in his bands on “Saga”, at Montreal in 1997, at the Brooklyn church concert and in St. Lucia.",
+    "one_liner": "a regular guy, from saga to zep tepi",
+    "his_quote": "I had my regular guys: Alex Blake and Neil Clark.",
+    "his_quote_block_id": 305827,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Neil Clarke",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b9-4"
+   }
+  },
+  {
+   "person_key": "Q470617",
+   "qid": "Q470617",
+   "name": "Pharoah Sanders",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist (1940–2022)",
+   "wikipedia": "Pharoah Sanders",
+   "birth": "1940-10-13",
+   "death": "2022-09-24",
+   "image": "Pharoah Sanders photo.jpg",
+   "name_variants": [
+    "Pharoah Sanders"
+   ],
+   "instruments": [
+    "gaita",
+    "tenor sax"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "guest_or_one_off"
+    ],
+    "summary": "Weston said 'the great' Pharoah Sanders was on the 'Khepera' date, where they recorded the Gnawa piece 'Blue Moses' together.",
+    "one_liner": "played blue moses with him on khepera",
+    "his_quote": "On that date, we also had the great Pharaoh Sanders. With Pharaoh Sanders we did one of the Gnawa pieces, “Blue Moses”",
+    "his_quote_block_id": 305804,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Pharaoh Sanders",
+    "notable": 2,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b5-0"
+   }
+  },
+  {
+   "person_key": "Q448235",
+   "qid": "Q448235",
+   "name": "Roy Haynes",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer and group leader (1925–2024)",
+   "wikipedia": "Roy Haynes",
+   "birth": "1925-03-13",
+   "death": "2024-11-12",
+   "image": "Roy Haynes drummer (cropped).jpg",
+   "name_variants": [
+    "Roy Haynes"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Live at the Five Spot (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Haynes_Roy_Transcript",
+     "matched_via": "qid",
+     "label": "Roy Haynes",
+     "title": "Roy Haynes — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named Haynes first in the band for his 1959 live date at the Five Spot with Coleman Hawkins, which was played from Melba Liston's charts with no time to rehearse.",
+    "one_liner": "on his 1959 five spot date with hawkins",
+    "his_quote": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "his_quote_block_id": 305801,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Roy Haynes",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+   }
+  },
+  {
+   "person_key": "Q968887",
+   "qid": "Q968887",
+   "name": "Sahib Shihab",
+   "identified_via": "wikilink",
+   "description": "American jazz musician, saxophonist and flutist (1925–1989)",
+   "wikipedia": "Sahib Shihab",
+   "birth": "1925-06-23",
+   "death": "1989-10-24",
+   "image": null,
+   "name_variants": [
+    "Sahib Shihab"
+   ],
+   "instruments": [
+    "alto saxophone",
+    "baritone saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston listed Shihab in his ten-piece group at the 1985 Montreal Jazz Festival.",
+    "one_liner": "in his 1985 ten-piece group",
+    "his_quote": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums, Mohammad Bin Fata, the Gnawa playing African percussion, myself on piano, Woodward Little was on bass.",
+    "his_quote_block_id": 305801,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Sahib Shihab",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+   }
+  },
+  {
+   "person_key": "Q1771946",
+   "qid": "Q1771946",
+   "name": "Steve Berrios",
+   "identified_via": "wikilink",
+   "description": "American drummer (1945–2013)",
+   "wikipedia": "Steve Berrios",
+   "birth": "1945-02-24",
+   "death": "2013-07-24",
+   "image": "Steve Berrios.jpg",
+   "name_variants": [
+    "Steve Berrios"
+   ],
+   "instruments": [
+    "Personnel"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Carnival (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston said Berrios played percussion in his 1974 European touring group because his son could not make it.",
+    "one_liner": "percussion in 1974, standing in for his son",
+    "his_quote": "Steve Berrios on percussion cause my son couldn’t make it.",
+    "his_quote_block_id": 305820,
+    "interviewer_quote": null,
+    "instrument_or_role": "percussion",
+    "name_in_interview": "Steve Berrios",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b8-2"
+   }
+  },
+  {
+   "person_key": "Q322308",
+   "qid": "Q322308",
+   "name": "Teddy Edwards",
+   "identified_via": "wikilink",
+   "description": "American jazz tenor saxophonist",
+   "wikipedia": "Teddy Edwards",
+   "birth": "1924-04-26",
+   "death": "2003-04-20",
+   "image": "Teddy Edwards.jpg",
+   "name_variants": [
+    "Teddy Edwards"
+   ],
+   "instruments": [
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "61520",
+     "matched_via": "qid",
+     "label": "Teddy Edwards",
+     "title": "61520_Teddy Edwards oral history interview",
+     "collection": "rutgers"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman",
+     "guest_or_one_off"
+    ],
+    "summary": "Weston named Edwards in the band for the Gnawa “African night” of his 1997 Montreal Jazz Festival residency.",
+    "one_liner": "in the band for the montreal african night",
+    "his_quote": "I did a concert with the Gnawa musicians of Morocco with a band which consisted of TK Blue, Teddy Edwards, Benny Powell, Alex Blake, Neil Clarke",
+    "his_quote_block_id": 305788,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Teddy Edwards",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-3"
+   }
+  },
+  {
+   "person_key": "Q343378",
+   "qid": "Q343378",
+   "name": "Wallace Roney",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter (1960–2020)",
+   "wikipedia": "Wallace Roney",
+   "birth": "1960-05-25",
+   "death": "2020-03-31",
+   "image": "WallaceRoney (cropped).png",
+   "name_variants": [
+    "Wallace Roney"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman",
+     "guest_or_one_off"
+    ],
+    "summary": "Weston named him, with Billy Harper, on the jazz night of his 1997 Montreal residency.",
+    "one_liner": "on the jazz night at montreal",
+    "his_quote": "The next night was like, kind of like, jazz. I had Billy Harper and Walter Rodney…",
+    "his_quote_block_id": 305790,
+    "interviewer_quote": null,
+    "instrument_or_role": "",
+    "name_in_interview": "Walter Rodney",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b2-5"
+   }
+  },
+  {
+   "person_key": "Q950919",
+   "qid": "Q950919",
+   "name": "Wilbur Little",
+   "identified_via": "wikilink",
+   "description": "American musician (1928–1987)",
+   "wikipedia": "Wilbur Little",
+   "birth": "1928-03-05",
+   "death": "1987-05-04",
+   "image": null,
+   "name_variants": [
+    "Wilbur Little"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Live at the Five Spot (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named 'Woodward Little' as the bassist in his ten-piece group at the 1985 Montreal Jazz Festival.",
+    "one_liner": "bassist in his 1985 ten-piece group",
+    "his_quote": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "his_quote_block_id": 305801,
+    "interviewer_quote": null,
+    "instrument_or_role": "bass",
+    "name_in_interview": "Wilbur Little",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b4-0"
+   }
+  },
+  {
+   "person_key": "name:william allen",
+   "qid": null,
+   "name": "William Allen",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "William Allen"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Carnival (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "basis": "his_statement",
+    "tie": [
+     "sideman"
+    ],
+    "summary": "Weston named William Allen as bassist in the group he took on his first European tour in 1974; later he rejected Jenkins's suggestion that Allen was the bassist at the Alexandria library opening.",
+    "one_liner": "bassist on his first european tour, 1974",
+    "his_quote": "I had Ahmed Abdul- Malik on the oud; I had William Allen on bass, myself at the piano, Steve Berrios on percussion cause my son couldn’t make it. We toured, the first time, to play Europe.",
+    "his_quote_block_id": 305820,
+    "interviewer_quote": null,
+    "instrument_or_role": "bass",
+    "name_in_interview": "William Allen",
+    "notable": 1,
+    "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b8-2"
+   }
+  },
+  {
+   "person_key": "Q356168",
+   "qid": "Q356168",
+   "name": "Ray Copeland",
+   "identified_via": "wikilink",
+   "description": "American musician (1926–1984)",
+   "wikipedia": "Ray Copeland (musician)",
+   "birth": "1926-07-17",
+   "death": "1984-05-18",
+   "image": null,
+   "name_variants": [
+    "Ray Copeland"
+   ],
+   "instruments": [
+    "arranger",
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 6,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Little Niles",
+    "Monterey '66",
+    "Randy (album)",
+    "Tanjah (album)",
+    "The Modern Art of Jazz by Randy Weston"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q485927",
+   "qid": "Q485927",
+   "name": "Cecil Payne",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist (1922–2007)",
+   "wikipedia": "Cecil Payne",
+   "birth": "1922-12-14",
+   "death": "2007-11-27",
+   "image": "Cecil Payne.jpg",
+   "name_variants": [
+    "Cecil Payne"
+   ],
+   "instruments": [
+    "alto saxophone",
+    "baritone saxophone"
+   ],
+   "album_count": 5,
+   "albums": [
+    "Jazz à la Bohemia",
+    "Monterey '66",
+    "The Modern Art of Jazz by Randy Weston",
+    "Uhuru Afrika",
+    "With These Hands..."
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1490595",
+   "qid": "Q1490595",
+   "name": "G.T. Hogan",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer (1929–2004)",
+   "wikipedia": "G.T. Hogan",
+   "birth": "1929-01-16",
+   "death": "2004-08-07",
+   "image": null,
+   "name_variants": [
+    "G. T. Hogan",
+    "Wilbert Hogan"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 5,
+   "albums": [
+    "Get Happy with the Randy Weston Trio",
+    "New Faces at Newport",
+    "The Modern Art of Jazz by Randy Weston",
+    "Uhuru Afrika",
+    "With These Hands..."
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1066973",
+   "qid": "Q1066973",
+   "name": "Charlie Persip",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer (1929–2020)",
+   "wikipedia": "Charlie Persip",
+   "birth": "1929-07-26",
+   "death": "2020-08-23",
+   "image": "Charlie Persip Gretsch drums.jpg",
+   "name_variants": [
+    "Charli Persip",
+    "Charlie Persip"
+   ],
+   "instruments": [
+    "drums",
+    "percussion"
+   ],
+   "album_count": 4,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Little Niles",
+    "Uhuru Afrika",
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q115548281",
+   "qid": "Q115548281",
+   "name": "Vishnu Wood",
+   "identified_via": "wikilink",
+   "description": "American jazz bassist",
+   "wikipedia": "Vishnu Wood",
+   "birth": "1937-01-01",
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Bill Wood",
+    "Vishnu Bill Wood"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 4,
+   "albums": [
+    "Berkshire Blues",
+    "Blue Moses (album)",
+    "Monterey '66",
+    "Randy (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:azzedin weston",
+   "qid": null,
+   "name": "Azzedin Weston",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Azzedin Weston"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Blue Moses (album)",
+    "Tanjah (album)",
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q892998",
+   "qid": "Q892998",
+   "name": "Booker Ervin",
+   "identified_via": "wikilink",
+   "description": "American saxophonist (1930–1970)",
+   "wikipedia": "Booker Ervin",
+   "birth": "1930-10-31",
+   "death": "1970-07-31",
+   "image": null,
+   "name_variants": [
+    "Booker Ervin"
+   ],
+   "instruments": [
+    "tenor saxophone",
+    "tenor saxophone - feature track 5"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Monterey '66",
+    "Randy (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q349082",
+   "qid": "Q349082",
+   "name": "Budd Johnson",
+   "identified_via": "wikilink",
+   "description": "American musician (1910-1984)",
+   "wikipedia": "Budd Johnson",
+   "birth": "1910-12-14",
+   "death": "1984-10-20",
+   "image": null,
+   "name_variants": [
+    "Bud Johnson",
+    "Budd Johnson"
+   ],
+   "instruments": [
+    "clarinet",
+    "soprano saxophone",
+    "tenor saxophone"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Tanjah (album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "68515",
+     "matched_via": "qid",
+     "label": "Budd Johnson",
+     "title": "68515_Budd Johnson oral history interview",
+     "collection": "rutgers"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q858535",
+   "qid": "Q858535",
+   "name": "Danny \"Big Black\" Rey",
+   "identified_via": "wikilink",
+   "description": "American actor and musician",
+   "wikipedia": "Big Black (musician)",
+   "birth": "1934-01-01",
+   "death": null,
+   "image": "Daniel Big Black Rey.jpg",
+   "name_variants": [
+    "Big Black",
+    "Danny \"Big Black\" Rey"
+   ],
+   "instruments": [
+    "percussion",
+    "vocals"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Monterey '66",
+    "Randy (album)",
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1357150",
+   "qid": "Q1357150",
+   "name": "Julius Watkins",
+   "identified_via": "wikilink",
+   "description": "American jazz musician (1921-1977)",
+   "wikipedia": "Julius Watkins",
+   "birth": "1921-10-10",
+   "death": "1977-04-04",
+   "image": "Quincy Jones Orchestra 1960 (JOKAHBL3E A05-3).tif",
+   "name_variants": [
+    "Julius Watkins",
+    "Ray Alonge or Julius Watkins"
+   ],
+   "instruments": [
+    "French horn"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Tanjah (album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1818068",
+   "qid": "Q1818068",
+   "name": "Lennie McBrowne",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "Lenny McBrowne",
+   "birth": "1933-01-24",
+   "death": "1980-00-00",
+   "image": null,
+   "name_variants": [
+    "Lennie McBrowne",
+    "Lenny McBrowne"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Berkshire Blues",
+    "Monterey '66",
+    "Randy (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q2066063",
+   "qid": "Q2066063",
+   "name": "Peck Morrison",
+   "identified_via": "wikilink",
+   "description": "American musician (1919-1988)",
+   "wikipedia": "Peck Morrison",
+   "birth": "1919-09-11",
+   "death": "1988-02-25",
+   "image": null,
+   "name_variants": [
+    "John A. \"Peck\" Morrison",
+    "Peck Morrison"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 3,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)",
+    "Highlife (Randy Weston album)",
+    "Piano á la Mode"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q311715",
+   "qid": "Q311715",
+   "name": "Art Blakey",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer and bandleader (1919–1990)",
+   "wikipedia": "Art Blakey",
+   "birth": "1919-10-11",
+   "death": "1990-10-16",
+   "image": "Art Blakey and the Jazz Messengers in the Kurzaal Concert Hall in Den Haag, 30.03.1963 - 10.jpg",
+   "name_variants": [
+    "Art Blakey"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 2,
+   "albums": [
+    "The Randy Weston Trio",
+    "Trio and Solo"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q705751",
+   "qid": "Q705751",
+   "name": "Art Taylor",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer (1929-1995)",
+   "wikipedia": "Art Taylor",
+   "birth": "1929-04-06",
+   "death": "1995-02-06",
+   "image": "Art Taylor Advertisement.jpg",
+   "name_variants": [
+    "Art Taylor",
+    "Arthur Taylor"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 2,
+   "albums": [
+    "African Cookbook",
+    "Niles Littlebig"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:azzedin niles weston",
+   "qid": null,
+   "name": "Azzedin Niles Weston",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Azzedin Niles Weston"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 2,
+   "albums": [
+    "African Cookbook",
+    "Niles Littlebig"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q580587",
+   "qid": "Q580587",
+   "name": "Brock Peters",
+   "identified_via": "wikilink",
+   "description": "American actor (1927–2005)",
+   "wikipedia": "Brock Peters",
+   "birth": "1927-07-02",
+   "death": "2005-08-23",
+   "image": "Brock Peters 1961.JPG",
+   "name_variants": [
+    "Brock Peters"
+   ],
+   "instruments": [
+    "vocal",
+    "vocals"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Live at the Five Spot (Randy Weston album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q83693",
+   "qid": "Q83693",
+   "name": "Cándido Camero",
+   "identified_via": "wikilink",
+   "description": "Cuban percussionist (1921-2020)",
+   "wikipedia": "Cándido Camero",
+   "birth": "1921-04-22",
+   "death": "2020-11-07",
+   "image": "Percussionist Candido Camero (cropped).jpg",
+   "name_variants": [
+    "Candido",
+    "Candido Camero",
+    "Cándido Camero"
+   ],
+   "instruments": [
+    "congas",
+    "narrator",
+    "percussion"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Tanjah (album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Camero_Candido_Transcript",
+     "matched_via": "qid",
+     "label": "Candido Camero",
+     "title": "Candido Camero — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q346762",
+   "qid": "Q346762",
+   "name": "Freddie Hubbard",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter (1938–2008)",
+   "wikipedia": "Freddie Hubbard",
+   "birth": "1938-04-07",
+   "death": "2008-12-29",
+   "image": "Freddie Hubbard 1976.jpg",
+   "name_variants": [
+    "Freddie Hubbard"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Blue Moses (album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q386883",
+   "qid": "Q386883",
+   "name": "Jimmy Cleveland",
+   "identified_via": "wikilink",
+   "description": "American jazz trombonist (1926-2008)",
+   "wikipedia": "Jimmy Cleveland",
+   "birth": "1926-05-03",
+   "death": "2008-08-23",
+   "image": "Jimmy Cleveland.jpg",
+   "name_variants": [
+    "Jimmy Cleveland"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1350269",
+   "qid": "Q1350269",
+   "name": "Jon Faddis",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpet player",
+   "wikipedia": "Jon Faddis",
+   "birth": "1953-07-24",
+   "death": null,
+   "image": "Jon Faddis.jpg",
+   "name_variants": [
+    "Jon Faddis"
+   ],
+   "instruments": [
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Charles Mingus and Friends in Concert",
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q720707",
+   "qid": "Q720707",
+   "name": "Quentin Jackson",
+   "identified_via": "wikilink",
+   "description": "American musician (1909–1976)",
+   "wikipedia": "Quentin Jackson",
+   "birth": "1909-01-13",
+   "death": "1976-10-02",
+   "image": "Quincy Jones Orchestra 1960 (JOKAHBL3E A05-10).tif",
+   "name_variants": [
+    "Quentin Jackson"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Highlife (Randy Weston album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "61539",
+     "matched_via": "qid",
+     "label": "Butter Jackson",
+     "title": "61539_Butter Jackson oral history interview",
+     "collection": "rutgers"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q961172",
+   "qid": "Q961172",
+   "name": "Rebop Kwaku Baah",
+   "identified_via": "wikilink",
+   "description": "Ghanaian musician (1944-1983)",
+   "wikipedia": "Rebop Kwaku Baah",
+   "birth": "1944-02-13",
+   "death": "1983-01-12",
+   "image": "Rebop Kwaku Baah.jpg",
+   "name_variants": [
+    "Reebop Kwaku Baah"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 2,
+   "albums": [
+    "African Cookbook",
+    "Niles Littlebig"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1369035",
+   "qid": "Q1369035",
+   "name": "Slide Hampton",
+   "identified_via": "wikilink",
+   "description": "American trombonist (1932–2021)",
+   "wikipedia": "Slide Hampton",
+   "birth": "1932-04-21",
+   "death": "2021-11-18",
+   "image": "SlideHampton.jpg",
+   "name_variants": [
+    "Slide Hampton"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 2,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)",
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275930",
+     "matched_via": "qid",
+     "label": "Slide Hampton",
+     "title": "Slide Hampton interviewed by Monk Rowe, West Orange, New Jersey, July 30, 2003",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "Hampton_Slide_Transcript",
+     "matched_via": "qid",
+     "label": "Slide Hampton",
+     "title": "Slide Hampton — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q254460",
+   "qid": "Q254460",
+   "name": "Aaron Bell",
+   "identified_via": "wikilink",
+   "description": "American musician (1922-2003)",
+   "wikipedia": "Aaron Bell (musician)",
+   "birth": "1922-04-24",
+   "death": "2003-07-28",
+   "image": null,
+   "name_variants": [
+    "Aaron Bell"
+   ],
+   "instruments": [
+    "tuba"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Highlife (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q409259",
+   "qid": "Q409259",
+   "name": "Airto Moreira",
+   "identified_via": "wikilink",
+   "description": "Brazilian drummer and percussionist",
+   "wikipedia": "Airto Moreira",
+   "birth": "1941-08-05",
+   "death": null,
+   "image": "Airto Moreira.jpg",
+   "name_variants": [
+    "Airto Moreira"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1927358",
+   "qid": "Q1927358",
+   "name": "Al Dreares",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer (1927–2011)",
+   "wikipedia": "Al Dreares",
+   "birth": "1929-01-04",
+   "death": "2011-11-17",
+   "image": null,
+   "name_variants": [
+    "Al Dreares"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Jazz à la Bohemia"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q715687",
+   "qid": "Q715687",
+   "name": "Al Grey",
+   "identified_via": "wikilink",
+   "description": "American jazz musician (1925–2000)",
+   "wikipedia": "Al Grey",
+   "birth": "1925-06-06",
+   "death": "2000-03-24",
+   "image": "Al Grey (Gottlieb).jpg",
+   "name_variants": [
+    "Al Grey"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275782",
+     "matched_via": "qid",
+     "label": "Al Grey",
+     "title": "Al Grey interviewed by Michael Woods, Scottsdale, Arizona, March 3, 1995",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1374127",
+   "qid": "Q1374127",
+   "name": "Alan Rubin",
+   "identified_via": "wikilink",
+   "description": "Jazz trumpeter, Blues Brothers member (1943–2011)",
+   "wikipedia": "Alan Rubin",
+   "birth": "1943-02-11",
+   "death": "2011-06-08",
+   "image": null,
+   "name_variants": [
+    "Alan Rubin"
+   ],
+   "instruments": [
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:archie lee",
+   "qid": null,
+   "name": "Archie Lee",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Archie Lee"
+   ],
+   "instruments": [
+    "congas",
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Highlife (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q678703",
+   "qid": "Q678703",
+   "name": "Armando Peraza",
+   "identified_via": "wikilink",
+   "description": "Cuban percussionist (1924-2014)",
+   "wikipedia": "Armando Peraza",
+   "birth": "1924-05-30",
+   "death": "2014-04-14",
+   "image": "Armando Peraza London 1999 001.jpg",
+   "name_variants": [
+    "Armando Peraza"
+   ],
+   "instruments": [
+    "bongos"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q817875",
+   "qid": "Q817875",
+   "name": "Bennie Green",
+   "identified_via": "wikilink",
+   "description": "American jazz trombonist (1923–1977)",
+   "wikipedia": "Bennie Green",
+   "birth": "1923-04-16",
+   "death": "1977-03-23",
+   "image": null,
+   "name_variants": [
+    "Bennie Green"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q213512",
+   "qid": "Q213512",
+   "name": "Bill Cosby",
+   "identified_via": "wikilink",
+   "description": "American actor and comedian (born 1937)",
+   "wikipedia": "Bill Cosby",
+   "birth": "1937-07-12",
+   "death": null,
+   "image": "The World Affairs Council and Girard College present Bill Cosby (6343666943) (cropped to Cosby).jpg",
+   "name_variants": [
+    "Bill Cosby"
+   ],
+   "instruments": [
+    "Master of Ceremonies"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q862138",
+   "qid": "Q862138",
+   "name": "Bill Grauer",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Bill Grauer"
+   ],
+   "instruments": [
+    "producer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Jazz à la Bohemia"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q338786",
+   "qid": "Q338786",
+   "name": "Billy Cobham",
+   "identified_via": "wikilink",
+   "description": "Panamanian jazz drummer and composer (born 1944)",
+   "wikipedia": "Billy Cobham",
+   "birth": "1944-05-16",
+   "death": null,
+   "image": "Billy-Cobham-1-2512.JPG",
+   "name_variants": [
+    "Billy Cobham"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:bob ciano",
+   "qid": null,
+   "name": "Bob Ciano",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Bob Ciano"
+   ],
+   "instruments": [
+    "design"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q888271",
+   "qid": "Q888271",
+   "name": "Bob Stewart",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "Bob Stewart (musician)",
+   "birth": "1945-02-03",
+   "death": null,
+   "image": "Bob Stewart.jpg",
+   "name_variants": [
+    "Robert Stewart"
+   ],
+   "instruments": [
+    "tuba"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275979",
+     "matched_via": "qid",
+     "label": "Bob Stewart",
+     "title": "Bob Stewart interviewed by Monk Rowe, Rome, New York, August 24, 2006",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q888577",
+   "qid": "Q888577",
+   "name": "Bobby Jones",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist (1928–1980)",
+   "wikipedia": "Bobby Jones (saxophonist)",
+   "birth": "1928-10-30",
+   "death": "1980-03-06",
+   "image": null,
+   "name_variants": [
+    "Bobby Jones"
+   ],
+   "instruments": [
+    "clarinet",
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:brian bacchus",
+   "qid": null,
+   "name": "Brian Bacchus",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Brian Bacchus"
+   ],
+   "instruments": [
+    "producer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:brooks tillotson",
+   "qid": null,
+   "name": "Brooks Tillotson",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Brooks Tillotson"
+   ],
+   "instruments": [
+    "French horn"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1065516",
+   "qid": "Q1065516",
+   "name": "Charles McPherson",
+   "identified_via": "wikilink",
+   "description": "American jazz alto saxophonist (born 1939)",
+   "wikipedia": "Charles McPherson (musician)",
+   "birth": "1939-07-24",
+   "death": null,
+   "image": "Charles McPherson.jpg",
+   "name_variants": [
+    "Charles McPherson"
+   ],
+   "instruments": [
+    "alto saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275957",
+     "matched_via": "qid",
+     "label": "Charles McPherson",
+     "title": "Charles McPherson interviewed by Monk Rowe, San Diego, California, February 12, 1998 [interview 1 of 2]",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "296790",
+     "matched_via": "qid",
+     "label": "Charles McPherson",
+     "title": "Charles McPherson interviewed by Monk Rowe, via Zoom, September 9, 2024 [interview 2 of 2]",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q107432",
+   "qid": "Q107432",
+   "name": "Charles Mingus",
+   "identified_via": "wikilink",
+   "description": "American jazz double bassist, composer and bandleader (1922–1979)",
+   "wikipedia": "Charles Mingus",
+   "birth": "1922-04-22",
+   "death": "1979-01-05",
+   "image": "Charles Mingus 1976.jpg",
+   "name_variants": [
+    "Charles Mingus"
+   ],
+   "instruments": [
+    "arranger",
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "67802",
+     "matched_via": "qid",
+     "label": "Charles Mingus",
+     "title": "67802_Charles Mingus oral history interview",
+     "collection": "rutgers"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:cheung ching ming",
+   "qid": null,
+   "name": "Cheung Ching Ming",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Cheung Ching Ming"
+   ],
+   "instruments": [
+    "photography"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q432924",
+   "qid": "Q432924",
+   "name": "Clark Terry",
+   "identified_via": "wikilink",
+   "description": "American swing and bebop trumpeter (1920–2015)",
+   "wikipedia": "Clark Terry",
+   "birth": "1920-12-14",
+   "death": "2015-02-21",
+   "image": "Clark Terry in 1981.jpg",
+   "name_variants": [
+    "Clark Terry"
+   ],
+   "instruments": [
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275883",
+     "matched_via": "qid",
+     "label": "Clark Terry",
+     "title": "Clark Terry interviewed by Joe Williams and Michael Woods, Clinton, New York, May 19, 1995",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "Clark_Terry_Transcript",
+     "matched_via": "qid",
+     "label": "Clark Terry",
+     "title": "Terry Clark — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q356881",
+   "qid": "Q356881",
+   "name": "Clifford Jarvis",
+   "identified_via": "wikilink",
+   "description": "American drummer (1941-1999)",
+   "wikipedia": "Clifford Jarvis",
+   "birth": "1941-08-26",
+   "death": "1999-11-26",
+   "image": null,
+   "name_variants": [
+    "Clifford Jarvis"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Live at the Five Spot (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q431520",
+   "qid": "Q431520",
+   "name": "Connie Kay",
+   "identified_via": "wikilink",
+   "description": "American drummer (1927–1994)",
+   "wikipedia": "Connie Kay",
+   "birth": "1927-04-27",
+   "death": "1994-11-30",
+   "image": "ModernJazzQuartet.jpg",
+   "name_variants": [
+    "Connie Kay"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Piano á la Mode"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:daniel richard",
+   "qid": null,
+   "name": "Daniel Richard",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Daniel Richard"
+   ],
+   "instruments": [
+    "release preparation"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q355970",
+   "qid": "Q355970",
+   "name": "Danny Bank",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist, clarinetist and flautist (1922-2010)",
+   "wikipedia": "Danny Bank",
+   "birth": "1922-07-17",
+   "death": "2010-06-05",
+   "image": null,
+   "name_variants": [
+    "Danny Bank"
+   ],
+   "instruments": [
+    "baritone saxophone",
+    "bass clarinet",
+    "flute"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:david horowitz",
+   "qid": null,
+   "name": "David Horowitz",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "David Horowitz"
+   ],
+   "instruments": [
+    "synthesizer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q5254338",
+   "qid": "Q5254338",
+   "name": "Delores Ivory Davis",
+   "identified_via": "wikilink",
+   "description": "American soprano singer",
+   "wikipedia": "Delores Ivory Davis",
+   "birth": "1939-01-03",
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Delores Ivory Davis"
+   ],
+   "instruments": [
+    "vocals on \"The Last Day\""
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q374479",
+   "qid": "Q374479",
+   "name": "Dewey Redman",
+   "identified_via": "wikilink",
+   "description": "American saxophonist (1931–2006)",
+   "wikipedia": "Dewey Redman",
+   "birth": "1931-05-17",
+   "death": "2006-09-02",
+   "image": "Dewey-redman-sw1.jpg",
+   "name_variants": [
+    "Dewey Redman"
+   ],
+   "instruments": [
+    "tenor sax"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q358599",
+   "qid": "Q358599",
+   "name": "Don Moye",
+   "identified_via": "wikilink",
+   "description": "American percussionist",
+   "wikipedia": "Don Moye",
+   "birth": "1946-05-23",
+   "death": null,
+   "image": "Don Moye Art Ensemble of Chicago Kongsberg Jazzfestival 2017 (001246).jpg",
+   "name_variants": [
+    "Don Moye"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Carnival (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1239442",
+   "qid": "Q1239442",
+   "name": "Don Pullen",
+   "identified_via": "wikilink",
+   "description": "American jazz pianist and organist (1941-1995)",
+   "wikipedia": "Don Pullen",
+   "birth": "1941-12-25",
+   "death": "1995-04-22",
+   "image": "Don Pullen.jpg",
+   "name_variants": [
+    "Don Pullen"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Duet in Detroit"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1239500",
+   "qid": "Q1239500",
+   "name": "Don Sebesky",
+   "identified_via": "wikilink",
+   "description": "American jazz musician (1937–2023)",
+   "wikipedia": "Don Sebesky",
+   "birth": "1937-12-10",
+   "death": "2023-04-29",
+   "image": null,
+   "name_variants": [
+    "Don Sebesky"
+   ],
+   "instruments": [
+    "arranger",
+    "conductor"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:earl williams",
+   "qid": null,
+   "name": "Earl Williams",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Earl Williams"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q351910",
+   "qid": "Q351910",
+   "name": "Eddie Bert",
+   "identified_via": "wikilink",
+   "description": "American musician (1922-2012)",
+   "wikipedia": "Eddie Bert",
+   "birth": "1922-05-16",
+   "death": "2012-09-27",
+   "image": "Eddie Bert.jpg",
+   "name_variants": [
+    "Eddie Bert"
+   ],
+   "instruments": [
+    "bass trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275733",
+     "matched_via": "qid",
+     "label": "Eddie Bert",
+     "title": "Eddie Bert interviewed by Monk Rowe, Danbury, Connecticut, November 20, 2001",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1282944",
+   "qid": "Q1282944",
+   "name": "Eddie Preston",
+   "identified_via": "wikilink",
+   "description": "American musician (1925–2009)",
+   "wikipedia": "Eddie Preston",
+   "birth": "1925-05-09",
+   "death": "2009-06-22",
+   "image": null,
+   "name_variants": [
+    "Eddie Preston"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q357179",
+   "qid": "Q357179",
+   "name": "Elvin Jones",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer (1927–2004)",
+   "wikipedia": "Elvin Jones",
+   "birth": "1927-09-09",
+   "death": "2004-05-18",
+   "image": "Elvin Jones 1979 3.jpg",
+   "name_variants": [
+    "Elvin Jones"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Jones_Elvin_Transcript",
+     "matched_via": "qid",
+     "label": "Elvin Jones",
+     "title": "Elvin Jones — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q491422",
+   "qid": "Q491422",
+   "name": "Ernie Royal",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter (1921–1983)",
+   "wikipedia": "Ernie Royal",
+   "birth": "1921-02-06",
+   "death": "1983-03-16",
+   "image": null,
+   "name_variants": [
+    "Ernie Royal"
+   ],
+   "instruments": [
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1444006",
+   "qid": "Q1444006",
+   "name": "Frank Rehak",
+   "identified_via": "wikilink",
+   "description": "American musician (1926–1987)",
+   "wikipedia": "Frank Rehak",
+   "birth": "1926-07-06",
+   "death": "1987-06-26",
+   "image": null,
+   "name_variants": [
+    "Frank Rehak"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q353990",
+   "qid": "Q353990",
+   "name": "Frankie Dunlop",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer (1928-2014)",
+   "wikipedia": "Frankie Dunlop",
+   "birth": "1928-12-06",
+   "death": "2014-07-07",
+   "image": null,
+   "name_variants": [
+    "Frankie Dunlop"
+   ],
+   "instruments": [
+    "drums",
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Highlife (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1494373",
+   "qid": "Q1494373",
+   "name": "Garnett Brown",
+   "identified_via": "wikilink",
+   "description": "American musician (1936–2021)",
+   "wikipedia": "Garnett Brown",
+   "birth": "1936-01-31",
+   "death": "2021-10-09",
+   "image": null,
+   "name_variants": [
+    "Garnett Brown"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q713291",
+   "qid": "Q713291",
+   "name": "Gene Ammons",
+   "identified_via": "wikilink",
+   "description": "American tenor saxophonist (1925–1974)",
+   "wikipedia": "Gene Ammons",
+   "birth": "1925-04-14",
+   "death": "1974-07-23",
+   "image": "Gene Ammons PBS 1971.jpg",
+   "name_variants": [
+    "Gene Ammons"
+   ],
+   "instruments": [
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:george dorsey",
+   "qid": null,
+   "name": "George Dorsey",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "George Dorsey"
+   ],
+   "instruments": [
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1370288",
+   "qid": "Q1370288",
+   "name": "George Duvivier",
+   "identified_via": "wikilink",
+   "description": "American musician (1920–1985)",
+   "wikipedia": "George Duvivier",
+   "birth": "1920-08-17",
+   "death": "1985-07-11",
+   "image": "George Duvivier.jpg",
+   "name_variants": [
+    "George Duvivier"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q85763181",
+   "qid": "Q85763181",
+   "name": "George Young",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "George Young"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Highlife (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q448163",
+   "qid": "Q448163",
+   "name": "Geri Allen",
+   "identified_via": "wikilink",
+   "description": "American composer and jazz pianist (1957-2017)",
+   "wikipedia": "Geri Allen",
+   "birth": "1957-06-12",
+   "death": "2017-06-27",
+   "image": "Geri-allen-by-pablo-secca.jpg",
+   "name_variants": [
+    "Geri Allen"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Duet in Detroit"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q156535",
+   "qid": "Q156535",
+   "name": "Gerry Mulligan",
+   "identified_via": "wikilink",
+   "description": "American jazz musician and composer (1927–1996)",
+   "wikipedia": "Gerry Mulligan",
+   "birth": "1927-04-06",
+   "death": "1996-01-20",
+   "image": "Gerry Mulligan (1980s portrait by William P. Gottlieb).jpg",
+   "name_variants": [
+    "Gerry Mulligan"
+   ],
+   "instruments": [
+    "baritone saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q563275",
+   "qid": "Q563275",
+   "name": "Gigi Gryce",
+   "identified_via": "name_match",
+   "description": "American recording artist; jazz saxophonist, flutist, clarinetist, composer, arranger, and educator (1925–1983)",
+   "wikipedia": "Gigi Gryce",
+   "birth": "1925-11-28",
+   "death": "1983-03-14",
+   "image": null,
+   "name_variants": [
+    "Gigi Gryce"
+   ],
+   "instruments": [
+    "alto saxophone",
+    "flute"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q463678",
+   "qid": "Q463678",
+   "name": "Grover Washington Jr.",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist (1943–1999)",
+   "wikipedia": "Grover Washington Jr.",
+   "birth": "1943-12-12",
+   "death": "1999-12-17",
+   "image": "Grover Washington 1995.jpg",
+   "name_variants": [
+    "Grover Washington Jr",
+    "Grover Washington, Jr"
+   ],
+   "instruments": [
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1573406",
+   "qid": "Q1573406",
+   "name": "Hamiet Bluiett",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist, clarinetist, and composer (1940–2018)",
+   "wikipedia": "Hamiet Bluiett",
+   "birth": "1940-09-16",
+   "death": "2018-10-04",
+   "image": "Hamiet Bluiett.jpg",
+   "name_variants": [
+    "Hamiet Bluiett"
+   ],
+   "instruments": [
+    "baritone saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:harold murray",
+   "qid": null,
+   "name": "Harold Murray",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Harold Murray"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Randy (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q711480",
+   "qid": "Q711480",
+   "name": "Henri Texier",
+   "identified_via": "wikilink",
+   "description": "French musician",
+   "wikipedia": "Henri Texier",
+   "birth": "1945-01-27",
+   "death": null,
+   "image": "Henri Texier.jpg",
+   "name_variants": [
+    "Henri Texier"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "African Cookbook"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:henry texier",
+   "qid": null,
+   "name": "Henry Texier",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Henry Texier"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Niles Littlebig"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1627069",
+   "qid": "Q1627069",
+   "name": "Honi Gordon",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "Honi Gordon",
+   "birth": "2000-01-01",
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Honi Gordon"
+   ],
+   "instruments": [
+    "vocals"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q728013",
+   "qid": "Q728013",
+   "name": "Howard Johnson",
+   "identified_via": "wikilink",
+   "description": "American musician (1941–2021)",
+   "wikipedia": "Howard Johnson (jazz musician)",
+   "birth": "1941-08-07",
+   "death": "2021-01-11",
+   "image": "Mansur Scott Harlem Quartet feat Howard Johnson - INNtöne Jazzfestival 2013 25 (cropped).jpg",
+   "name_variants": [
+    "Howard Johnson"
+   ],
+   "instruments": [
+    "bass saxophone",
+    "tuba"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "277134",
+     "matched_via": "qid",
+     "label": "Howard Johnson",
+     "title": "Howard Johnson interviewed by Monk Rowe, New York City, New York, January 14, 2019",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1391952",
+   "qid": "Q1391952",
+   "name": "Idris Muhammad",
+   "identified_via": "wikilink",
+   "description": "American drummer (1939-2014)",
+   "wikipedia": "Idris Muhammad",
+   "birth": "1939-11-13",
+   "death": "2014-07-29",
+   "image": "PharoahSanders.jpg",
+   "name_variants": [
+    "Idris Muhammad",
+    "Leo Morris"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q19502668",
+   "qid": "Q19502668",
+   "name": "Jack Jeffers",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Jack Jeffers"
+   ],
+   "instruments": [
+    "bass trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1689321",
+   "qid": "Q1689321",
+   "name": "James Buffington",
+   "identified_via": "wikilink",
+   "description": "American musician (1922-1981)",
+   "wikipedia": "James Buffington",
+   "birth": "1922-05-15",
+   "death": "1981-07-20",
+   "image": null,
+   "name_variants": [
+    "James Buffington",
+    "Jim Buffington",
+    "Jimmy Buffington"
+   ],
+   "instruments": [
+    "French horn"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q962310",
+   "qid": "Q962310",
+   "name": "James Moody",
+   "identified_via": "wikilink",
+   "description": "American jazz musician (1925-2010)",
+   "wikipedia": "James Moody (saxophonist)",
+   "birth": "1925-03-26",
+   "death": "2010-12-09",
+   "image": "JamesMoody.jpg",
+   "name_variants": [
+    "James Moody"
+   ],
+   "instruments": [
+    "flute"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275835",
+     "matched_via": "qid",
+     "label": "James Moody",
+     "title": "James Moody interviewed by Monk Rowe, San Diego, California, February 13, 1998",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "Moody_James_Transcript",
+     "matched_via": "qid",
+     "label": "James Moody",
+     "title": "James Moody — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:jay newland",
+   "qid": null,
+   "name": "Jay Newland",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Jay Newland"
+   ],
+   "instruments": [
+    "engineer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q720693",
+   "qid": "Q720693",
+   "name": "Jerome Richardson",
+   "identified_via": "wikilink",
+   "description": "American jazz multi-instrumentalist",
+   "wikipedia": "Jerome Richardson",
+   "birth": "1920-12-25",
+   "death": "2000-06-23",
+   "image": null,
+   "name_variants": [
+    "Jerome Richardson"
+   ],
+   "instruments": [
+    "baritone saxophone",
+    "piccolo"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275860",
+     "matched_via": "qid",
+     "label": "Jerome Richardson",
+     "title": "Jerome Richardson interviewed by Monk Rowe, New York City, New York, March 9, 1996",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q33113685",
+   "qid": "Q33113685",
+   "name": "Jimmy Zitano",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Jimmy Zitano"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "New Faces at Newport"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q717207",
+   "qid": "Q717207",
+   "name": "Joe Chambers",
+   "identified_via": "wikilink",
+   "description": "American jazz drummer, pianist, vibraphonist and composer",
+   "wikipedia": "Joe Chambers",
+   "birth": "1942-06-25",
+   "death": "2022-09-28",
+   "image": null,
+   "name_variants": [
+    "Joe Chambers"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:joe lopes",
+   "qid": null,
+   "name": "Joe Lopes",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Joe Lopes"
+   ],
+   "instruments": [
+    "assistant engineer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:john foster",
+   "qid": null,
+   "name": "John Foster",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "John Foster"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:john frosk",
+   "qid": null,
+   "name": "John Frosk",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "John Frosk"
+   ],
+   "instruments": [
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q77649751",
+   "qid": "Q77649751",
+   "name": "John Neves",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "John Neves"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "New Faces at Newport"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q708439",
+   "qid": "Q708439",
+   "name": "Johnny Griffin",
+   "identified_via": "wikilink",
+   "description": "American musician (1928–2008)",
+   "wikipedia": "Johnny Griffin",
+   "birth": "1928-04-24",
+   "death": "2008-07-25",
+   "image": "Johnny Griffin 1.jpg",
+   "name_variants": [
+    "Johnny Griffin"
+   ],
+   "instruments": [
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Little Niles"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q255355",
+   "qid": "Q255355",
+   "name": "Kenny Burrell",
+   "identified_via": "wikilink",
+   "description": "American jazz guitarist (born 1931)",
+   "wikipedia": "Kenny Burrell",
+   "birth": "1931-07-31",
+   "death": null,
+   "image": "Kenny Burrell 2.jpg",
+   "name_variants": [
+    "Kenny Burrell"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Burrell_Kenny_Transcript",
+     "matched_via": "qid",
+     "label": "Kenny Burrell",
+     "title": "Kenny Burrell — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q453393",
+   "qid": "Q453393",
+   "name": "Lee Konitz",
+   "identified_via": "wikilink",
+   "description": "American jazz musician (1927–2020)",
+   "wikipedia": "Lee Konitz",
+   "birth": "1927-10-13",
+   "death": "2020-04-15",
+   "image": "Lee Konitz Bad Mergentheim.JPG",
+   "name_variants": [
+    "Lee Konitz"
+   ],
+   "instruments": [
+    "alto saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Konitz-Lee-Transcription-2020",
+     "matched_via": "qid",
+     "label": "Lee Konitz",
+     "title": "Konitz Lee — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1816757",
+   "qid": "Q1816757",
+   "name": "Lem Winchester",
+   "identified_via": "wikilink",
+   "description": "American recording artist, vibraphonist, jazz musician, police officer (1928–1961)",
+   "wikipedia": "Lem Winchester",
+   "birth": "1928-03-19",
+   "death": "1961-01-13",
+   "image": null,
+   "name_variants": [
+    "Lem Winchester"
+   ],
+   "instruments": [
+    "vibraphone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "New Faces at Newport"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1577989",
+   "qid": "Q1577989",
+   "name": "Les Spann",
+   "identified_via": "wikilink",
+   "description": "American guitarist (1932–1989)",
+   "wikipedia": "Les Spann",
+   "birth": "1932-05-23",
+   "death": "1989-01-24",
+   "image": null,
+   "name_variants": [
+    "Les Spann"
+   ],
+   "instruments": [
+    "flute",
+    "guitar"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:lloyd michaels",
+   "qid": null,
+   "name": "Lloyd Michaels",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Lloyd Michaels"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1869624",
+   "qid": "Q1869624",
+   "name": "Lonnie Hillyer",
+   "identified_via": "wikilink",
+   "description": "American musician (1940–1985)",
+   "wikipedia": "Lonnie Hillyer",
+   "birth": "1940-03-25",
+   "death": "1985-07-01",
+   "image": null,
+   "name_variants": [
+    "Lonnie Hillyer"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:madame meddah",
+   "qid": null,
+   "name": "Madame Meddah",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Madame Meddah"
+   ],
+   "instruments": [
+    "vocals"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q111697740",
+   "qid": "Q111697740",
+   "name": "Martha Flowers",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Martha Flowers"
+   ],
+   "instruments": [
+    "vocals"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q886416",
+   "qid": "Q886416",
+   "name": "Marvin Stamm",
+   "identified_via": "wikilink",
+   "description": "American trumpeter",
+   "wikipedia": "Marvin Stamm",
+   "birth": "1939-05-23",
+   "death": null,
+   "image": "Marvin Stamm.jpg",
+   "name_variants": [
+    "Marvin Stamm"
+   ],
+   "instruments": [
+    "flugelhorn",
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q491411",
+   "qid": "Q491411",
+   "name": "Milt Hinton",
+   "identified_via": "wikilink",
+   "description": "American musician and photographer (1910-2000)",
+   "wikipedia": "Milt Hinton",
+   "birth": "1910-06-23",
+   "death": "2000-12-19",
+   "image": "Milt Hinton.jpg",
+   "name_variants": [
+    "Milt Hinton"
+   ],
+   "instruments": [
+    "bass"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275794",
+     "matched_via": "qid",
+     "label": "Milt Hinton",
+     "title": "Milt Hinton interviewed by Joe Williams, Majesty of the Seas, May 31, 1995",
+     "collection": "hamilton"
+    },
+    {
+     "doc_id": "Milt_Hinton_Interview_Transcription",
+     "matched_via": "interviewee_name_match",
+     "label": "Hinton Milt",
+     "title": "Hinton Milt — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q527821",
+   "qid": "Q527821",
+   "name": "Norris Turney",
+   "identified_via": "wikilink",
+   "description": "American musician (1921-2001)",
+   "wikipedia": "Norris Turney",
+   "birth": "1921-09-08",
+   "death": "2001-01-17",
+   "image": null,
+   "name_variants": [
+    "Norris Turney"
+   ],
+   "instruments": [
+    "alto saxophone",
+    "piccolo"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275884",
+     "matched_via": "qid",
+     "label": "Norris Turney",
+     "title": "Norris Turney interviewed by Monk Rowe, Aspen, Colorado, October 11, 1997",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q3813611",
+   "qid": "Q3813611",
+   "name": "Obo Addy",
+   "identified_via": "wikilink",
+   "description": "musician (1936-2012)",
+   "wikipedia": "Obo Addy",
+   "birth": "1936-01-15",
+   "death": "2012-09-13",
+   "image": "Obo Addy.jpg",
+   "name_variants": [
+    "Obo Addy"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:omar clay",
+   "qid": null,
+   "name": "Omar Clay",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Omar Clay"
+   ],
+   "instruments": [
+    "marimba",
+    "timbales"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1306220",
+   "qid": "Q1306220",
+   "name": "Paul Bacon",
+   "identified_via": "name_match",
+   "description": "American designer of book and album covers (1923-2015)",
+   "wikipedia": "Paul Bacon (designer)",
+   "birth": "1923-12-25",
+   "death": "2015-06-08",
+   "image": null,
+   "name_variants": [
+    "Paul Bacon"
+   ],
+   "instruments": [
+    "design"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Jazz à la Bohemia"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q26250511",
+   "qid": "Q26250511",
+   "name": "Paul Faulise",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Paul Faulise"
+   ],
+   "instruments": [
+    "bass trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:paul weller",
+   "qid": null,
+   "name": "Paul Weller",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Paul Weller"
+   ],
+   "instruments": [
+    "cover photography"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Jazz à la Bohemia"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q15441240",
+   "qid": "Q15441240",
+   "name": "Phil Kraus",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Phil Kraus"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:ray fowler",
+   "qid": null,
+   "name": "Ray Fowler",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Ray Fowler"
+   ],
+   "instruments": [
+    "engineer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Jazz à la Bohemia"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q7298065",
+   "qid": "Q7298065",
+   "name": "Ray Santisi",
+   "identified_via": "wikilink",
+   "description": "American pianist, composer, arranger, college professor, recording artist (1933–2014)",
+   "wikipedia": "Ray Santisi",
+   "birth": "1933-02-01",
+   "death": "2014-10-28",
+   "image": null,
+   "name_variants": [
+    "Ray Santisi"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "album_count": 1,
+   "albums": [
+    "New Faces at Newport"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:rhashidah e mcneill",
+   "qid": null,
+   "name": "Rhashidah E. McNeill",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Rhashidah E. McNeill"
+   ],
+   "instruments": [
+    "liner notes"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1244326",
+   "qid": "Q1244326",
+   "name": "Rich Perry",
+   "identified_via": "wikilink",
+   "description": "American musician",
+   "wikipedia": "Rich Perry",
+   "birth": "1955-07-22",
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Rich Perry"
+   ],
+   "instruments": [
+    "alto saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:richard berg",
+   "qid": null,
+   "name": "Richard Berg",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Richard Berg"
+   ],
+   "instruments": [
+    "French horn"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q2150923",
+   "qid": "Q2150923",
+   "name": "Richard Williams",
+   "identified_via": "wikilink",
+   "description": "American jazz trumpeter (1931–1985)",
+   "wikipedia": "Richard Williams (musician)",
+   "birth": "1931-05-04",
+   "death": "1985-11-04",
+   "image": null,
+   "name_variants": [
+    "Dick Williams",
+    "Richard Williams"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q487942",
+   "qid": "Q487942",
+   "name": "Richie Kamuca",
+   "identified_via": "name_match",
+   "description": "American musician (1930-1977)",
+   "wikipedia": "Richie Kamuca",
+   "birth": "1930-07-23",
+   "death": "1977-07-22",
+   "image": "Ritchie Kamuca & Shelly Manne.jpg",
+   "name_variants": [
+    "George Marge",
+    "Richie Kamuca"
+   ],
+   "instruments": [
+    "English horn",
+    "alto flute",
+    "bass flute",
+    "clarinet",
+    "flute"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q111734787",
+   "qid": "Q111734787",
+   "name": "Romeo Penque",
+   "identified_via": "corpus_authority",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Romeo Penque"
+   ],
+   "instruments": [
+    "English horn",
+    "alto flute",
+    "bass flute",
+    "clarinet",
+    "flute",
+    "oboe",
+    "piccolo"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q356908",
+   "qid": "Q356908",
+   "name": "Roy Brooks",
+   "identified_via": "wikilink",
+   "description": "American drummer (1938–2005)",
+   "wikipedia": "Roy Brooks",
+   "birth": "1938-03-09",
+   "death": "2005-11-15",
+   "image": "Roy Brooks Drums.jpg",
+   "name_variants": [
+    "Roy Brooks",
+    "Roy Brooks Jr"
+   ],
+   "instruments": [
+    "drums",
+    "musical saw",
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Duet in Detroit"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q2174545",
+   "qid": "Q2174545",
+   "name": "Rudy Collins",
+   "identified_via": "wikilink",
+   "description": "American musician (1934–1988)",
+   "wikipedia": "Rudy Collins",
+   "birth": "1934-07-24",
+   "death": "1988-08-15",
+   "image": null,
+   "name_variants": [
+    "Rudy Collins"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q945681",
+   "qid": "Q945681",
+   "name": "Rudy Van Gelder",
+   "identified_via": "wikilink",
+   "description": "American recording engineer (1924-2016)",
+   "wikipedia": "Rudy Van Gelder",
+   "birth": "1924-11-02",
+   "death": "2016-08-25",
+   "image": "RogerDawsonSeptet (cropped - Rudy Van Gelder).jpg",
+   "name_variants": [
+    "Rudy Van Gelder"
+   ],
+   "instruments": [
+    "engineer"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Rudy Van Gelder Interview Transcription (2)",
+     "matched_via": "qid",
+     "label": "Rudy Van Gelder",
+     "title": "Rudy Van Gelder — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:sharon moe",
+   "qid": null,
+   "name": "Sharon Moe",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Sharon Moe"
+   ],
+   "instruments": [
+    "French horn"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1311442",
+   "qid": "Q1311442",
+   "name": "Sy Johnson",
+   "identified_via": "wikilink",
+   "description": "American musician (1930–2022)",
+   "wikipedia": "Sy Johnson",
+   "birth": "1930-04-15",
+   "death": "2022-07-26",
+   "image": null,
+   "name_variants": [
+    "Sy Johnson"
+   ],
+   "instruments": [
+    "arranger"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:taiwo yusve divall",
+   "qid": null,
+   "name": "Taiwo Yusve Divall",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Taiwo Yusve Divall"
+   ],
+   "instruments": [
+    "alto saxophone",
+    "ashiko drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Tanjah (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q2399762",
+   "qid": "Q2399762",
+   "name": "Ted Dunbar",
+   "identified_via": "wikilink",
+   "description": "American musician (1937-1998)",
+   "wikipedia": "Ted Dunbar",
+   "birth": "1937-01-17",
+   "death": "1998-05-29",
+   "image": null,
+   "name_variants": [
+    "Ted Dunbar"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Volcano Blues"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q265494",
+   "qid": "Q265494",
+   "name": "Teo Macero",
+   "identified_via": "wikilink",
+   "description": "American jazz saxophonist, composer, and record producer (1925–2008)",
+   "wikipedia": "Teo Macero",
+   "birth": "1925-10-30",
+   "death": "2008-02-19",
+   "image": "Teo Macero.jpg",
+   "name_variants": [
+    "Teo Macero"
+   ],
+   "instruments": [
+    "arranger conductor"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Charles Mingus and Friends in Concert"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:thierry maindrault",
+   "qid": null,
+   "name": "Thierry Maindrault",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Thierry Maindrault"
+   ],
+   "instruments": [
+    "photography"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Niles Littlebig"
+   ],
+   "credit_type": "technical",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:tuntemeke sanga",
+   "qid": null,
+   "name": "Tuntemeke Sanga",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Tuntemeke Sanga"
+   ],
+   "instruments": [
+    "narrator"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q1580836",
+   "qid": "Q1580836",
+   "name": "Warren Covington",
+   "identified_via": "wikilink",
+   "description": "American big band trombonist (1921–1999)",
+   "wikipedia": "Warren Covington",
+   "birth": "1921-08-07",
+   "death": "1999-08-24",
+   "image": null,
+   "name_variants": [
+    "Warren Covington"
+   ],
+   "instruments": [
+    "trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q2390042",
+   "qid": "Q2390042",
+   "name": "Wayne Andre",
+   "identified_via": "wikilink",
+   "description": "American trombonist (1931-2003)",
+   "wikipedia": "Wayne Andre",
+   "birth": "1931-11-17",
+   "death": "2003-08-26",
+   "image": null,
+   "name_variants": [
+    "Wayne Andre"
+   ],
+   "instruments": [
+    "baritone horn",
+    "trombone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Blue Moses (album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "275909",
+     "matched_via": "qid",
+     "label": "Wayne Andre",
+     "title": "Wayne Andre interviewed by Monk Rowe, New York City, New York, January 7, 2002",
+     "collection": "hamilton"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q2581448",
+   "qid": "Q2581448",
+   "name": "Willie Jones",
+   "identified_via": "name_match",
+   "description": "American drummer and music educator (1929–1993)",
+   "wikipedia": "Willie Jones (drummer)",
+   "birth": "1929-10-20",
+   "death": "1993-04-09",
+   "image": null,
+   "name_variants": [
+    "Willie Jones"
+   ],
+   "instruments": [
+    "drums"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Modern Art of Jazz by Randy Weston"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:willie rodriguez",
+   "qid": null,
+   "name": "Willie Rodriguez",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Willie Rodriguez"
+   ],
+   "instruments": [
+    "percussion"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Destry Rides Again (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q168600",
+   "qid": "Q168600",
+   "name": "Woody Shaw",
+   "identified_via": "wikilink",
+   "description": "American musician (1944-1989)",
+   "wikipedia": "Woody Shaw",
+   "birth": "1944-12-24",
+   "death": "1989-05-10",
+   "image": "Woody Shaw.jpg",
+   "name_variants": [
+    "Woody Shaw"
+   ],
+   "instruments": [
+    "trumpet"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Duet in Detroit"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:yassir chadly",
+   "qid": null,
+   "name": "Yassir Chadly",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "Yassir Chadly"
+   ],
+   "instruments": [
+    "arranger",
+    "karkaba",
+    "percussion",
+    "vocal"
+   ],
+   "album_count": 1,
+   "albums": [
+    "The Spirits of Our Ancestors"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "Q539832",
+   "qid": "Q539832",
+   "name": "Yusef Lateef",
+   "identified_via": "name_match",
+   "description": "American jazz multi-instrumentalist, composer, educator and spokesman for the Ahmadiyya Muslim Community (1920–2013)",
+   "wikipedia": "Yusef Lateef",
+   "birth": "1920-10-09",
+   "death": "2013-12-23",
+   "image": "Yusef Lateef.jpg",
+   "name_variants": [
+    "Yusef Lateef",
+    "Yusuf Lateef"
+   ],
+   "instruments": [
+    "flute",
+    "oboe",
+    "tenor saxophone"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Uhuru Afrika"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": true,
+   "interviews": [
+    {
+     "doc_id": "Yusef-Lateef_transcription",
+     "matched_via": "qid",
+     "label": "Yusef Lateef",
+     "title": "Yusef Lateef — Smithsonian Jazz Oral History",
+     "collection": "si"
+    }
+   ],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:congas",
+   "qid": null,
+   "name": "congas",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "congas"
+   ],
+   "instruments": [
+    "Personnel"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Carnival (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  },
+  {
+   "person_key": "name:percussion",
+   "qid": null,
+   "name": "percussion",
+   "identified_via": "unidentified",
+   "description": null,
+   "wikipedia": null,
+   "birth": null,
+   "death": null,
+   "image": null,
+   "name_variants": [
+    "percussion"
+   ],
+   "instruments": [
+    "Personnel"
+   ],
+   "album_count": 1,
+   "albums": [
+    "Carnival (Randy Weston album)"
+   ],
+   "credit_type": "musician",
+   "interviewed_in_corpus": false,
+   "interviews": [],
+   "said_about_subject": false,
+   "blocks_about_subject": 0,
+   "quotes": [],
+   "he_spoke_of_them": false,
+   "he_said": null
+  }
+ ]
+}

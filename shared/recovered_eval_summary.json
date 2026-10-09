@@ -1,0 +1,57 @@
+{
+ "judged_by": "Opus 5.5 (claude-opus-5-5) subagent working to extract/RECOVERED_SPEC.md; whole set in one pass, with the surrounding transcript on both sides of every thread",
+ "thread_errors": 0,
+ "subjects": {
+  "weston": {
+   "judged": 45,
+   "awaiting_judgement": 0,
+   "about_subject": 7,
+   "validation_rate_pct": 15.6,
+   "rejected_not_about_subject": 38,
+   "by_source": {
+    "continuation": 24,
+    "answer": 21
+   },
+   "validation_rate_by_source": {
+    "answer": 23.8,
+    "continuation": 8.3
+   },
+   "validation_rate_by_pronoun_risk": {
+    "low": 16.7,
+    "high": 0.0,
+    "n/a": 23.8
+   },
+   "by_stance": {
+    "positive": 5,
+    "neutral": 2
+   },
+   "by_mention_kind": {
+    "not_about_subject": 38,
+    "substantive_comment": 4,
+    "anecdote_continuation": 2,
+    "passing_reference": 1
+   },
+   "by_notable": {
+    "2": 2,
+    "1": 4,
+    "0": 1
+   },
+   "quotes_rejected_non_verbatim": 0,
+   "shortlist": 2,
+   "top_misattributions": {
+    "Miles Davis": 2,
+    "Thelonious Monk (Keepnews learning to produce through working with Monk)": 1,
+    "Orrin Keepnews's non-musical childhood and 1930s radio / Artie Shaw": 1,
+    "Pat LaBarbera's return to Berklee and Jimmy Mosher": 1,
+    "LaBarbera joining Buddy Rich's band": 1,
+    "Benny Powell's general views on artists vs. sidemen and the NEA": 1,
+    "Benny Powell's time with Lionel Hampton's band and move to Ottawa/Hull": 1,
+    "Lambert, Hendricks & Ross's rehearsal process (Dave Lambert's apartment)": 1,
+    "Lonnie Liston Smith's own early playing and Baltimore jam sessions": 1,
+    "Hank Jones (his recording with kora)": 1,
+    "Clifford Brown, Horace Silver and Art Blakey (the original Jazz Messengers)": 1,
+    "Gigi Gryce and Benny Golson (Hendricks's lyrics to their tunes)": 1
+   }
+  }
+ }
+}

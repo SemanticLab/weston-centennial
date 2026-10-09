@@ -1,0 +1,27 @@
+{
+ "items": [
+  {
+   "id": "q060",
+   "category": "what_music_is",
+   "secondary": "records_and_compositions",
+   "sided_with": "a",
+   "reason": "The cut never names Zep Tepi and states that the creator's first gift of music is the foundation the whole planet shares, which is the scheme's 'music's origin in creation' include; 'That means' links it to the title only in the full turn the page will not show."
+  },
+  {
+   "id": "q100",
+   "category": "family_and_brooklyn",
+   "secondary": "ancestors_and_destiny",
+   "sided_with": "neither",
+   "reason": "The honour rule sends it to Ancestors and Destiny, but the cut stops before the destiny talk and its own subject is the childhood piano teacher who told his father to save his money, which sits beside the made-to-take-lessons line in Family and Brooklyn where a reader would expect it."
+  }
+ ],
+ "scheme_problems": [
+  "The honour rule (ancestors_and_destiny vs at_the_piano/the_masters) routes every reaction to the NEA award to Ancestors and Destiny; it should apply only to cuts that carry the destiny framing or have no subject of their own (the bare disbelief line), and let a cut with a concrete subject (the childhood piano teacher and his father) go to that subject's section. at_the_piano's exclude naming the teacher should be dropped; family_and_brooklyn's lessons include already covers it.",
+  "The records-vs-what_music_is test 'without reference to the record' is applied to the whole turn rather than to the cut: a line that reaches the title only through 'That means' or neighbouring sentences reads on the page with no record in it. The rule should say the cut must itself name or plainly explain the record to stay in Records and Compositions.",
+  "records_and_compositions' include 'his case against machines and for human contact' pulls in lines that name no record and are not about music (the New York cell-phone observation). No better section exists in the scheme, so the line stays, but a revision should either restrict the include to lines tied to the record or give his views on modern life a home (e.g. fold them into what_music_is as the human-contact idea).",
+  "morocco_and_the_gnawa includes 'concerts with Gnawa musicians wherever they took place, including ... an English cathedral' while the morocco/on_the_road rule sends the cathedral's setting to on_the_road; the outcome (instrument to Morocco, setting and talk with leaders to On the Road) is workable, but the include and the rule should be worded as one rule so a single occasion is not split by accident.",
+  "what_music_is includes 'his approach to playing always is when not tied to solo or trio', yet the only such line answers the solo/trio question directly; the include should say that a line declaring the approach the same across all formats goes to what_music_is even in that exchange.",
+  "family/on_the_road rule 'once the line is about Japan' is hard to apply to a pivot sentence (sister's death and Japan invitation together); state that a pivot line goes to the section of the story it opens.",
+  "Lines whose 'they' could be enslaved forebears or earlier jazz musicians need a stated tie-breaker: an explicit 'I've met them' or named musicians in the cut decides the_masters; a contribution-to-the-world ending decides africa_the_source; otherwise ancestors_and_destiny."
+ ]
+}

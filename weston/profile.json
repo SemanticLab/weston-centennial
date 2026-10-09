@@ -1,0 +1,351 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "generated_from": "linked_jazz.sqlite",
+ "count": 1,
+ "method": "identity layer joined from wd_people + nodes + node_collections + communities + name_reconciliation; person identity resolved via persons.qid / nodes.qid only (never raw text search).",
+ "profile": {
+  "key": "weston",
+  "display_name": "Randy Weston",
+  "nicknames": [],
+  "qid": "Q1371187",
+  "node_id": "wd:Q1371187",
+  "links": {
+   "wikidata": "https://www.wikidata.org/wiki/Q1371187",
+   "wikipedia": "https://en.wikipedia.org/wiki/Randy_Weston",
+   "network": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+   "semlab": {
+    "semlab_id": "Q657",
+    "url": "https://base.semlab.io/wiki/Item:Q657",
+    "entity_uri": "http://base.semlab.io/entity/Q657"
+   },
+   "network_viewer": "https://thisismattmiller.github.io/linked-jazz-2026-network/"
+  },
+  "wd_people": {
+   "qid": "Q1371187",
+   "label": "Randy Weston",
+   "description": "American jazz pianist (1926–2018)",
+   "birth": "1926",
+   "death": "2018",
+   "wp_title": "Randy Weston",
+   "wp_abstract": "Randolph Edward \"Randy\" Weston (April 6, 1926 – September 1, 2018) was an American jazz pianist and composer whose creativity was inspired by his ancestral African connection.\nWeston's piano style owed much to Duke Ellington and Thelonious Monk, whom he cited in a 2018 video as among pianists he counted as influences, as well as Count Basie, Nat King Cole and Earl Hines. Beginning in the 1950s, Weston worked often with trombonist and arranger Melba Liston.\nDescribed as \"America's African Musical Ambassador\", Weston once said: \"What I do I do because it's about teaching and informing everyone about our most natural cultural phenomenon. It's really about Africa and her music.\"",
+   "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+   "semlab_id": "Q657",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+   "mentions": 103,
+   "docs": 23,
+   "interviews": 1,
+   "names_parsed": [
+    "Randy Weston"
+   ]
+  },
+  "node": {
+   "node_id": "wd:Q1371187",
+   "kind": "wd",
+   "label": "Randy Weston",
+   "is_interviewee": 1,
+   "qid": "Q1371187",
+   "semlab_id": "Q657",
+   "mentions": 103,
+   "docs": 23,
+   "singleton": 0,
+   "community": 2,
+   "x": 22426.42,
+   "y": -41588.64,
+   "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+   "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+   "narrated_only": 0
+  },
+  "node_collections": [
+   {
+    "collection": "hamilton",
+    "label": "Hamilton College — Fillius Jazz Archive",
+    "url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive"
+   },
+   {
+    "collection": "si",
+    "label": "Smithsonian Jazz Oral History Program",
+    "url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program"
+   }
+  ],
+  "community": {
+   "community_id": 2,
+   "rank": 1,
+   "size": 6243,
+   "label": "Swinging Big Band Era",
+   "era": "1930s-1950s",
+   "place": "New York and Chicago",
+   "scene": "Mainstream swing and bebop transition",
+   "summary": "This community centers on the apex of the big band era and the subsequent rise of bebop, dominated by major bandleaders and virtuoso soloists who defined mainstream jazz. Members are bound by extensive professional collaborations in touring orchestras and the vibrant New York and Chicago club scenes during the mid-20th century.",
+   "confidence": 0.95,
+   "key_figures": [
+    "Count Basie",
+    "Dizzy Gillespie",
+    "Charlie Parker",
+    "Clark Terry",
+    "Woody Herman",
+    "Ella Fitzgerald"
+   ]
+  },
+  "headline_stats": {
+   "others": {
+    "note": "Interviews other than his own. This is the 'what they said about him' corpus; the reconciled person layer plus the text hits it missed.",
+    "documents_reconciled": 22,
+    "documents_text_hit_only": 1,
+    "mentions_reconciled": 94,
+    "blocks_reconciled": 81,
+    "blocks_text_hit_only": 3,
+    "distinct_interviewees": 18
+   },
+   "own_interview": {
+    "note": "His own Smithsonian interview (30 Oct 2009, interviewed by Willard Jenkins). These 'mentions' are Jenkins addressing him, headers and archive notes.",
+    "doc_id": "Randy-Weston-Transcription-2020_0",
+    "mentions": 9,
+    "blocks": 9
+   },
+   "total_mentions": 103,
+   "total_mentions_person_mentions_rows": 103,
+   "total_docs": 23,
+   "total_blocks_mentioning": 90,
+   "distinct_interviewees_who_mention": 19,
+   "n_classified_relationships": 22,
+   "n_relationship_rows_skipped": 1,
+   "n_network_edges": 107,
+   "network_edge_weight_sum": 180.767,
+   "interview_years": {
+    "min": 1995,
+    "max": 2021,
+    "median": 2001,
+    "n_docs_with_year": 14,
+    "n_docs_without_year": 9
+   },
+   "node_mentions": 103,
+   "node_docs": 23,
+   "wd_people_mentions": 103,
+   "wd_people_docs": 23,
+   "n_aliases": 5,
+   "n_name_reconciliation_rows": 1
+  },
+  "name_reconciliation": [
+   {
+    "name": "Randy Weston",
+    "mentions": 103,
+    "docs": 23,
+    "qid": "Q1371187",
+    "wd_label": "Randy Weston",
+    "wd_description": "American jazz pianist (1926–2018)",
+    "confidence": "high",
+    "reason": "The interview snippets describe a jazz pianist and bandleader active in New York who worked with Chico Hamilton and Eric",
+    "n_candidates": 7,
+    "audit": "confirm",
+    "qids": "{\"Q1371187\": 23}",
+    "unmatched_docs": 0,
+    "name_collapsed": "Randy Weston"
+   }
+  ],
+  "aliases": {
+   "count": 5,
+   "note": "distinct persons.surface_forms across every doc where the subject is reconciled; n_docs = interviews the form appears in.",
+   "items": [
+    {
+     "text": "Randy Weston",
+     "n_docs": 22,
+     "n_person_rows": 22
+    },
+    {
+     "text": "Randy",
+     "n_docs": 9,
+     "n_person_rows": 9
+    },
+    {
+     "text": "Randy Western",
+     "n_docs": 1,
+     "n_person_rows": 1
+    },
+    {
+     "text": "RANDY WESTON",
+     "n_docs": 1,
+     "n_person_rows": 1
+    },
+    {
+     "text": "Weston",
+     "n_docs": 1,
+     "n_person_rows": 1
+    }
+   ]
+  }
+ },
+ "items": [
+  {
+   "key": "weston",
+   "display_name": "Randy Weston",
+   "nicknames": [],
+   "qid": "Q1371187",
+   "node_id": "wd:Q1371187",
+   "links": {
+    "wikidata": "https://www.wikidata.org/wiki/Q1371187",
+    "wikipedia": "https://en.wikipedia.org/wiki/Randy_Weston",
+    "network": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+    "semlab": {
+     "semlab_id": "Q657",
+     "url": "https://base.semlab.io/wiki/Item:Q657",
+     "entity_uri": "http://base.semlab.io/entity/Q657"
+    },
+    "network_viewer": "https://thisismattmiller.github.io/linked-jazz-2026-network/"
+   },
+   "wd_people": {
+    "qid": "Q1371187",
+    "label": "Randy Weston",
+    "description": "American jazz pianist (1926–2018)",
+    "birth": "1926",
+    "death": "2018",
+    "wp_title": "Randy Weston",
+    "wp_abstract": "Randolph Edward \"Randy\" Weston (April 6, 1926 – September 1, 2018) was an American jazz pianist and composer whose creativity was inspired by his ancestral African connection.\nWeston's piano style owed much to Duke Ellington and Thelonious Monk, whom he cited in a 2018 video as among pianists he counted as influences, as well as Count Basie, Nat King Cole and Earl Hines. Beginning in the 1950s, Weston worked often with trombonist and arranger Melba Liston.\nDescribed as \"America's African Musical Ambassador\", Weston once said: \"What I do I do because it's about teaching and informing everyone about our most natural cultural phenomenon. It's really about Africa and her music.\"",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+    "semlab_id": "Q657",
+    "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+    "mentions": 103,
+    "docs": 23,
+    "interviews": 1,
+    "names_parsed": [
+     "Randy Weston"
+    ]
+   },
+   "node": {
+    "node_id": "wd:Q1371187",
+    "kind": "wd",
+    "label": "Randy Weston",
+    "is_interviewee": 1,
+    "qid": "Q1371187",
+    "semlab_id": "Q657",
+    "mentions": 103,
+    "docs": 23,
+    "singleton": 0,
+    "community": 2,
+    "x": 22426.42,
+    "y": -41588.64,
+    "wd_image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Randy%20Weston.jpg",
+    "semlab_thumb_url": "https://linkedjazz.org/image/square/Randy_Weston.png",
+    "narrated_only": 0
+   },
+   "node_collections": [
+    {
+     "collection": "hamilton",
+     "label": "Hamilton College — Fillius Jazz Archive",
+     "url": "https://litsdigital.hamilton.edu/collections/fillius-jazz-archive"
+    },
+    {
+     "collection": "si",
+     "label": "Smithsonian Jazz Oral History Program",
+     "url": "https://americanhistory.si.edu/explore/projects/smithsonian-jazz/oral-history-program"
+    }
+   ],
+   "community": {
+    "community_id": 2,
+    "rank": 1,
+    "size": 6243,
+    "label": "Swinging Big Band Era",
+    "era": "1930s-1950s",
+    "place": "New York and Chicago",
+    "scene": "Mainstream swing and bebop transition",
+    "summary": "This community centers on the apex of the big band era and the subsequent rise of bebop, dominated by major bandleaders and virtuoso soloists who defined mainstream jazz. Members are bound by extensive professional collaborations in touring orchestras and the vibrant New York and Chicago club scenes during the mid-20th century.",
+    "confidence": 0.95,
+    "key_figures": [
+     "Count Basie",
+     "Dizzy Gillespie",
+     "Charlie Parker",
+     "Clark Terry",
+     "Woody Herman",
+     "Ella Fitzgerald"
+    ]
+   },
+   "headline_stats": {
+    "others": {
+     "note": "Interviews other than his own. This is the 'what they said about him' corpus; the reconciled person layer plus the text hits it missed.",
+     "documents_reconciled": 22,
+     "documents_text_hit_only": 1,
+     "mentions_reconciled": 94,
+     "blocks_reconciled": 81,
+     "blocks_text_hit_only": 3,
+     "distinct_interviewees": 18
+    },
+    "own_interview": {
+     "note": "His own Smithsonian interview (30 Oct 2009, interviewed by Willard Jenkins). These 'mentions' are Jenkins addressing him, headers and archive notes.",
+     "doc_id": "Randy-Weston-Transcription-2020_0",
+     "mentions": 9,
+     "blocks": 9
+    },
+    "total_mentions": 103,
+    "total_mentions_person_mentions_rows": 103,
+    "total_docs": 23,
+    "total_blocks_mentioning": 90,
+    "distinct_interviewees_who_mention": 19,
+    "n_classified_relationships": 22,
+    "n_relationship_rows_skipped": 1,
+    "n_network_edges": 107,
+    "network_edge_weight_sum": 180.767,
+    "interview_years": {
+     "min": 1995,
+     "max": 2021,
+     "median": 2001,
+     "n_docs_with_year": 14,
+     "n_docs_without_year": 9
+    },
+    "node_mentions": 103,
+    "node_docs": 23,
+    "wd_people_mentions": 103,
+    "wd_people_docs": 23,
+    "n_aliases": 5,
+    "n_name_reconciliation_rows": 1
+   },
+   "name_reconciliation": [
+    {
+     "name": "Randy Weston",
+     "mentions": 103,
+     "docs": 23,
+     "qid": "Q1371187",
+     "wd_label": "Randy Weston",
+     "wd_description": "American jazz pianist (1926–2018)",
+     "confidence": "high",
+     "reason": "The interview snippets describe a jazz pianist and bandleader active in New York who worked with Chico Hamilton and Eric",
+     "n_candidates": 7,
+     "audit": "confirm",
+     "qids": "{\"Q1371187\": 23}",
+     "unmatched_docs": 0,
+     "name_collapsed": "Randy Weston"
+    }
+   ],
+   "aliases": {
+    "count": 5,
+    "note": "distinct persons.surface_forms across every doc where the subject is reconciled; n_docs = interviews the form appears in.",
+    "items": [
+     {
+      "text": "Randy Weston",
+      "n_docs": 22,
+      "n_person_rows": 22
+     },
+     {
+      "text": "Randy",
+      "n_docs": 9,
+      "n_person_rows": 9
+     },
+     {
+      "text": "Randy Western",
+      "n_docs": 1,
+      "n_person_rows": 1
+     },
+     {
+      "text": "RANDY WESTON",
+      "n_docs": 1,
+      "n_person_rows": 1
+     },
+     {
+      "text": "Weston",
+      "n_docs": 1,
+      "n_person_rows": 1
+     }
+    ]
+   }
+  }
+ ]
+}

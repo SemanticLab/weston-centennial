@@ -1,0 +1,3861 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1371187",
+ "generated_from": "linked_jazz.sqlite + subagent evaluation pass",
+ "count": 29,
+ "method": "is_about_subject AND notable>=2 AND mention_kind in {substantive_comment, quoted_speech} AND verbatim pull_quote; ranked by notable, chunk_top, confidence, stance_strength",
+ "items": [
+  {
+   "block_id": 212786,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "lot of times because when you get concerned with the blues scale and all of that, first of all, before you dealt with the blues scale you just find out what the blues is. I never did know whether that was plural or singular. The blues. That doesn’t sound right. You know I really, this is a favorite pastime for me. I love talking about jazz because a lot of the things that you’re bringing up I do feel are missing from jazz now. And unless people will talk about that and put that back in — when I first joined Randy Weston 15 years ago, he said something that impressed me then and made me understand him. He said, “BP,” most people who like me call me BP, he said, “I’m just trying to put the magic back in music.” And boy can he ever do it. He is a spellbinder. Every gig I’ve played with him has been a whole total experience. He has put the magic back in, I’ll tell you. We’re going to do a show for BET next August, the 8th I think. I really hope so. Because for me, I feel I’m extremely fortunate — working with Count Basie’s band, and I’ve had an amazing career, if I do say so myself. Because for one thing, it’s been interesting to me. I’ve really loved every second of it. But after having played with Lionel Hampton, that was my first entrance into it, then Count Basie. I recorded a little with Duke Ellington. Then I did the Merv Griffin Show for ten years. I did Broadway. I just did the whole gamut. So I thought by now, on the graph of things, I’d be at the peak and on the downward side. But amazingly enough, it seems like it just keeps going up. And I’m more amazed than anybody. Because Randy Weston for an instance, he’s just like Count Basie, I can’t say only better. I guess well the difference is Count Basie is dead and he’s alive you know. But still he’s a man who leads by example first of all. And then for me, it’s the greatest platform I’ve ever had just playing with bands. Big bands are nice. You get a little eight bar solo here or a little twelve bar. I think I was known for the bridge I played in “April in Paris” because “April in Paris” became a hit and I had the solo, I don’t know it must be eight bars. In big bands that’s all I got a chance to play sometimes. I knew I was going to get a chance to play that solo. But now with this group, there’s only, for the most part, basically five pieces. Two horns out front. So I get a chance to blow until I’m blue in the face. And a lot of it is music I’ve created myself because when I first joined his band there wasn’t really that much written music. I had to listen to some records and sometimes ask, “What note goes here?” He’d say, “I don’t know, find a pretty one and play it.”",
+   "pull_quote": "He said, “BP,” most people who like me call me BP, he said, “I’m just trying to put the magic back in music.” And boy can he ever do it. He is a spellbinder.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "quoted_speech",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "bandleading",
+    "musical_assessment",
+    "character_description",
+    "comparison",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Count Basie",
+    "BET"
+   ],
+   "summary": "Powell said that when he joined Weston fifteen years earlier, Weston told him he was 'just trying to put the magic back in music', called him a spellbinder who leads by example like Count Basie, and said Weston gave him room to create his own parts.",
+   "notable": 3,
+   "is_chunk_top": true,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "continues_previous_block": true,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Also strong in the same block: 'he’s just like Count Basie, I can’t say only better' and Weston's reply about the unwritten parts: 'I don’t know, find a pretty one and play it.' Starts mid-sentence at a page break, but the Weston passage is whole. context_after (216652-53): Weston pays well and will not hire you if he cannot pay properly.",
+   "context_before": [
+    {
+     "block_id": 212782,
+     "page": 7,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "Give us an example or, or elaborate on that."
+    },
+    {
+     "block_id": 212783,
+     "page": 7,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Okay. Bands, one of the main ingredients they’re missing, I play with some bands and I guess I shouldn’t name names. But we do maybe the 1940s Ellington book and so forth. We re-create that. The main ingredient that’s missing is fun. They don’t realize that those guys had fun. Those guys aren’t sitting up here analyzing every note and there’s a leading scholar now who conducts bands, and he explains an eighth note to you. That’s not necessary. There is a natural quality to the music. The music almost dictates to you how it should be played, if you let it. If you want to analyze it and put all of that, it comes out some very cold music because it doesn’t flow from a natural source."
+    },
+    {
+     "block_id": 212784,
+     "page": 7,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "I want to ask you a question and come in on that from another little angle here. And that is this. You know I believe that jazz is a manifestation of oral culture. And can you give us your concept of what you feel music is when it emanates from oral culture or draw us any dichotomies or parallels or differences between oral culture and literate culture. Because I feel like in much of today’s jazz education it’s too dominated by literate culture. By textbooks."
+    },
+    {
+     "block_id": 212785,
+     "page": 7,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Right. Yes. A jazz solo should be like a flow of conversation. If I would say to you, “You’re dressed nicely today” that’s an original statement. You’ve got on a nice white shirt and then the rest of the solo flows. You make a statement, and then reiterate that statement from the kind of jazz I come from. There is another kind of jazz that sounds like mathematics. It sounds like guys just playing patterns. And that’s what he’s doing a"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212787,
+     "page": 8,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "I want to ask you something. Now for some people that type of guidance is too loose. For other people that’s exactly what they want."
+    },
+    {
+     "block_id": 212788,
+     "page": 8,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Well he knows what he’s got. He knows he couldn’t say that to anybody you know. So I feel like I am chosen by him and, to make matters better, he pays very well. If he can’t — he performs in all configurations, from solo to symphony. So sometimes, a lot of times he’ll perform with just himself, an alto player Talib Kibwe, and an African percussionist."
+    },
+    {
+     "block_id": 212789,
+     "page": 9,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "And he performs all over the world, Venezuela, and, but, if the budget can afford to pay me decently, then I’m added. I’m like the fifth member I think that’s added to the band. But if he can’t pay what he’d like to pay, he just won’t hire you. This is good. I like it. So I know whenever he calls it’s a well paying gig and no nonsense."
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, July 27, 1995 [interview 1 of 2]",
+    "collection": "hamilton",
+    "year": 1995,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b8-0"
+   },
+   "doc_id": "275854",
+   "page": 8,
+   "block": 0
+  },
+  {
+   "block_id": 212864,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "fts_supplement",
+   "text": "transplant, he was benevolent enough or kind enough to really arrange for me, because dialysis is something you have to do every week no matter whether you’re in Europe or not. So dialysis is that method that is used when you have kidney failure, when your kidneys don’t function. You go to the hospital for 3-1/2 hours and they put you on a machine that does work that your kidneys would do if they were working. At any rate he arranged for me to have this done three times a week in Europe, well he helped make arrangements. And when we had to travel by bus, well first of all he’s six foot six or something, with long legs, well traveling is not a problem, it certainly doesn’t seem to be because he comes across the Atlantic like it’s the crosstown bus, or the Pacific Ocean. But at any rate my point is instead of looking out for his comfort, he had the back of the bus prepared like a bed for me. And even on this last tour, it might have been around this time we played Seville, Spain, sometimes we had to wake up at six o’clock in the morning or seven and stuff, and you’d have to change planes two or three times. One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.” But he’s just a wonderful — I can’t sing his praises enough. In fact I told you before, I’m doing presentations or programs for the New York organ donor network. I use him as an example of an employer understanding an employee’s problems, especially like this because what he empowered me to feel like, although I had this kidney thing I was still a valuable person. And as I listen to this, with Randy, it’s a perfect spot for me. Because when I was with Basie’s band, well kind of all my life I kind of lived in the shadow of Al Grey. And rightly so. Al Grey is one of the best trombone players ever. I didn’t realize how good he was myself until just recently. Because somehow in bands with Basie’s band and stuff, you don’t think, well I wish I had more solos. When I was with Lionel Hampton’s band, we were first with Lionel Hampton’s band in the late 40s, Al had just left Jimmy Lunceford’s band. I had just left New Orleans. So it was easy to understand. Anyway my solo work has been limited by various factors. One, working with a big band and stuff—",
+   "pull_quote": "One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.” But he’s just a wonderful — I can’t sing his praises enough.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "character_description",
+    "bandleading",
+    "personal_memory",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "dialysis",
+    "European tour",
+    "Seville",
+    "New York organ donor network"
+   ],
+   "summary": "Powell told how Weston arranged dialysis for him three times a week on European tours, had the back of the tour bus made into a bed for him, and offered to carry the trombonist's bags, which made Powell call him an example of an employer who understands an employee's problems.",
+   "notable": 3,
+   "is_chunk_top": true,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "continues_previous_block": true,
+   "ends_midsentence": true,
+   "confidence": "high",
+   "notes": "fts_supplement: the block names him only as 'Randy' plus pronouns. Identity is certain from the window: it continues 216727 ('she and Randy are very close… When I was going through this dialysis'), from a Powell interview about touring in Randy Weston's group, and he is 'six foot six' and 'the boss'. Begins and ends mid-sentence across page breaks. The last third switches to Al Grey and the Basie band (pronoun trap). Also usable: 'he comes across the Atlantic like it’s the crosstown bus'.",
+   "context_before": [
+    {
+     "block_id": 212856,
+     "page": 7,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "How much music does he write out? Quite a bit of it? And you get the solo spot?"
+    },
+    {
+     "block_id": 212857,
+     "page": 7,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "No. Well quite a bit for the form, but it doesn’t seem like much. Melba Liston is responsible for the arrangements. And I don’t know they’re really not extensive, not like a big band with an A, B, C and D. There will be a line here, a whole 16 bars or whatever, 32, and then there’ll be maybe a middle or a transition. But actually it’s built around the solos and stuff. The written music is for interludes or set-ups for the solos."
+    },
+    {
+     "block_id": 212858,
+     "page": 7,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "I was glad to see her name."
+    },
+    {
+     "block_id": 212859,
+     "page": 7,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh, she had a birthday two days ago, Melba Liston. Wonderful woman."
+    },
+    {
+     "block_id": 212860,
+     "page": 7,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "She’s on the west coast isn’t she?"
+    },
+    {
+     "block_id": 212861,
+     "page": 7,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "No, she lives here now."
+    },
+    {
+     "block_id": 212862,
+     "page": 7,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "She lives here now."
+    },
+    {
+     "block_id": 212863,
+     "page": 7,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yeah. She’s been here for about two or three years. She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being. When I was going through this dialysis, before I got a kidney"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212865,
+     "page": 8,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "You don’t get that many."
+    },
+    {
+     "block_id": 212866,
+     "page": 9,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "I was assured of playing the bridge of “April in Paris” with Basie’s band, because sometimes there was a lot of things we had with Judy Garland. It was so funny, I was watching a show the other night, well I was watching this film clip that somebody sent to me, Judy Garland, Mel Torme, and I think it might have been The Sammy Davis Jr. Show, that was done in Brooklyn like 1964 or something. But anyway, they played “April in Paris,” and I was getting all set to see myself play my little bridge, Mel Torme sang it. So you know, you’re sitting up there, oh, this is NBC, they’re finally going to see me, then you go to rehearsal, “Well when we get to that part, Mel, you”— So to be with Randy, you can play until you’re blue in the face with Randy. I mean you can play long solos. I run out of breath before we run out of time."
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b8-0"
+   },
+   "doc_id": "275855",
+   "page": 8,
+   "block": 0
+  },
+  {
+   "block_id": 291800,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+   "pull_quote": "I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory",
+    "character_description"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke",
+    "arranging for Weston"
+   ],
+   "summary": "Liston said she had written for Weston until her stroke and was writing for him again, that he helped pull her out of it, and thanked him for sticking with her when nobody else did.",
+   "notable": 3,
+   "is_chunk_top": true,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Liston's own words, unbracketed. Stroke was 1985 (per spec). Strongest Liston line about him.",
+   "context_before": [
+    {
+     "block_id": 291792,
+     "page": 22,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. I’m her maid."
+    },
+    {
+     "block_id": 291793,
+     "page": 22,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Somebody got that wrong then."
+    },
+    {
+     "block_id": 291794,
+     "page": 22,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yes sir. I was her maid or something. No music. I was all through that one. If they show it and I didn’t know about it, I’ll tell you."
+    },
+    {
+     "block_id": 291795,
+     "page": 22,
+     "block": 18,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Okay, because I haven’t seen that movie, like you said. I haven’t seen it in a long time. So I’ve forgotten. It was Lana Turner, and I forget the name of . . ."
+    },
+    {
+     "block_id": 291796,
+     "page": 23,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I was Lana Turner’s old girl."
+    },
+    {
+     "block_id": 291797,
+     "page": 23,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You don’t remember how you got it. That was one of the main things that I wanted to find out."
+    },
+    {
+     "block_id": 291798,
+     "page": 23,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I can’t remember."
+    },
+    {
+     "block_id": 291799,
+     "page": 23,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But continuing on with the girl groups in New York – what came after? Did you do some more stuff with Randy?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 291801,
+     "page": 23,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "My doctor said you find out who your friends really are."
+    },
+    {
+     "block_id": 291802,
+     "page": 23,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah. My friends really are Frank and all of those. They’re arrangers too. I can’t take nothing away from them. They’ll be my friends."
+    },
+    {
+     "block_id": 291803,
+     "page": 23,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "There was a bass player that . . ."
+    },
+    {
+     "block_id": 291804,
+     "page": 23,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Major Holley?"
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-4"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 23,
+   "block": 4
+  },
+  {
+   "block_id": 313409,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "possible for me to get out of NEW at that particular moment. So I recommended Randy Weston and this is when Randy first went to Africa and he ultimately stayed there and did things. And I knew Randy would love it because when we were both recording for Riverside records, Riverside put out some African records, taped in Africa and we were both fascinated by these records and we talked about them a lot. I was fascinated because I had never heard anything like that and I was thinking you know, a historical point of view. Randy was excited because he wanted to play like that. He wanted to use some of that in his music. It never occurred to me to use it in my music at that time. That was the first thing that hit him. So we both gravitated… we used to talk about these things because he had been so highly influenced by Ellington and by Monk and this seemed to be a logical extension of that concept. And for him it was just… you know to go to Africa and to then participate in the way that he did was just a perfect thing. So I was delighted to be able to suggest him and have him go. So it worked out very well and I listened to a lot of the things that he has developed since then and you know I am very proud to have been a part of that because it might have been different had he not… I am sure he would have gotten that information from somewhere but his music would have been slightly different had he not gone and lived there. Randy Weston is a remarkable musician who has over the years taken the historical line from Africa that has been developed in the Americas and has done something very special with it. I mean he has gone back to the roots in way that few others have. As a matter of fact I don’t know any other person who has done quite what he has done with the roots of the tree if you will. And his compositions and his playing, his approach to the music has been very inspirational to me and to many other people because he is very clear in his vision of so much of the aesthetic that goes into the similarities as well as the differences between African music and African American music. In my own work, one of the things that I have thought about in relation to Africa has been the fact that we have so many things, which we have restructured, so many things that we have utilized in a way that is peculiar to North America, United States in particular. And so to be able to put those into a context in which the piano is voicing my feelings is something that I am coming to in a different way as right now. I am very pleased about it because it really is another look at some things that I was coming to grips with in the early 60’s, late 50’s, early 60’s. I thought about them one way in those days and I thought about the way that I wanted to utilize the African approach to melody, the kinds of things that I wanted to do rhythmically. And I began to experiment with those ideas in ways, which were different because I had experience when I was a younger man. I had other things that were important to me in those days. Now in retrospect I look back at the same set of values and though I look at them in a similar way, I recognize that there are some differences. Perhaps that has to",
+   "pull_quote": "Randy Weston is a remarkable musician who has over the years taken the historical line from Africa that has been developed in the Americas and has done something very special with it.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "personal_memory",
+    "legacy_influence",
+    "influence",
+    "musical_assessment",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Africa trip",
+    "Riverside",
+    "Ellington",
+    "Monk"
+   ],
+   "summary": "Taylor said that when his radio contract kept him home he recommended Weston for the early-1960s cultural trip to Africa, recalled them sharing a fascination with Riverside's field recordings, and called Weston a remarkable musician who had gone back to the roots as no one else had.",
+   "notable": 3,
+   "is_chunk_top": true,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "continues_previous_block": true,
+   "ends_midsentence": true,
+   "confidence": "high",
+   "notes": "Starts and ends mid-sentence (\"It was too long and it was just not\" / \"possible\"); neither split touches the Weston passage. Also strong: \"So I recommended Randy Weston and this is when Randy first went to Africa\" and \"Randy was excited because he wanted to play like that.\" Taylor's claim that this was Weston's first Africa trip is his own recollection. Second half of the block turns to Taylor's own music.",
+   "context_before": [
+    {
+     "block_id": 313407,
+     "page": 117,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Taylor",
+     "text": "Les Paul and Mary Ford who had sold a lot of records for them. So they had a lot of big record sellers on the label. None of them could get their records pressed. They pressed nothing but Beatles. Now here I am with a turntable hit. I mean I am playing on WNEW and everybody in the middle of the road station of which there were many in those days was playing… whatever we were playing they played. So all over the country my records are being heard. Nowhere in the country can they buy them because they are not being pressed. So I am going nuts. I am saying, “Hey man you know this is going to kill me because as of that time my career was highly dependent on records. I had been lucky. I had been successful with records. I had not had any hits but my records sold steadily and very well especially with ABC and those things. So I had a reputation for selling records and filling clubs. But if I don’t have any records I don’t have anything to promote to get on and you know so I am in bad shape. SO I then had to regroup. That was when I decided hey I am going to do radio and I am going to sort of gear my… I know I have got all of these things, these live things on radio but I am going to use radio as my means to do what formally has been done or what other guys are doing with records. That was a mistake. I mean it worked for me and it kept me working. It built a great reputation for me. I made a lot of money. I went into… I produced radio and television commercials as a result of being on the radio. Some of my clients were Colgate, Palmolive and Wonder bread and Pepsi Cola, Coco cola, Valentine Beer, Budweiser Beer. I devised a little thing that I did for Pepsi Cola where along with a woman who was sort of an associate, I guess she was a program director when I first went to LIB. We had a five minute vignette that started off with a Pepsi commercial. I said something and today the Pepsi showcase features Count Basie. You would hear a little Count Basie. I told a little bit about whatever it was he was playing, did the commercial and was out of there. And they slid that into all kinds of shows across the board. Pepsi loved it because instead of just having a plug or a commercial they had five minutes of Pepsi. And things like that I was very good at. I mean I got all that kind of stuff going. And we did a 15 minute version of that for Budweiser Beer. The Budweiser Concert Hall. So these were the kinds of things… I was competition for rock and roll. And I did it not only with straight ahead jazz. My programs on WLIB not… when I got to WNEW that changed. On LIB I could play Cecil Taylor, I could play [Unintelligible] and did on a regular basis. On Saturday I would play once… I had formats. I had a day of women in jazz. I had a day of… I had a format of things like take a number from 1-10. I would start with a solo and do a duo and then do a trio and do that and repeat until the time was over. So I had all these little gimmicks that I did. So people listened. What is this guy going to do"
+    },
+    {
+     "block_id": 313408,
+     "page": 118,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "I was having a ball with records. I was hearing everything and my playing was growing by leaps and bounds because I was listening to stuff that I wouldn’t have listened to otherwise and it really was affecting my playing. I mean you would hear it my work. So my love for Latin music… I was able to do whole shows of the Latin influence and do Macheto and do all the guys that I like. So all of this stuff is going on and I had determined that Beatles or not, if the records thing goes on it’s face, I mean I have got kids who are going to Prep school now. We are talking college type tuition already, and you know they are not even out of prep school. So whatever I was making I needed. It was going… it was a very happy time in my life. I was feeling good. One thing significant happened though. Just before I went with NEW the… I got a call based on some of my earlier television work to be the musical director of a comedy show. It was a pilot for a comedy show that some people were interested in doing. So I said fine. We rehearsed for about a week and then we put the show on. We did the pilot. The show was That was the Week it Was. I was really excited because in getting ready for the pilot they showed us tapes of this English guy who was funny. This guy did some really funny things. His name was David Frost. He wrote the thing and produced it and he had sold the idea to somebody here to do it as a series. I forget if it was NBC or somebody. I forget where they finally put on. At any rate, one of the funniest things that he did while I was looking at the tapes that had been done already in England, this is just a bit that he had originated. You hear this beautiful music, it’s a love song. I mean the guy is playing The Smoke gets in your Eyes on a violin. It is like a violin serenading a loving couple. And you see this guy looking deeply into the eyes of his date and they are almost nose to nose. And he takes out a cigarette and he lights the cigarette for himself and one for her. And then the thing cuts to a shot of somebody lungs and you see the smoke going all through the… I mean it was an anti-smoking commercial… I mean bit back in the days when they were still running commercials for cigarettes. So they never ran that in the early days of the show. But it was that type of humor that interested people with David Frost and what ultimately led to the show going on the air and so forth. But for me, by the time they got ready… we did the pilot… in the time they got the show sold and ready to go I was firmly ensconced at WNEW and they wouldn’t let me out. They said, “You have a contract and we are paying you all this money and you are following William B. Williams so you stay here.” So I did. That contract cost me a couple of things that I wonder about now. At the same time the first big convention meeting of Africans and African Americans took place in Africa. The first cultural coming together happened around this time in the early 60’s. Cultural awareness was becoming something very special. So I was asked to join a bunch of people who were going to Africa and share jazz ideas and what we were doing in the African American community with people from [Unintelligible] and various places in Africa. I forget where it took place now but I couldn’t go because of my contractual arrangements. It was too long and it was just not"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 313410,
+     "page": 120,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "do with getting older, or other experiences bringing other thoughts to mind in terms of… in those days I was concerned about the fact that I as the father, and the head of an African American family, could not control many of the things that I was concerned about as those things related to the economics, the health and welfare, the education and the lifestyle of my family. Now having… both of my children have grown up and one has unfortunately passed away, the other one has just gotten married, I am reassessing the things that I was thinking about then in relation to my music. I always have believed that what you play is really what you are. I mean if you want to know who I am, all you have to do is listen to my music. It’s there. I can’t do that every night on every occasion and be dishonest. I mean whatever it is, good, bad, or indifferent that’s who I am. The same thing is true of my writing especially… it comes through more graphically in some of the lyrics but in the music those thoughts are foremost in my mind. I think a lot of things… when I perform and when I am trying to say something to people, I guess I go back to Ben Webster and Eddie South in particular, because those were two musicians that I knew I could watch them and [Unintelligible] Smith also would fall into that category and many others but especially those three for me. I watch them deliberately set out to have an affect on someone to say I am saying this to you. This is what I want you to hear. It was almost as if they were pointing a horn or a violin at that person. And the person would really react. And I want to do that. I have always wanted to do that on the piano. And sometimes I succeed. I think that that’s the kind of thing that in this gathering of things that are a part of who I am and what I play, it really… the period of the late 50’s and early 60’s was… appeared when I was putting all this on the table. I was thinking oh this is what this is and kind of getting a mature look at those things. It had taken me a long time to arrive at that point but that was one of the things… it was a life changing period where I just came to the realization of certain things that were important to me."
+    }
+   ],
+   "doc": {
+    "title": "Billy Taylor — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Billy Taylor",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Billy Taylor",
+      "qid": null,
+      "node_key": "nm:billy taylor"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript#b119-0"
+   },
+   "doc_id": "Taylor_Billy_Transcript",
+   "page": 119,
+   "block": 0
+  },
+  {
+   "block_id": 285791,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Keepnews",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "He came in. What happened was, Weinstock had come…our office, I don’t really remember why…we were on West 48th street, and Prestige was on West 50th street. Miles was curious. Where was Weinstock going in the name of them? Really curious when he saw where he was going, so he walked in moments afterwards. So, we got involved in a conversation in which I said…I got it now. We had some recent albums on the wall, including a couple of Randy Weston. I had, no, I look around and saw that Miles was looking at these things and I was…and he said, “Oh, Randy! I’m glad somebody got around to recording him. It should have been done along time ago,” and I said, “Well if you feel that way about Randy, why didn’t you recommend him to your label?” Miles was still at Prestige at this point. He gave me, what I later came to recognize as a typical Miles Davis withering glare and he said, “I should recommend somebody to him?” He was indicating, with great scorn, Mr. Weinstock. Now, that’s a story, since both participants with me in that conversation are no longer with us, which can be used. As a matter of fact, that’s an outstanding example that if you happen to wait long enough, if you happen to be the survivor, there are lots of stories you can tell. (Laughs) That was…let me see…the thing was, there we were sitting there. It was kind of, you know, the Bill Evans thing is almost as ridiculous. That story has been told quite a bit but that’s in the same bag, that’s Mundallo playing a demo tape over the phone or Grauer and me. There’s a weird part of what a bad idea that is. Yet, there was something was to be heard. The next thing I did was; first of all, let me hear that under somewhat better circumstances. Bill was playing with, he was sort of, he was sort of in that, he played some with Herbie Mann, and he played with Tony Scott a good deal. You know, so that, you know this was a very valid point, the point was that I was aware of Bill Evans through other people, through the chain of events. I was aware of him before Miles was. Then we got into that situation where we did one record with him, with Bill, he was very reluctant to record again. That’s a story that I’ve told where he said, “I don’t have anything new to say.” And to me, that is a very important part that era. There were artists, practically, to be picked up on the street. Jimmy Heath, who was doing some recovery time…Kenny Durham came into my office one day and said, in the course of conversation, “You know little bird is getting out of jail pretty soon.” He was in the federal rest home. I didn’t know who little bird was! He was rather surprised that I didn’t know of Jimmy Heath. So what happened was, I used to say, “I’m startled at the fact that I don’t see any other… Here I am in Bird Land and I don’t think I’ve ever seen another A&R man, for anybody, in here.” I managed to have friends who happened to be musicians. There were people who obviously, well we certainly had some tastes in common, and there was compatibility. But people like Jimmy, like Griffin, like Blue Mitchell, these were my friends. I’m very aggravated about the whole geography bit where I was just saying earlier that I’m really very far away from Hutcherson. And Hutcherson has not been doing, in the last couple years, local gigs really. I got a whole history of…I don’t think there is anything unusual. If I was taken over by this music, why would I not have a number of friends that have the same taste, the same musical",
+   "pull_quote": "We had some recent albums on the wall, including a couple of Randy Weston. I had, no, I look around and saw that Miles was looking at these things and I was…and he said, “Oh, Randy! I’m glad somebody got around to recording him. It should have been done along time ago,” and I said, “Well if you feel that way about Randy, why didn’t you recommend him to your label?”",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "business",
+    "hearsay",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Riverside Records",
+    "Miles Davis",
+    "Prestige",
+    "Bob Weinstock"
+   ],
+   "summary": "Keepnews recalled Miles Davis seeing Weston's Riverside albums on his office wall and saying he was glad somebody had finally recorded him, then refusing with scorn to recommend anyone to his own label boss, Bob Weinstock.",
+   "notable": 3,
+   "is_chunk_top": true,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "continues_previous_block": false,
+   "ends_midsentence": true,
+   "confidence": "high",
+   "notes": "The praise is Miles Davis's, reported first-hand by Keepnews. These are not Weston's words, so quotes_the_subject is false. 'along time ago' is verbatim. The block ends mid-sentence at a page break ('the same musical / compulsions?'), long after the Weston part. Most of the block is about Bill Evans and Jimmy Heath.",
+   "context_before": [
+    {
+     "block_id": 285787,
+     "page": 15,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Keepnews",
+     "text": "I think that I have no hesitation about feeling proud and pleased at any award of real stature like this. The important thing is, you know, strangely enough, that they don’t make the distinction. But there is supposed to be, and there is a chain of, though it’s non-performers that are in there for one of these slots…and its known, although I didn’t see it in the formal announcement of the thing, but this is known as the A.B. Spellman Award, this particular thing, because it’s for advocacy. I didn’t see that in their original, the original publicity piece, and the original announcements of it. That’s their problem not mine. I’m very pleased that I got this, and I’m very pleased that I didn’t have to wait any longer for it. I have nothing but respect and admiration for the people who have been selected in the preceding years. I thought that giving it to John Levy was a wonderful idea. Including the fact that John Levy was the artist manager in what I described as the first signing scene where the artist had a manager. (Laughs) That ties in with that very well as far as I’m concerned. So that the…I am…I’m delighted that I do have, and have been able to talk with you about, a whole slew of tangible accomplishments. I’ve done that without even throwing in the names of some fairly heavyweight people who I can take a certain amount of credit for like Johnny Griffin, like Jimmy Heath, like Bill Evans…"
+    },
+    {
+     "block_id": 285788,
+     "page": 15,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Brown",
+     "text": "Wes Montgomery?"
+    },
+    {
+     "block_id": 285789,
+     "page": 15,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Keepnews",
+     "text": "Wes Montgomery. Yes. Actually, I guess when you’re putting things in order; it’s Bill Evans and Wes Montgomery that stand out as an art. They are just a matter of my being told about somebody and having followed up on it. That sequence of events thing that I was starting to talk to you about with the presence of Clark leading to the Adderely’s, and the really the next step in that story is Cannonball coming into my office one morning. He had just gotten back from a one-nighter in Indianapolis and telling me, “I heard this really great guitar player. We’ve got to get him for the label.” To me, the biggest part of that is Cannonball Adderely referring to Riverside as “we.” Because, by way of contrast, I had recently taken part in a conversation where it was said to Miles Davis…He had shown up, he had followed Bob Weinstock into the Riverside offices, which were then one block away…"
+    },
+    {
+     "block_id": 285790,
+     "page": 15,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Brown",
+     "text": "Into Riverside, or Prestige? He came to your office?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 285792,
+     "page": 17,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "compulsions? These were the people that I was living with! They were doing what they felt they had to do! I’m the same story."
+    },
+    {
+     "block_id": 285793,
+     "page": 17,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Brown",
+     "text": "One of the things that Bobby said in the course of his interview, in discussing his relationship with you, was he said, “Orrin is always finding and searching for new talent, new sound,” I think is how he phrased it. Even though in the last two decades you haven’t been as active, you still succeeded in doing that. I know that Dave Ellis is one of the artists that you helped to bring to the public. Me personally, I am very grateful for the fact that you introduced us at the Monterey Jazz Festival when we were doing the Ellington. Here you are, you’ve now produced the definitive Ellington collection for the Centennial, I’m doing something called, “Far East Suite”, and you were introducing us at the Monterey Jazz Festival. The next thing I know you’re saying, “Well, Brown have you ever considered giving Monk the same treatment you gave Duke?” That launched a project that we worked on that ended up getting a five-star Downbeat review, and being selected as one of the albums of 2004. You know, your track record continues to this day, of what Bobby said, you’re finding new sound and trying to get it out there. The jazz advocacy award is really suited for your achievements, and your accomplishments, and your career. That’s what you’ve done! You brought Monk to the public; you brought Bill Evans to the public, the Adderely brothers, Wes Montgomery, and a host of others. So, we can look at you as a producer, we can look at you as a advocate, we can look at you as an advocate, we can look at you as a writer; but when one reflects on the career of Orrin Keepnews he brought sound to the public. He made it possible for these people to be heard around to the world. And in this field, what could be lauded in greater fashion?"
+    }
+   ],
+   "doc": {
+    "title": "Orrin Keepnews — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Orrin Keepnews",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Orrin Keepnews",
+      "qid": "Q352028",
+      "node_key": "wd:Q352028"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Keepnews_Orrin_Transcript#b16-0"
+   },
+   "doc_id": "Keepnews_Orrin_Transcript",
+   "page": 16,
+   "block": 0
+  },
+  {
+   "block_id": 304752,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Jimmy Owens",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Randy Weston was somebody who was around that, when I bumped into him, I asked him, “Can I get some lead sheets of your music.” Like I said, the record companies, Blue Note and Prestige and whatever Bob Shad’s record company was, they didn’t have any lead sheets for all of these songs that they published. Randy Weston said, “Sure, come by! We’re having a meeting up at 135th street about the organization to help musicians. Come by there and bring you some lead sheets.” So, I went up there—I should say I went down from the Bronx to 135th street. This place was over a funeral parlor, and that’s where they were having the meeting. Randy Weston gave me a stack of about an inch of his lead sheets. One of the things he said was, “You’ve gotta have your stuff written out if you want people to record it.” This was all professionally done and wonderful. Then, you know, he would tell me things about publishing, and that was corroborated with Donald Byrd. Then, when Cannonball Adderley was around, I knew Cannonball from the Newport Youth Band. You know…the Newport Youth Band had a lot of guests. Our last concert, Ernie Wilkins wrote a piece for our alto saxophone, Andy Marsala and Cannonball Adderley. That particular work, we recorded that, up at Newport Jazz Festival in 1960.",
+   "pull_quote": "Randy Weston gave me a stack of about an inch of his lead sheets. One of the things he said was, “You’ve gotta have your stuff written out if you want people to record it.”",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "quoted_speech",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business",
+    "personal_memory",
+    "anecdote"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "lead sheets",
+    "135th Street",
+    "music publishing"
+   ],
+   "summary": "Owens recalled that Weston invited him to a musicians' organizing meeting on 135th Street, gave him an inch-thick stack of his lead sheets, and told him he had to have his music written out if he wanted people to record it.",
+   "notable": 3,
+   "is_chunk_top": true,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Contains Weston's own reported words twice (\"Sure, come by! We’re having a meeting up at 135th street about the organization to help musicians.\"). Last third of the block moves on to Cannonball Adderley.",
+   "context_before": [
+    {
+     "block_id": 304747,
+     "page": 30,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Maxine Gordon",
+     "text": "It wasn’t December."
+    },
+    {
+     "block_id": 304748,
+     "page": 30,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Jimmy Owens",
+     "text": "We did this album, Moody was going to be our saxophonist, but then he got called out of town with Dizzy for a long tour. So, we used Benny Maupin, who was pretty new on the scene. He had been around but he had not recorded a whole lot. I used that rhythm section: Kenny, Chris and Rudy Collins. Then, on one of the two sessions, I used Freddie Waits to play drums. We recorded an album called “You Had Better Listen” in 1967. Kenny Barron contributed two songs, or something like that, maybe three. I contributed one song, we played a standard “The Night We Call To The Day.” It was a lot of fun, then I went for about three years with no recordings. Nobody signed me."
+    },
+    {
+     "block_id": 304749,
+     "page": 30,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Maxine Gordon",
+     "text": "After that one record for Atlantic?"
+    },
+    {
+     "block_id": 304750,
+     "page": 31,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Jimmy Owens",
+     "text": "After that one record for Atlantic, yes. I think I got three percent, which I had to split with Kenny Barron. (Laughs) But, when I recorded my song, “You Had Better Listen,” the publishing went alone to Jimmy Owens. All of my recordings, anything published, always belonged to me. I never shared publishing, or gave publishing away to the record company. Again, that’s Donald Byrd, that’s Randy Weston, who helped me."
+    },
+    {
+     "block_id": 304751,
+     "page": 31,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Maxine Gordon",
+     "text": "That’s the second time you’ve mentioned Randy Weston, but how did he help you?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 304753,
+     "page": 31,
+     "block": 3,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[Recording Stops]"
+    },
+    {
+     "block_id": 304754,
+     "page": 31,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Maxine Gordon",
+     "text": "(Laughs) Jimmy Owens part three. Could we just go back a little bit to Marshall Brown, I know we’re taking us a few years back to the Newport Youth Band, because maybe you could talk about him and how that influenced you, and the importance of that."
+    },
+    {
+     "block_id": 304755,
+     "page": 31,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Jimmy Owens",
+     "text": "The most important thing about Marshall Brown was, his whole concept was to train us, the students, and you had to leave the band when you were 17. When I was in the band, I was 16 years old. You had to leave the band at 16, and what he wanted to have happen was that you were a thorough professional, that you understood what it was like and what you had to do to be a professional. That you could read and interpret any music that was put in front of you, that you understood about being on time before time, you know? One o’clock rehearsal? You saxophone players are there at quarter to"
+    }
+   ],
+   "doc": {
+    "title": "Jimmy Owens — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Jimmy Owens",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Jimmy Owens",
+      "qid": null,
+      "node_key": "nm:jimmy owens"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-2"
+   },
+   "doc_id": "Owens_Jimmy_Transcript",
+   "page": 31,
+   "block": 2
+  },
+  {
+   "block_id": 212842,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "BP",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Man, I was in Germany with Wild Bill Davison, the old cornet player, and man he had his little audiotape that he — and by this time he was about 387 years old, I mean this guy was old, but he had this little walkman and he put his tape on, put his cup mute in and got ready for the gig. Well I think I’ve watched people who have survived — well some people don’t, Jane Jarvis doesn’t have to practice. That’s amazing. Well I guess she does — she keeps loosened up, but it comes easier for some people than others. I told you in the beginning, I found out early in my life, if I want to do something I have to work at it. So it comes easy for some people. But I don’t think it comes easy for too many people. It seems like everybody I know, you know Randy Weston is the greatest pianist in the world, but I know every so often he’ll sneak up the Steinway — well not sneak up — well he doesn’t really — I don’t know whether he practices that much or not. I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down. It’s amazing.",
+   "pull_quote": "I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "practice",
+    "piano"
+   ],
+   "summary": "Powell called Weston the greatest pianist in the world and said it was a joy to work with him, because every time he sat down at the piano it sounded like a concerto.",
+   "notable": 3,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": true,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Shorter alternative: 'It sounds like a concerto every time he sits down. It’s amazing.' The sentence 'you know Randy Weston is the greatest pianist in the world' trails off into a self-correction about practising and is hard to quote cleanly.",
+   "context_before": [
+    {
+     "block_id": 212836,
+     "page": 4,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "[scats] My kids did it too. BC: You know the deal."
+    },
+    {
+     "block_id": 212837,
+     "page": 4,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Pepperoni pizza, isn’t it? BC: Because at first, so I knew “Twinkle, Twinkle Little Star,” we played through that already. So I said, “What else do you guys know? And one of them said, “Chuckle Chuckle Stops Up.” And I said, “I don’t know that,” and I said, “play it for me.” Oh man. And then there was another one, “Run Mamma, Daddy.” Anyway I had a great time with them. I got there and then we had a great Christmas. I don’t have time to really tell you how funny, but the next day I had a gig in Washington at a club called Schwinns, with a local rhythm section, oh just great guys. I’m terrible for names. Alan Johnson I know was on piano. A nice rhythm section they just had to put together that I had the date"
+    },
+    {
+     "block_id": 212838,
+     "page": 5,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "on. The following day I got up and did a shoot just like this for my niece who was putting together this footage. And I got on the bus that evening and in about three or four days I covered all forms of media."
+    },
+    {
+     "block_id": 212839,
+     "page": 5,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Wow. You know you said something that just struck me so much when I called you last week I guess. You said, “Oh I’m just here practicing with my Jamey Aebserold.”"
+    },
+    {
+     "block_id": 212840,
+     "page": 5,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 212841,
+     "page": 5,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "And talk about education, you’re never quitting, you’re still—"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212843,
+     "page": 5,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "He seems like a very spiritual person, reading his liner notes and so forth."
+    },
+    {
+     "block_id": 212844,
+     "page": 5,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know. And he’s done his research in libraries in Morocco, Germany — these guys man, it’s amazing to be with them. Randy, Talib Kibwe, Neil Clark and this time I think there was a bass player from France who played with us, James — well I’m going to shoot myself — but I think he has a name like Williams or something. At any rate, these guys are always on, when we have a day off, they’re out somewhere doing research in the library or something."
+    },
+    {
+     "block_id": 212845,
+     "page": 5,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "It reminds me of something I remember you saying, and I’m going to quote you now, from our first interview. You said, “Most successful musicians understand humankind. Whether you’re talking to a president or a porter you should be able to communicate.”"
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-4"
+   },
+   "doc_id": "275855",
+   "page": 5,
+   "block": 4
+  },
+  {
+   "block_id": 283283,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Hendricks",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "There’s not that much difference between writing for Duke and writing for Monk, because philosophy is at the basis of what they both do, and one is a child of the other. From Duke comes Monk. They both are well steeped in a deep religious philosophy. So those two I would put almost next to each other as practically the same. With Miles there’s a more secular, hip, light, airy, whimsical, quixotic, affected way that you can take. It’s not as deep as either Monk or Duke Ellington is, but it’s cute, and sometimes it’s very pretty, like in the Miles Ahead things and My Ship. The way he sings “Bess, where is my Bess?” is heartbreaking, just gorgeously beautiful. He has great beauty about him, but the depth belongs to Monk and Duke. They’re the deep ones. Randy Weston also has depth, because he comes from Monk, which is the lineage Duke – Monk – Randy. So he has some of that depth.",
+   "pull_quote": "Randy Weston also has depth, because he comes from Monk, which is the lineage Duke – Monk – Randy. So he has some of that depth.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "comparison",
+    "influence",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Duke Ellington",
+    "Thelonious Monk",
+    "Miles Davis",
+    "lineage"
+   ],
+   "summary": "Hendricks placed Weston in a lineage of depth running from Duke Ellington through Monk, saying that because he came from Monk he had some of that depth.",
+   "notable": 3,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "'some of that depth' is a slight hedge: praise ranked just below Duke and Monk. Most of the block compares Duke and Monk with Miles.",
+   "context_before": [
+    {
+     "block_id": 283275,
+     "page": 79,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "undeniable that they are dead, and I think they are dead because they both made that mistake. They tried to pass good. Life is something like a Monopoly game: “Do not pass good.”"
+    },
+    {
+     "block_id": 283276,
+     "page": 79,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Monk said you were Monk’s lyricist."
+    },
+    {
+     "block_id": 283277,
+     "page": 79,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "He said I was the only mother he wanted to put words to his music, and I was very flattered by that use of that half a word to describe me."
+    },
+    {
+     "block_id": 283278,
+     "page": 79,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "You’ve written a lot of lyrics to his works: Hackensack, Crepuscle with Nellie. One of my very favorites is Monk’s Dream."
+    },
+    {
+     "block_id": 283279,
+     "page": 79,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Trinkle Tinkle."
+    },
+    {
+     "block_id": 283280,
+     "page": 79,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Monk’s Dream. “I dream of a light that was pure and true. I dreamed of a job only I could do. One gal beside me. We be a team. Man, that was a dream.” Was that Monk? Or was that you?"
+    },
+    {
+     "block_id": 283281,
+     "page": 79,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "That was Monk. He married his childhood sweetheart, and they were together to the end of his life. He had two children. That’s the American dream."
+    },
+    {
+     "block_id": 283282,
+     "page": 79,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "How does writing for Monk or Miles differ from writing for Duke Ellington?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 283284,
+     "page": 79,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Tell me about scatting, if you don’t mind. Just the use of the various vowels and syllables and their relationship between the various musical instruments. Do you ever think about that at all?"
+    },
+    {
+     "block_id": 283285,
+     "page": 79,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Only in relation to what horn you’re going to be that time. Are you going to be standing up in the saxophone section and blowing? Or are you going to be standing up in the trumpet section? Are you going to be the trombone? Are you going to be the"
+    },
+    {
+     "block_id": 283286,
+     "page": 80,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "piano? Or are you going to be the guitar? What instrument are you going to be? That determines the sound that you’re going to make."
+    },
+    {
+     "block_id": 283287,
+     "page": 80,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Is there a way of practicing that?"
+    }
+   ],
+   "doc": {
+    "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": 2020,
+    "interviewee_field": "Jon Hendricks",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Jon Hendricks",
+      "qid": "Q1702784",
+      "node_key": "wd:Q1702784"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b79-8"
+   },
+   "doc_id": "Jon-Hendricks-Transcription-2020",
+   "page": 79,
+   "block": 8
+  },
+  {
+   "block_id": 291863,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Some people, they ask for this and that and the other, and you have to write for them like a stage act, but mostly I write for bands, and they tell me go ahead, do whatever you want to do. Sometimes I’m writing for bands that have criteria and then sometimes I’m free to write. Randy, I have all the freedom I want.",
+   "pull_quote": "Randy, I have all the freedom I want.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "bandleading"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "arranging freedom"
+   ],
+   "summary": "Liston said that, unlike clients who dictated what they wanted, Weston gave her all the freedom she wanted as his arranger.",
+   "notable": 3,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Good follow-ups sit in neighbouring blocks that call him only \"he\": 295901 (\"he gives me the song and the changes, and that’s all. But we’ve been together – what? – ’56 to ’96... 40 years. He don’t tell me anything.\") and 295903 (\"He says I write like he writes.\"). Context shows the contrast with clients who want a stage act.",
+   "context_before": [
+    {
+     "block_id": 291857,
+     "page": 26,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But you knew him out here?"
+    },
+    {
+     "block_id": 291858,
+     "page": 26,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. That was a long time ago. He did all his writing. Maybe one or two things I wrote for, but not many things. Watson: How was writing for Mingus different than it was writing for Monk?"
+    },
+    {
+     "block_id": 291859,
+     "page": 26,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "All the world difference. Monk is Monk and Mingus is Mingus. They’re too many things apart. Monk is a piano player and he does things with the piano that nobody else does, and I have to leave spaces and stuff for him. Mingus. It’s altogether different for Mingus. Either you do or you don’t for Mingus. I can’t remember anything"
+    },
+    {
+     "block_id": 291860,
+     "page": 27,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "negative about him. I write something and then I leave holes and stuff for him and then write something else to take it out, for Mingus. Watson: What was most challenging about writing for Mingus?"
+    },
+    {
+     "block_id": 291861,
+     "page": 27,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I write for everybody, and they’re all challenging. Anybody I write for, because I haven’t had no training, so I have to dig down and do it from there. All my things are challenging."
+    },
+    {
+     "block_id": 291862,
+     "page": 27,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What are some of the challenges that you’ve found when you write for different people? Do they tell you what they want and lay it out, and then you go from there, from what you feel about that, or do you have to really think, like you said, and know the person and write from what you’ve got inside?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 291864,
+     "page": 27,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "What’s the criteria for writing for him then? Just whatever you feel? He gives you the song or the changes?"
+    },
+    {
+     "block_id": 291865,
+     "page": 27,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, he gives me the song and the changes, and that’s all. But we’ve been together – what? – ’56 to ’96. How many is that? 40 years. He don’t tell me anything."
+    },
+    {
+     "block_id": 291866,
+     "page": 27,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because you probably already know before he says it, after 40 years."
+    },
+    {
+     "block_id": 291867,
+     "page": 27,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He says I write like he writes."
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-3"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 27,
+   "block": 3
+  },
+  {
+   "block_id": 212844,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "BP",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know. And he’s done his research in libraries in Morocco, Germany — these guys man, it’s amazing to be with them. Randy, Talib Kibwe, Neil Clark and this time I think there was a bass player from France who played with us, James — well I’m going to shoot myself — but I think he has a name like Williams or something. At any rate, these guys are always on, when we have a day off, they’re out somewhere doing research in the library or something.",
+   "pull_quote": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description",
+    "africa"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "spirituality",
+    "research",
+    "Talib Kibwe",
+    "Morocco"
+   ],
+   "summary": "Powell agreed that Weston was exceptionally spiritual, called him the most scholarly person he knew, and said Weston and his bandmates spent their days off researching in libraries.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "'Oh he is' answers Rowe's 'He seems like a very spiritual person, reading his liner notes' (216707), so 'he' is Weston. The later 'these guys' widens to the whole band.",
+   "context_before": [
+    {
+     "block_id": 212840,
+     "page": 5,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 212841,
+     "page": 5,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "And talk about education, you’re never quitting, you’re still—"
+    },
+    {
+     "block_id": 212842,
+     "page": 5,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Man, I was in Germany with Wild Bill Davison, the old cornet player, and man he had his little audiotape that he — and by this time he was about 387 years old, I mean this guy was old, but he had this little walkman and he put his tape on, put his cup mute in and got ready for the gig. Well I think I’ve watched people who have survived — well some people don’t, Jane Jarvis doesn’t have to practice. That’s amazing. Well I guess she does — she keeps loosened up, but it comes easier for some people than others. I told you in the beginning, I found out early in my life, if I want to do something I have to work at it. So it comes easy for some people. But I don’t think it comes easy for too many people. It seems like everybody I know, you know Randy Weston is the greatest pianist in the world, but I know every so often he’ll sneak up the Steinway — well not sneak up — well he doesn’t really — I don’t know whether he practices that much or not. I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down. It’s amazing."
+    },
+    {
+     "block_id": 212843,
+     "page": 5,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "He seems like a very spiritual person, reading his liner notes and so forth."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212845,
+     "page": 5,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "It reminds me of something I remember you saying, and I’m going to quote you now, from our first interview. You said, “Most successful musicians understand humankind. Whether you’re talking to a president or a porter you should be able to communicate.”"
+    },
+    {
+     "block_id": 212846,
+     "page": 6,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh well he does fantastic stuff. We went to Jamaica last year to play a festival there. Randy is so smooth. Well he lives in Morocco, and he travels back and forth. He lives in Marakesh and Brooklyn. But in the meantime, Randy’s been working with the United Nations. If you see some of his albums, he has albums concerning Africa long before Africa was free. He’s been living in Africa, I don’t know 30 years, as well as here. So his whole communication skills, they’re just magnificent. For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person. Because he always is complimenting people. But at any rate I saw him with this ticket lady, I saw him put maybe about two tons of percussion and stuff on his first class ticket. All that luggage you know, you usually have to pay extra freight for that. He was, I don’t know, somehow he talked to this lady and all the while he’s saying — Randy forgive me, I’m telling your secrets but it’s all good — all the while he’s saying to us isn’t she pretty? I love the people down here. The lady’s writing one ton, two tons. But traveling with those guys is such a joy because they’re all on a scholarly level. And well they’re like 360 degrees, but it’s all not about the last lady you saw. I’d better take this gum out of my mouth."
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-6"
+   },
+   "doc_id": "275855",
+   "page": 5,
+   "block": 6
+  },
+  {
+   "block_id": 212846,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "BP",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Oh well he does fantastic stuff. We went to Jamaica last year to play a festival there. Randy is so smooth. Well he lives in Morocco, and he travels back and forth. He lives in Marakesh and Brooklyn. But in the meantime, Randy’s been working with the United Nations. If you see some of his albums, he has albums concerning Africa long before Africa was free. He’s been living in Africa, I don’t know 30 years, as well as here. So his whole communication skills, they’re just magnificent. For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person. Because he always is complimenting people. But at any rate I saw him with this ticket lady, I saw him put maybe about two tons of percussion and stuff on his first class ticket. All that luggage you know, you usually have to pay extra freight for that. He was, I don’t know, somehow he talked to this lady and all the while he’s saying — Randy forgive me, I’m telling your secrets but it’s all good — all the while he’s saying to us isn’t she pretty? I love the people down here. The lady’s writing one ton, two tons. But traveling with those guys is such a joy because they’re all on a scholarly level. And well they’re like 360 degrees, but it’s all not about the last lady you saw. I’d better take this gum out of my mouth.",
+   "pull_quote": "For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": true,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "character_description",
+    "humor",
+    "africa",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Jamaica",
+    "Morocco",
+    "United Nations",
+    "airport"
+   ],
+   "summary": "Powell called Weston's communication skills magnificent and told how, flying back from Jamaica, Weston charmed a ticket agent into putting a load of percussion on his first-class ticket while telling the band how pretty she was.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "'Oh well he does fantastic stuff' follows Rowe quoting Powell's earlier line about communicating with people; 'he' is Weston. Weston's words are reported without quotation marks ('isn’t she pretty? I love the people down here'). Biographical claims (lives in Marrakesh and Brooklyn, working with the United Nations, 30 years in Africa) are Powell's own and not checked.",
+   "context_before": [
+    {
+     "block_id": 212842,
+     "page": 5,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Man, I was in Germany with Wild Bill Davison, the old cornet player, and man he had his little audiotape that he — and by this time he was about 387 years old, I mean this guy was old, but he had this little walkman and he put his tape on, put his cup mute in and got ready for the gig. Well I think I’ve watched people who have survived — well some people don’t, Jane Jarvis doesn’t have to practice. That’s amazing. Well I guess she does — she keeps loosened up, but it comes easier for some people than others. I told you in the beginning, I found out early in my life, if I want to do something I have to work at it. So it comes easy for some people. But I don’t think it comes easy for too many people. It seems like everybody I know, you know Randy Weston is the greatest pianist in the world, but I know every so often he’ll sneak up the Steinway — well not sneak up — well he doesn’t really — I don’t know whether he practices that much or not. I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down. It’s amazing."
+    },
+    {
+     "block_id": 212843,
+     "page": 5,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "He seems like a very spiritual person, reading his liner notes and so forth."
+    },
+    {
+     "block_id": 212844,
+     "page": 5,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know. And he’s done his research in libraries in Morocco, Germany — these guys man, it’s amazing to be with them. Randy, Talib Kibwe, Neil Clark and this time I think there was a bass player from France who played with us, James — well I’m going to shoot myself — but I think he has a name like Williams or something. At any rate, these guys are always on, when we have a day off, they’re out somewhere doing research in the library or something."
+    },
+    {
+     "block_id": 212845,
+     "page": 5,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "It reminds me of something I remember you saying, and I’m going to quote you now, from our first interview. You said, “Most successful musicians understand humankind. Whether you’re talking to a president or a porter you should be able to communicate.”"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212847,
+     "page": 6,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "We can park it somewhere."
+    },
+    {
+     "block_id": 212848,
+     "page": 6,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "No, for that reason it’s a pleasure. Alex Blake is the regular bass player with her, and he’s phenomenal also. Alex Blake has, I think he comes from the Dominican Republic. But when he plays he has a strumming technique as well. With our group it’s pretty — this is Randy Weston’s group — it’s pretty — oh I’ve got a picture of us in Spain. Each one of us can hold the stage by ourselves for a little while, and Alex just does it tremendously. Well I mean hold a solo spot for a little while. I don’t know, shall we? This is from a concert we did in Seville Spain last year. I think it’s really nice how they do it. It’s from a newspaper but look at the fleshtones in Randy’s hand and so forth. And there’s Randy and there’s — oh I’m sorry, maybe we should put this on a stand or something. Okay, I want to talk about this lady too. Our last album concerned the African presence in the Shang Dynasty. This is a Chinese woman and she’s playing a Chinese instrument called the pipa. She’s on our last album, Khepera it’s called. But Randy has such a beautiful"
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b6-0"
+   },
+   "doc_id": "275855",
+   "page": 6,
+   "block": 0
+  },
+  {
+   "block_id": 212849,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "way, he’s like Duke Ellington. He can meld anything because I think, well I don’t know, he has just the most beautiful organizational sense. Sometimes when we play Moroccans, sometimes we play with Moroccan musicians, Moroccans will start to play first, and I’m wondering now that’s a bit different, I know it would be a challenge if I had to play with that, now what is Randy going to play with that? And in two or three minutes it sounds like they’ve been working together for years. But it’s the same thing with this woman, Min Xiao Fen, she’s a master at this instrument called the pipa. And this last tour we did, well you heard all of this on this album if you played this album. Have you played this album at all?",
+   "pull_quote": "way, he’s like Duke Ellington. He can meld anything because I think, well I don’t know, he has just the most beautiful organizational sense.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "bandleading",
+    "musical_assessment",
+    "comparison",
+    "africa"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Duke Ellington",
+    "Moroccan musicians",
+    "Min Xiao Fen",
+    "pipa"
+   ],
+   "summary": "Powell compared Weston to Duke Ellington, saying he could meld anything thanks to his beautiful organizational sense, so that within minutes of starting with Moroccan musicians the band sounded as if they had worked together for years.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "continues_previous_block": true,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Begins mid-sentence: the sentence starts in 216712 ('But Randy has such a beautiful'). The pull quote therefore opens on the fragment 'way,'. An editor could join it to the previous block's end. Alternative from inside the block: 'And in two or three minutes it sounds like they’ve been working together for years.'",
+   "context_before": [
+    {
+     "block_id": 212845,
+     "page": 5,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "It reminds me of something I remember you saying, and I’m going to quote you now, from our first interview. You said, “Most successful musicians understand humankind. Whether you’re talking to a president or a porter you should be able to communicate.”"
+    },
+    {
+     "block_id": 212846,
+     "page": 6,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh well he does fantastic stuff. We went to Jamaica last year to play a festival there. Randy is so smooth. Well he lives in Morocco, and he travels back and forth. He lives in Marakesh and Brooklyn. But in the meantime, Randy’s been working with the United Nations. If you see some of his albums, he has albums concerning Africa long before Africa was free. He’s been living in Africa, I don’t know 30 years, as well as here. So his whole communication skills, they’re just magnificent. For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person. Because he always is complimenting people. But at any rate I saw him with this ticket lady, I saw him put maybe about two tons of percussion and stuff on his first class ticket. All that luggage you know, you usually have to pay extra freight for that. He was, I don’t know, somehow he talked to this lady and all the while he’s saying — Randy forgive me, I’m telling your secrets but it’s all good — all the while he’s saying to us isn’t she pretty? I love the people down here. The lady’s writing one ton, two tons. But traveling with those guys is such a joy because they’re all on a scholarly level. And well they’re like 360 degrees, but it’s all not about the last lady you saw. I’d better take this gum out of my mouth."
+    },
+    {
+     "block_id": 212847,
+     "page": 6,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "We can park it somewhere."
+    },
+    {
+     "block_id": 212848,
+     "page": 6,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "No, for that reason it’s a pleasure. Alex Blake is the regular bass player with her, and he’s phenomenal also. Alex Blake has, I think he comes from the Dominican Republic. But when he plays he has a strumming technique as well. With our group it’s pretty — this is Randy Weston’s group — it’s pretty — oh I’ve got a picture of us in Spain. Each one of us can hold the stage by ourselves for a little while, and Alex just does it tremendously. Well I mean hold a solo spot for a little while. I don’t know, shall we? This is from a concert we did in Seville Spain last year. I think it’s really nice how they do it. It’s from a newspaper but look at the fleshtones in Randy’s hand and so forth. And there’s Randy and there’s — oh I’m sorry, maybe we should put this on a stand or something. Okay, I want to talk about this lady too. Our last album concerned the African presence in the Shang Dynasty. This is a Chinese woman and she’s playing a Chinese instrument called the pipa. She’s on our last album, Khepera it’s called. But Randy has such a beautiful"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212850,
+     "page": 7,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Yes, in fact I had a little piece here to ask you about. If I can find it."
+    },
+    {
+     "block_id": 212851,
+     "page": 7,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "She was a thorough trooper, traveling with us. She’s not really, I don’t guess she’s used to doing one-nighters and stuff, but oh man."
+    },
+    {
+     "block_id": 212852,
+     "page": 7,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "I wanted to find a little spot here."
+    },
+    {
+     "block_id": 212853,
+     "page": 7,
+     "block": 4,
+     "type": "stage_direction",
+     "speaker": "",
+     "text": "[audio interlude]"
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-0"
+   },
+   "doc_id": "275855",
+   "page": 7,
+   "block": 0
+  },
+  {
+   "block_id": 212863,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "BP",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Yeah. She’s been here for about two or three years. She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being. When I was going through this dialysis, before I got a kidney",
+   "pull_quote": "She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "character_description",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Melba Liston",
+    "dialysis"
+   ],
+   "summary": "Powell said Melba Liston and Weston were very close, that Weston looked out for her, and called him a wonderful human being, which leads into his dialysis story.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "continues_previous_block": false,
+   "ends_midsentence": true,
+   "confidence": "high",
+   "notes": "Ends mid-sentence at a page break ('before I got a kidney'); the dialysis story continues in 216728. 'She' is Melba Liston (from context_before), who did Weston's arrangements.",
+   "context_before": [
+    {
+     "block_id": 212855,
+     "page": 7,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "I love playing with that band because you see you have such freedom. There’s no drummer behind you, I mean —"
+    },
+    {
+     "block_id": 212856,
+     "page": 7,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "How much music does he write out? Quite a bit of it? And you get the solo spot?"
+    },
+    {
+     "block_id": 212857,
+     "page": 7,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "No. Well quite a bit for the form, but it doesn’t seem like much. Melba Liston is responsible for the arrangements. And I don’t know they’re really not extensive, not like a big band with an A, B, C and D. There will be a line here, a whole 16 bars or whatever, 32, and then there’ll be maybe a middle or a transition. But actually it’s built around the solos and stuff. The written music is for interludes or set-ups for the solos."
+    },
+    {
+     "block_id": 212858,
+     "page": 7,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "I was glad to see her name."
+    },
+    {
+     "block_id": 212859,
+     "page": 7,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh, she had a birthday two days ago, Melba Liston. Wonderful woman."
+    },
+    {
+     "block_id": 212860,
+     "page": 7,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "She’s on the west coast isn’t she?"
+    },
+    {
+     "block_id": 212861,
+     "page": 7,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "No, she lives here now."
+    },
+    {
+     "block_id": 212862,
+     "page": 7,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "She lives here now."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212864,
+     "page": 8,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "transplant, he was benevolent enough or kind enough to really arrange for me, because dialysis is something you have to do every week no matter whether you’re in Europe or not. So dialysis is that method that is used when you have kidney failure, when your kidneys don’t function. You go to the hospital for 3-1/2 hours and they put you on a machine that does work that your kidneys would do if they were working. At any rate he arranged for me to have this done three times a week in Europe, well he helped make arrangements. And when we had to travel by bus, well first of all he’s six foot six or something, with long legs, well traveling is not a problem, it certainly doesn’t seem to be because he comes across the Atlantic like it’s the crosstown bus, or the Pacific Ocean. But at any rate my point is instead of looking out for his comfort, he had the back of the bus prepared like a bed for me. And even on this last tour, it might have been around this time we played Seville, Spain, sometimes we had to wake up at six o’clock in the morning or seven and stuff, and you’d have to change planes two or three times. One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.” But he’s just a wonderful — I can’t sing his praises enough. In fact I told you before, I’m doing presentations or programs for the New York organ donor network. I use him as an example of an employer understanding an employee’s problems, especially like this because what he empowered me to feel like, although I had this kidney thing I was still a valuable person. And as I listen to this, with Randy, it’s a perfect spot for me. Because when I was with Basie’s band, well kind of all my life I kind of lived in the shadow of Al Grey. And rightly so. Al Grey is one of the best trombone players ever. I didn’t realize how good he was myself until just recently. Because somehow in bands with Basie’s band and stuff, you don’t think, well I wish I had more solos. When I was with Lionel Hampton’s band, we were first with Lionel Hampton’s band in the late 40s, Al had just left Jimmy Lunceford’s band. I had just left New Orleans. So it was easy to understand. Anyway my solo work has been limited by various factors. One, working with a big band and stuff—"
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-14"
+   },
+   "doc_id": "275855",
+   "page": 7,
+   "block": 14
+  },
+  {
+   "block_id": 212881,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Randy Weston, he usually goes on first and plays a solo for a few minutes while we’re still upstairs in the dressing rooms. One of these times I was putting on my costume, because we wear African clothes, and listening to him on the monitor. And man, I know he plays marvelous concerts, solo concerts. He was playing so much piano that I told the guys in the band, “Damn, Randy doesn’t need us out her with him, what the hell are we doing out here?” Anyway it dawned on me after a little while, I said, “Randy, I finally figured out what we’re doing out here. You just don’t want to have to go back to one of these little hotels in France, or whatever, at two o’clock and not have anybody to swap stories with.” So I said, “I know that’s why you want me here because I’m your age and we can talk about all this stuff.” Anyway I’m just kidding, but this is a favorite pastime of musicians.",
+   "pull_quote": "He was playing so much piano that I told the guys in the band, “Damn, Randy doesn’t need us out her with him, what the hell are we doing out here?”",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "anecdote",
+    "humor",
+    "musical_assessment",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "solo piano",
+    "African clothes",
+    "European tour"
+   ],
+   "summary": "Powell recalled listening on a dressing-room monitor as Weston opened a concert solo and joked to the band that Weston played so much piano he did not need them, except as company to swap stories with after the gig.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "continues_previous_block": true,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "The input says the block does not start mid-sentence, but it does: it continues 216744 ('Randy, working with / Randy Weston, he usually goes on first'), so truncated_target is set to true. 'out her' is the transcript's spelling of 'out here', kept verbatim.",
+   "context_before": [
+    {
+     "block_id": 212877,
+     "page": 10,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "That’s terrific. How did the gig with Lionel Hampton come about?"
+    },
+    {
+     "block_id": 212878,
+     "page": 10,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "I’m glad you asked that because I have to give credit to Betty Carter. Betty Carter was with Lionel Hampton’s band. At this time I was playing with another band. I had left King Kolax and joined Ernie Fields’ band. He was based out of Tulsa, Oklahoma. So evidently they are close to each other. The night before they played Tulsa, Oklahoma, Lionel Hampton’s trombone player left, I never did find out the reason, Chips Outcalt. He was a guy that used to play with Billy Eckstine’s band. I did this because I think he played valve trombone. Anyway he left the band in Oklahoma City, so when they got to Tulsa, I don’t know if they were looking for a trombone player, but anyway Hamp went to Betty Carter, because at this time she was known as Betty Bebop, so she was his consultant to the guys who were in the modern — and you know Hamp always wanted to be modern. So I understand she gave thumbs up for me. And I didn’t find this out until, she never mentioned it to me, I don’t know maybe about 20 years ago, when one of my nieces who is an attorney was at a banquet, some big time Washington stuff, and she went to say hello to Betty Carter, and ask if you remember my uncle Benny, and Betty Carter told her this story then. So I was very surprised to hear this, and I was every more surprised because usually when people do something like that they’ll say, “Well you know I started your career.” She never did that one time. And we were good friends, I mean we didn’t keep in touch with each other that much, but we always loved and respected each other."
+    },
+    {
+     "block_id": 212879,
+     "page": 10,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "That band did quite a bit of showmanship?"
+    },
+    {
+     "block_id": 212880,
+     "page": 10,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh yeah. I see some of those film clips now. We did some film shorts for Schneider. I remember Schneider productions. But we did all kinds of visual stuff I think when the tempo was up. If you see some of those film clips [claps hands], but I was really glad I went through that school, and Quincy always talks about the same thing. Because it let both of us know that this was show business. You see a lot of guys who become jazz artists who think it’s impure to show any kind of emotion, well at one point, not so much now. But you remember when everybody was too cool, so cool. I mean you step on a guy’s foot and he’d say ouch next week. That’s how cool we all were. I hope I’m not getting too far away from the point. But you know we’re all so filled with stories, and one time, I can’t really remember it was in Germany or somewhere, Randy, working with"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212882,
+     "page": 11,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "I love to hear it. Absolutely. How did you end up in Ottawa?"
+    },
+    {
+     "block_id": 212883,
+     "page": 11,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "I was with Lionel Hampton’s band and I think it was my first time being outside of the United States. At this time I wasn’t even 20 or 21. Between racial prejudice and some kind of petty things that went on with this organization, things I thought were petty, I was kind of fed up. When I finally was exposed to another culture in Canada where being black was an asset rather than a liability, I remember the president of the jazz club was a big judge, Judge Enger in Ottawa, and I said wow, this is another level. I remember, you know I think it was when I moved back here I remember seeing my first kind of art film, color in relation to notes, and I remember the soundtrack was played by Oscar Peterson, this was Canada mind you. Anyway, I played there with Lionel Hampton’s band and the culture, it was the first time I felt that kind of freedom. So I said this is a good time as ever to come back. So I think I left Lionel Hampton’s band. You know I can’t really remember, I’m sure I left amicably because I was never one to blow up or anything. Anyway I moved back to this town Hull, Quebec because I think I had met a musician and I was in touch with him, and he invited me back. I think my room rent and board was something like five dollars a week. I could have lived up there the rest of my life on three hundred bucks. But I went back there and it was the first time I had a chance to experience another culture or see that jazz was something that crossed racial lines and social lines, the whole bit."
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b11-0"
+   },
+   "doc_id": "275855",
+   "page": 11,
+   "block": 0
+  },
+  {
+   "block_id": 291901,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Colby, she going to be my – so we’re talking once a week or so now. She’s got everything going, but I told her, Randy and then other things, because he – Randy pulled me out of the stroke, so I have to go with him.",
+   "pull_quote": "Randy pulled me out of the stroke, so I have to go with him.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 3,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke",
+    "move to New York"
+   ],
+   "summary": "Liston said that in planning her return to New York she put Weston first, because he had pulled her out of the stroke.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Repeats the theme of 295836 in fewer words. \"Colby\" is presumably her manager (named in 295993).",
+   "context_before": [
+    {
+     "block_id": 291893,
+     "page": 29,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I’ve got a bunch of things. Johnny Griffin and all the things I wrote before CDs – I mean, before that."
+    },
+    {
+     "block_id": 291894,
+     "page": 29,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Before 33 and 1/3."
+    },
+    {
+     "block_id": 291895,
+     "page": 29,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah I think so."
+    },
+    {
+     "block_id": 291896,
+     "page": 29,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I think that Basie thing was on a 78. When you go to New York, will you be writing with Randy?"
+    },
+    {
+     "block_id": 291897,
+     "page": 29,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. He’s looking forward to my coming there, but so many others are waiting for me to come there too, to write or . . ."
+    },
+    {
+     "block_id": 291898,
+     "page": 29,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That was obvious at the rehearsals for the Groove Festival. They would be waiting for you. Does Charli Persip want you to write for his big band?"
+    },
+    {
+     "block_id": 291899,
+     "page": 29,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah."
+    },
+    {
+     "block_id": 291900,
+     "page": 29,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you get to New York, do you have any future plans?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 291902,
+     "page": 30,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because you used to say, whenever you would be sad or something, you’re horn would bring you out of it, but now you can’t depend on that, so Randy is your horn right now. Have you fulfilled all your dreams and goals and stuff for yourself, or did you have any new come along? You’ve written for everybody. You played with everybody."
+    },
+    {
+     "block_id": 291903,
+     "page": 30,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I haven’t mad no money. So I could make some money now."
+    },
+    {
+     "block_id": 291904,
+     "page": 30,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s probably what you’ll do, going back to New York. Like you said, they’ll be ready for you, and they won’t be piddly-paddling with the money."
+    },
+    {
+     "block_id": 291905,
+     "page": 30,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t like the music today, the music that the youngsters are doing today. I’m an old-fashioned broad, and I just want to do other . . ."
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-14"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 29,
+   "block": 14
+  },
+  {
+   "block_id": 191368,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "OK",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Oh yeah. But nevertheless I just felt this was such a characteristic of the guy, and we did the same thing, because if you can remember back before the CD, there was side one and there was side two. And since one might be marked one, your second most important spot on an LP, and for audience attention but more particularly for disc jockey attention, was the first tune on the second side. See that no longer exists now when old LPs are translated into CDs, that’s just something in the middle. But we actually were hedging our bets just a little bit on that one. We thought, judging from audience reaction that “This Here” was going to be the monster breakout song that it turned out to be. But we weren’t a hundred percent sure, and it was another number that got tremendous reaction, this was the first recording as far as I know of Randy Weston’s “High Fly” which of course has become quite a classic in its own right, and so we put that as the first number on the B side, as a back-up. And that’s got a wonderful — it also starts with Cannon talking. And he talks about how Randy Weston, a lot of whose best numbers were in 6/8 and that Randy Weston has become to be known in jazz circles as the waltz king. And he says I don’t mean Wayne King. But so we had a talk introduction on each side. We were hedging our bets but going for broke with the talk concept.",
+   "pull_quote": "But we weren’t a hundred percent sure, and it was another number that got tremendous reaction, this was the first recording as far as I know of Randy Weston’s “High Fly” which of course has become quite a classic in its own right, and so we put that as the first number on the B side, as a back-up.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition",
+    "historical_context",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Hi-Fly",
+    "Cannonball Adderley",
+    "This Here",
+    "6/8 / waltz"
+   ],
+   "summary": "Keepnews said Cannonball Adderley's live album held what he believed was the first recording of Weston's 'Hi-Fly', by then a classic, and that Cannonball introduced it by calling Weston the waltz king of jazz.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Tune transcribed as 'High Fly' (= Hi-Fly). The 'waltz king' line is Cannonball's on-record patter, reported by Keepnews, not Weston's words. In context_after 'He got into 6/8 a lot' refers to Cannonball, not Weston (pronoun trap). Keepnews's 'first recording as far as I know' is his own hedge.",
+   "context_before": [
+    {
+     "block_id": 191363,
+     "page": 19,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "OK",
+     "text": "I forgot to warn you but I think you learned on the job very quickly that when I get started the toughest thing is how do you interrupt and get to ask another question or change the subject. —his whole attitude and his sincerity and his warmth. He was a hell of a human being. And you know the thing was that I had been intrigued by his carrying on and talking to the audience at a time when what was much more normal was the Miles Davis turn your back, then leave the bandstand during the other guy’s solo kind of approach. And Cannon was this whole ongoing thing, and with talking to the audience, and not talking down but just talking. And it was something that we had it on tape and I just decided it was — sometimes some of the most successful things you do you look back and they represent, like weird gambles that you took. Because the whole idea, like here’s like at least a"
+    },
+    {
+     "block_id": 191364,
+     "page": 20,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "twelve minute track but we’re a minute and twenty seconds into it before there’s a note of music, and that’s the beginning of the record. The beginning of the record is Cannonball introducing this song and talking about it, and then beginning to play it. And it’s the kind of thing, well if it had been a bad idea and it had led to the record flopping we wouldn’t necessarily have known it as a bad idea because it just wouldn’t have happened and nobody would have been particularly aware of it. So the nice thing about taking chances like that is if you lose the penalty is just obscurity and nobody keeps track of that, you’re kind of expected to be obscure most of the time with jazz records. But if it succeeds, what a wonderful idea, what a fabulous technique."
+    },
+    {
+     "block_id": 191365,
+     "page": 20,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Plus at that time, how long was a side of an LP?"
+    },
+    {
+     "block_id": 191366,
+     "page": 20,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "OK",
+     "text": "Well you wouldn’t want to be much over twenty minutes."
+    },
+    {
+     "block_id": 191367,
+     "page": 20,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Okay. So your time was in a sense a little more valuable too. To give up a minute twenty for someone talking."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 191369,
+     "page": 20,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "It’s interesting that both of those tunes are 6/8 feels. Who would expect?"
+    },
+    {
+     "block_id": 191370,
+     "page": 20,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "OK",
+     "text": "He got into 6/8 a lot. And what he said was of course one of the things, he said like the bad thing about having a hit is you’ve got to play it every God damn night probably every God damn set. But he said that one was always a lot of fun, “This Here” because audiences would feel impelled to rhythmically clap along with it, but for the most part they didn’t have the faintest idea that it was in 6/8. So they were in there clapping on two and four, you know."
+    },
+    {
+     "block_id": 191371,
+     "page": 21,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "You had a small anecdote, I don’t know if you want to mention the person’s name again, that you said something about Nat chasing some piano player down the street."
+    }
+   ],
+   "doc": {
+    "title": "Orrin Keepnews interviewed by Monk Rowe, San Francisco, California, August 7, 2002",
+    "collection": "hamilton",
+    "year": 2002,
+    "interviewee_field": "Orrin Keepnews",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Orrin Keepnews",
+      "qid": "Q352028",
+      "node_key": "wd:Q352028"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810#b20-4"
+   },
+   "doc_id": "275810",
+   "page": 20,
+   "block": 4
+  },
+  {
+   "block_id": 207425,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "JO",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Well I can’t say — I mentioned that Donald Byrd was my mentor. And he instilled in me what being a professional musician was. He taught me about the business. He was the first to start that, let’s put it that way. And made me aware about copyright, and about taking care of business. And then there were other musicians who were equally as important and took it another step. Randy Weston was one of my mentors also. He taught me a lot about the business — publishing, and how publishing works. And I always had people like that to help me along the way. And then the other musicians, you know, by the time I was seventeen and graduated from school, high school, and I was in the fold of all the clubs, and I used to go to the clubs. And I’ll never forget, the manager of Birdland, at 52nd Street and Broadway, the original Birdland, Johnny Gary, the night that he said, “All right, you can let him in, let the kid in.” And then they finally knew me as Jimmy. And when I started to play in Birdland on Monday nights and the whole week and everything, it was great. But I remember that time that Johnny Gary told Pee Wee Marquette, okay let him in. For free. And boy, that was something very special.",
+   "pull_quote": "Randy Weston was one of my mentors also. He taught me a lot about the business — publishing, and how publishing works.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "mentorship",
+    "business"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "music publishing",
+    "Donald Byrd"
+   ],
+   "summary": "Owens named Weston, after Donald Byrd, as one of his mentors and said Weston taught him how music publishing works.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "",
+   "context_before": [
+    {
+     "block_id": 207421,
+     "page": 2,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "JO",
+     "text": "No, there was no music in my household—"
+    },
+    {
+     "block_id": 207422,
+     "page": 2,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Oh, that’s interesting."
+    },
+    {
+     "block_id": 207423,
+     "page": 2,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "JO",
+     "text": "live. There was music all the time records. And my father would pick me up when I was three and four years old, we had a huge mirror in our living room, and he’d pick me up and dance with me to Stumpy Jones or a Billie Holiday record or an Art Tatum record. And I used to love to see myself in the mirror you know. And I guess this is what put the sound of the music in my ear. At, I think he told me I was four years old, he could tell me, “Jimmy, go play your favorite record.” And I’d go among all the records and pull out this one record, it was a picture record. It had a picture on both sides. One side had a landscape scene and the other side had a picture of a white woman. And it was a record by Charlie Shavers. The one side was “She’s Funny That Way,” and the other side it was a song called “Dizzy’s Dilemma.” And that was my favorite record. I’d take it and put it on, the 78, and put the needle on it, and sometimes I had to change the needle, put the arm down on it and play my record, my favorite record. So I think that that was the sound of the trumpet that was in my ear, because I don’t remember any other trumpet players at that time. As time went on I remember, many years after that, telling Charlie Shavers that story."
+    },
+    {
+     "block_id": 207424,
+     "page": 2,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "That’s great. Did the musicians that you met, either as teachers or just in the clubs, did you get a sense of them instilling you with other things, just besides the playing of the music?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 207426,
+     "page": 3,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "That was."
+    },
+    {
+     "block_id": 207427,
+     "page": 3,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "JO",
+     "text": "I talk to Johnny Gary about that now. Johnny is now about, I think he’s 78 or something."
+    },
+    {
+     "block_id": 207428,
+     "page": 3,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "It’s almost like an early form of paying your dues."
+    },
+    {
+     "block_id": 207429,
+     "page": 3,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "JO",
+     "text": "Right."
+    }
+   ],
+   "doc": {
+    "title": "Jimmy Owens interviewed by Monk Rowe, New York City, New York, January 12, 2001",
+    "collection": "hamilton",
+    "year": 2001,
+    "interviewee_field": "Jimmy Owens",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Jimmy Owens",
+      "qid": null,
+      "node_key": "nm:jimmy owens"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275843#b3-0"
+   },
+   "doc_id": "275843",
+   "page": 3,
+   "block": 0
+  },
+  {
+   "block_id": 212764,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "just are, and we just beat our heads against the wall. I’ll tell you a for instance — maybe about seven years ago I went to Morocco with Randy Weston. I’ve been playing with Randy Weston for about the last 15 years, and it’s really been glorious what I’ve been through. At any rate, this was an affiliation between French, Spanish and English. That’s the way it was supposed to come out. It was the story of Randy Weston first going to Tangiers, I think maybe 25 years ago. He did go to, I don’t know how much you know about Randy Weston, but he was a man born in Brooklyn and oh, maybe about twenty- five years ago his father told him that he was an African who just happened to be born in America. And you know, we’ve all come around and now we’re all African Americans. But his father hipped him to that a long time ago. Anyway he’s lived in Africa and played with African musicians. We played Montreal two weeks ago with some people called The Gnawa. Anyway, getting back to my first story, when I went to Tangier, the people we worked with are called the Gnawa, as I said. They used to be the king’s orchestra, when there still was a king, that was before 1948, when Morocco got its independence or whatever, from under the protectorate. The king gave this band a whole city outside of Tangier. It’s called Joujouka. It had a little prominence during I think one of the Rolling Stones, Brian Smith went there and stuff, Ornette Coleman had a little experience there. Anyway, when we were filming Randy’s return to Morocco, it was really interesting because we had this town, Joujouka is about a two hour drive outside of Tangier. And somehow, Randy had gone there during his visit or something. Anyway they were taping a night there. So we got there maybe about five o’clock. And this is kind of so remote, until the cars couldn’t drive up the hill. We had to ride up the hill on donkeys. And that was really very interesting because here is six jazz musicians on donkeys, you know. Already, that’s ingredients for a lot of comedy. Al Harewood was the drummer. And Al has short legs so kept somehow missing the donkey. He’d get on the donkey and his legs weren’t enough to grip, so he’d fall. Anyway he finally got himself situated on the donkey, and these donkeys I think for years have been trained to go straight up the hill and stuff. Anyway, this particular day, Al’s donkey decided he didn’t want to go up the hill. So he veers a little to the right and Al is saying, “Somebody come and give this donkey something.” Anyway, we finally get up the hill, and the camera crew is setting up stuff, and it was like in this little village with trees and stuff. So they wrapped some of the equipment around trees. You know how it is when you’re going to do a video shoot, the wires have to go everywhere. Anyway it just so happened that Randy had his daughter with him at that time. And just before we were about to tape, one of the branches on the trees broke. So there was a lot of conversation about the spirits didn’t like something that was going on at this particular place. But it was just one of the adventures. It was pretty wild because it is the place where the whirling dervishes are kept from people, whirl",
+   "pull_quote": "I’ve been playing with Randy Weston for about the last 15 years, and it’s really been glorious what I’ve been through.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "anecdote",
+    "personal_memory",
+    "working_relationship",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Morocco",
+    "Tangier",
+    "Gnawa",
+    "Al Harewood"
+   ],
+   "summary": "Powell recalled going to Morocco with Weston about seven years earlier to film his return there, said fifteen years in his band had been glorious, and told how Weston's father had told him he was an African born in America.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": true,
+   "continues_previous_block": true,
+   "ends_midsentence": true,
+   "confidence": "high",
+   "notes": "Long anecdote (donkeys up the hill, the falling branch); most of it is about the trip, Al Harewood and the village rather than Weston. Powell runs the Gnawa together with the village he calls 'Joujouka' and says 'Brian Smith' of the Rolling Stones; kept as spoken. Also usable: 'his father told him that he was an African who just happened to be born in America' (inside a messier sentence). Continues into 216629 ('whirl themselves into a trance').",
+   "context_before": [
+    {
+     "block_id": 212760,
+     "page": 3,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "In other words they understand the industry. They understand marketing."
+    },
+    {
+     "block_id": 212761,
+     "page": 3,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yes. Most of all they understand humankind. They understand people. So whoever you’re talking to, whether you be president or a porter, they’re still made of the same thing. He’s got two eyes, two ears, and stuff you know. And I think that’s sort of the commonality jazz musicians make among people. Because we meet so many people, and so I think we’re a little more experienced than the average person too. So when we meet somebody, we’re involved right away. We see a lot about that person."
+    },
+    {
+     "block_id": 212762,
+     "page": 3,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "Now let me come in on that. You talk about this spiritual aspect of it. Do you have a church background at all and does that figure in to your music?"
+    },
+    {
+     "block_id": 212763,
+     "page": 3,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Oh, yeah. I mean I don’t think you can be a musician and not have some kind of religious philosophy. If you’re going to be a creator, you certainly must think of being created, so if you were created, there is something that created you, somebody, so anyway it teaches you that there’s a higher power. So I think musicians just put two and two together like that. And we can’t all verbalize exactly what we believe in and stuff, and I’m from New Orleans, and I think I’m pretty spiritual. I know that some things — I know now that some things can’t be explained. Everything doesn’t have to be explained. So some things"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212765,
+     "page": 5,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "themselves into a trance, and all sorts of, that’s why I said some things can’t be explained. Some things are like coincidence and so forth."
+    },
+    {
+     "block_id": 212766,
+     "page": 5,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "You know you mentioned another element along with the sense of spirituality that I think is a part of jazz, you mentioned humor."
+    },
+    {
+     "block_id": 212767,
+     "page": 5,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Humor?"
+    },
+    {
+     "block_id": 212768,
+     "page": 5,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MW",
+     "text": "Yes."
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, July 27, 1995 [interview 1 of 2]",
+    "collection": "hamilton",
+    "year": 1995,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b4-0"
+   },
+   "doc_id": "275854",
+   "page": 4,
+   "block": 0
+  },
+  {
+   "block_id": 212866,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "BP",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "I was assured of playing the bridge of “April in Paris” with Basie’s band, because sometimes there was a lot of things we had with Judy Garland. It was so funny, I was watching a show the other night, well I was watching this film clip that somebody sent to me, Judy Garland, Mel Torme, and I think it might have been The Sammy Davis Jr. Show, that was done in Brooklyn like 1964 or something. But anyway, they played “April in Paris,” and I was getting all set to see myself play my little bridge, Mel Torme sang it. So you know, you’re sitting up there, oh, this is NBC, they’re finally going to see me, then you go to rehearsal, “Well when we get to that part, Mel, you”— So to be with Randy, you can play until you’re blue in the face with Randy. I mean you can play long solos. I run out of breath before we run out of time.",
+   "pull_quote": "So to be with Randy, you can play until you’re blue in the face with Randy. I mean you can play long solos. I run out of breath before we run out of time.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "bandleading",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "April in Paris",
+    "Count Basie",
+    "long solos"
+   ],
+   "summary": "Powell contrasted the eight-bar bridge he got with Basie with Weston's band, where he could play long solos until he was blue in the face.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Most of the block is about Basie, 'April in Paris' and Mel Tormé; Weston appears only in the last three sentences. 'Randy' here is clearly Weston (his band, same interview).",
+   "context_before": [
+    {
+     "block_id": 212862,
+     "page": 7,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "She lives here now."
+    },
+    {
+     "block_id": 212863,
+     "page": 7,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yeah. She’s been here for about two or three years. She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being. When I was going through this dialysis, before I got a kidney"
+    },
+    {
+     "block_id": 212864,
+     "page": 8,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "transplant, he was benevolent enough or kind enough to really arrange for me, because dialysis is something you have to do every week no matter whether you’re in Europe or not. So dialysis is that method that is used when you have kidney failure, when your kidneys don’t function. You go to the hospital for 3-1/2 hours and they put you on a machine that does work that your kidneys would do if they were working. At any rate he arranged for me to have this done three times a week in Europe, well he helped make arrangements. And when we had to travel by bus, well first of all he’s six foot six or something, with long legs, well traveling is not a problem, it certainly doesn’t seem to be because he comes across the Atlantic like it’s the crosstown bus, or the Pacific Ocean. But at any rate my point is instead of looking out for his comfort, he had the back of the bus prepared like a bed for me. And even on this last tour, it might have been around this time we played Seville, Spain, sometimes we had to wake up at six o’clock in the morning or seven and stuff, and you’d have to change planes two or three times. One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.” But he’s just a wonderful — I can’t sing his praises enough. In fact I told you before, I’m doing presentations or programs for the New York organ donor network. I use him as an example of an employer understanding an employee’s problems, especially like this because what he empowered me to feel like, although I had this kidney thing I was still a valuable person. And as I listen to this, with Randy, it’s a perfect spot for me. Because when I was with Basie’s band, well kind of all my life I kind of lived in the shadow of Al Grey. And rightly so. Al Grey is one of the best trombone players ever. I didn’t realize how good he was myself until just recently. Because somehow in bands with Basie’s band and stuff, you don’t think, well I wish I had more solos. When I was with Lionel Hampton’s band, we were first with Lionel Hampton’s band in the late 40s, Al had just left Jimmy Lunceford’s band. I had just left New Orleans. So it was easy to understand. Anyway my solo work has been limited by various factors. One, working with a big band and stuff—"
+    },
+    {
+     "block_id": 212865,
+     "page": 8,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "You don’t get that many."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 212867,
+     "page": 9,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "You’re making up for — I guess everything comes around. I wanted to fill in a couple of holes in your history here. I know that you have worked with a familiar name, King Kolax?"
+    },
+    {
+     "block_id": 212868,
+     "page": 9,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yeah. He was with Billy Eckstine’s band the same time as all the guys — I think Charlie Parker was there. In 1946 I think he broke off and organized his own band. And when I joined him he had a territory band, well not a territory, it was in Port Arthur, Texas, and there was this guy from my neighborhood going to join, so my mother let me go. And that was my first time, the first band I played with."
+    },
+    {
+     "block_id": 212869,
+     "page": 9,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "You were 16?"
+    },
+    {
+     "block_id": 212870,
+     "page": 9,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "BP",
+     "text": "Yes."
+    }
+   ],
+   "doc": {
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "collection": "hamilton",
+    "year": 1999,
+    "interviewee_field": "Benny Powell",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Benny Powell",
+      "qid": "Q599429",
+      "node_key": "wd:Q599429"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b9-0"
+   },
+   "doc_id": "275855",
+   "page": 9,
+   "block": 0
+  },
+  {
+   "block_id": 216696,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "AR",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Well yeah. I have many. I loved “Sing Along with Basie” because we were with Joe and the band. “The Hottest New Group In Jazz,” and I loved “High Flyin’” which didn’t get that much distribution but it was a good album, and those things of Randy Weston’s are wonderful.",
+   "pull_quote": "I loved “High Flyin’” which didn’t get that much distribution but it was a good album, and those things of Randy Weston’s are wonderful.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "unclear",
+   "block_is_firsthand": false,
+   "topics": [
+    "Lambert, Hendricks & Ross",
+    "High Flying"
+   ],
+   "summary": "Ross named the Lambert, Hendricks & Ross album 'High Flyin’' as a favourite and said its Weston pieces were wonderful.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "'those things of Randy Weston’s' means his tunes as sung by LH&R; the window doesn't name which. No personal contact with Weston is shown in the window, so relationship is 'unclear'.",
+   "context_before": [
+    {
+     "block_id": 216688,
+     "page": 7,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "AR",
+     "text": "Yeah. A little tape recorder. A portable tape recorder. It wasn’t even a —"
+    },
+    {
+     "block_id": 216689,
+     "page": 7,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "With the reels, right? This was a reel to reel tape?"
+    },
+    {
+     "block_id": 216690,
+     "page": 7,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "AR",
+     "text": "No, this was a regular, little, as my mind recalls it, it was a regular little tape that they had done in the studio."
+    },
+    {
+     "block_id": 216691,
+     "page": 7,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Wow. Well it seems to me you must not have had a lot of possessions. You moved around so much."
+    },
+    {
+     "block_id": 216692,
+     "page": 7,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "AR",
+     "text": "No. I left full apartments with full fridges, you know, food in the fridge and everything. I did that when I went with Hamp because I was singing at a place called the Band Box. And I had Max on drums and Tommy Potter on bass and Ernie Henry on alto. And George on piano. And Hamp was at Birdland next door. I was at a club called the Band Box. And Hamp came in and he called me over and he said, “hey, want to go to Europe?” And I said yeah? With the band? He said yeah. I said when? He said tomorrow. And that was it. That was another apartment gone."
+    },
+    {
+     "block_id": 216693,
+     "page": 7,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Meanwhile, did your family — able to follow your exploits?"
+    },
+    {
+     "block_id": 216694,
+     "page": 7,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "AR",
+     "text": "Oh bits and pieces you know. I’m a terrible correspondent. I never wrote. But I was too busy having a good time."
+    },
+    {
+     "block_id": 216695,
+     "page": 7,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Well Lambert, Hendricks & Ross did, let’s see, six years you guys were together? I think so. Five or six. Did you have a favorite recording besides “Sing a Song of Basie?”"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 216697,
+     "page": 7,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "How was the rehearsal process for those tunes?"
+    },
+    {
+     "block_id": 216698,
+     "page": 7,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "AR",
+     "text": "It was called doing it as you did it. We never — we would get together, I’d walk in with that many newspapers, I was a newspaper freak. Jon would be doing a crossword puzzle, Dave would be putting things on paper and voicing, at Dave’s little apartment in the Village And he’d say okay, let’s try this. And we’d put everything aside and we’d go up"
+    },
+    {
+     "block_id": 216699,
+     "page": 8,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "and we’d rehearse for maybe an hour. And then we’d have a party. And it was like, you know it’s like musicians who play a song so much that they want to see how fast they can play it and still be coherent. And we did our rehearsing really and our polishing by doing it."
+    },
+    {
+     "block_id": 216700,
+     "page": 8,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "MR",
+     "text": "Did you guys have a typical assignment as far as voicing?"
+    }
+   ],
+   "doc": {
+    "title": "Annie Ross interviewed by Monk Rowe, New York City, New York, January 13, 2001",
+    "collection": "hamilton",
+    "year": 2001,
+    "interviewee_field": "Annie Ross",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Annie Ross",
+      "qid": "Q267184",
+      "node_key": "wd:Q267184"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275865#b7-13"
+   },
+   "doc_id": "275865",
+   "page": 7,
+   "block": 13
+  },
+  {
+   "block_id": 282749,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Hendricks",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "I liked Randy Weston. I worked with Randy at that time. Randy was very creative. At that time he did all of what I consider his best tunes. Horace Silver. I liked that group, because he and – his group and the Jazz Messengers were really the same group, because the original Jazz Messengers was Horace Silver on piano, Art Blakey on drums.",
+   "pull_quote": "I liked Randy Weston. I worked with Randy at that time. Randy was very creative. At that time he did all of what I consider his best tunes.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "composition",
+    "working_relationship",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "New York 1950s",
+    "Horace Silver"
+   ],
+   "summary": "Hendricks, asked whom he admired when he arrived on the scene, named Weston first, said he worked with him then, and called him very creative, writing what Hendricks considered his best tunes at that time.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "'his best tunes' is mild praise with a reservation: it implies the later work was less strong. The block then turns to Horace Silver and the Jazz Messengers.",
+   "context_before": [
+    {
+     "block_id": 282741,
+     "page": 24,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Oh yeah. I had no problems. I met everybody. They all knew who I was."
+    },
+    {
+     "block_id": 282742,
+     "page": 24,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Did doors open up for you then?"
+    },
+    {
+     "block_id": 282743,
+     "page": 24,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Yes. He was the best PR man I ever had."
+    },
+    {
+     "block_id": 282744,
+     "page": 24,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "This antipathy, as I think you described it, between musicians and vocalists – I’m sure that existed then. How were you tested? I’m sure everyone didn’t just take Bird’s word for it."
+    },
+    {
+     "block_id": 282745,
+     "page": 24,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "They didn’t listen to me until I started scatting, because singing-wise, Billy Eckstine was on the scene. So there was no sense in just singing, because he had that. B had that, and he had a few clones around there, like Earl Coleman, who recorded those things with Bird and with Dizzy. Who was the other guy? Arthur Prysock. They all were Billy Eckstine stylists, type singers."
+    },
+    {
+     "block_id": 282746,
+     "page": 24,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Al Hibbler?"
+    },
+    {
+     "block_id": 282747,
+     "page": 24,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Al Hibbler was with Duke at that time. So when I scatted, then that’s when the musicians really accepted me as one of them, because a lot of times I scatted better then they played."
+    },
+    {
+     "block_id": 282748,
+     "page": 24,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "I believe that. Who were some of the musicians that you went to see while you were there? Who did you admire?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 282750,
+     "page": 24,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Clifford [Brown]? Was Clifford there?"
+    },
+    {
+     "block_id": 282751,
+     "page": 25,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Yeah, he was there. That was the original Jazz Messengers. Then Horace broke loose and created his version of the Jazz Messengers, the Horace Silver Quintet, and Art Blakey stayed and remained with that format."
+    },
+    {
+     "block_id": 282752,
+     "page": 25,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "Where did Randy Weston fit in there?"
+    },
+    {
+     "block_id": 282753,
+     "page": 25,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Randy really wasn’t in there. He had his own style. He used Ray Copeland a lot on trumpet and Booker Ervin on tenor. That was a great tenor player, Booker."
+    }
+   ],
+   "doc": {
+    "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": 2020,
+    "interviewee_field": "Jon Hendricks",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Jon Hendricks",
+      "qid": "Q1702784",
+      "node_key": "wd:Q1702784"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b24-10"
+   },
+   "doc_id": "Jon-Hendricks-Transcription-2020",
+   "page": 24,
+   "block": 10
+  },
+  {
+   "block_id": 292357,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Yeah, but I think Randy pushed me along.",
+   "pull_quote": "Yeah, but I think Randy pushed me along.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke recovery"
+   ],
+   "summary": "Asked about relearning everything after her stroke, Liston said she thought Weston pushed her along.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Same theme as 295836, 295937, 296397.",
+   "context_before": [
+    {
+     "block_id": 292349,
+     "page": 59,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I know that."
+    },
+    {
+     "block_id": 292350,
+     "page": 59,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Because it’s like Matt says, you’ve taken it – your stroke in stride. I know a lot of people who’ve had it, and they’ve had that attitude, “Oh, woe is me.”"
+    },
+    {
+     "block_id": 292351,
+     "page": 59,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I must have done that when I first . . ."
+    },
+    {
+     "block_id": 292352,
+     "page": 59,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "When you first had it. Sure, but farther on down the road . . ."
+    },
+    {
+     "block_id": 292353,
+     "page": 59,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, I got to get on up."
+    },
+    {
+     "block_id": 292354,
+     "page": 59,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You got to turn [?] loose. But what did you think after you had your stroke? What did you think? Did you think you would be able to play again? What?"
+    },
+    {
+     "block_id": 292355,
+     "page": 59,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You don’t think. It’s a long time before you can think. You learn how to eat with . . ."
+    },
+    {
+     "block_id": 292356,
+     "page": 59,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It’s the learning process all over?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 292358,
+     "page": 59,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Before you even – before you came out here?"
+    },
+    {
+     "block_id": 292359,
+     "page": 60,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    },
+    {
+     "block_id": 292360,
+     "page": 60,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But when you got here, your mother was still alive. Did she push you too?"
+    },
+    {
+     "block_id": 292361,
+     "page": 60,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it. I’m not writing as fast and all of that as I . . ."
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b59-16"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 59,
+   "block": 16
+  },
+  {
+   "block_id": 292361,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it. I’m not writing as fast and all of that as I . . .",
+   "pull_quote": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 2,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "personal_memory"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "stroke recovery",
+    "writing again"
+   ],
+   "summary": "Liston said Weston helped her start writing again after her stroke, though she was not yet writing as fast as before.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": true,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Flag corrected: target ends \"as I . . .\" and continues in 296399 (\". . . I used to\"), after Bryant's interjection; meaning not inverted.",
+   "context_before": [
+    {
+     "block_id": 292353,
+     "page": 59,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, I got to get on up."
+    },
+    {
+     "block_id": 292354,
+     "page": 59,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You got to turn [?] loose. But what did you think after you had your stroke? What did you think? Did you think you would be able to play again? What?"
+    },
+    {
+     "block_id": 292355,
+     "page": 59,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You don’t think. It’s a long time before you can think. You learn how to eat with . . ."
+    },
+    {
+     "block_id": 292356,
+     "page": 59,
+     "block": 15,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It’s the learning process all over?"
+    },
+    {
+     "block_id": 292357,
+     "page": 59,
+     "block": 16,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but I think Randy pushed me along."
+    },
+    {
+     "block_id": 292358,
+     "page": 59,
+     "block": 17,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Before you even – before you came out here?"
+    },
+    {
+     "block_id": 292359,
+     "page": 60,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Oh yeah."
+    },
+    {
+     "block_id": 292360,
+     "page": 60,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But when you got here, your mother was still alive. Did she push you too?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 292362,
+     "page": 60,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "The quality is there though, Melba."
+    },
+    {
+     "block_id": 292363,
+     "page": 60,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": ". . . I used to, but maybe I’ll get that back in New York, but I don’t have to go as fast, anyway."
+    },
+    {
+     "block_id": 292364,
+     "page": 60,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "If they want you to write fast, say, “You better get somebody else. If you want something good, then you take me.” What about after your stroke and then you begin to move around and so forth? What did you think about not being able to play your horn? Or did you think about it?"
+    },
+    {
+     "block_id": 292365,
+     "page": 60,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. The horn was stolen."
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b60-2"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 60,
+   "block": 2
+  },
+  {
+   "block_id": 283268,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Hendricks",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "I think it’s the origin of the music. I think it’s the religious origin of the music that I hear in their work. Moanin’ to me sounds like a church song. Randy Weston’s Blues for Strayhorn, I wrote as a church song. Monk’s Mood sounds to me like a spiritual. So I wrote the lyric as a spiritual. [Hendricks sings:] “Hear me singing, oh Lord. Look down on me below. Too many stages. All of life’s ages. I sing your praises.” Something, something. I forget. But it’s a hymn. It sounds like a hymn to me. To write a secular lyric to that song sounded sacrilegious to me, because it sounds like to hymn. I think it is a hymn. I think the origins of this music often creeps in to the composer’s compositions. Moanin’ is definitely a church song.",
+   "pull_quote": "Randy Weston’s Blues for Strayhorn, I wrote as a church song.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "composition"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Blues for Strayhorn",
+    "lyrics",
+    "church music"
+   ],
+   "summary": "Hendricks said he heard a religious origin in the music he set to words and had written his lyric to Weston's 'Blues for Strayhorn' as a church song.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": false,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "The hymn lyric Hendricks sings and the 'secular lyric… sounded sacrilegious' passage are about Monk's 'Monk’s Mood', not Weston's tune (antecedent trap). There is a transcriber's bracket '[Hendricks sings:]' in the block; the pull quote avoids it.",
+   "context_before": [
+    {
+     "block_id": 283264,
+     "page": 77,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Yes, yes, yes. F-apostrophe becomes “for.” You can’t say “for.” You haven’t got time. That’s what I have to teach my singers. They try to get the whole word in. It’s not going to happen. You’re not going to get the whole word in. You have to suggest the word by saying the first three letters. And people’s ears hear subliminally as well as – what’s the word? – audibly. So if you suggest the word, they’ll hear the rest of it. It’s like when we were talking yesterday about Ahmad Jamal’s use of sound. If you have the bass, drum, and the piano go [Hendricks sings a syncopated riff], and then all of a sudden the piano and the bass lay out, and the drum goes [Hendricks repeats the riff with a more percussive sound], the people listening will hear the bass and drums [sic: piano]. They’ll put it in there with their own ear. The ear is a marvelous thing. The whole human body is such a – Bacon’s expression of it, in the Shakespearean works: “What a work is man.” What a work is man. Man is such a marvelous entity. Everything works so beautifully. The eye sees better when they’re closed. The ears hear better when the eyes are open. Everything works together. Everything is interactive. What you don’t say is heard louder than what you say, because man is such a beautiful, divine instrument, such a beautiful, divine entity. The idea that he’s physical and mortal is a myth. It’s a huge deception. Man is divine and immortal, and if he does not believe it, then he dies. He murders himself."
+    },
+    {
+     "block_id": 283265,
+     "page": 78,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "That’s very profound."
+    },
+    {
+     "block_id": 283266,
+     "page": 78,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Yes."
+    },
+    {
+     "block_id": 283267,
+     "page": 78,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "You lyricize the works of many artists, composers, and orchestras, such as Duke Ellington, Count Basie, Miles Davis, Randy Weston, Charlie Parker, Bobby Timmons. What is it about their work that speaks to you or inspires you to write lyrics."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 283269,
+     "page": 78,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "I can hear it. Miles Davis. There seems to be – he seems to be a source of inspiration and for others, but you in particular, I think, because I’ve heard several renderings by you of Miles Davis works."
+    },
+    {
+     "block_id": 283270,
+     "page": 78,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "Yes. I love Miles from a certain period. I think that he experienced a deterioration, but it doesn’t erase him at what I consider his best period. What he created during that time is so brilliant and so beautiful, I think it will last forever. It will last forever."
+    },
+    {
+     "block_id": 283271,
+     "page": 78,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Zimmerman",
+     "text": "I think so too. I think your renditions of his work helps to make it endure."
+    },
+    {
+     "block_id": 283272,
+     "page": 78,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Hendricks",
+     "text": "I think he suffered the plagues of mortal man, though. You – “whom the gods would destroy they first make mad” is one of the things I think of when I think of Miles, what happened to him."
+    }
+   ],
+   "doc": {
+    "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": 2020,
+    "interviewee_field": "Jon Hendricks",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Jon Hendricks",
+      "qid": "Q1702784",
+      "node_key": "wd:Q1702784"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b78-3"
+   },
+   "doc_id": "Jon-Hendricks-Transcription-2020",
+   "page": 78,
+   "block": 3
+  },
+  {
+   "block_id": 291675,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "fts_supplement",
+   "text": "It stopped. Not falling off. It stopped. Then I met Randy [Weston] when I was playing with Dizzy, and he said he wanted me to copy or something for him. It turned out that I wrote . . .",
+   "pull_quote": "Then I met Randy [Weston] when I was playing with Dizzy, and he said he wanted me to copy or something for him.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "personal_memory",
+    "working_relationship",
+    "biographical_fact"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Dizzy Gillespie band",
+    "first meeting"
+   ],
+   "summary": "Liston recalled meeting Weston while she was playing with Dizzy Gillespie, when he asked her to copy music for him, which turned into her writing for him.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "fts_supplement hit on \"Randy [Weston]\": identity confirmed by Bryant's next turn (\"Randy Weston.\") and Liston's answer. The surname is the transcriber's bracketed expansion, not spoken. Her sentence breaks off (\"It turned out that I wrote . . .\") because Bryant cuts in, not because of a page break. Stance is mostly carried by the next block (\"It was a good thing. He took me to Jamaica.\").",
+   "context_before": [
+    {
+     "block_id": 291667,
+     "page": 15,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "No. He would do that when we were working. Dizzy was the same. He followed up the same way. But the guys were cool."
+    },
+    {
+     "block_id": 291668,
+     "page": 15,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "It was the other band – was that the ’56 band with Dizzy, where the guys were saying, why’d you send across to the West Coast to get a you-know-what?"
+    },
+    {
+     "block_id": 291669,
+     "page": 15,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but, they would do that now. It’s just a man’s thing. They wouldn’t do that to me, but other girls, they would turn up their nose or something."
+    },
+    {
+     "block_id": 291670,
+     "page": 15,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Dizzy said it was because some of them had friends that they wanted to play, to take that spot, and he sent and got you."
+    },
+    {
+     "block_id": 291671,
+     "page": 15,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He said, “Go on and take one of those arrangements out and see if they can play it.” Two or three bars later, he said, “Now who’s the …”"
+    },
+    {
+     "block_id": 291672,
+     "page": 15,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yeah, he told me about that, and he relished telling that story, because it confirmed what he felt about – the faith that he had in you."
+    },
+    {
+     "block_id": 291673,
+     "page": 15,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "He was so good. I was there until the band broke up."
+    },
+    {
+     "block_id": 291674,
+     "page": 15,
+     "block": 14,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Was that when the work started falling off and Lorraine told him it was the band or her? Is that when the work started falling off for the band."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 291676,
+     "page": 16,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Randy Weston."
+    },
+    {
+     "block_id": 291677,
+     "page": 16,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm. It was a good thing. He took me to Jamaica. He was there visiting his relatives from there, and I was just hanging out."
+    },
+    {
+     "block_id": 291678,
+     "page": 16,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I heard how you got the kids to start to read music, to become interested in jazz, and how you got the school systems down there . . ."
+    },
+    {
+     "block_id": 291679,
+     "page": 16,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I didn’t get the school systems."
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-15"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 15,
+   "block": 15
+  },
+  {
+   "block_id": 292188,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else.",
+   "pull_quote": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "working_relationship",
+    "bandleading"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Little Niles",
+    "strings",
+    "Earth Birth"
+   ],
+   "summary": "Liston said that Weston told her only how many choruses he would take and where the violins came in, leaving everything else to her.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Same theme as 295899 (freedom as his arranger). Spoken right after the strings version of Little Niles plays.",
+   "context_before": [
+    {
+     "block_id": 292180,
+     "page": 48,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "The conductor. He was conducting. He was playing bass on the records that – with Dizzy he was playing bass, but on . . ."
+    },
+    {
+     "block_id": 292181,
+     "page": 48,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Paul West, you mean?"
+    },
+    {
+     "block_id": 292182,
+     "page": 48,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, but on that he was conducting. He was conducting quite well."
+    },
+    {
+     "block_id": 292183,
+     "page": 48,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You wrote this in a different style. It is Little Niles, but it has a classical flavor. You think so? It sounds great."
+    },
+    {
+     "block_id": 292184,
+     "page": 48,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "I don’t know."
+    },
+    {
+     "block_id": 292185,
+     "page": 48,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Let’s listen to it and see what you think, 40 years later."
+    },
+    {
+     "block_id": 292186,
+     "page": 48,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But it’s not that much different. It’s the same thing as far as I’m concerned."
+    },
+    {
+     "block_id": 292187,
+     "page": 48,
+     "block": 8,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "But strings – to me that makes a difference. [Little Niles plays, in a version for strings and jazz combo.] That was beautiful."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 292189,
+     "page": 48,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "That’s all he tells you?"
+    },
+    {
+     "block_id": 292190,
+     "page": 48,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Um-hmm."
+    },
+    {
+     "block_id": 292191,
+     "page": 48,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You sure knew what to do. And your voicings on those strings. That’s beautiful. It’s the first time I heard you write for strings, Melba. That’s beautiful. And I’ve heard a lot of people try to write for strings, and it doesn’t have that kind of sound."
+    },
+    {
+     "block_id": 292192,
+     "page": 48,
+     "block": 13,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "You heard Gloria Lynne?"
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b48-9"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 48,
+   "block": 9
+  },
+  {
+   "block_id": 313199,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Taylor",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "fts_supplement",
+   "text": "No. No, as a matter of fact he was being steadily put down by all the writers and I remember a few years… even later then that when he did some recording with Norman Grant, he was referred to in the notes as an iterant piano player. I mean people were very disrespectful of what he was doing because they didn’t understand it. They just thought that he was a guy that played a lot of clunkers, that he missed a lot and everything, not understanding that his sense of rhythm was as special as it was and that he was always a stride piano player in the midst of the most contemporary thing. Like Ellington, he was playing stride piano and it worked. I guess that’s what really threw me because I knew it was possible, certain ways, but what I didn’t realize was that you had to either be florid in the Ellington way or you had to be spare in the way that Monk and Randy Western had chose to do, so that you left a lot of space for people to absorb the harmonic things that you were outlining.",
+   "pull_quote": "you had to either be florid in the Ellington way or you had to be spare in the way that Monk and Randy Western had chose to do, so that you left a lot of space for people to absorb the harmonic things that you were outlining.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "positive",
+   "stance_strength": 1,
+   "stance_target": "subject",
+   "content_type": [
+    "musical_assessment",
+    "comparison"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": false,
+   "topics": [
+    "Thelonious Monk",
+    "spare style",
+    "Ellington"
+   ],
+   "summary": "Taylor said a pianist had to be either florid like Ellington or spare like Monk and Weston, leaving space for listeners to absorb the harmony.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "fts_supplement hit on \"Randy Western\" (transcriber's mishearing). Identity judged high: a pianist named alongside Monk for a spare style, in an interview that names Randy Weston elsewhere (317445). The pull quote preserves \"Western\"; a display version would need an editorial [sic]/correction. relationship \"personally\" from 317445 (both on Riverside, talked often).",
+   "context_before": [
+    {
+     "block_id": 313195,
+     "page": 49,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "concept of the community of musicians. Jazz Scholarship now looks at the bebop so- called revolution as happening, or portraying it as happening in more or less a vacuum, a social cultural vacuum. No one talks about what were the ideas that were circulating among the musicians other then musical, the extra musical, what books are being read if that was the case? Were musicians reading say the Amsterdam News, were they keeping abreast of current events and if so how, movies… you mentioned the newsreel. Another conduit for information outside the community might have been the returning vets from the war. Just trying to get a feel for how the information is moving and what are those ideas and attitudes that are circulating that may have formed this new music that is considered revolutionary."
+    },
+    {
+     "block_id": 313196,
+     "page": 49,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Taylor",
+     "text": "But one of the things that was going on was the fact that the musicians basically who were conceptualizing bebop were not in the Army. Dizzy and Bird didn’t go in the Army. Bud was not in the Army. Kenny Clark did so he relinquished his part of that at that moment to Max Roach, until a later period when he came back and began to reassert himself in terms of the person who was one of the founders of that particular concept. Jo Jones, though he never actually played the style was a good indication to people like Max and others of how this concept was evolving because the people could hear in Jo’s work, and you didn’t have to be a drummer, you could hear in Jo’s work and in Sid Catlett’s work, and in the work of other drummers, J.C. Hurd and others where this thing was going. You know, say well here I can see, this guy’s doing something else with a sock symbol, there’s much more of rhythmic impulse on the ride symbol rather then this combination of sock symbol and bass drum that we’re accustomed to. So this required a different kind of approach to rhythm. When I came to New York I had been highly influenced by one record that Duke made. It was the introduction to In A Mellow Tone, where he does something up in the treble part of the piano, some voicing, and I loved that voicing so I began to do things like that and that became my style of accompaniment. Well when I got to New York guys didn’t like that. I mean they said, “Man, you’re in the way. Why don’t you play in the lower part of the piano like Basie and the real guys, man? I mean never mind all that stuff up in the top of the piano”. But I liked that. I liked the fact that it gave me a chance to sound orchestral and to do things that worked. I was given an opportunity by Ben Webster first and then the next real job I had was with Eddie South and since that was with a trio, Eddie started -- I started working with him with a 12 piece band and we just did one gig and then he disbanded the band because the show fell apart. We were playing a show at the Famous Door and he went on the road but he only took a trio on the road and the trio was piano, bass, and violin. Well that gave me a lot of room to play harmonically because he had a single line instrument so I could play all"
+    },
+    {
+     "block_id": 313197,
+     "page": 50,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "the harmony I wanted, anywhere I wanted on the piano. So I really developed the style of accompaniment that I was attracted to and I flushed out some of the harmonic things that I had heard Ellington do, and added to them some things that worked for me. I had started doing this on my first record. I mean I did a piece called the Mad Monk and in the Mad Monk you’ll hear the same thing that Ellington did, the same kind of voicing just in a blues context. I mean I made a little melody out of it. And the Mad Monk that I’m referring to is Thelonious Monk because what this has got is it’s a stride, it’s basically after I do this Ellington type thing, I play some stride and I play the release of the piece. Its got a little pseudo bebop line and so once again, I’m mixing everything I’ve got all in this 32 bar piece [laughter], because in those days I had no reason to believe it wouldn’t work. I mean I’d say well, you know, a dab of this and a dab of that will work. And sometimes it did, and sometimes it did a lot better. For instance, that concept was much better defined by Monk himself when he wrote 52nd Street Theme. He used a riff and then he used a very complicated bebop release, then he went back to the riff, which Dizzy and many other guys had used as a device. I wasn’t that well grounded in the New York style of playing to be able to do that at that point."
+    },
+    {
+     "block_id": 313198,
+     "page": 50,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "BROWN",
+     "text": "So at the time you made this recording was Monk’s style influential?"
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 313200,
+     "page": 50,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "BROWN",
+     "text": "And this relationship between Monk and Bud, were you also a part of this then? Did you get to experience some of their interchanges or did you get to see, interact with them?"
+    },
+    {
+     "block_id": 313201,
+     "page": 50,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Taylor",
+     "text": "Well we hung out together a little bit but Bud was really a loner in many respects and though he related to other people, he tended to wander off by himself. He and Monk had great respect for each other and he wandered away from Monk a little less then he wandered away from other folks, and they would sit and… so Bud and"
+    },
+    {
+     "block_id": 313202,
+     "page": 51,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "",
+     "text": "Monk had a good relationship. They respected one another. They would visit one another, and they checked one another’s playing out on the gig or whatever. In those days there was a lot more of that. Bud came to hear me. A lot of people would come to hear each other because you were curious. You were working when the other guy is working so you’re curious, you know, what is he doing, let me check him out to see whether it’s something I want to use or is there anything there that’s of value to me and quite often there was."
+    }
+   ],
+   "doc": {
+    "title": "Billy Taylor — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Billy Taylor",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Billy Taylor",
+      "qid": null,
+      "node_key": "nm:billy taylor"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript#b50-2"
+   },
+   "doc_id": "Taylor_Billy_Transcript",
+   "page": 50,
+   "block": 2
+  },
+  {
+   "block_id": 288041,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Laws",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Wow. First time I went to Africa was because of Randy Weston.",
+   "pull_quote": "First time I went to Africa was because of Randy Weston.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "africa",
+    "personal_memory",
+    "working_relationship"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Africa",
+    "Blue Moses",
+    "Tangier"
+   ],
+   "summary": "Laws said his first trip to Africa came about because of Weston.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Responds to Brown bringing up Blue Moses, on which Laws played. The trip is described in 292079 (Tangier with CTI artists).",
+   "context_before": [
+    {
+     "block_id": 288037,
+     "page": 88,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Laws",
+     "text": "Because I’d like the judges to know that it’s not as easy as they say it is. I’d like to see them victimized by being imprisoned by a short, weakly, 90-pound female. Say, “Don’t put your hands on them.” Don’t put your hands on them, but you open the door, they say, “You hit me,” while they’re standing at the door. That room, right there, my son experienced the same thing. I mean, I’m in my own house, and I allowed them to stay here for a while. I go downstairs, because I hear this arguing or whatever, and I try to open the door and can’t open the door. I said, “What’s going on?” Sky is in there, my son. “The usual.” That’s what he says. I said, “Wait a minute. You mean I can’t come in my own house?” I said, “Do I have to call the police to get in my own room?” That’s when the door slowly opens, because, you see, there’s power. These judges have this oblivious concept that you, because you’re stronger, you’re bigger, you can just leave. Not true."
+    },
+    {
+     "block_id": 288038,
+     "page": 88,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Brown",
+     "text": "Let’s modulate. Let’s switch from the tragic to the sublime. Randy Weston, who fortunately is still with us at 85, and a very strong spirit, very influential for a lot of – for at least my generation of musicians coming up and looking at him as somebody who’s bringing in other cultures, going out to Africa, embracing African culture, and actually living in Africa. The next project is March and April of 1972, CTI, Blue Moses."
+    },
+    {
+     "block_id": 288039,
+     "page": 88,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Laws",
+     "text": "I played on that too, right?"
+    },
+    {
+     "block_id": 288040,
+     "page": 88,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Brown",
+     "text": "Yeah, you played everything. You’ve got flute, alto flute, bass flute, electric flute, and piccolo."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 288042,
+     "page": 88,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Brown",
+     "text": "Oh. Talk about that."
+    },
+    {
+     "block_id": 288043,
+     "page": 88,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Laws",
+     "text": "We all – when I say we, I’m talking about some of the CTI artists – went to Tangier. It was in this huge coliseum-looking place where they had what looked like to me bull fights or whatever. That was the venue for where we appeared. I remember these flute players. When I say flute players, not like the flute I play, but it was mostly air. These guys, they didn’t even have the diatonic scale, but it was like in- between the scales where they were playing. It was mostly emotion and energy that they projected – not so much tonality, but energy. I was impressed by that. I went – that was what I heard there, when I was in Tangier. Randy Weston, I think he – I don’t know if he lived there."
+    }
+   ],
+   "doc": {
+    "title": "Hubert Laws — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Hubert Laws",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Hubert Laws",
+      "qid": "Q721330",
+      "node_key": "wd:Q721330"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-4"
+   },
+   "doc_id": "Laws_Hubert_Transcript",
+   "page": 88,
+   "block": 4
+  },
+  {
+   "block_id": 292154,
+   "subject": "weston",
+   "qid": "Q1371187",
+   "speaker": "Liston",
+   "speaker_role": "interviewee",
+   "own_interview": false,
+   "mention_source": "person_layer",
+   "text": "Randy likes Thelonious much.",
+   "pull_quote": "Randy likes Thelonious much.",
+   "pull_quote_verified": true,
+   "is_about_subject": true,
+   "mention_kind": "substantive_comment",
+   "quotes_the_subject": false,
+   "stance": "neutral",
+   "stance_strength": 0,
+   "stance_target": "subject",
+   "content_type": [
+    "influence",
+    "comparison",
+    "musical_assessment"
+   ],
+   "relationship": "personally",
+   "block_is_firsthand": true,
+   "topics": [
+    "Thelonious Monk",
+    "Little Niles"
+   ],
+   "summary": "After Bryant heard a Monk flavour in Little Niles, Liston said Weston was very fond of Thelonious Monk.",
+   "notable": 2,
+   "is_chunk_top": false,
+   "context_changed_reading": true,
+   "truncated_target": false,
+   "continues_previous_block": false,
+   "ends_midsentence": false,
+   "confidence": "high",
+   "notes": "Prompted by Bryant (\"it had a flavor of . . .\" / Liston: \"Of Monk?\"). Short but exact; needs the Little Niles context.",
+   "context_before": [
+    {
+     "block_id": 292146,
+     "page": 46,
+     "block": 0,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "But I don’t know – I think I’m doing . . ."
+    },
+    {
+     "block_id": 292147,
+     "page": 46,
+     "block": 1,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "You are doing more than you were doing. I know you are. Definitely."
+    },
+    {
+     "block_id": 292148,
+     "page": 46,
+     "block": 2,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, so maybe . . ."
+    },
+    {
+     "block_id": 292149,
+     "page": 46,
+     "block": 3,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "In less than in two years. Coming up right now, we’re going to do one of Randy Weston’s tunes, a song that was recorded for the first time I think in 1956. It’s called Little Niles, and it’s Melba Liston’s arrangement of it, and this is another one of the styles and different ways that Melba writes. We want to hear this. Little Niles. [The music plays.] I like the way the bass comes in."
+    },
+    {
+     "block_id": 292150,
+     "page": 46,
+     "block": 4,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah, that was featuring the bass."
+    },
+    {
+     "block_id": 292151,
+     "page": 46,
+     "block": 5,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "And the – it had a flavor of . . ."
+    },
+    {
+     "block_id": 292152,
+     "page": 46,
+     "block": 6,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Of Monk?"
+    },
+    {
+     "block_id": 292153,
+     "page": 46,
+     "block": 7,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "Yes."
+    }
+   ],
+   "context_after": [
+    {
+     "block_id": 292155,
+     "page": 46,
+     "block": 9,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "He does [Bryant vocalizes]."
+    },
+    {
+     "block_id": 292156,
+     "page": 46,
+     "block": 10,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. He does that."
+    },
+    {
+     "block_id": 292157,
+     "page": 46,
+     "block": 11,
+     "type": "dialogue",
+     "speaker": "Bryant",
+     "text": "I don’t get to hear Randy’s work that often. That a 1956 version of that."
+    },
+    {
+     "block_id": 292158,
+     "page": 46,
+     "block": 12,
+     "type": "dialogue",
+     "speaker": "Liston",
+     "text": "Yeah. You want to go on and hear [?] or this one – the strings?"
+    }
+   ],
+   "doc": {
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "collection": "si",
+    "year": null,
+    "interviewee_field": "Melba Liston",
+    "interviewer_field": null,
+    "doc_interviewees": [
+     {
+      "label": "Melba Liston",
+      "qid": "Q274146",
+      "node_key": "wd:Q274146"
+     }
+    ],
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b46-8"
+   },
+   "doc_id": "Liston_Melba_Interview_Transcription",
+   "page": 46,
+   "block": 8
+  }
+ ]
+}

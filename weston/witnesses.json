@@ -1,0 +1,2710 @@
+{
+ "subject": "weston",
+ "qid": "Q1371187",
+ "generated_from": "linked_jazz.sqlite + Opus subagent judgement (extract/WITNESS_SPEC.md)",
+ "direction_of_this_file": "FROM the witness TO Randy Weston",
+ "count": 23,
+ "method": "One row per interview document, other than his own, in which at least one block was judged to be about him. A reader saw all of a witness's blocks at once and judged the relation, the lead quote and the caption phrase. spoke_themselves=false means his name is only in the interviewer's mouth or the archive's front matter: not a witness. Quotes re-verified verbatim here; grounded=false flags a caption word the testimony never contains. A person interviewed twice (Benny Powell, Jimmy Owens, Ron Carter, Orrin Keepnews) has two rows -- people.json folds them. The Melba Liston row also carries `liston_build`, what the readers of her whole interview concluded in ~/git/liston-centennial-2026.",
+ "read_this_first": "Read `caution` on every row before displaying its quote.",
+ "relation_weights": {
+  "in music group with": 3.0,
+  "collaborated with": 2.5,
+  "played with": 2.5,
+  "toured with": 2.5,
+  "played under": 2.2,
+  "mentor of": 2.2,
+  "influenced by": 2.0,
+  "friend of": 1.8,
+  "acquaintance of": 1.2,
+  "has met": 1.0,
+  "knows of": 0.4,
+  "none": 0.0
+ },
+ "tiers": {
+  "in music group with": "band",
+  "collaborated with": "band",
+  "played with": "band",
+  "toured with": "band",
+  "played under": "learned",
+  "mentor of": "learned",
+  "influenced by": "learned",
+  "friend of": "social",
+  "acquaintance of": "social",
+  "has met": "social",
+  "knows of": "knew_of",
+  "none": "none"
+ },
+ "stats": {
+  "witness_documents": 23,
+  "spoke_themselves": 20,
+  "name_only_in_interviewer_words": 3,
+  "distinct_people": 17,
+  "by_relation": {
+   "knows of": 8,
+   "collaborated with": 5,
+   "played under": 2,
+   "mentor of": 2,
+   "friend of": 1,
+   "played with": 1,
+   "in music group with": 1
+  },
+  "by_tier": {
+   "knew_of": 8,
+   "band": 7,
+   "learned": 4,
+   "social": 1
+  },
+  "by_contact_level": {
+   "worked_together": 9,
+   "unclear": 4,
+   "same_scene": 4,
+   "knew_personally": 3
+  },
+  "by_stance": {
+   "positive": 12,
+   "neutral": 8
+  },
+  "by_notable": {
+   "3": 6,
+   "2": 5,
+   "1": 8,
+   "0": 4
+  },
+  "with_lead_quote": 18,
+  "one_liners": 20,
+  "one_liners_grounded": 16,
+  "with_caution": 19,
+  "also_on_his_records": 7,
+  "he_also_spoke_of_them": [
+   "Benny Powell",
+   "Jackie McLean",
+   "Melba Liston"
+  ],
+  "upstream_relation_wrong": 11,
+  "upstream_relation_judged": 22,
+  "quotes_dropped_on_verification": {}
+ },
+ "items": [
+  {
+   "witness_key": "Liston_Melba_Interview_Transcription",
+   "name": "Melba Liston",
+   "qid": "Q274146",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+   "born": "1926",
+   "died": "1999",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q274146",
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "his arranger, ’56 to ’96: Little Niles, Earth Birth, Pam’s Waltz",
+   "one_liner": "wrote his arrangements for forty years",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Liston recalled meeting Weston while playing with Dizzy Gillespie, said she had arranged his music with complete freedom from ’56 to ’96, and thanked him for pulling her through after her stroke when nobody else stuck with her.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "'because nobody else did' is her view after the stroke; in the next turn she names Frank and other arrangers as friends, so it should not be read as an accusation against named people. Many Weston lines in this interview are the interviewer Clora Bryant's ('Randy is your horn right now', the recording dates, 'in different clothing') and must not be attributed to Liston. '[Weston]' in 'Randy [Weston]' is the transcriber's bracket. 'He don’t tell me anything' (295901) means he gives her free rein, not that he is uncommunicative; do not show it without the freedom context.",
+   "confidence": "high",
+   "notes": "Follows the liston_build lead. Other strong lines of hers: 'Randy, I have all the freedom I want.' (295899); 'But we’ve been together – what? – ’56 to ’96. How many is that? 40 years.' (295901); 'He says I write like he writes.' (295903); 'He stayed over and met me when I finished the gig. He said, “I have to meet her.”' (295919); 'Randy pulled me out of the stroke, so I have to go with him.' (295937); 'Randy likes Thelonious much.' (296190). Venue of the meeting is hedged ('I guess Birdland'). 'Paul West' in 296214 is the session conductor, not Paul Weston.",
+   "lead_quote": "I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+   "lead_block_id": 291800,
+   "lead_page": 23,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b23-4",
+   "second_quote": "He brought Little Niles and all those things up to the house, and he said, “I think you should write these things for an album for me.” And I wrote them. I think it’s the best thing.",
+   "second_block_id": 291885,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-12",
+   "more_quotes": [
+    {
+     "block_id": 291863,
+     "quote": "Randy, I have all the freedom I want.",
+     "notable": 3,
+     "summary": "Liston said that, unlike clients who dictated what they wanted, Weston gave her all the freedom she wanted as his arranger.",
+     "kind": "mention",
+     "page": 27,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-3"
+    },
+    {
+     "block_id": 291865,
+     "quote": "But we’ve been together – what? – ’56 to ’96. How many is that? 40 years. He don’t tell me anything.",
+     "notable": 3,
+     "summary": "Selected by the Liston build's readers as one of her lines about Weston.",
+     "kind": "liston_build_quote",
+     "page": 27,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-5"
+    },
+    {
+     "block_id": 291867,
+     "quote": "He says I write like he writes.",
+     "notable": 3,
+     "summary": "Selected by the Liston build's readers as one of her lines about Weston.",
+     "kind": "liston_build_quote",
+     "page": 27,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-7"
+    },
+    {
+     "block_id": 291675,
+     "quote": "Then I met Randy [Weston] when I was playing with Dizzy, and he said he wanted me to copy or something for him.",
+     "notable": 2,
+     "summary": "Liston recalled meeting Weston while she was playing with Dizzy Gillespie, when he asked her to copy music for him, which turned into her writing for him.",
+     "kind": "mention",
+     "page": 15,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b15-15"
+    },
+    {
+     "block_id": 291883,
+     "quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+     "notable": 2,
+     "summary": "Liston recalled that she met Weston while playing with Dizzy Gillespie, probably at Birdland, when he waited after the gig to meet her and they hit it off at once.",
+     "kind": "recovered_answer",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-10"
+    },
+    {
+     "block_id": 291901,
+     "quote": "Randy pulled me out of the stroke, so I have to go with him.",
+     "notable": 2,
+     "summary": "Liston said that in planning her return to New York she put Weston first, because he had pulled her out of the stroke.",
+     "kind": "mention",
+     "page": 29,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-14"
+    },
+    {
+     "block_id": 292154,
+     "quote": "Randy likes Thelonious much.",
+     "notable": 2,
+     "summary": "After Bryant heard a Monk flavour in Little Niles, Liston said Weston was very fond of Thelonious Monk.",
+     "kind": "mention",
+     "page": 46,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b46-8"
+    },
+    {
+     "block_id": 292188,
+     "quote": "Randy tells me how many choruses he’s going to take and where violins come in, but nothing else.",
+     "notable": 2,
+     "summary": "Liston said that Weston told her only how many choruses he would take and where the violins came in, leaving everything else to her.",
+     "kind": "mention",
+     "page": 48,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b48-9"
+    },
+    {
+     "block_id": 292357,
+     "quote": "Yeah, but I think Randy pushed me along.",
+     "notable": 2,
+     "summary": "Asked about relearning everything after her stroke, Liston said she thought Weston pushed her along.",
+     "kind": "mention",
+     "page": 59,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b59-16"
+    },
+    {
+     "block_id": 292361,
+     "quote": "Oh yeah, but Randy helped me to get started writing, and so I’m doing it.",
+     "notable": 2,
+     "summary": "Liston said Weston helped her start writing again after her stroke, though she was not yet writing as fast as before.",
+     "kind": "mention",
+     "page": 60,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b60-2"
+    },
+    {
+     "block_id": 291677,
+     "quote": "It was a good thing. He took me to Jamaica. He was there visiting his relatives from there, and I was just hanging out.",
+     "notable": 1,
+     "summary": "Liston confirmed meeting Weston and said it was a good thing, recalling that he took her to Jamaica when he was visiting relatives there.",
+     "kind": "recovered_answer",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b16-1"
+    },
+    {
+     "block_id": 291897,
+     "quote": "He’s looking forward to my coming there",
+     "notable": 1,
+     "summary": "Liston said Weston was looking forward to her coming to New York to write for him, though many others were also waiting for her.",
+     "kind": "recovered_answer",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b29-10"
+    },
+    {
+     "block_id": 291953,
+     "quote": "And Randy, we had a date with him and the 4 ’bones too.",
+     "notable": 1,
+     "summary": "Liston recalled that she and Weston also had a record date with four trombones.",
+     "kind": "mention",
+     "page": 33,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b33-11"
+    },
+    {
+     "block_id": 292178,
+     "quote": "the record was done in Montreal and they were all Montreal strings, but Randy and bass and drums are from New York.",
+     "notable": 1,
+     "summary": "Liston said she wrote the string record in Los Angeles but it was recorded in Montreal with Montreal strings, with Weston and the bass and drums from New York.",
+     "kind": "mention",
+     "page": 47,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b47-14"
+    },
+    {
+     "block_id": 292228,
+     "quote": "But Pam’s Waltz and Little Niles, he goes – every time he record, we’ll do those things.",
+     "notable": 1,
+     "summary": "Liston said Weston returned to Pam's Waltz and Little Niles every time he recorded, and they did those pieces again each time.",
+     "kind": "recovered_answer",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b50-17"
+    },
+    {
+     "block_id": 292246,
+     "quote": "No. Let’s leave Randy alone now and listen to Gloria Lynne’s Hi-Fly.",
+     "notable": 1,
+     "summary": "Liston closed the run of Weston recordings by saying, \"Let's leave Randy alone now\", and asked for Gloria Lynne's Hi-Fly.",
+     "kind": "mention",
+     "page": 52,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b52-5"
+    },
+    {
+     "block_id": 292403,
+     "quote": "For Randy, but nobody else.",
+     "notable": 1,
+     "summary": "Liston said that in her years in Los Angeles after the stroke she had written for Weston and nobody else.",
+     "kind": "mention",
+     "page": 62,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b62-11"
+    }
+   ],
+   "n_blocks": 32,
+   "block_ids": [
+    291675,
+    291676,
+    291677,
+    291799,
+    291800,
+    291863,
+    291865,
+    291867,
+    291882,
+    291883,
+    291885,
+    291887,
+    291896,
+    291897,
+    291901,
+    291902,
+    291953,
+    292149,
+    292154,
+    292157,
+    292167,
+    292178,
+    292188,
+    292205,
+    292227,
+    292228,
+    292231,
+    292233,
+    292246,
+    292357,
+    292361,
+    292403
+   ],
+   "doc": {
+    "doc_id": "Liston_Melba_Interview_Transcription",
+    "collection": "si",
+    "title": "Melba Liston — Smithsonian Jazz Oral History",
+    "interviewee": "Melba Liston",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription",
+    "source_url": "https://amhistory.si.edu/jazz/Liston-Melba/Liston_Melba_Interview_Transcription.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke.",
+      "said_by": "Melba Liston"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": true,
+   "albums_with_him": 8,
+   "liston_build": {
+    "source": "~/git/liston-centennial-2026/liston/her_words.json",
+    "note": "Judged by readers of her WHOLE interview. her_quote and more_her_quotes were verified verbatim there against her own turns. A lead: your quotes must still be exact substrings of a block in this bundle's blocks[].",
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "basis": "her_statement",
+    "tie": [
+     "arranging_client",
+     "friend"
+    ],
+    "era": "1956–1996",
+    "summary": "Liston said she met Randy Weston while playing with Dizzy Gillespie at Birdland, arranged his music (including Little Niles) for some forty years with complete freedom, and credited him with pulling her through after her stroke when nobody else stuck with her.",
+    "one_liner": "arranged his music for 40 years",
+    "her_quote": "I’ve been writing for Randy. I’m still writing for Randy. I wrote for him up until I had the stroke. After I had the stroke and got over a little bit, I’m writing for him again. I think he pulled me out of it – helped anyway. I thank him very much for sticking with me, because nobody else did.",
+    "her_quote_block_id": 291800,
+    "more_her_quotes": [
+     {
+      "block_id": 291883,
+      "quote": "He stayed over and met me when I finished the gig. He said, “I have to meet her.” We just hit it off right away.",
+      "page": 28,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-10"
+     },
+     {
+      "block_id": 291885,
+      "quote": "He brought Little Niles and all those things up to the house, and he said, “I think you should write these things for an album for me.” And I wrote them. I think it’s the best thing.",
+      "page": 28,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b28-12"
+     },
+     {
+      "block_id": 291865,
+      "quote": "But we’ve been together – what? – ’56 to ’96. How many is that? 40 years. He don’t tell me anything.",
+      "page": 27,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-5"
+     },
+     {
+      "block_id": 291867,
+      "quote": "He says I write like he writes.",
+      "page": 27,
+      "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Liston_Melba_Interview_Transcription#b27-7"
+     }
+    ],
+    "bryant_quote": null,
+    "stance": "positive",
+    "notable": 3,
+    "notes": "Many further Liston lines: 295713 ('He took me to Jamaica.'), 295899 ('Randy, I have all the freedom I want.'), 295937 ('Randy pulled me out of the stroke, so I have to go with him.'), 296190 ('Randy likes Thelonious much.'), 296393/296397 (helped her start writing again after the stroke). Bryant's narration of the recordings (Little Niles 1956/1973 Tanjah/Earth Birth, Hi-Fly) is hers, not Liston's."
+   },
+   "instruments_on_his_records": [
+    "arranger",
+    "conductor",
+    "trombone"
+   ],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "collaborated with",
+    "basis": "his_statement",
+    "one_liner": "his arranger; wrote left-handed after her stroke",
+    "summary": "Weston said only Melba Liston could arrange “Spirit of Our Ancestors”, told how he goaded her back to work after her stroke — she learned to write music on a computer with her left hand — and recalled her arrangements arriving from a California hospital in time for the 1959 Five Spot date and the 1985 Montreal concert.",
+    "his_quote": "I went to see her, and I insulted her as only musicians can do. I called her all kinds of names. I said to her, “You have to do these arrangements stroke or no stroke, handicap or no handicap,” you know? She cried a little bit, you know?",
+    "his_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b3-2",
+    "notable": 3
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Melba Liston.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Melba_Liston.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Melba_Liston.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Melba_Liston.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Melba_Liston.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Melba_Liston.jpg?width=200",
+    "width": 541,
+    "height": 598,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 4.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+     "url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Finnish Heritage Agency",
+     "credit": "https://finna.fi/Record/museovirasto.cd2374c4-723c-4338-95e1-cb71291d00cf – cropped from Quincy Jones Orchestra 1960 (JOKAHBL3E A05-13).tif",
+     "restrictions": null,
+     "date": "1960"
+    },
+    "attribution": "Finnish Heritage Agency (CC BY-SA 4.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Jon-Hendricks-Transcription-2020",
+   "name": "Jon Hendricks",
+   "qid": "Q1702784",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz singer, lyricist, jazz critic and historian (1921–2017)",
+   "born": "1921",
+   "died": "2017",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1702784",
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact",
+    "recordings"
+   ],
+   "context": "New York, when Hendricks arrived on the scene; his lyric to 'Blues for Strayhorn'",
+   "one_liner": "wrote a church-song lyric to his tune",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Hendricks said he admired and worked with Weston when he arrived on the scene, set his 'Blues for Strayhorn' as a church song, and placed him in a line of depth running from Duke Ellington through Monk.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 3,
+   "caution": "'some of that depth' ranks him just below Duke and Monk; the next sentence in the second block ('At that time he did all of what I consider his best tunes') implies his later work was weaker, so do not extend the second quote. Check that 'Blues for Strayhorn' is the title of a Weston composition before naming it. The interviewer, not Hendricks, mentions lyrics to Little Niles and Hi-Fly.",
+   "confidence": "medium",
+   "notes": "'I worked with Randy at that time' gives no detail of the work; 'collaborated with' rests on that plus writing a lyric to his tune.",
+   "lead_quote": "Randy Weston also has depth, because he comes from Monk, which is the lineage Duke – Monk – Randy. So he has some of that depth.",
+   "lead_block_id": 283283,
+   "lead_page": 79,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b79-8",
+   "second_quote": "I liked Randy Weston. I worked with Randy at that time. Randy was very creative.",
+   "second_block_id": 282749,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b24-10",
+   "more_quotes": [
+    {
+     "block_id": 283268,
+     "quote": "Randy Weston’s Blues for Strayhorn, I wrote as a church song.",
+     "notable": 2,
+     "summary": "Hendricks said he heard a religious origin in the music he set to words and had written his lyric to Weston's 'Blues for Strayhorn' as a church song.",
+     "kind": "mention",
+     "page": 78,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b78-3"
+    },
+    {
+     "block_id": 282753,
+     "quote": "Randy really wasn’t in there. He had his own style. He used Ray Copeland a lot on trumpet and Booker Ervin on tenor.",
+     "notable": 1,
+     "summary": "Hendricks said Weston was not part of the Silver–Blakey circle but had his own style, often using Ray Copeland on trumpet and Booker Ervin on tenor.",
+     "kind": "mention",
+     "page": 25,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020#b25-2"
+    }
+   ],
+   "n_blocks": 7,
+   "block_ids": [
+    282749,
+    282752,
+    282753,
+    283267,
+    283268,
+    283283,
+    282754
+   ],
+   "doc": {
+    "doc_id": "Jon-Hendricks-Transcription-2020",
+    "collection": "si",
+    "title": "Jon Hendricks — Smithsonian Jazz Oral History",
+    "interviewee": "Jon Hendricks",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Jon-Hendricks-Transcription-2020",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Jon-Hendricks-Transcription-2020.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "I worked with Randy at that time.",
+      "said_by": "Jon Hendricks"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Jon Hendricks 0157.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jon_Hendricks_0157.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Hendricks_0157.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Hendricks_0157.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Hendricks_0157.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Jon_Hendricks_0157.jpg?width=200",
+    "width": 330,
+    "height": 470,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Atael Weissman @ ataelw",
+     "credit": "Hendricks_0157",
+     "restrictions": null,
+     "date": null
+    },
+    "attribution": "Atael Weissman @ ataelw (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275855",
+   "name": "Benny Powell",
+   "qid": "Q599429",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz trombonist (1930–2010)",
+   "born": "1930",
+   "died": "2010",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q599429",
+   "spoke_themselves": true,
+   "relation": "played under",
+   "relation_weight": 2.2,
+   "tier": "learned",
+   "direction": "weston_leads",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "his group, late 1990s: Jamaica, Seville and European tours, the album Khepera",
+   "one_liner": "toured europe with him while on dialysis",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Powell said every time Weston sat down at the piano it sounded like a concerto, called him the most scholarly person he knew, and told how his boss arranged his dialysis on European tours and offered to carry his bags.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "The lead's 'he' needs Weston named beside it (the sentence before says 'I work with him now'). Powell's biographical asides (lives in Marrakesh and Brooklyn, 'working with the United Nations', 'living in Africa ... 30 years') are unverified and should not be lifted. 'the greatest pianist in the world' trails off into a self-correction about practising; do not quote it bare.",
+   "confidence": "high",
+   "notes": "He calls Weston 'the boss' and his 'employer', so 'played under' rather than upstream's 'collaborated with'. Other strong lines: 'He is the most scholarly person I know.' (216708); 'he’s like Duke Ellington. He can meld anything' (216713, starts with the fragment 'way,'); 'he comes across the Atlantic like it’s the crosstown bus' (216728).",
+   "lead_quote": "It sounds like a concerto every time he sits down. It’s amazing.",
+   "lead_block_id": 212842,
+   "lead_page": 5,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-4",
+   "second_quote": "One of those mornings he knocked on my door at seven o’clock and said, “Benny, can I help you with your bags out?” I said, “Man, you’re the boss, I’m supposed to be helping you,” I said, “You don’t know how to be a boss man, you’re supposed to be tough.”",
+   "second_block_id": 212864,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b8-0",
+   "more_quotes": [
+    {
+     "block_id": 212842,
+     "quote": "I work with him now, and it’s a real joy to work with him. Every time he sits down at the piano, even if it’s just, well usually he does it when we play concerts, he gets antsy, but he never fools around. It sounds like a concerto every time he sits down.",
+     "notable": 3,
+     "summary": "Powell called Weston the greatest pianist in the world and said it was a joy to work with him, because every time he sat down at the piano it sounded like a concerto.",
+     "kind": "mention",
+     "page": 5,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-4"
+    },
+    {
+     "block_id": 212844,
+     "quote": "Oh he is. Exceptionally spiritual. He is the most scholarly person I know.",
+     "notable": 2,
+     "summary": "Powell agreed that Weston was exceptionally spiritual, called him the most scholarly person he knew, and said Weston and his bandmates spent their days off researching in libraries.",
+     "kind": "mention",
+     "page": 5,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b5-6"
+    },
+    {
+     "block_id": 212846,
+     "quote": "For example we were coming back from Jamaica and I saw him, as always, he is always the smoothest guy at the airport, because no matter what language it is, he has such a nice demeanor, and I don’t know what he’s saying but it sounds like he’s saying I’m a nice guy, give me a break, and you’re a nice person.",
+     "notable": 2,
+     "summary": "Powell called Weston's communication skills magnificent and told how, flying back from Jamaica, Weston charmed a ticket agent into putting a load of percussion on his first-class ticket while telling the band how pretty she was.",
+     "kind": "mention",
+     "page": 6,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b6-0"
+    },
+    {
+     "block_id": 212849,
+     "quote": "way, he’s like Duke Ellington. He can meld anything because I think, well I don’t know, he has just the most beautiful organizational sense.",
+     "notable": 2,
+     "summary": "Powell compared Weston to Duke Ellington, saying he could meld anything thanks to his beautiful organizational sense, so that within minutes of starting with Moroccan musicians the band sounded as if they had worked together for years.",
+     "kind": "mention",
+     "page": 7,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-0"
+    },
+    {
+     "block_id": 212863,
+     "quote": "She’s been wheelchair bound for a little while, but she and Randy are very close, and he really looks out — oh he’s a wonderful human being.",
+     "notable": 2,
+     "summary": "Powell said Melba Liston and Weston were very close, that Weston looked out for her, and called him a wonderful human being, which leads into his dialysis story.",
+     "kind": "mention",
+     "page": 7,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b7-14"
+    },
+    {
+     "block_id": 212866,
+     "quote": "So to be with Randy, you can play until you’re blue in the face with Randy. I mean you can play long solos. I run out of breath before we run out of time.",
+     "notable": 2,
+     "summary": "Powell contrasted the eight-bar bridge he got with Basie with Weston's band, where he could play long solos until he was blue in the face.",
+     "kind": "mention",
+     "page": 9,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b9-0"
+    },
+    {
+     "block_id": 212881,
+     "quote": "He was playing so much piano that I told the guys in the band, “Damn, Randy doesn’t need us out her with him, what the hell are we doing out here?”",
+     "notable": 2,
+     "summary": "Powell recalled listening on a dressing-room monitor as Weston opened a concert solo and joked to the band that Weston played so much piano he did not need them, except as company to swap stories with after the gig.",
+     "kind": "mention",
+     "page": 11,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b11-0"
+    },
+    {
+     "block_id": 212848,
+     "quote": "Our last album concerned the African presence in the Shang Dynasty.",
+     "notable": 1,
+     "summary": "Powell showed a newspaper photo of Weston's group in Seville and described the band and its latest album, Khepera, about the African presence in the Shang dynasty.",
+     "kind": "mention",
+     "page": 6,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b6-2"
+    },
+    {
+     "block_id": 212924,
+     "quote": "That’s why I’m so pleased about Randy’s thing, because I’ve always wanted to work with a small group and here I am 587 and I’m getting the chance to do it.",
+     "notable": 1,
+     "summary": "Powell said that after years in big bands he was pleased to finally be playing in a small group with Weston.",
+     "kind": "mention",
+     "page": 18,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b18-1"
+    },
+    {
+     "block_id": 212955,
+     "quote": "This was taken on a tour with Randy Weston, when Dizzy Gillespie was sick.",
+     "notable": 1,
+     "summary": "Powell showed a photo taken on a European tour with Weston's band, which they sent to Dizzy Gillespie when he was ill.",
+     "kind": "mention",
+     "page": 25,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b25-0"
+    },
+    {
+     "block_id": 212957,
+     "quote": "And I still feel like a little kid when I’m around — just recently I was at Lincoln Center two nights ago, and to pay tribute to Duke Ellington, and well even around Max and Randy, I still feel like the little kid who’s wow, these are my idols.",
+     "notable": 1,
+     "summary": "Powell said that even around Max Roach and Weston he still felt like a little kid in the presence of his idols.",
+     "kind": "mention",
+     "page": 25,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855#b25-2"
+    }
+   ],
+   "n_blocks": 14,
+   "block_ids": [
+    212816,
+    212842,
+    212844,
+    212846,
+    212848,
+    212849,
+    212863,
+    212864,
+    212866,
+    212880,
+    212881,
+    212924,
+    212955,
+    212957
+   ],
+   "doc": {
+    "doc_id": "275855",
+    "collection": "hamilton",
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, January 16, 1999 [interview 2 of 2]",
+    "interviewee": "Benny Powell",
+    "interviewer": null,
+    "year": 1999,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275855",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-january-16-1999",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "I work with him now, and it’s a real joy to work with him.",
+      "said_by": "Benny Powell"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": true,
+   "albums_with_him": 2,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "trombone"
+   ],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "basis": "his_statement",
+    "one_liner": "trombonist; cried “we have adventure!” on the donkeys",
+    "summary": "Weston named Powell in his band on “Saga”, “Khepera”, Montreal, the Brooklyn church concert and St. Lucia, and recalled him crying “We have adventure!” as the sextet rode donkeys up to Jajouka — echoing the line Jenkins quoted from Powell, his trombonist of many years.",
+    "his_quote": "Benny said, “We have adventure! We have adventure!”",
+    "his_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b13-3",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Count Basie and His Orchestra performs in Helsinki 1962 (JOKAHBL3E C04-11).tif",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_(JOKAHBL3E_C04-11).tif",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=200",
+    "width": 4673,
+    "height": 4705,
+    "mime": "image/tiff",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 4.0",
+     "usage_terms": "Creative Commons Attribution 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null,
+     "credit": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f",
+     "restrictions": null,
+     "date": "25 April 1962 date QS:P571,+1962-04-25T00:00:00Z/11"
+    },
+    "attribution": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f (CC BY 4.0), via Wikimedia Commons",
+    "also_pictured": [
+     "count basie"
+    ],
+    "review_flags": [
+     "may_be_a_group_photo",
+     "attribution_required_but_author_unknown"
+    ]
+   }
+  },
+  {
+   "witness_key": "Owens_Jimmy_Transcript",
+   "name": "Jimmy Owens",
+   "qid": null,
+   "qid_source": null,
+   "description": null,
+   "born": null,
+   "died": null,
+   "network_url": null,
+   "spoke_themselves": true,
+   "relation": "mentor of",
+   "relation_weight": 2.2,
+   "tier": "learned",
+   "direction": "weston_leads",
+   "contact_level": "knew_personally",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "a musicians' organizing meeting on 135th Street; lessons in publishing",
+   "one_liner": "got an inch-thick stack of his lead sheets",
+   "grounded": false,
+   "ungrounded_words": [
+    "thick"
+   ],
+   "summary": "Owens credited Weston, with Donald Byrd, for teaching him to keep his own publishing, and recalled Weston handing him an inch-thick stack of lead sheets at a musicians' meeting on 135th Street with the advice to write his music out if he wanted it recorded.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 3,
+   "caution": "",
+   "confidence": "high",
+   "notes": "Upstream 'influenced by' is true but weaker than what he describes; 'mentor of' (Weston leading) fits. Input gives no QID for this Jimmy Owens; none invented. 308909 (Weston occasionally seen with a big band) and 308987 (a Jazzmobile student now playing saxophone with him) are passing mentions. Facts from his Hamilton interview are not carried over.",
+   "lead_quote": "Randy Weston gave me a stack of about an inch of his lead sheets. One of the things he said was, “You’ve gotta have your stuff written out if you want people to record it.”",
+   "lead_block_id": 304752,
+   "lead_page": 31,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-2",
+   "second_quote": "I recall how Randy Weston and Donald Byrd, and talking to Horace Silver and Cannonball Adderley, and all of these musicians, Nat Adderley, how they gave me information freely.",
+   "second_block_id": 304820,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b41-2",
+   "more_quotes": [
+    {
+     "block_id": 304644,
+     "quote": "And I had learned this stuff from Donald Byrd and Randy Weston.",
+     "notable": 1,
+     "summary": "Owens said he had learned about publishing and protecting his compositions from Donald Byrd and Weston, which is why he refused to give Lionel Hampton co-credit on his arrangement.",
+     "kind": "mention",
+     "page": 14,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b14-3"
+    },
+    {
+     "block_id": 304750,
+     "quote": "Again, that’s Donald Byrd, that’s Randy Weston, who helped me.",
+     "notable": 1,
+     "summary": "Owens credited Donald Byrd and Weston with teaching him always to keep his own publishing.",
+     "kind": "mention",
+     "page": 31,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript#b31-0"
+    }
+   ],
+   "n_blocks": 7,
+   "block_ids": [
+    304644,
+    304750,
+    304751,
+    304752,
+    304820,
+    304873,
+    304951
+   ],
+   "doc": {
+    "doc_id": "Owens_Jimmy_Transcript",
+    "collection": "si",
+    "title": "Jimmy Owens — Smithsonian Jazz Oral History",
+    "interviewee": "Jimmy Owens",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Owens_Jimmy_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Owens-Jimmy/Owens_Jimmy_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "influenced by",
+      "direction": "target",
+      "evidence": "I had learned this stuff from Donald Byrd and Randy Weston... Randy Weston gave me a stack of about an inch of his lead sheets... he would tell me things about publishing... I recall how Randy Weston and Donald Byrd... gave me information freely.",
+      "said_by": "Jimmy Owens"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": null
+  },
+  {
+   "witness_key": "275854",
+   "name": "Benny Powell",
+   "qid": "Q599429",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz trombonist (1930–2010)",
+   "born": "1930",
+   "died": "2010",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q599429",
+   "spoke_themselves": true,
+   "relation": "played under",
+   "relation_weight": 2.2,
+   "tier": "learned",
+   "direction": "weston_leads",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "his band, about fifteen years to 1995; the Morocco film trip",
+   "one_liner": "went to morocco to film his return",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Powell said fifteen years in Weston's band had been glorious, recalled the trip to Morocco to film his return there, and quoted him as wanting 'to put the magic back in music', calling him a spellbinder who leads by example and pays well.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "In the Morocco story Powell runs the Gnawa together with the village he calls 'Joujouka' and names 'Brian Smith' of the Rolling Stones (Brian Jones); his dating of Weston's father's words and first Tangier visit ('maybe 25 years ago') is loose. Do not lift those details into captions. The title says Monk Rowe, but this first interview was conducted by Michael Woods.",
+   "confidence": "high",
+   "notes": "Framed Weston as the boss (joined his band, 'chosen by him', 'he pays very well', 'he won't hire you' if he cannot pay), hence 'played under'. Upstream 'played with' is right in substance. Other usable lines: 'I’ve been playing with Randy Weston for about the last 15 years, and it’s really been glorious' (216628); 'he’s just like Count Basie, I can’t say only better' (216650).",
+   "lead_quote": "he said, “I’m just trying to put the magic back in music.” And boy can he ever do it. He is a spellbinder.",
+   "lead_block_id": 212786,
+   "lead_page": 8,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b8-0",
+   "second_quote": "“What note goes here?” He’d say, “I don’t know, find a pretty one and play it.”",
+   "second_block_id": 212786,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b8-0",
+   "more_quotes": [
+    {
+     "block_id": 212764,
+     "quote": "I’ve been playing with Randy Weston for about the last 15 years, and it’s really been glorious what I’ve been through.",
+     "notable": 2,
+     "summary": "Powell recalled going to Morocco with Weston about seven years earlier to film his return there, said fifteen years in his band had been glorious, and told how Weston's father had told him he was an African born in America.",
+     "kind": "mention",
+     "page": 4,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b4-0"
+    },
+    {
+     "block_id": 212788,
+     "quote": "Well he knows what he’s got. He knows he couldn’t say that to anybody you know. So I feel like I am chosen by him and, to make matters better, he pays very well.",
+     "notable": 2,
+     "summary": "Powell said Weston knew whom he could trust with loose guidance, that he felt chosen by Weston, and that Weston paid very well and performed in every format from solo to symphony.",
+     "kind": "recovered_continuation",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b8-2"
+    },
+    {
+     "block_id": 212789,
+     "quote": "But if he can’t pay what he’d like to pay, he just won’t hire you. This is good. I like it. So I know whenever he calls it’s a well paying gig and no nonsense.",
+     "notable": 1,
+     "summary": "Powell said Weston performed all over the world, added him to the band when the budget allowed, and would rather not hire a musician than underpay him.",
+     "kind": "recovered_continuation",
+     "page": null,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854#b9-0"
+    }
+   ],
+   "n_blocks": 5,
+   "block_ids": [
+    212744,
+    212764,
+    212786,
+    212788,
+    212789
+   ],
+   "doc": {
+    "doc_id": "275854",
+    "collection": "hamilton",
+    "title": "Benny Powell interviewed by Monk Rowe, New York City, New York, July 27, 1995 [interview 1 of 2]",
+    "interviewee": "Benny Powell",
+    "interviewer": null,
+    "year": 1995,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275854",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/benny-powell-interviewed-monk-rowe-new-york-city-new-york-july-27-1995-interview",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "played with",
+      "direction": "mutual",
+      "evidence": "I’ve been playing with Randy Weston for about the last 15 years",
+      "said_by": "Benny Powell"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": true,
+   "albums_with_him": 2,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "trombone"
+   ],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "in music group with",
+    "basis": "his_statement",
+    "one_liner": "trombonist; cried “we have adventure!” on the donkeys",
+    "summary": "Weston named Powell in his band on “Saga”, “Khepera”, Montreal, the Brooklyn church concert and St. Lucia, and recalled him crying “We have adventure!” as the sextet rode donkeys up to Jajouka — echoing the line Jenkins quoted from Powell, his trombonist of many years.",
+    "his_quote": "Benny said, “We have adventure! We have adventure!”",
+    "his_quote_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Randy-Weston-Transcription-2020_0#b13-3",
+    "notable": 2
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Count Basie and His Orchestra performs in Helsinki 1962 (JOKAHBL3E C04-11).tif",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_(JOKAHBL3E_C04-11).tif",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Count_Basie_and_His_Orchestra_performs_in_Helsinki_1962_%28JOKAHBL3E_C04-11%29.tif?width=200",
+    "width": 4673,
+    "height": 4705,
+    "mime": "image/tiff",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 4.0",
+     "usage_terms": "Creative Commons Attribution 4.0",
+     "url": "https://creativecommons.org/licenses/by/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null,
+     "credit": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f",
+     "restrictions": null,
+     "date": "25 April 1962 date QS:P571,+1962-04-25T00:00:00Z/11"
+    },
+    "attribution": "https://finna.fi/Record/museovirasto.8ff907ca-2cb2-4031-8a98-3136a010183f (CC BY 4.0), via Wikimedia Commons",
+    "also_pictured": [
+     "count basie"
+    ],
+    "review_flags": [
+     "may_be_a_group_photo",
+     "attribution_required_but_author_unknown"
+    ]
+   }
+  },
+  {
+   "witness_key": "Taylor_Billy_Transcript",
+   "name": "Billy Taylor",
+   "qid": "Q863242",
+   "qid_source": "exact unique label match in wd_people",
+   "description": "American jazz bassist (1906-1986)",
+   "born": "1906",
+   "died": "1986",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q863242",
+   "spoke_themselves": true,
+   "relation": "friend of",
+   "relation_weight": 1.8,
+   "tier": "social",
+   "direction": "mutual",
+   "contact_level": "knew_personally",
+   "basis": [
+    "direct_contact",
+    "recordings"
+   ],
+   "context": "both recording for Riverside; the early-1960s cultural trip to Africa",
+   "one_liner": "recommended him for the africa trip",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Taylor recalled that he and Weston, both recording for Riverside, were fascinated by its African field recordings, that he recommended Weston for an early-1960s cultural trip to Africa when he could not go, and called him a remarkable musician who had gone back to the roots as few others had.",
+   "stance": "positive",
+   "stance_strength": 3,
+   "notable": 3,
+   "caution": "The second quote compresses history: 'this is when Randy first went to Africa and he ultimately stayed there' is Taylor's recollection; the trip and his later residence in Africa were years apart, and the claim that Taylor's recommendation sent him is Taylor's alone. In 317235 the transcript garbles the name as 'Randy Western' (Monk and 'Randy Western' as spare pianists); if that line is used, correct with [sic] or editorial note.",
+   "confidence": "high",
+   "notes": "'friend of' on the strength of 'we used to talk about these things' and 'we talked about them a lot'; nothing stronger (no playing together) is stated. Input gives no QID for this Billy Taylor; none invented. Also usable: 'I mean he has gone back to the roots in way that few others have.' (verbatim 'in way').",
+   "lead_quote": "Randy Weston is a remarkable musician who has over the years taken the historical line from Africa that has been developed in the Americas and has done something very special with it.",
+   "lead_block_id": 313409,
+   "lead_page": 119,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript#b119-0",
+   "second_quote": "So I recommended Randy Weston and this is when Randy first went to Africa and he ultimately stayed there and did things.",
+   "second_block_id": 313409,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript#b119-0",
+   "more_quotes": [
+    {
+     "block_id": 313199,
+     "quote": "you had to either be florid in the Ellington way or you had to be spare in the way that Monk and Randy Western had chose to do, so that you left a lot of space for people to absorb the harmonic things that you were outlining.",
+     "notable": 2,
+     "summary": "Taylor said a pianist had to be either florid like Ellington or spare like Monk and Weston, leaving space for listeners to absorb the harmony.",
+     "kind": "mention",
+     "page": 50,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript#b50-2"
+    }
+   ],
+   "n_blocks": 2,
+   "block_ids": [
+    313199,
+    313409
+   ],
+   "doc": {
+    "doc_id": "Taylor_Billy_Transcript",
+    "collection": "si",
+    "title": "Billy Taylor — Smithsonian Jazz Oral History",
+    "interviewee": "Billy Taylor",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Taylor_Billy_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Taylor-Billy/Taylor_Billy_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "friend of",
+      "direction": "mutual",
+      "evidence": "I knew Randy would love it because when we were both recording for Riverside records... we talked about them a lot... So we both gravitated… we used to talk about these things",
+      "said_by": "Billy Taylor"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": null
+  },
+  {
+   "witness_key": "Laws_Hubert_Transcript",
+   "name": "Hubert Laws",
+   "qid": "Q721330",
+   "qid_source": "doc_interviewees",
+   "description": "American flutist and saxophonist",
+   "born": "1939",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q721330",
+   "spoke_themselves": true,
+   "relation": "played with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "CTI's Blue Moses; a CTI concert in Tangier",
+   "one_liner": "first went to africa because of him",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Laws, reminded that he played on Weston's Blue Moses, said his first trip to Africa, to Tangier with CTI artists, came about because of Weston.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "Laws only half-remembers playing on Blue Moses ('I played on that too, right?'; the interviewer confirms it) and did not know whether Weston lived in Tangier. The interviewer's warm tribute in 292074 is Brown's, not Laws's. The Weston passage follows directly on Laws's remarks about women and domestic disputes; do not show it with that context.",
+   "confidence": "medium",
+   "notes": "Played on his record and a concert: 'played with' rather than upstream's 'collaborated with'.",
+   "lead_quote": "First time I went to Africa was because of Randy Weston.",
+   "lead_block_id": 288041,
+   "lead_page": 88,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-4",
+   "second_quote": "We all – when I say we, I’m talking about some of the CTI artists – went to Tangier.",
+   "second_block_id": 288043,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-6",
+   "more_quotes": [
+    {
+     "block_id": 288043,
+     "quote": "Randy Weston, I think he – I don’t know if he lived there.",
+     "notable": 1,
+     "summary": "Laws described playing in Tangier with other CTI artists and hearing Moroccan flute players, and was unsure whether Weston lived there.",
+     "kind": "mention",
+     "page": 88,
+     "url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript#b88-6"
+    }
+   ],
+   "n_blocks": 3,
+   "block_ids": [
+    288038,
+    288041,
+    288043
+   ],
+   "doc": {
+    "doc_id": "Laws_Hubert_Transcript",
+    "collection": "si",
+    "title": "Hubert Laws — Smithsonian Jazz Oral History",
+    "interviewee": "Hubert Laws",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Laws_Hubert_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Laws-Hubert/Laws_Hubert_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "mutual",
+      "evidence": "We all – when I say we, I’m talking about some of the CTI artists – went to Tangier... Randy Weston, who fortunately is still with us... The next project is March and April of 1972, CTI, Blue Moses. I played on that too, right?",
+      "said_by": "Hubert Laws"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": true,
+   "albums_with_him": 1,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "alto flute",
+    "bass flute",
+    "flute",
+    "piccolo"
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Hubert Laws.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Hubert_Laws.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubert_Laws.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubert_Laws.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubert_Laws.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubert_Laws.jpg?width=200",
+    "width": 1024,
+    "height": 826,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Catalin Neacsu Seattle, WA",
+     "credit": "Hubert-Laws",
+     "restrictions": null,
+     "date": "2007-11-30"
+    },
+    "attribution": "Catalin Neacsu Seattle, WA (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Morgenstern_Dan_Transcript",
+   "name": "Dan Morgenstern",
+   "qid": "Q86605",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz historian (1929–2024)",
+   "born": "1929",
+   "died": "2024",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q86605",
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "saw_live",
+    "direct_contact"
+   ],
+   "context": "a left-wing union dance (c. 1947); the Jazz on Broadway concert series, 1964",
+   "one_liner": "booked his large band for jazz on broadway",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Morgenstern recalled that one of the first live bands he ever saw, at a left-wing union dance, was Weston's with Ahmed Abdul-Malik on bass, and that his 1964 Jazz on Broadway series presented Weston with a fairly large band.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 2,
+   "caution": "The second quote is a fragment inside a run-on sentence. The 1947 date in the same sentence belongs to his first meeting Ahmed Abdul Malik; the union dance is only implied to be the same occasion. Weston is incidental in both passages (the stories are about Earl Hines and the concert series).",
+   "confidence": "medium",
+   "notes": "'collaborated with' rests on Morgenstern co-producing the concert series that presented Weston's band; he describes no personal dealings with him. Upstream 'has met' was based on the union dance, where he was only in the audience.",
+   "lead_quote": "One of the first live bands I saw was at a left-wing union dance where Randy Weston had the band and Ahmed was the bass player.",
+   "lead_block_id": 303046,
+   "lead_page": 64,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Morgenstern_Dan_Transcript#b64-0",
+   "second_quote": "for which we did Lucky Thompson with an octet, and Randy Weston with a fairly large band",
+   "second_block_id": 303047,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Morgenstern_Dan_Transcript#b65-0",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    303046,
+    303047
+   ],
+   "doc": {
+    "doc_id": "Morgenstern_Dan_Transcript",
+    "collection": "si",
+    "title": "Dan Morgenstern — Smithsonian Jazz Oral History",
+    "interviewee": "Dan Morgenstern",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Morgenstern_Dan_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Morgenstern-Dan/Morgenstern_Dan_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "has met",
+      "direction": "na",
+      "evidence": "One of the first live bands I saw was at a left-wing union dance where Randy Weston had the band and Ahmed was the bass player.",
+      "said_by": "Dan Morgenstern"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Dan Morgenstern Cropped 2012.JPG",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Dan_Morgenstern_Cropped_2012.JPG",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Morgenstern_Cropped_2012.JPG",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Morgenstern_Cropped_2012.JPG?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Morgenstern_Cropped_2012.JPG?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Dan_Morgenstern_Cropped_2012.JPG?width=200",
+    "width": 2246,
+    "height": 2777,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Infrogmation ( talk ), same person as Infrogmation of New Orleans",
+     "credit": "Photo by Infrogmation ( talk ). Also uploaded in uncropped by me to Flickr : Satchmo SummerFest 2012 Dan Morgenstern",
+     "restrictions": null,
+     "date": "2012-08-04"
+    },
+    "attribution": "Infrogmation ( talk ), same person as Infrogmation of New Orleans (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275810",
+   "name": "Orrin Keepnews",
+   "qid": "Q352028",
+   "qid_source": "doc_interviewees",
+   "description": "American record producer (1923–2015)",
+   "born": "1923",
+   "died": "2015",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q352028",
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact",
+    "recordings"
+   ],
+   "context": "Riverside studio sessions before Monk; Cannonball Adderley's live album with 'High Fly'",
+   "one_liner": "had him in the studio before monk",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Keepnews named Weston among the easygoing artists he had been in the studio with before Thelonious Monk, and said Cannonball Adderley's live album carried what he believed was the first recording of Weston's 'Hi-Fly'.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "'all pussycats' means easy to work with, set against Monk as 'a real tough cookie'; shown bare it can read as belittling. The second quote's claim that Cannonball's was the first recording of 'Hi-Fly' is Keepnews's own hedge ('as far as I know') and is probably wrong: Weston recorded the tune himself before Cannonball's 1959 live album (check discography before printing). 'High Fly' is the transcript's spelling of Hi-Fly. The 'waltz king' remark in the same block is Cannonball's on-record patter, reported, not Keepnews's judgement.",
+   "confidence": "high",
+   "notes": "A producer who recorded him: 'collaborated with' per spec. Upstream 'has met' understated it. Keepnews does not say in so many words that he produced Weston's records, only that he 'had been in the studio with' him.",
+   "lead_quote": "before I got involved with Thelonious I had been in the studio with people like Randy Weston, Mundell Lowe, Billy Taylor, you know all pussycats.",
+   "lead_block_id": 191290,
+   "lead_page": 2,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810#b2-0",
+   "second_quote": "this was the first recording as far as I know of Randy Weston’s “High Fly” which of course has become quite a classic in its own right",
+   "second_block_id": 191368,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810#b20-4",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    191290,
+    191368
+   ],
+   "doc": {
+    "doc_id": "275810",
+    "collection": "hamilton",
+    "title": "Orrin Keepnews interviewed by Monk Rowe, San Francisco, California, August 7, 2002",
+    "interviewee": "Orrin Keepnews",
+    "interviewer": null,
+    "year": 2002,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275810",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/orrin-keepnews-interviewed-monk-rowe-san-francisco-california-august-7-2002",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "has met",
+      "direction": "na",
+      "evidence": "I had been in the studio with people like Randy Weston, Mundell Lowe, Billy Taylor, you know all pussycats.",
+      "said_by": "Orrin Keepnews"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": true,
+   "albums_with_him": 1,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "liner notes",
+    "producer"
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "semlab",
+    "file": null,
+    "url_full": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "url_800": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "url_400": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "url_200": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "hosted_on_commons": false,
+    "license": {
+     "short": null,
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null
+    },
+    "attribution": "Linked Jazz / Semantic Lab - licence unverified",
+    "review_flags": [
+     "not_commons_licence_unverified"
+    ]
+   }
+  },
+  {
+   "witness_key": "Keepnews_Orrin_Transcript",
+   "name": "Orrin Keepnews",
+   "qid": "Q352028",
+   "qid_source": "doc_interviewees",
+   "description": "American record producer (1923–2015)",
+   "born": "1923",
+   "died": "2015",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q352028",
+   "spoke_themselves": true,
+   "relation": "collaborated with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact",
+    "recordings"
+   ],
+   "context": "Riverside Records office, West 48th Street, 1950s",
+   "one_liner": "had his albums on the office wall",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Keepnews recalled Miles Davis seeing Weston's albums on the Riverside office wall and saying he was glad somebody had finally recorded him, then scorning the idea of recommending anyone to his own label boss.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 2,
+   "caution": "The praise in the lead is Miles Davis's, reported by Keepnews; caption it as Miles's remark, not Keepnews's judgement. 'along time ago' is verbatim.",
+   "confidence": "medium",
+   "notes": "The relation rests on the implication that Riverside recorded Weston (his albums on the office wall; Miles glad 'somebody got around to recording him'); Keepnews does not say here that he produced them. Upstream 'knows of' understates it. Do not carry in facts from his Hamilton interview.",
+   "lead_quote": "he said, “Oh, Randy! I’m glad somebody got around to recording him. It should have been done along time ago,”",
+   "lead_block_id": 285791,
+   "lead_page": 16,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Keepnews_Orrin_Transcript#b16-0",
+   "second_quote": "We had some recent albums on the wall, including a couple of Randy Weston.",
+   "second_block_id": 285791,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Keepnews_Orrin_Transcript#b16-0",
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    285791
+   ],
+   "doc": {
+    "doc_id": "Keepnews_Orrin_Transcript",
+    "collection": "si",
+    "title": "Orrin Keepnews — Smithsonian Jazz Oral History",
+    "interviewee": "Orrin Keepnews",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Keepnews_Orrin_Transcript",
+    "source_url": "https://amhistory.si.edu/Jazz/Keepnews-Orrin/Keepnews_Orrin_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "I had, no, I look around and saw that Miles was looking at these things and I was…and he said, “Oh, Randy! I’m glad somebody got around to recording him. It should have been done along time ago,” and I said, “Well if you feel that way about Randy, why didn’t you recommend him to your label?”",
+      "said_by": "Orrin Keepnews"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": true,
+   "albums_with_him": 1,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "liner notes",
+    "producer"
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "semlab",
+    "file": null,
+    "url_full": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "url_800": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "url_400": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "url_200": "https://semlab.s3.amazonaws.com/images/Q1736.jpg",
+    "hosted_on_commons": false,
+    "license": {
+     "short": null,
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null
+    },
+    "attribution": "Linked Jazz / Semantic Lab - licence unverified",
+    "review_flags": [
+     "not_commons_licence_unverified"
+    ]
+   }
+  },
+  {
+   "witness_key": "275843",
+   "name": "Jimmy Owens",
+   "qid": null,
+   "qid_source": null,
+   "description": null,
+   "born": null,
+   "died": null,
+   "network_url": null,
+   "spoke_themselves": true,
+   "relation": "mentor of",
+   "relation_weight": 2.2,
+   "tier": "learned",
+   "direction": "weston_leads",
+   "contact_level": "knew_personally",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "",
+   "one_liner": "learned the publishing business from him",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Owens named Weston, after Donald Byrd, as one of his mentors and said Weston taught him how music publishing works, knowledge that led him into teaching the business of music.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 2,
+   "caution": "",
+   "confidence": "high",
+   "notes": "Input gives no QID for this Jimmy Owens (trumpeter); none invented. His Smithsonian interview is a separate witness item.",
+   "lead_quote": "Randy Weston was one of my mentors also. He taught me a lot about the business — publishing, and how publishing works.",
+   "lead_block_id": 207425,
+   "lead_page": 3,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275843#b3-0",
+   "second_quote": "mentors like Donald Byrd and Randy Weston helped me to understand the business side of music",
+   "second_block_id": 207493,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275843#b12-2",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    207425,
+    207493
+   ],
+   "doc": {
+    "doc_id": "275843",
+    "collection": "hamilton",
+    "title": "Jimmy Owens interviewed by Monk Rowe, New York City, New York, January 12, 2001",
+    "interviewee": "Jimmy Owens",
+    "interviewer": null,
+    "year": 2001,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275843",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/jimmy-owens-interviewed-monk-rowe-new-york-city-new-york-january-12-2001",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "mentor of",
+      "direction": "target",
+      "evidence": "Randy Weston was one of my mentors also. He taught me a lot about the business — publishing, and how publishing works.",
+      "said_by": "Jimmy Owens"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": null
+  },
+  {
+   "witness_key": "Ron-Carter-Transcription-2020_0",
+   "name": "Ron Carter",
+   "qid": "Q434593",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz bassist, cellist, and composer (born 1937)",
+   "born": "1937",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q434593",
+   "spoke_themselves": true,
+   "relation": "in music group with",
+   "relation_weight": 3.0,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "worked_together",
+   "basis": [
+    "direct_contact"
+   ],
+   "context": "early New York career, after touring with Chico Hamilton; before or around Sonny Rollins",
+   "one_liner": "for almost a year after chico hamilton’s tour",
+   "grounded": false,
+   "ungrounded_words": [
+    "hamilton"
+   ],
+   "summary": "Asked about working with Weston after returning from Chico Hamilton's tour, Carter said only that it lasted almost a year, 'plus', and that all those leaders brought something to his table.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "Carter's own words about Weston ('For almost a year.' / 'Plus.') sit in the interviewer's blocks' context, not in a block of his; his only block is the single word 'Randy.' There is no quotable line.",
+   "confidence": "medium",
+   "notes": "The interviewer (Levy) raises Weston; Carter confirms the duration in his own words, which is enough for spoke_themselves=true but not for a quote. 'in music group with' (sideman among leaders Chico, Sonny, Randy) rather than upstream's 'collaborated with'.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    306535,
+    306542
+   ],
+   "doc": {
+    "doc_id": "Ron-Carter-Transcription-2020_0",
+    "collection": "si",
+    "title": "Ron Carter — Smithsonian Jazz Oral History",
+    "interviewee": "Ron Carter",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Ron-Carter-Transcription-2020_0",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Ron-Carter-Transcription-2020_0.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "collaborated with",
+      "direction": "na",
+      "evidence": "[INTERVIEWER] You worked with Randy Weston. [INTERVIEWEE] For almost a year.",
+      "said_by": "Ron Carter"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": true,
+   "albums_with_him": 3,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "bass"
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Ron plays.JPG",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ron_plays.JPG",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG?width=200",
+    "width": 448,
+    "height": 936,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 3.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+     "url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Kku",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2008-10-07"
+    },
+    "attribution": "Kku (CC BY-SA 3.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275830",
+   "name": "Dave McKenna",
+   "qid": "Q386010",
+   "qid_source": "doc_interviewees",
+   "description": "American musician (1930-2008)",
+   "born": "1930",
+   "died": "2008",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q386010",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "reputation"
+   ],
+   "context": "",
+   "one_liner": "named him as a taller piano player",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "McKenna, joking about being called a giant of the piano, offered Weston as a physically bigger pianist and passed on a story about him standing next to Wilt Chamberlain.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "Both lines are a joke about height ('giant of the piano' taken literally); out of context 'bigger piano players' reads as a judgement of stature or talent. The Wilt Chamberlain story is hearsay ('Did you hear about').",
+   "confidence": "high",
+   "notes": "No contact stated.",
+   "lead_quote": "Yeah, but there’s bigger piano players, too. Remember Stan Kenton? How about Randy Weston?",
+   "lead_block_id": 201069,
+   "lead_page": 1,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275830#b1-6",
+   "second_quote": "Did you hear about Randy Weston and some other tall piano player came in and happened to be standing next to Wilt Chamberlain, and that reduced everything.",
+   "second_block_id": 201071,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275830#b1-8",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    201069,
+    201071
+   ],
+   "doc": {
+    "doc_id": "275830",
+    "collection": "hamilton",
+    "title": "Dave McKenna interviewed by Monk Rowe, Chautauqua, New York, September 12, 1997",
+    "interviewee": "Dave McKenna",
+    "interviewer": null,
+    "year": 1997,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275830",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/dave-mckenna-interviewed-monk-rowe-chautauqua-new-york-september-12-1997",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "Remember Stan Kenton? How about Randy Weston? ... Did you hear about Randy Weston and some other tall piano player came in and happened to be standing next to Wilt Chamberlain",
+      "said_by": "Dave McKenna"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Dave McKenna.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Dave_McKenna.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Dave_McKenna.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Dave_McKenna.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Dave_McKenna.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Dave_McKenna.jpg?width=200",
+    "width": 262,
+    "height": 289,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Laura Kolb Satellite Beach, Fl.- Taos,N.M., USA",
+     "credit": "Dave McKenna",
+     "restrictions": null,
+     "date": "Unknown date"
+    },
+    "attribution": "Laura Kolb Satellite Beach, Fl.- Taos,N.M., USA (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275842",
+   "name": "Harold Ousley",
+   "qid": "Q1585901",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz tenor saxophonist and flautist (1929-2015)",
+   "born": "1929",
+   "died": "2015",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1585901",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "saw_live"
+   ],
+   "context": "Village clubs (Five Spot, Club Bohemia), from 1957",
+   "one_liner": "went to the village when he worked there",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Ousley recalled going down to the Village clubs after arriving in New York in 1957, when Weston was working six nights a week, and named him as the kind of artist he interviewed on his public-access TV shows.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "The second line ('say like Randy Weston') gives him as an example of the kind of artist Ousley interviews on cable TV; it does not state that Weston was ever actually on the show. The lead line ends mid-thought ('Randy worked six' nights a week).",
+   "confidence": "medium",
+   "notes": "Upstream 'has met' is not stated in the testimony. The 1957 date comes from Ousley's next turn ('I came here in ’57').",
+   "lead_quote": "I would go down there at the time Randy Weston was down there and he worked, in fact they had music seven nights a week, I think Randy worked six",
+   "lead_block_id": 207346,
+   "lead_page": 11,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275842#b11-2",
+   "second_quote": "doing interviews gives me an opportunity to do interviews with artists, say like Randy Weston, that people may go to hear but don’t get a chance to hear what they feel and what they think and what’s important to them.",
+   "second_block_id": 207382,
+   "second_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275842#b17-6",
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    207346,
+    207382
+   ],
+   "doc": {
+    "doc_id": "275842",
+    "collection": "hamilton",
+    "title": "Harold Ousley interviewed by Monk Rowe, New York City, New York, January 12, 2001",
+    "interviewee": "Harold Ousley",
+    "interviewer": null,
+    "year": 2001,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275842",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/harold-ousley-interviewed-monk-rowe-new-york-city-new-york-january-12-2001",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "has met",
+      "direction": "na",
+      "evidence": "doing interviews with artists, say like Randy Weston",
+      "said_by": "Harold Ousley"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "semlab",
+    "file": null,
+    "url_full": "https://linkedjazz.org/image/square/Harold_Ousley.png",
+    "url_800": "https://linkedjazz.org/image/square/Harold_Ousley.png",
+    "url_400": "https://linkedjazz.org/image/square/Harold_Ousley.png",
+    "url_200": "https://linkedjazz.org/image/square/Harold_Ousley.png",
+    "hosted_on_commons": false,
+    "license": {
+     "short": null,
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null
+    },
+    "attribution": "Linked Jazz / Semantic Lab - licence unverified",
+    "review_flags": [
+     "not_commons_licence_unverified"
+    ]
+   }
+  },
+  {
+   "witness_key": "McLean_Jackie_Interview_Transcription",
+   "name": "Jackie McLean",
+   "qid": "Q920490",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz saxophonist, composer, bandleader, and educator (1931–2006)",
+   "born": "1931",
+   "died": "2006",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q920490",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "shared_associates"
+   ],
+   "context": "Harlem and Brooklyn jam sessions, late 1940s; Max Roach's Brooklyn circle",
+   "one_liner": "named him among the brooklyn players at sessions",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "McLean named Weston among the Brooklyn musicians who came over to play at the Harlem jam sessions, and among the Brooklyn guys in Max Roach's circle.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "",
+   "confidence": "medium",
+   "notes": "Both men were at the same jam sessions, but McLean does not say he played with or met Weston, so upstream 'has met' is not established. 301363 has only a bare 'Randy' in a roll-call of Brooklyn guys.",
+   "lead_quote": "So there were guys from Brooklyn that would come over and play. Randy Weston. We used to go to Brooklyn, to jam sessions over there.",
+   "lead_block_id": 297323,
+   "lead_page": 21,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=McLean_Jackie_Interview_Transcription#b21-3",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 2,
+   "block_ids": [
+    297323,
+    297327
+   ],
+   "doc": {
+    "doc_id": "McLean_Jackie_Interview_Transcription",
+    "collection": "si",
+    "title": "Jackie McLean — Smithsonian Jazz Oral History",
+    "interviewee": "Jackie McLean",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=McLean_Jackie_Interview_Transcription",
+    "source_url": "https://amhistory.si.edu/jazz/Mclean-Jackie/McLean_Jackie_Interview_Transcription.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "has met",
+      "direction": "na",
+      "evidence": "Randy Weston. We used to go to Brooklyn, to jam sessions over there.",
+      "said_by": "Jackie McLean"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": true,
+   "he_said": {
+    "relation": "none",
+    "basis": "interviewer_only",
+    "one_liner": "",
+    "summary": "Jenkins noted that Jackie McLean was named an NEA Jazz Master in the same year as Weston; Weston did not mention him.",
+    "his_quote": null,
+    "his_quote_url": null,
+    "notable": 1
+   },
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Jackie McLean.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jackie_McLean.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie_McLean.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie_McLean.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie_McLean.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Jackie_McLean.jpg?width=200",
+    "width": 453,
+    "height": 684,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 3.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+     "url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Brianmcmillen",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2011-04-12 03:57:36"
+    },
+    "attribution": "Brianmcmillen (CC BY-SA 3.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "275865",
+   "name": "Annie Ross",
+   "qid": "Q267184",
+   "qid_source": "doc_interviewees",
+   "description": "British-American actress, singer and vocalist",
+   "born": "1930",
+   "died": "2020",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q267184",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "recordings"
+   ],
+   "context": "Lambert, Hendricks & Ross album 'High Flyin’'",
+   "one_liner": "loved his pieces on “high flyin’”",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Ross named the Lambert, Hendricks & Ross album 'High Flyin’' among her favourites and said its Weston pieces were wonderful.",
+   "stance": "positive",
+   "stance_strength": 1,
+   "notable": 1,
+   "caution": "'those things of Randy Weston’s' is not specified; it means his compositions as sung on the LH&R album, and she names none. No contact with him is stated.",
+   "confidence": "medium",
+   "notes": "",
+   "lead_quote": "I loved “High Flyin’” which didn’t get that much distribution but it was a good album, and those things of Randy Weston’s are wonderful.",
+   "lead_block_id": 216696,
+   "lead_page": 7,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275865#b7-13",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    216696
+   ],
+   "doc": {
+    "doc_id": "275865",
+    "collection": "hamilton",
+    "title": "Annie Ross interviewed by Monk Rowe, New York City, New York, January 13, 2001",
+    "interviewee": "Annie Ross",
+    "interviewer": null,
+    "year": 2001,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275865",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/annie-ross-interviewed-monk-rowe-new-york-city-new-york-january-13-2001",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "those things of Randy Weston’s are wonderful.",
+      "said_by": "Annie Ross"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "semlab",
+    "file": null,
+    "url_full": "https://linkedjazz.org/image/square/Annie_Ross.png",
+    "url_800": "https://linkedjazz.org/image/square/Annie_Ross.png",
+    "url_400": "https://linkedjazz.org/image/square/Annie_Ross.png",
+    "url_200": "https://linkedjazz.org/image/square/Annie_Ross.png",
+    "hosted_on_commons": false,
+    "license": {
+     "short": null,
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": null
+    },
+    "attribution": "Linked Jazz / Semantic Lab - licence unverified",
+    "review_flags": [
+     "not_commons_licence_unverified"
+    ]
+   }
+  },
+  {
+   "witness_key": "Fuller_Curtis_Transcript",
+   "name": "Curtis Fuller",
+   "qid": "Q1145565",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz musician (1932–2021)",
+   "born": "1934",
+   "died": "2021",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1145565",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "shared_associates"
+   ],
+   "context": "the Five Spot, when the Jazztet was forming",
+   "one_liner": "recalled his quartet at the five spot",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Fuller recalled that the Five Spot always booked two groups and that the first had been Weston and his quartet.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "The transcript is garbled here ('Jerry Mulligan', 'Danny Golson'); it is unclear whether Weston's quartet shared the bill with Fuller's group or was an earlier booking. No contact is stated.",
+   "confidence": "medium",
+   "notes": "",
+   "lead_quote": "They always hire two groups at The Five Spot. First, it was Randy Weston and his quartet.",
+   "lead_block_id": 268665,
+   "lead_page": 67,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript#b67-2",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    268665
+   ],
+   "doc": {
+    "doc_id": "Fuller_Curtis_Transcript",
+    "collection": "si",
+    "title": "Curtis Fuller — Smithsonian Jazz Oral History",
+    "interviewee": "Curtis Fuller",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Fuller_Curtis_Transcript",
+    "source_url": "https://amhistory.si.edu/jazz/Fuller-Curtis/Fuller_Curtis_Transcript.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "First, it was Randy Weston and his quartet. So, Art came in with Jerry Mulligan.",
+      "said_by": "Curtis Fuller"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Curtis Fuller.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Curtis_Fuller.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Curtis_Fuller.jpg?width=200",
+    "width": 250,
+    "height": 342,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "Public domain",
+     "usage_terms": "Public domain",
+     "url": null,
+     "public_domain": true,
+     "attribution_required": false,
+     "artist": "Photo by Tom Pich",
+     "credit": "http://www.nea.gov/about/NEARTS/2008_v1/story.php?id=p13_fuller Transferred from en.wikipedia to Commons by Stanmar using CommonsHelper .",
+     "restrictions": null,
+     "date": "2008-06-29"
+    },
+    "attribution": "Photo by Tom Pich (Public domain), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "DeJohnette_Jack_Interview_Transcription",
+   "name": "Jack DeJohnette",
+   "qid": "Q349146",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz drummer, pianist, and composer (1942–2025)",
+   "born": "1942",
+   "died": "2025",
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q349146",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "same_scene",
+   "basis": [
+    "saw_live"
+   ],
+   "context": "Jazzmobile concerts in Harlem, mid-1960s",
+   "one_liner": "heard him on the jazzmobile in harlem",
+   "grounded": false,
+   "ungrounded_words": [
+    "jazzmobile"
+   ],
+   "summary": "DeJohnette said he used to go to hear Weston play at the Jazzmobile's flatbed-truck concerts in Harlem in the mid-1960s.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 1,
+   "caution": "",
+   "confidence": "high",
+   "notes": "Audience member only; the anecdote moves at once to Idris Muhammad and Don Pullen.",
+   "lead_quote": "they used to bring flatbed trucks up into Harlem and they'd have concerts up there. I used to go hear Randy Weston play there.",
+   "lead_block_id": 258820,
+   "lead_page": 36,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=DeJohnette_Jack_Interview_Transcription#b36-4",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    258820
+   ],
+   "doc": {
+    "doc_id": "DeJohnette_Jack_Interview_Transcription",
+    "collection": "si",
+    "title": "Jack DeJohnette — Smithsonian Jazz Oral History",
+    "interviewee": "Jack DeJohnette",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=DeJohnette_Jack_Interview_Transcription",
+    "source_url": "https://amhistory.si.edu/jazz/DeJohnette-Jack/DeJohnette_Jack_Interview_Transcription.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "I used to go hear Randy Weston play there.",
+      "said_by": "Jack DeJohnette"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Jack DeJohnette.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jack_DeJohnette.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_DeJohnette.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_DeJohnette.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_DeJohnette.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_DeJohnette.jpg?width=200",
+    "width": 461,
+    "height": 614,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 2.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 2.0",
+     "url": "https://creativecommons.org/licenses/by-sa/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Ric Brooks Knoxville, USA",
+     "credit": "Jack DeJohnette Bijou 2006",
+     "restrictions": null,
+     "date": "2006"
+    },
+    "attribution": "Ric Brooks Knoxville, USA (CC BY-SA 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Wendy-Oxenhorn-Transcription-2020",
+   "name": "Wendy Oxenhorn",
+   "qid": "Q16733963",
+   "qid_source": "doc_interviewees",
+   "description": "American activist",
+   "born": "1950",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q16733963",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "reputation"
+   ],
+   "context": "",
+   "one_liner": "called him one of the spiritual leaders",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Oxenhorn named Weston with Sonny Rollins and Jimmy Heath as spiritual leaders.",
+   "stance": "positive",
+   "stance_strength": 2,
+   "notable": 1,
+   "caution": "'Him' at the start of the quote is Sonny Rollins; the praise is shared among three men. She implies but does not state contact with them through the Jazz Foundation.",
+   "confidence": "medium",
+   "notes": "",
+   "lead_quote": "Him, and Randy Weston and Jimmy Heath, these spiritual... They’re spiritual leaders, is what they are.",
+   "lead_block_id": 317311,
+   "lead_page": 36,
+   "lead_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Wendy-Oxenhorn-Transcription-2020#b36-3",
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    317311
+   ],
+   "doc": {
+    "doc_id": "Wendy-Oxenhorn-Transcription-2020",
+    "collection": "si",
+    "title": "Wendy Oxenhorn — Smithsonian Jazz Oral History",
+    "interviewee": "Wendy Oxenhorn",
+    "interviewer": null,
+    "year": 2020,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Wendy-Oxenhorn-Transcription-2020",
+    "source_url": "https://americanhistory.si.edu/sites/default/files/file-uploader/Wendy-Oxenhorn-Transcription-2020.pdf",
+    "collection_label": "Smithsonian Jazz Oral History Program"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "Him, and Randy Weston and Jimmy Heath, these spiritual... They’re spiritual leaders, is what they are.",
+      "said_by": "Wendy Oxenhorn"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": null
+  },
+  {
+   "witness_key": "275752",
+   "name": "Ron Carter",
+   "qid": "Q434593",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz bassist, cellist, and composer (born 1937)",
+   "born": "1937",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q434593",
+   "spoke_themselves": false,
+   "relation": "played with",
+   "relation_weight": 2.5,
+   "tier": "band",
+   "direction": "mutual",
+   "contact_level": "unclear",
+   "basis": [
+    "none_evident"
+   ],
+   "context": "",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Carter said nothing about Weston in this interview; only the Hamilton archive's front-matter biography lists Weston among his early New York employers.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "The only Weston mention is the archive's biographical front matter ('found steady work in New York playing with Chico Hamilton, Randy Weston, and Eric Dolphy'), not Carter speaking. Do not attribute any line to Carter.",
+   "confidence": "medium",
+   "notes": "relation 'played with' rests solely on the archive biography, not testimony; upstream 'in music group with' overstated it and cited the bio as Carter's words. Carter's 2020 Smithsonian interview is a separate witness item.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    165397
+   ],
+   "doc": {
+    "doc_id": "275752",
+    "collection": "hamilton",
+    "title": "Ron Carter interviewed by Monk Rowe, New York City, New York, January 17, 1999",
+    "interviewee": "Ron Carter",
+    "interviewer": null,
+    "year": 1999,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=275752",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/ron-carter-interviewed-monk-rowe-new-york-city-new-york-january-17-1999",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "in music group with",
+      "direction": "na",
+      "evidence": "He gained a degree from the Eastman School of Music and soon found steady work in New York playing with Chico Hamilton, Randy Weston, and Eric Dolphy.",
+      "said_by": "Ron Carter"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": true,
+   "albums_with_him": 3,
+   "liston_build": null,
+   "instruments_on_his_records": [
+    "bass"
+   ],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Ron plays.JPG",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ron_plays.JPG",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Ron_plays.JPG?width=200",
+    "width": 448,
+    "height": 936,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 3.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+     "url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Kku",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2008-10-07"
+    },
+    "attribution": "Kku (CC BY-SA 3.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "Barron_Kenny_Transcript",
+   "name": "Kenny Barron",
+   "qid": "Q489233",
+   "qid_source": "doc_interviewees",
+   "description": "American jazz pianist",
+   "born": "1943",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q489233",
+   "spoke_themselves": false,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "reputation"
+   ],
+   "context": "",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Barron said nothing about Weston; the interviewer called a possible project with African instruments 'Randy Weston territory', and Barron assented and moved on to Hank Jones.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "'Randy Weston territory.' is the interviewer's (Brown's) line, not Barron's.",
+   "confidence": "high",
+   "notes": "Barron's 'Yeah.' is the only assent.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    242401
+   ],
+   "doc": {
+    "doc_id": "Barron_Kenny_Transcript",
+    "collection": "si",
+    "title": "Kenny Barron — Smithsonian Jazz Oral History",
+    "interviewee": "Kenny Barron",
+    "interviewer": null,
+    "year": null,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=Barron_Kenny_Transcript",
+    "source_url": null,
+    "collection_label": null
+   },
+   "upstream": {
+    "relations": [],
+    "relation_ok": null
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Kenny Barron Oslo Jazzfestival 2018 (221007).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Kenny_Barron_Oslo_Jazzfestival_2018_(221007).jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenny_Barron_Oslo_Jazzfestival_2018_%28221007%29.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenny_Barron_Oslo_Jazzfestival_2018_%28221007%29.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenny_Barron_Oslo_Jazzfestival_2018_%28221007%29.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Kenny_Barron_Oslo_Jazzfestival_2018_%28221007%29.jpg?width=200",
+    "width": 900,
+    "height": 600,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 4.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+     "url": "https://creativecommons.org/licenses/by-sa/4.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Tore Sætre",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2018-08-13"
+    },
+    "attribution": "Tore Sætre (CC BY-SA 4.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "277167",
+   "name": "Lonnie Liston Smith",
+   "qid": "Q1242553",
+   "qid_source": "doc_interviewees",
+   "description": "American pianist",
+   "born": "1940",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q1242553",
+   "spoke_themselves": false,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "none_evident"
+   ],
+   "context": "early sets with Gary Bartz in Baltimore",
+   "one_liner": "",
+   "grounded": true,
+   "ungrounded_words": [],
+   "summary": "Smith played a tune at the piano that Rowe named as Weston's 'Hi-Fly', and said only that they played things like that in his early Baltimore sets.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "The only words naming Weston ('Oh yeah, Randy Weston. “High Fly”?') are the interviewer's, not Smith's.",
+   "confidence": "medium",
+   "notes": "He evidently knew the tune (he played it), which is the only basis for 'knows of'.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    222773
+   ],
+   "doc": {
+    "doc_id": "277167",
+    "collection": "hamilton",
+    "title": "Lonnie Liston Smith interviewed by Monk Rowe, via Zoom, January 9, 2021",
+    "interviewee": "Lonnie Liston Smith",
+    "interviewer": null,
+    "year": 2021,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=277167",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/lonnie-liston-smith-interviewed-monk-rowe-zoom-january-9-2021",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "knows of",
+      "direction": "na",
+      "evidence": "[INTERVIEWER] Oh yeah, Randy Weston. “High Fly”? [INTERVIEWEE] I forgot it. Then you know we’d do something like that",
+      "said_by": "Lonnie Liston Smith"
+     }
+    ],
+    "relation_ok": true
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Lonnie Liston Smith Glastonbury 2009-1.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Lonnie_Liston_Smith_Glastonbury_2009-1.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Lonnie_Liston_Smith_Glastonbury_2009-1.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Lonnie_Liston_Smith_Glastonbury_2009-1.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Lonnie_Liston_Smith_Glastonbury_2009-1.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Lonnie_Liston_Smith_Glastonbury_2009-1.jpg?width=200",
+    "width": 2280,
+    "height": 3264,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY-SA 3.0",
+     "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+     "url": "https://creativecommons.org/licenses/by-sa/3.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "Cavie78",
+     "credit": "Own work",
+     "restrictions": null,
+     "date": "2009-06-27"
+    },
+    "attribution": "Cavie78 (CC BY-SA 3.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  },
+  {
+   "witness_key": "yhm-jaz-laBarbera-p-2021",
+   "name": "Pat LaBarbera",
+   "qid": "Q200767",
+   "qid_source": "exact unique label match in wd_people",
+   "description": "American-born Canadian jazz musician",
+   "born": "1944",
+   "died": null,
+   "network_url": "https://thisismattmiller.github.io/linked-jazz-2026-network/#wd:Q200767",
+   "spoke_themselves": true,
+   "relation": "knows of",
+   "relation_weight": 0.4,
+   "tier": "knew_of",
+   "direction": "na",
+   "contact_level": "unclear",
+   "basis": [
+    "reputation"
+   ],
+   "context": "a jazz club near Tanglewood, summer before his last Berklee year",
+   "one_liner": "took the club slot he was leaving",
+   "grounded": false,
+   "ungrounded_words": [
+    "slot"
+   ],
+   "summary": "LaBarbera recalled getting a summer gig at a jazz club near Tanglewood because Weston was leaving it.",
+   "stance": "neutral",
+   "stance_strength": 0,
+   "notable": 0,
+   "caution": "The club name is transcribed 'Avalock' (probably the Avaloch inn at Lenox); Weston is only the act whose departure opened the slot, as relayed by LaBarbera's brother.",
+   "confidence": "medium",
+   "notes": "Input label 'Labarbera' fixed to 'Pat LaBarbera' from the doc's interviewee field. No contact stated, so upstream 'has met' is wrong. Nothing quotable about Weston himself.",
+   "lead_quote": null,
+   "lead_block_id": null,
+   "lead_page": null,
+   "lead_url": null,
+   "second_quote": null,
+   "second_block_id": null,
+   "second_url": null,
+   "more_quotes": [],
+   "n_blocks": 1,
+   "block_ids": [
+    193403
+   ],
+   "doc": {
+    "doc_id": "yhm-jaz-laBarbera-p-2021",
+    "collection": "hamilton",
+    "title": "Labarbera interviewed by Monk Rowe, 2021",
+    "interviewee": "Pat LaBarbera",
+    "interviewer": null,
+    "year": 2021,
+    "transcript_url": "https://thisismattmiller.github.io/linked-jazz-2026-transcripts/?t=yhm-jaz-laBarbera-p-2021",
+    "source_url": "https://litsdigital.hamilton.edu/collections/object/pat-labarbera-interviewed-monk-rowe-zoom-january-5-2021",
+    "collection_label": "Hamilton College — Fillius Jazz Archive"
+   },
+   "upstream": {
+    "relations": [
+     {
+      "relation": "has met",
+      "direction": "na",
+      "evidence": "Randy Weston is leaving and they’re looking for — they put a — you ever see that movie “The Gig?” ... So my brother Joe finagled it and I left the gig in Old Orchard Beach, came down to Tanglewood and took this gig",
+      "said_by": "Pat LaBarbera"
+     }
+    ],
+    "relation_ok": false
+   },
+   "on_his_records": false,
+   "albums_with_him": 0,
+   "liston_build": null,
+   "instruments_on_his_records": [],
+   "he_spoke_of_them": false,
+   "he_said": null,
+   "image": {
+    "source": "wikidata_p18",
+    "file": "File:Pat Labarbera.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Pat_Labarbera.jpg",
+    "url_full": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Labarbera.jpg",
+    "url_800": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Labarbera.jpg?width=800",
+    "url_400": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Labarbera.jpg?width=400",
+    "url_200": "https://commons.wikimedia.org/wiki/Special:FilePath/Pat_Labarbera.jpg?width=200",
+    "width": 396,
+    "height": 615,
+    "mime": "image/jpeg",
+    "hosted_on_commons": true,
+    "license": {
+     "short": "CC BY 2.0",
+     "usage_terms": "Creative Commons Attribution 2.0",
+     "url": "https://creativecommons.org/licenses/by/2.0",
+     "public_domain": false,
+     "attribution_required": true,
+     "artist": "KSMF Webmaster",
+     "credit": "Pat Labarbera",
+     "restrictions": null,
+     "date": "2008-04-19"
+    },
+    "attribution": "KSMF Webmaster (CC BY 2.0), via Wikimedia Commons",
+    "also_pictured": [],
+    "review_flags": []
+   }
+  }
+ ]
+}

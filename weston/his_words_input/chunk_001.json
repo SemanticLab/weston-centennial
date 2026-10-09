@@ -1,0 +1,1123 @@
+{
+ "subject": "weston",
+ "chunk": 1,
+ "n_chunks": 3,
+ "count": 38,
+ "transcript": "weston/own_interview.txt",
+ "items": [
+  {
+   "person_id": 109475,
+   "as_named_in_interview": "NEA Jazz Master",
+   "surface_forms": [
+    "NEA Jazz Master"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "NEA Jazz Master",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309808
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 1.0,
+    "evidence": "NEA Jazz Master (2001)",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109400,
+   "as_named_in_interview": "Willard Jenkins",
+   "surface_forms": [
+    "Willard Jenkins"
+   ],
+   "upstream_identity": {
+    "qid": "Q15449804",
+    "name": "Willard Jenkins",
+    "description": "American journalist, radio host and music educator",
+    "born": "1949",
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309810,
+    309811
+   ],
+   "is_interviewer": true,
+   "upstream": {
+    "relation": null,
+    "direction": null,
+    "proposed": null,
+    "confidence": null,
+    "evidence": null,
+    "evidence_in_his_own_words": null,
+    "skipped": "self_or_host"
+   }
+  },
+  {
+   "person_id": 109434,
+   "as_named_in_interview": "Ken Kimery",
+   "surface_forms": [
+    "Ken Kimery"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Ken Kimery",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309810
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "[(note)] Interviewer: Willard Jenkins with recording engineer Ken Kimery",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109385,
+   "as_named_in_interview": "Alex Blake",
+   "surface_forms": [
+    "Alex",
+    "Alex Blake"
+   ],
+   "upstream_identity": {
+    "qid": "Q1242049",
+    "name": "Alex Blake",
+    "description": "American musician",
+    "born": "1951",
+    "died": null
+   },
+   "n_mentions": 7,
+   "mention_block_ids": [
+    309813,
+    309824,
+    309840,
+    309847,
+    309859,
+    309863,
+    309875
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bassist on the 'Saga' (1995) and 'Khepera' recording sessions",
+    "confidence": 0.95,
+    "evidence": "I had Neil Clarke, Alex Blake; you had Billy Harper, T.K. Blue, and Benny Powell. [...] So, 'Khepera' consisted of connecting China and Africa... I think we had Victor Lewis on drums, Alex Blake on bass, Benny Powell, you know.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109387,
+   "as_named_in_interview": "Benny Powell",
+   "surface_forms": [
+    "Benny Powell"
+   ],
+   "upstream_identity": {
+    "qid": "Q599429",
+    "name": "Benny Powell",
+    "description": "American jazz trombonist (1930–2010)",
+    "born": "1930",
+    "died": "2010"
+   },
+   "n_mentions": 6,
+   "mention_block_ids": [
+    309813,
+    309824,
+    309840,
+    309847,
+    309883,
+    309885
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "musician on the 'Saga' album and Montreal Jazz Festival residency",
+    "confidence": 0.95,
+    "evidence": "I had Neil Clarke, Alex Blake; you had Billy Harper, T.K. Blue, and Benny Powell. ... It was, for me, a very wonderful, wonderful date.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109392,
+   "as_named_in_interview": "Neil Clarke",
+   "surface_forms": [
+    "Neil Clarke"
+   ],
+   "upstream_identity": {
+    "qid": "Q99706043",
+    "name": "Neil Clarke",
+    "description": "jazz musician",
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    309813,
+    309824,
+    309847,
+    309859
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band member on the 'Saga' album and Montreal Jazz Festival residency",
+    "confidence": 1.0,
+    "evidence": "I had Neil Clarke, Alex Blake... It was, for me, a very wonderful, wonderful date.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109395,
+   "as_named_in_interview": "Billy Harper",
+   "surface_forms": [
+    "Billy Harper"
+   ],
+   "upstream_identity": {
+    "qid": "Q863114",
+    "name": "Billy Harper",
+    "description": "American musician",
+    "born": "1943",
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    309813,
+    309826,
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "na",
+    "proposed": "fellow musician on the 'Saga' recording and in various bands/festivals",
+    "confidence": 0.95,
+    "evidence": "I had Neil Clarke, Alex Blake; you had Billy Harper, T.K. Blue, and Benny Powell.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109402,
+   "as_named_in_interview": "Billy Higgins",
+   "surface_forms": [
+    "Billy Higgins"
+   ],
+   "upstream_identity": {
+    "qid": "Q324522",
+    "name": "Billy Higgins",
+    "description": "American jazz drummer (1936–2001)",
+    "born": "1936",
+    "died": "2001"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309813,
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "na",
+    "proposed": "drummer on the 'Saga' recording session and 'Earth Birth' session",
+    "confidence": 0.95,
+    "evidence": "So, for “Saga” I was very grateful to have the great Billy Higgins on drums.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109454,
+   "as_named_in_interview": "T.K. Blue",
+   "surface_forms": [
+    "T.K. Blue"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "T.K. Blue",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309813
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "musicians on the 'Saga' recording session",
+    "confidence": 0.9,
+    "evidence": "I had Neil Clarke, Alex Blake; you had Billy Harper, T.K. Blue, and Benny Powell.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109466,
+   "as_named_in_interview": "Jean",
+   "surface_forms": [
+    "Jean"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Jean",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309813
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "President of Verve Records, produced 10 CDs",
+    "confidence": 0.9,
+    "evidence": "The president of Verve was Jean Philippe Alad, and he is the one that I did ten C.D.s with, so I was very happy about that date.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109468,
+   "as_named_in_interview": "Dooley Chelson",
+   "surface_forms": [
+    "Dooley Chelson"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Dooley Chelson",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309813
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I wrote for an elderly gentleman, Dooley Chelson, with a hat on his head and a beard.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109416,
+   "as_named_in_interview": "Philippe Alad",
+   "surface_forms": [
+    "Philippe Alad"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Philippe Alad",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309814
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "President of Verve who commissioned ten CDs",
+    "confidence": 0.9,
+    "evidence": "The president of Verve was Jean Philippe Alad, and he is the one that I did ten C.D.s with",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109386,
+   "as_named_in_interview": "Duke Ellington",
+   "surface_forms": [
+    "Duke Ellington",
+    "Mr. Ellington"
+   ],
+   "upstream_identity": {
+    "qid": "Q4030",
+    "name": "Duke Ellington",
+    "description": "American jazz pianist and composer (1899–1974)",
+    "born": "1899",
+    "died": "1974"
+   },
+   "n_mentions": 7,
+   "mention_block_ids": [
+    309816,
+    309830,
+    309856,
+    309858,
+    309882,
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "friend of",
+    "direction": "mutual",
+    "proposed": "close personal friend",
+    "confidence": 0.9,
+    "evidence": "I was very close to Duke",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109398,
+   "as_named_in_interview": "Thelonious Monk",
+   "surface_forms": [
+    "Monk",
+    "Mr. Thelonious Monk",
+    "Thelonious Monk"
+   ],
+   "upstream_identity": {
+    "qid": "Q109612",
+    "name": "Thelonious Monk",
+    "description": "American jazz pianist and composer (1917–1982)",
+    "born": "1917",
+    "died": "1982"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    309816,
+    309852,
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "met in person, had human contact",
+    "confidence": 0.9,
+    "evidence": "I play the piano like I play because I had the human contact with Thelonious Monk",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109429,
+   "as_named_in_interview": "Leonard Bernstein",
+   "surface_forms": [
+    "Leonard Bernstein"
+   ],
+   "upstream_identity": {
+    "qid": "Q152505",
+    "name": "Leonard Bernstein",
+    "description": "American conductor and composer (1918–1990)",
+    "born": "1918",
+    "died": "1990"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309818
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "co-creator of the recording 'seven waltzes for children' including 'Earth Birth'",
+    "confidence": 0.95,
+    "evidence": "my original recording with Bernstein and Lucas, it was called seven waltzes for children.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109458,
+   "as_named_in_interview": "Luckas Foss",
+   "surface_forms": [
+    "Luckas Foss"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Luckas Foss",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309818
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "co-creator of the recording 'seven waltzes for children' including 'Earth Birth'",
+    "confidence": 0.95,
+    "evidence": "my original recording with Bernstein and Lucas, it was called seven waltzes for children.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109436,
+   "as_named_in_interview": "Frank Gap",
+   "surface_forms": [
+    "Frank Gap"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Frank Gap",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "drummer in the ensemble for the 1991 'Three African Queens' performance with the Boston Pops Symphony Orchestra",
+    "confidence": 1.0,
+    "evidence": "With me, I had Idrees Sulieman on trumpet; I had Frank Gap on drums, Jamie Onaso on bass, and myself on piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109437,
+   "as_named_in_interview": "Christian McBride",
+   "surface_forms": [
+    "Christian McBride"
+   ],
+   "upstream_identity": {
+    "qid": "Q732319",
+    "name": "Christian McBride",
+    "description": "American jazz bassist, composer, and arranger",
+    "born": "1972",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "performed together in a small ensemble in Montreal",
+    "confidence": 0.95,
+    "evidence": "We got 25 strings of the Montreal Symphony Orchestra, Billy Higgins, Christian McBride, and myself.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109439,
+   "as_named_in_interview": "Jamie Onaso",
+   "surface_forms": [
+    "Jamie Onaso"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Jamie Onaso",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bassist in the Boston Pops Symphony Orchestra performance of 'Three African Queens' in 1991",
+    "confidence": 0.95,
+    "evidence": "With me, I had Idrees Sulieman on trumpet; I had Frank Gap on drums, Jamie Onaso on bass, and myself on piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109442,
+   "as_named_in_interview": "Idrees Sulieman",
+   "surface_forms": [
+    "Idrees Sulieman"
+   ],
+   "upstream_identity": {
+    "qid": "Q1656883",
+    "name": "Idrees Sulieman",
+    "description": "American musician (1923-2002)",
+    "born": "1923",
+    "died": "2002"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "performed together with the Boston Pops Symphony Orchestra in 1991",
+    "confidence": 1.0,
+    "evidence": "With me, I had Idrees Sulieman on trumpet; I had Frank Gap on drums, Jamie Onaso on bass, and myself on piano.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109450,
+   "as_named_in_interview": "John Williams",
+   "surface_forms": [
+    "John Williams"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "John Williams",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "conductor for the Boston Pops Symphony Orchestra performance of 'Three African Queens' in 1991",
+    "confidence": 0.95,
+    "evidence": "John Williams was the conductor and it was like 133 musicians. With me, I had Idrees Sulieman on trumpet... We did 'High Fly' and we did these three compositions.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109497,
+   "as_named_in_interview": "Elma Lewis",
+   "surface_forms": [
+    "Elma Lewis"
+   ],
+   "upstream_identity": {
+    "qid": "Q5366368",
+    "name": "Elma Lewis",
+    "description": "founder of the National Center of Afro-American Artists and the Elma Lewis School of Fine Arts (1921–2004)",
+    "born": "1921",
+    "died": "2004"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309822
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I was very fortunate to write three compositions: ... 'Blues for Elma Lewis'",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109388,
+   "as_named_in_interview": "TK Blue",
+   "surface_forms": [
+    "TK Blue"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "TK Blue",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    309824,
+    309837,
+    309847,
+    309859,
+    309874
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band member at Montreal Jazz Festival and other concerts",
+    "confidence": 0.95,
+    "evidence": "I did a concert with the Gnawa musicians of Morocco with a band which consisted of TK Blue, Teddy Edwards, Benny Powell, Alex Blake, Neil Clarke",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109389,
+   "as_named_in_interview": "Melba Liston",
+   "surface_forms": [
+    "Melba",
+    "Melba Liston"
+   ],
+   "upstream_identity": {
+    "qid": "Q274146",
+    "name": "Melba Liston",
+    "description": "American jazz trombonist, musical arranger, and composer (1926–1999)",
+    "born": "1926",
+    "died": "1999"
+   },
+   "n_mentions": 5,
+   "mention_block_ids": [
+    309824,
+    309829,
+    309830,
+    309837,
+    309840
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "collaborated with",
+    "direction": "mutual",
+    "proposed": "long-term partnership as composer and arranger",
+    "confidence": 1.0,
+    "evidence": "you and Melba Liston had such a long partnership",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109401,
+   "as_named_in_interview": "Johnny Copeland",
+   "surface_forms": [
+    "Johnny Copeland"
+   ],
+   "upstream_identity": {
+    "qid": "Q325273",
+    "name": "Johnny Copeland",
+    "description": "American blues musician (1937-1997)",
+    "born": "1937",
+    "died": "1997"
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309824,
+    309826
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "normally we would have a guy, Johnny Copeland, singing the blues but Johnny couldn’t make it.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109425,
+   "as_named_in_interview": "Teddy Edwards",
+   "surface_forms": [
+    "Teddy Edwards"
+   ],
+   "upstream_identity": {
+    "qid": "Q322308",
+    "name": "Teddy Edwards",
+    "description": "American jazz tenor saxophonist",
+    "born": "1924",
+    "died": "2003"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309824
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band members at Montreal Jazz Festival residency",
+    "confidence": 0.95,
+    "evidence": "I did a concert with the Gnawa musicians of Morocco with a band which consisted of TK Blue, Teddy Edwards, Benny Powell, Alex Blake, Neil Clarke",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109446,
+   "as_named_in_interview": "David Murray",
+   "surface_forms": [
+    "David Murray"
+   ],
+   "upstream_identity": {
+    "qid": "Q1175803",
+    "name": "David Murray",
+    "description": "American jazz musician (tenor saxophone and bass clarinet)",
+    "born": "1955",
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309824
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played with",
+    "direction": "mutual",
+    "proposed": "duo performance at Montreal Jazz Festival",
+    "confidence": 0.95,
+    "evidence": "The first night was a duo with myself and David Murray.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109417,
+   "as_named_in_interview": "Robert Lockwood Jr.",
+   "surface_forms": [
+    "Robert Lockwood Jr."
+   ],
+   "upstream_identity": {
+    "qid": "Q1351212",
+    "name": "Robert Lockwood Jr.",
+    "description": "American Delta blues guitarist (1915-2006)",
+    "born": "1915",
+    "died": "2006"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309825
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "played with",
+    "direction": "mutual",
+    "proposed": "blues singer for the 'Volcano' album sessions",
+    "confidence": 0.9,
+    "evidence": "So, we got this older brother, his name escapes me now... Robert Lockwood Jr. ... He sang... after rehearsal he was very happy",
+    "evidence_in_his_own_words": null,
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109394,
+   "as_named_in_interview": "Count Basie",
+   "surface_forms": [
+    "Count Basie"
+   ],
+   "upstream_identity": {
+    "qid": "Q107008",
+    "name": "Count Basie",
+    "description": "American jazz musician and composer (1904–1984)",
+    "born": "1904",
+    "died": "1984"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    309826,
+    309852,
+    309882
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "I had the spiritual contact with Count Basie, or Coleman Hawkins, or Dizzy Gillespie. I saw them, I touched their hands, you see?",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109444,
+   "as_named_in_interview": "Walter Rodney",
+   "surface_forms": [
+    "Walter Rodney"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Walter Rodney",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309826
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "band members",
+    "confidence": 0.9,
+    "evidence": "I had Billy Harper and Walter Rodney…",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109393,
+   "as_named_in_interview": "Louie Armstrong",
+   "surface_forms": [
+    "Louie Armstrong"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Louie Armstrong",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    309830,
+    309849,
+    309915
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "has met",
+    "direction": "na",
+    "proposed": "shook hands in Oklahoma City",
+    "confidence": 1.0,
+    "evidence": "I shook Louie Armstrong’s hand in Oklahoma City. I’ll never forget that handshake.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109405,
+   "as_named_in_interview": "Thelma",
+   "surface_forms": [
+    "Thelma"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Thelma",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 2,
+   "mention_block_ids": [
+    309830,
+    309831
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "But, it turned out her aunt Thelma was a computer specialist and Melba started studying the computer... I went to see her [Melba Liston]... Exactly.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109443,
+   "as_named_in_interview": "Buddy Boland",
+   "surface_forms": [
+    "Buddy Boland"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Buddy Boland",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309830
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "knows of",
+    "direction": "na",
+    "proposed": null,
+    "confidence": 0.9,
+    "evidence": "What Louie Armstrong and Buddy Boland, and Duke Ellington, all they created, that’s our royalty going back to Africa itself.",
+    "evidence_in_his_own_words": "exact",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109391,
+   "as_named_in_interview": "Coleman Hawkins",
+   "surface_forms": [
+    "Coleman Hawkins"
+   ],
+   "upstream_identity": {
+    "qid": "Q217812",
+    "name": "Coleman Hawkins",
+    "description": "American jazz saxophonist (1904–1969)",
+    "born": "1904",
+    "died": "1969"
+   },
+   "n_mentions": 4,
+   "mention_block_ids": [
+    309836,
+    309837,
+    309849,
+    309852
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "influenced by",
+    "direction": "target",
+    "proposed": "idol and major influence",
+    "confidence": 0.95,
+    "evidence": "Coleman Hawkins was my idol. When “Body and Soul” came out I was 17 years old. I bought 3 copies and I hid two. I played one so loud people could here “Body and Soul” in the streets.",
+    "evidence_in_his_own_words": "partial",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109397,
+   "as_named_in_interview": "Benny Bailey",
+   "surface_forms": [
+    "Benny",
+    "Benny Bailey"
+   ],
+   "upstream_identity": {
+    "qid": "Q583913",
+    "name": "Benny Bailey",
+    "description": "American jazz trumpeter (1925–2005)",
+    "born": "1925",
+    "died": "2005"
+   },
+   "n_mentions": 3,
+   "mention_block_ids": [
+    309837,
+    309859,
+    309887
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "member of Randy Weston's ten-piece group at the 1985 Montreal Jazz Festival",
+    "confidence": 0.95,
+    "evidence": "I had a ten-piece group of the great Benny Bailey, Sahib Shihab, TK Blue, Clyde Lucas on drums...",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109422,
+   "as_named_in_interview": "Wilbur Little",
+   "surface_forms": [
+    "Wilbur Little"
+   ],
+   "upstream_identity": {
+    "qid": "Q950919",
+    "name": "Wilbur Little",
+    "description": "American musician (1928–1987)",
+    "born": "1928",
+    "died": "1987"
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "bassist in the 1959 Five Spot recording session with Coleman Hawkins",
+    "confidence": 0.95,
+    "evidence": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109424,
+   "as_named_in_interview": "Kenny Durham",
+   "surface_forms": [
+    "Kenny Durham"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Kenny Durham",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "na",
+    "proposed": "members of the same recording session at the Five Spot in 1959",
+    "confidence": 0.9,
+    "evidence": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  },
+  {
+   "person_id": 109430,
+   "as_named_in_interview": "Clifford Jones",
+   "surface_forms": [
+    "Clifford Jones"
+   ],
+   "upstream_identity": {
+    "qid": null,
+    "name": "Clifford Jones",
+    "description": null,
+    "born": null,
+    "died": null
+   },
+   "n_mentions": 1,
+   "mention_block_ids": [
+    309837
+   ],
+   "is_interviewer": false,
+   "upstream": {
+    "relation": "in music group with",
+    "direction": "mutual",
+    "proposed": "drummer in the 1959 Five Spot recording session with Coleman Hawkins",
+    "confidence": 0.95,
+    "evidence": "It was Roy Haynes, Clifford Jones, Wilbur Little on bass, Coleman Hawkins on tenor saxophone and Kenny Durham on trumpet.",
+    "evidence_in_his_own_words": "paraphrase",
+    "skipped": null
+   }
+  }
+ ]
+}

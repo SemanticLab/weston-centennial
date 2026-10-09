@@ -1,0 +1,1792 @@
+{
+ "subject": "weston",
+ "part": "journeys",
+ "count": 41,
+ "top": [
+  "kamigamo_shrine",
+  "jajouka",
+  "nubian_wedding"
+ ],
+ "items": [
+  {
+   "key": "paris",
+   "title": "Paris: recording for Verve, and Fatou's shop",
+   "kind": "journey",
+   "place_as_transcribed": "Paris",
+   "place": "Paris",
+   "country": "France",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309813,
+    309882,
+    309907,
+    309908
+   ],
+   "what_happened": "He recorded Saga for Verve in Paris. His future wife Fatoumata Mbengue had an African shop there, called 'Saga', which he passed many times before going in, after two or three trips between New York and Paris. Maurice Cullaz's wife in Paris only wanted to hear him play solo piano.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Fatoumata Mbengue",
+     "name": "Fatoumata Mbengue",
+     "role": "shop owner; later his wife"
+    },
+    {
+     "as_transcribed": "Maurice Cullaz’s wife",
+     "name": "wife of Maurice Cullaz",
+     "role": "listener"
+    }
+   ],
+   "pull_quote": "I passed her shop many times and never went in for some reason, but I realized when I went in that that was it; I’d never come out again.",
+   "pull_quote_block_id": 309907,
+   "more_quotes": [
+    {
+     "block_id": 309813,
+     "quote": "Right, I recorded for Verve in Paris, you know?"
+    },
+    {
+     "block_id": 309907,
+     "quote": "She has a beautiful African shop in Paris."
+    }
+   ],
+   "related_record_key": "saga",
+   "discrepancies": "",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "berkshires",
+   "title": "Ten summers in the Berkshires",
+   "kind": "home",
+   "place_as_transcribed": "the Berkshires of Massachusetts",
+   "place": "The Berkshires, Massachusetts",
+   "country": "United States",
+   "when_as_stated": "1954 (Riverside heard him there)",
+   "year": 1954,
+   "block_ids": [
+    309818,
+    309856,
+    309882
+   ],
+   "what_happened": "He spent ten summers in the Berkshires, where he met people from the Boston Symphony Orchestra, among them Lukas Foss and Leonard Bernstein, and wrote most of his works, including the waltzes for children. He played solo piano in small hotels there. Duke Ellington's sister Ruth wanted to hear him only solo, and in 1954 Riverside heard him there and signed him for his first record.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Luckas Foss",
+     "name": "Lukas Foss",
+     "role": "composer, met there"
+    },
+    {
+     "as_transcribed": "Leonard Bernstein",
+     "name": "Leonard Bernstein",
+     "role": "met there"
+    },
+    {
+     "as_transcribed": "Duke’s sister / Ruth Ellington",
+     "name": "Ruth Ellington",
+     "role": "listener"
+    }
+   ],
+   "pull_quote": "Well, I was lucky to have spent ten wonderful summers in the Berkshires of Massachusetts. I had an opportunity to be in contact with the Boston Symphony Orchestra. I met people like Luckas Foss and Leonard Bernstein.",
+   "pull_quote_block_id": 309818,
+   "more_quotes": [
+    {
+     "block_id": 309882,
+     "quote": "I had been playing solo piano in the Berkshires in these little hotels."
+    },
+    {
+     "block_id": 309856,
+     "quote": "But I was already playing solo piano in the Berkshires. Duke’s sister, she only wanted to hear me play solo piano."
+    }
+   ],
+   "related_record_key": "cole_porter_in_a_modern_mood",
+   "discrepancies": "'Luckas Foss' / 'Lucas' is Lukas Foss.",
+   "notable": 2,
+   "notes": "The year 1954 is when Riverside heard him there, not the start of the ten summers, which the transcript does not date. The Boston Symphony contact suggests Tanglewood (Lenox), but the transcript does not name it, so place is the region."
+  },
+  {
+   "key": "boston_pops",
+   "title": "Three African Queens with the Boston Pops",
+   "kind": "concert",
+   "place_as_transcribed": "Boston",
+   "place": "Boston, Massachusetts",
+   "country": "United States",
+   "when_as_stated": "in 1991 … in 1981, in Boston",
+   "year": 1991,
+   "block_ids": [
+    309822
+   ],
+   "what_happened": "He performed his three compositions, Three African Queens, and 'High Fly' with the Boston Pops Symphony Orchestra under John Williams, about 133 musicians. His own group was Idrees Sulieman on trumpet, 'Frank Gap' on drums and 'Jamie Onaso' on bass, with himself on piano.",
+   "who_was_there": [
+    {
+     "as_transcribed": "John Williams",
+     "name": "John Williams",
+     "role": "conductor"
+    },
+    {
+     "as_transcribed": "Idrees Sulieman",
+     "name": "Idrees Sulieman",
+     "role": "trumpet"
+    },
+    {
+     "as_transcribed": "Frank Gap",
+     "name": "Frank Gant (?)",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Jamie Onaso",
+     "name": "Jamil Nasser",
+     "role": "bass"
+    }
+   ],
+   "pull_quote": "And it was entitled “Three African Queens” and we were lucky to perform with the Boston Pops Symphony Orchestra. John Williams was the conductor and it was like 133 musicians.",
+   "pull_quote_block_id": 309822,
+   "more_quotes": [
+    {
+     "block_id": 309822,
+     "quote": "That was a smaller version of the bigger work"
+    }
+   ],
+   "related_record_key": "three_african_queens",
+   "discrepancies": "The transcript gives both 1991 and 1981 for this concert. 'Jamie Onaso' is Jamil Nasser; 'Frank Gap' is probably Frank Gant.",
+   "notable": 2,
+   "notes": "year takes the first statement (1991); 1981 is the alternative. The venue is not named."
+  },
+  {
+   "key": "montreal_residency",
+   "title": "Five nights at the Montreal Jazz Festival",
+   "kind": "residency",
+   "place_as_transcribed": "Montreal Jazz Festival",
+   "place": "Montreal, Quebec",
+   "country": "Canada",
+   "when_as_stated": "that year … we’re talking now ’97 (Jenkins)",
+   "year": 1997,
+   "block_ids": [
+    309821,
+    309822,
+    309823,
+    309824,
+    309825,
+    309826,
+    309827,
+    309828,
+    309829
+   ],
+   "what_happened": "The festival gave him five nights, all connected to Africa. There was a duo with David Murray; an 'African night' with the Gnawa of Morocco and a band of T.K. Blue, Teddy Edwards, Benny Powell, Alex Blake and Neil Clarke; a blues night with Robert Lockwood Jr.; a jazz night with Billy Harper and 'Walter Rodney'; and Earth Birth with 25 strings of the Montreal Symphony, Billy Higgins and Christian McBride. Melba Liston did all the arrangements. He called it one of the most exciting moments of his musical career.",
+   "who_was_there": [
+    {
+     "as_transcribed": "David Murray",
+     "name": "David Murray",
+     "role": "duo partner"
+    },
+    {
+     "as_transcribed": "the Gnawa musicians of Morocco",
+     "name": "Gnawa musicians",
+     "role": "African night"
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Teddy Edwards",
+     "name": "Teddy Edwards",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Neil Clarke",
+     "name": "Neil Clarke",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Robert Lockwood Jr.",
+     "name": "Robert Lockwood Jr.",
+     "role": "blues singer (named by Jenkins)"
+    },
+    {
+     "as_transcribed": "Billy Harper",
+     "name": "Billy Harper",
+     "role": "jazz night"
+    },
+    {
+     "as_transcribed": "Walter Rodney",
+     "name": "Wallace Roney (?)",
+     "role": "jazz night"
+    },
+    {
+     "as_transcribed": "Billy Higgins",
+     "name": "Billy Higgins",
+     "role": "strings night"
+    },
+    {
+     "as_transcribed": "Christian McBride",
+     "name": "Christian McBride",
+     "role": "strings night"
+    },
+    {
+     "as_transcribed": "Melba Liston",
+     "name": "Melba Liston",
+     "role": "arrangements (not present)"
+    },
+    {
+     "as_transcribed": "Willard Jenkins",
+     "name": "Willard Jenkins",
+     "role": "in the audience ('I was there')"
+    }
+   ],
+   "pull_quote": "It was one of the most exciting moments of my musical career, that I could have concerts one after the other in different venues but the whole connection was Africa.",
+   "pull_quote_block_id": 309828,
+   "more_quotes": [
+    {
+     "block_id": 309824,
+     "quote": "It was incredible. I hope I can remember everything correctly, but they gave me five nights."
+    },
+    {
+     "block_id": 309824,
+     "quote": "Anyhow, that was like the African night, okay? Melba Liston did all the arrangements, by the way."
+    }
+   ],
+   "related_record_key": "earth_birth_album",
+   "discrepancies": "'Walter Rodney' was the Guyanese historian. The musician is probably trumpeter Wallace Roney, but this is unconfirmed. The year 1997 comes from Jenkins; Weston gives none. The Earth Birth record and residency may date from 1995, so a human should check.",
+   "notable": 2,
+   "notes": "Weston himself says the nights were 'not necessarily in that order'."
+  },
+  {
+   "key": "montreal_blues_night",
+   "title": "The blues night with Robert Lockwood Jr.",
+   "kind": "concert",
+   "place_as_transcribed": "Montreal Jazz Festival",
+   "place": "Montreal, Quebec",
+   "country": "Canada",
+   "when_as_stated": "’97 (Jenkins)",
+   "year": 1997,
+   "block_ids": [
+    309824,
+    309825,
+    309826
+   ],
+   "what_happened": "On the blues night of the residency Johnny Copeland could not make it, so an older blues singer came in; Jenkins supplied the name, Robert Lockwood Jr. At first Weston felt Lockwood did not believe the band could play the blues, but after rehearsal he was very happy. Weston later learned Lockwood had been into jazz too.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Robert Lockwood Jr.",
+     "name": "Robert Lockwood Jr.",
+     "role": "blues vocals"
+    }
+   ],
+   "pull_quote": "He sang, and at first I got the feeling he didn’t quite know we could play the blues, you know. But, after rehearsal he was very happy, and then I found out later on he was into jazz before and the blues.",
+   "pull_quote_block_id": 309826,
+   "more_quotes": [
+    {
+     "block_id": 309826,
+     "quote": "That was fantastic for me because I always loved the blues because the blues is the foundation of what we do in out music, you know?"
+    }
+   ],
+   "related_record_key": "volcano",
+   "discrepancies": "Weston says this night 'came out on an album called Volcano'. Volcano Blues is a studio album with Johnny Copeland, so the link is doubtful (see the volcano record).",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "jazz_bakery",
+   "title": "Playing the Jazz Bakery in L.A.",
+   "kind": "concert",
+   "place_as_transcribed": "L.A. … the Jazz Bakery",
+   "place": "The Jazz Bakery, Los Angeles",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309834
+   ],
+   "what_happened": "He recalled that he was probably playing in Los Angeles, at the Jazz Bakery or somewhere like it, when he went to see Melba Liston in California after her stroke.",
+   "who_was_there": [],
+   "pull_quote": "Yeah, but I was probably playing in L.A. I think I played the Jazz Bakery or something like that, you know.",
+   "pull_quote_block_id": 309834,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "He is uncertain ('I think … or something like that')."
+  },
+  {
+   "key": "five_spot_1959",
+   "title": "The Monday night with Coleman Hawkins at the Five Spot",
+   "kind": "concert",
+   "place_as_transcribed": "the Five Spot",
+   "place": "Five Spot Café, New York City",
+   "country": "United States",
+   "when_as_stated": "I think it was 1959 … on a Monday night",
+   "year": 1959,
+   "block_ids": [
+    309836,
+    309837
+   ],
+   "what_happened": "He recorded live at the Five Spot on a Monday night with his idol Coleman Hawkins, Kenny Dorham, Roy Haynes, Clifford Jordan and Wilbur Little. Melba Liston's arrangements arrived from her hospital bed in California on the day itself. There was no rehearsal, and the musicians played beautifully.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Coleman Hawkins",
+     "name": "Coleman Hawkins",
+     "role": "tenor saxophone"
+    },
+    {
+     "as_transcribed": "Kenny Durham",
+     "name": "Kenny Dorham",
+     "role": "trumpet"
+    },
+    {
+     "as_transcribed": "Roy Haynes",
+     "name": "Roy Haynes",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Clifford Jones",
+     "name": "Clifford Jordan",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Wilbur Little",
+     "name": "Wilbur Little",
+     "role": "bass"
+    }
+   ],
+   "pull_quote": "What happened was, the recording took place on a Monday night at the Five Spot, and there was no time for rehearsal. She was in the hospital in California, and by some miracle the music arrived the day of the recording. I passed out the music, no time to rehearse, but I had such great musicians that they played beautifully.",
+   "pull_quote_block_id": 309837,
+   "more_quotes": [
+    {
+     "block_id": 309836,
+     "quote": "A good example of that is this, when we did the date with Coleman Hawkins, which was another miracle for me because Coleman Hawkins was my idol."
+    }
+   ],
+   "related_record_key": "five_spot_1959",
+   "discrepancies": "'Kenny Durham' is Kenny Dorham and 'Clifford Jones' is Clifford Jordan.",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "key": "montreal_1985",
+   "title": "Ten-piece band with the Gnawa at the 1985 festival",
+   "kind": "festival",
+   "place_as_transcribed": "the Montreal Jazz Festival",
+   "place": "Montreal, Quebec",
+   "country": "Canada",
+   "when_as_stated": "in 1985",
+   "year": 1985,
+   "block_ids": [
+    309837
+   ],
+   "what_happened": "He took a ten-piece group, with the Gnawa on African percussion, on tour and to the festival. Melba Liston was in hospital in California, so Hale Smith conducted. Her music arrived in time, and after the performance the whole band phoned her.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Benny Bailey",
+     "name": "Benny Bailey",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Sahib Shihab",
+     "name": "Sahib Shihab",
+     "role": ""
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Clyde Lucas",
+     "name": "Clyde Lucas",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Mohammad Bin Fata",
+     "name": "Mohammad Bin Fata",
+     "role": ""
+    },
+    {
+     "as_transcribed": "the Gnawa",
+     "name": "Gnawa musicians",
+     "role": "African percussion"
+    },
+    {
+     "as_transcribed": "Woodward Little",
+     "name": "Woodward Little",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Hale Smith",
+     "name": "Hale Smith",
+     "role": "conductor"
+    }
+   ],
+   "pull_quote": "The music arrived in time for the tour and after we performed at the Montreal Jazz Festival, which should be coming out soon, it was a fantastic performance, all of us got on the telephone and we called Melba in California.",
+   "pull_quote_block_id": 309837,
+   "more_quotes": [],
+   "related_record_key": "montreal_1985",
+   "discrepancies": "The festival could be Montreux rather than Montreal: in the 1974 story the transcript's 'Montreal' is clearly Montreux. Nothing here decides it, and a human should check. 'Clyde Lucas', 'Mohammad Bin Fata' and 'Woodward Little' are unverified and possibly misheard.",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "atlanta_min_xiao_fen",
+   "title": "Meeting Min Xiao-Fen in Atlanta",
+   "kind": "journey",
+   "place_as_transcribed": "Atlanta, Georgia",
+   "place": "Atlanta, Georgia",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309839
+   ],
+   "what_happened": "He met the pipa player Min Xiao-Fen in Atlanta, where she was working with a Senegalese musician, 'Mortiem'. After hearing Weston at a solo concert she told him she loved his piano and wanted him to hear her.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Min Xiao Fen",
+     "name": "Min Xiao-Fen",
+     "role": "pipa"
+    },
+    {
+     "as_transcribed": "Mortiem",
+     "name": "Mor Thiam (?)",
+     "role": "Senegalese bandleader"
+    }
+   ],
+   "pull_quote": "So, I was very happy to have met a woman from China, her name was Min Xiao Fen. I met her in Atlanta, Georgia and she was working with a Senegalese named Mortiem.",
+   "pull_quote_block_id": 309839,
+   "more_quotes": [],
+   "related_record_key": "khepera",
+   "discrepancies": "'Mortiem' is probably the Senegalese percussionist Mor Thiam. The transcript does not make clear whether the solo concert where she heard him was in Atlanta.",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "brooklyn_home",
+   "title": "Home in Brooklyn",
+   "kind": "home",
+   "place_as_transcribed": "Brooklyn … my house",
+   "place": "Brooklyn, New York",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309839,
+    309854,
+    309915
+   ],
+   "what_happened": "He grew up in Brooklyn, poor but with much love, in a house where his father kept maps of African kings and queens and books by African historians. His father made him take piano lessons and his mother took him to the black church every Sunday. Later Min Xiao-Fen came to his Brooklyn house and played the pipa, which led to Khepera.",
+   "who_was_there": [
+    {
+     "as_transcribed": "my father",
+     "name": "Weston's father",
+     "role": ""
+    },
+    {
+     "as_transcribed": "my mother",
+     "name": "Weston's mother",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Min Xiao Fen",
+     "name": "Min Xiao-Fen",
+     "role": "visitor, pipa"
+    }
+   ],
+   "pull_quote": "Growing up in Brooklyn, economically, we were all poor. I got allowance, maybe 50 cents a week, but we had so much love that nobody cared.",
+   "pull_quote_block_id": 309915,
+   "more_quotes": [
+    {
+     "block_id": 309854,
+     "quote": "My father made me take piano lessons and my mother gave me black church. I had to be there every Sunday."
+    },
+    {
+     "block_id": 309839,
+     "quote": "So, it turned out she was living in Brooklyn, at that particular time, so she came by my house and she took out the pipa and she started to play. It was so beautiful I said, “We have to play together.”"
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "key": "guggenheim_china",
+   "title": "The Shang masks at the Guggenheim",
+   "kind": "journey",
+   "place_as_transcribed": "the Guggenheim museum",
+   "place": "Solomon R. Guggenheim Museum, New York City",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309839,
+    309840
+   ],
+   "what_happened": "He and Min Xiao-Fen went together to an exhibition of 5,000 years of Chinese history at the Guggenheim. There they found the masks of the Shang dynasty, which he took as evidence of an African–Chinese connection, and they then contacted a Harvard professor and got books on the dynasty.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Min",
+     "name": "Min Xiao-Fen",
+     "role": ""
+    }
+   ],
+   "pull_quote": "So we went to the Guggenheim museum together and it was 5,000 years of Chinese history.",
+   "pull_quote_block_id": 309839,
+   "more_quotes": [
+    {
+     "block_id": 309840,
+     "quote": "She was amazed as I was to the point that we contacted a professor at Harvard University who was a Chinese expert on the history of China; I forgot his name."
+    }
+   ],
+   "related_record_key": "khepera",
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "The sentence about discovering the Shang mask runs across a page break (309839/309840)."
+  },
+  {
+   "key": "brooklyn_church_gnawa",
+   "title": "Three religions in a Brooklyn church",
+   "kind": "concert",
+   "place_as_transcribed": "a Christian church on Lafayette Avenue in Brooklyn",
+   "place": "Lafayette Avenue, Brooklyn, New York",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309843,
+    309846,
+    309847
+   ],
+   "what_happened": "Six Gnawa, three from Tangier and three from Marrakech, played with his band in a Christian church on Lafayette Avenue whose name he had forgotten. Babatunde Olatunji opened with his traditional dancers and musicians. Yoruba, Islam and Christianity were present together through music, before an audience of every denomination, colour, age and gender.",
+   "who_was_there": [
+    {
+     "as_transcribed": "six Gnawa",
+     "name": "Gnawa musicians",
+     "role": "three from Tangier, three from Marrakech"
+    },
+    {
+     "as_transcribed": "Babatunde Olatunji",
+     "name": "Babatunde Olatunji",
+     "role": "opened, with dancers and musicians"
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Neil Clarke",
+     "name": "Neil Clarke",
+     "role": ""
+    }
+   ],
+   "pull_quote": "In this Christian church we had three religions at the same time, through music: Yoruba, Islam, and Christianity. In the audience were all the denominations, all the colors, all the ages, and all the genders. It was powerful because we all experience a very powerful experience to see the whole connection of humanity, which can only happened with music.",
+   "pull_quote_block_id": 309847,
+   "more_quotes": [
+    {
+     "block_id": 309847,
+     "quote": "Now, this was in a Christian church on Lafayette Avenue in Brooklyn; I’ve forgotten the particular name of the church."
+    },
+    {
+     "block_id": 309847,
+     "quote": "With music you don’t have to read to music, you don’t have to see to music, you just hear and you feel."
+    }
+   ],
+   "related_record_key": "spirit_the_power_of_music",
+   "discrepancies": "He says both that Olatunji opened 'that particular concert' and that Olatunji played 'the night before that'.",
+   "notable": 3,
+   "notes": "The church is unnamed. The Lafayette Avenue Presbyterian Church is a plausible candidate but unverified, so place is the street."
+  },
+  {
+   "key": "tangier_gnawa_1967",
+   "title": "First contact with the Gnawa, Tangier",
+   "kind": "journey",
+   "place_as_transcribed": "Tangiers",
+   "place": "Tangier",
+   "country": "Morocco",
+   "when_as_stated": "my original contact with Gnawa in 1967",
+   "year": 1967,
+   "block_ids": [
+    309846,
+    309856
+   ],
+   "what_happened": "In Tangier in 1967 he met a young Gnawa, Abdullah Al-Gourd, who worked for Voice of America, spoke English, and was interested in his people's history. Through him Weston recorded and met old Gnawa of 80 and 90, who remembered walking across the Sahara. It was also his first time in Africa ('I had been to Africa 7 years before' 1974).",
+   "who_was_there": [
+    {
+     "as_transcribed": "Abdullah Al-Gourd",
+     "name": "Abdellah El Gourd",
+     "role": "Gnawa; his first contact"
+    }
+   ],
+   "pull_quote": "The Tangiers Gnawa was my original contact with Gnawa in 1967. I met a young Gnawa; his name was Abdullah Al-Gourd.",
+   "pull_quote_block_id": 309846,
+   "more_quotes": [
+    {
+     "block_id": 309846,
+     "quote": "Because of him, I recorded and I met some of the old Gnawa. I met Gnawa who were 80 and 90 years old, who remember were walking across the Sahara desert."
+    }
+   ],
+   "related_record_key": "gnawa_field_recordings",
+   "discrepancies": "'Tangiers' is the older English form of Tangier. 'Abdullah Al-Gourd' is Abdellah El Gourd.",
+   "notable": 2,
+   "notes": "The transcript does not say this was his first visit to Africa. That reading combines '7 years before' 1974 with this date and is my inference."
+  },
+  {
+   "key": "marrakech_gnawa",
+   "title": "The Gnawa of Marrakech",
+   "kind": "journey",
+   "place_as_transcribed": "Marrakech",
+   "place": "Marrakech",
+   "country": "Morocco",
+   "when_as_stated": "one or two years later [after 1967]",
+   "year": 1968,
+   "block_ids": [
+    309846,
+    309847
+   ],
+   "what_happened": "One or two years after Tangier he met M'Barek Ben Othman, chief of the Marrakech Gnawa. Ever since, he said, whenever he can have a Gnawa performance he takes three from Tangier and three from Marrakech, the north and the south of Morocco.",
+   "who_was_there": [
+    {
+     "as_transcribed": "M’Barek Ben Othman",
+     "name": "M'Barek Ben Othman",
+     "role": "Gnawa chief, Marrakech"
+    }
+   ],
+   "pull_quote": "Abdullah from Tangiers, Marrakech, and the chief is M’Barek Ben Othman. I met him one or two years later. Ever since then, when I can have a Gnawa performance I always get three from Tangiers and three from Marrakech.",
+   "pull_quote_block_id": 309847,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "year is an approximate reading of 'one or two years later' (1968 or 1969)."
+  },
+  {
+   "key": "montreux_1974",
+   "title": "First time in Europe: Montreux 1974",
+   "kind": "festival",
+   "place_as_transcribed": "the Montreal Jazz Festival … the Swiss audience",
+   "place": "Montreux",
+   "country": "Switzerland",
+   "when_as_stated": "The year was 1974",
+   "year": 1974,
+   "block_ids": [
+    309851,
+    309856
+   ],
+   "what_happened": "In 1974 he played the festival on his first tour of Europe, with Ahmed Abdul-Malik on oud, William Allen on bass and Steve Berrios on percussion, because his son could not make it. It was the year Duke Ellington died, and Weston played a seven-minute solo rendition of Ellington. The Swiss audience told him they loved his solo piano.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Ahmed Abdul- Malik",
+     "name": "Ahmed Abdul-Malik",
+     "role": "oud"
+    },
+    {
+     "as_transcribed": "William Allen",
+     "name": "William Allen",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Steve Berrios",
+     "name": "Steve Berrios",
+     "role": "percussion"
+    }
+   ],
+   "pull_quote": "We toured, the first time, to play Europe. That was the year that Duke Ellington died. I was very close to Duke and I did a solo rendition of Duke Ellington, just solo piano, about seven minutes. When I got through those seven minutes, the Swiss audience said to me, “We love your solo piano.”",
+   "pull_quote_block_id": 309856,
+   "more_quotes": [
+    {
+     "block_id": 309856,
+     "quote": "Not really, it really happened at the Montreal Jazz Festival, the first time I performed there. The year was 1974, because I had never been to Europe; I had been to Africa 7 years before."
+    }
+   ],
+   "related_record_key": "duke_ellington_solo_1974",
+   "discrepancies": "The transcript says 'Montreal Jazz Festival' (and Jenkins earlier 'the Montreal Jazz Festival'), but the 'Swiss audience' and 'the first time, to play Europe' make it the Montreux Jazz Festival, Switzerland. Separately, his statement that he had never been to Europe before 1974 is hard to square with his first solo concert at Antibes, unless Antibes came later; the transcript does not date it.",
+   "notable": 2,
+   "notes": "His son is unnamed here; in the 1972 story he is Azzedine."
+  },
+  {
+   "key": "antibes_first_solo",
+   "title": "First solo concert, Antibes–Juan-les-Pins",
+   "kind": "concert",
+   "place_as_transcribed": "Antibes-Juan le Pins in France",
+   "place": "Juan-les-Pins, Antibes",
+   "country": "France",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309856
+   ],
+   "what_happened": "He said his very first solo concert was at Antibes–Juan-les-Pins in France.",
+   "who_was_there": [],
+   "pull_quote": "My first solo concert was at Antibes-Juan le Pins in France, was my very first solo concert, so I had already been playing solo.",
+   "pull_quote_block_id": 309856,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "'Juan le Pins' is Juan-les-Pins. The concert is undated, and if it came before 1974 it conflicts with 'I had never been to Europe' (1974).",
+   "notable": 1,
+   "notes": "Probably the Antibes–Juan-les-Pins jazz festival, but the transcript does not say so."
+  },
+  {
+   "key": "st_lucia",
+   "title": "Outdoors in St. Lucia",
+   "kind": "concert",
+   "place_as_transcribed": "St. Lucia",
+   "place": "Saint Lucia",
+   "country": "Saint Lucia",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309857,
+    309858,
+    309859,
+    309860
+   ],
+   "what_happened": "His regular ensemble played an outdoor concert in the heat of St. Lucia. He said the audience, the weather and the climate gave it great energy and everyone felt really good. The concert was released on DVD.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Benny",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "TK Blue",
+     "name": "T.K. Blue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Alex",
+     "name": "Alex Blake",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Neil Clarke",
+     "name": "Neil Clarke",
+     "role": ""
+    }
+   ],
+   "pull_quote": "At this particular concert, which was outdoors, again, Benny, TK Blue, Alex, myself and Neil Clarke; we played outdoors and it was wonderful because of the audience and the temperature. The climate has a lot to do with how you play.",
+   "pull_quote_block_id": 309859,
+   "more_quotes": [
+    {
+     "block_id": 309858,
+     "quote": "It was great because the weather was wonderful. It was hot."
+    },
+    {
+     "block_id": 309859,
+     "quote": "In a warm climate, you know, like St. Lucia, it was wonderful. There was a lot of energy and everybody felt really good."
+    }
+   ],
+   "related_record_key": "live_in_st_lucia",
+   "discrepancies": "",
+   "notable": 2,
+   "notes": "No town or venue is given, so place is the island nation."
+  },
+  {
+   "key": "sister_church_service",
+   "title": "Prayers for his sister at the People's Institutional Church",
+   "kind": "ceremony",
+   "place_as_transcribed": "the People’s Institutional Church on Monroe Street and Stuyvesant Ave in Brooklyn",
+   "place": "People's Institutional Church, Monroe Street and Stuyvesant Avenue, Brooklyn",
+   "country": "United States",
+   "when_as_stated": "the day before [the 11th]",
+   "year": 2001,
+   "block_ids": [
+    309867,
+    309868,
+    309869,
+    309872,
+    309874
+   ],
+   "what_happened": "His only sister, five years older, died in 2001. On the day before her burial, T.K. Blue and the band came to the church and prayed for her. It was the People's Institutional Church in Bedford-Stuyvesant, where she and their mother worshipped, around the corner from where Eubie Blake had lived.",
+   "who_was_there": [
+    {
+     "as_transcribed": "TK Blue and the guys",
+     "name": "T.K. Blue and the band",
+     "role": "prayed for her"
+    }
+   ],
+   "pull_quote": "Exactly, but the day before TK Blue and the guys came to the church and they all prayed for my sister in the church. She was going to the same church as my mother, the People’s Institutional Church on Monroe Street and Stuyvesant Ave in Brooklyn. It was right around the corner from where Eubie Blake used to live, okay?",
+   "pull_quote_block_id": 309874,
+   "more_quotes": [
+    {
+     "block_id": 309867,
+     "quote": "I have one sister, no brothers. My sister was five years older than me. She was my boss, you know? When I was younger, despite my physical size, if anybody messed with me I’d get my sister. She was strong but very spiritual, very giving."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "He first dates the funeral 'the tenth of September 2001', and Jenkins corrects him to the 11th. They settle that the church service was the day before (the 10th) and the burial on the 11th.",
+   "notable": 2,
+   "notes": "Also his mother's church, which places it in his life."
+  },
+  {
+   "key": "sister_burial_9_11",
+   "title": "Burying his sister on September 11",
+   "kind": "ceremony",
+   "place_as_transcribed": "the Evergreen Cemetery … in Brooklyn",
+   "place": "The Evergreens Cemetery, Brooklyn",
+   "country": "United States",
+   "when_as_stated": "the next day, the 11th … 9-11",
+   "year": 2001,
+   "block_ids": [
+    309868,
+    309869,
+    309871,
+    309873,
+    309874
+   ],
+   "what_happened": "On 11 September 2001, on the way to the cemetery, the attacks happened. At the graveside they could see the smoke from the World Trade Center, and the priest had to read over that too. Weston said only his sister would be buried on a day like that.",
+   "who_was_there": [
+    {
+     "as_transcribed": "the priest",
+     "name": "the priest",
+     "role": "officiant"
+    }
+   ],
+   "pull_quote": "We get to the cemetery in Brooklyn, the Evergreen Cemetery, and there’s the priest. He’s has to read over my sister, put her in the ground, and at the same time we can see the smoke from the World Trade Center. So the priest had to read about that too.",
+   "pull_quote_block_id": 309874,
+   "more_quotes": [
+    {
+     "block_id": 309874,
+     "quote": "I’ll never forget this because my sister is so dynamic. You know, black people, sometimes we find humor in anything. I said, “Only my sister would be buried on a day like today with 9-11, only her.” She had a great sense of humor."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "'Evergreen Cemetery' is The Evergreens Cemetery, on the Brooklyn–Queens line. His date confusion is recorded under sister_church_service.",
+   "notable": 2,
+   "notes": "Jenkins's 'Cause that when we talked and the planes were…' (309871) shows that Jenkins spoke with him that day."
+  },
+  {
+   "key": "kamigamo_shrine",
+   "title": "Barefoot at the Kamigamo shrine",
+   "kind": "ceremony",
+   "place_as_transcribed": "Kamigamo shrine … Kyoto, Japan",
+   "place": "Kamigamo Shrine, Kyoto",
+   "country": "Japan",
+   "when_as_stated": "two weeks later [after 11 September 2001]",
+   "year": 2001,
+   "block_ids": [
+    309866,
+    309867,
+    309868,
+    309874,
+    309875,
+    309884
+   ],
+   "what_happened": "Two weeks after his sister's burial he flew to Japan to play solo piano at the Kamigamo Shinto shrine in Kyoto. A woman healer from Tokyo, who had wept on seeing his photograph, met him and said he had to do a ceremony before he played, and priests prayed over him on his knees. He played on an Imperial piano, before about 200 people sitting on mats, without shoes for the first time in his life. One listener said afterwards that the music had glued him to the floor.",
+   "who_was_there": [
+    {
+     "as_transcribed": "a woman who is a healer in Japan",
+     "name": "unnamed healer from Tokyo",
+     "role": "insisted on the ceremony"
+    },
+    {
+     "as_transcribed": "a woman … she plays a traditional Japanese instrument",
+     "name": "unnamed Japanese musician",
+     "role": "translator"
+    },
+    {
+     "as_transcribed": "the head priest",
+     "name": "head priest of the shrine",
+     "role": ""
+    }
+   ],
+   "pull_quote": "So when I got to the piano I looked at my shoes, I already where a size 16 and they looked like a size 26. I said, “I can’t put these shoes on.” And I had to play without shoes; it was my first time doing a concert without shoes. This place was so spiritually powerful that after I got through playing the one Japanese man he said he thought he couldn’t move. After everybody had left they had to come pick him up. He said the music had him glued to the floor.",
+   "pull_quote_block_id": 309875,
+   "more_quotes": [
+    {
+     "block_id": 309874,
+     "quote": "She looked at me and she started crying. She said, “You are supposed to be here at this particular time. There’s something spiritual about your appearance here, now. You have to do a ceremony before you play.”"
+    },
+    {
+     "block_id": 309875,
+     "quote": "So, we had the black church, the Shinto shrine, and this woman who came from Tokyo, what had happened with 9-11. It was just an incredible experience."
+    },
+    {
+     "block_id": 309868,
+     "quote": "I had been to Japan before but I never had an opportunity to play at a spiritual place like the Shinto shrine."
+    }
+   ],
+   "related_record_key": "tamashii",
+   "discrepancies": "Jenkins calls it the 'Kamigano shrine'; it is Kamigamo (Kamigamo-jinja). Weston says 'when I arrived in Tokyo' though the story is set in Kyoto and the healer 'came from Tokyo'. The transcript does not show whether he flew into Tokyo.",
+   "notable": 3,
+   "notes": "The pull quote is about 470 characters and runs as one story because the shoes and the man 'glued to the floor' belong together. 'Imperial piano' is the Bösendorfer Imperial, with extra bass notes; Weston says 'seven extra notes'. Tamashii (on Zep Tepi) is the piece Jenkins links to his Japan journeys; the link is thematic."
+  },
+  {
+   "key": "kamigamo_return",
+   "title": "Return to the shrine with Alex Blake",
+   "kind": "concert",
+   "place_as_transcribed": "the Shinto shrine",
+   "place": "Kamigamo Shrine, Kyoto",
+   "country": "Japan",
+   "when_as_stated": "last year",
+   "year": 2008,
+   "block_ids": [
+    309875
+   ],
+   "what_happened": "He played at the shrine again the year before the interview, this time taking Alex Blake. He said he had played there three times.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Alex Blake",
+     "name": "Alex Blake",
+     "role": "bass"
+    }
+   ],
+   "pull_quote": "I played at the Shinto shrine last year, and this time I took Alex Blake. So, I’ve played there three times.",
+   "pull_quote_block_id": 309875,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "year reads 'last year' against the October 2009 interview date."
+  },
+  {
+   "key": "shizuoka_temple",
+   "title": "A Buddhist temple and children in Shizuoka",
+   "kind": "concert",
+   "place_as_transcribed": "a Buddhist temple … a town called Shizuoka, which is not far from Kyoto",
+   "place": "Shizuoka",
+   "country": "Japan",
+   "when_as_stated": "in that same year, 2001",
+   "year": 2001,
+   "block_ids": [
+    309875
+   ],
+   "what_happened": "In 2001 he also played at a Buddhist temple and for many children in Shizuoka. A traditional priest and musicians played first, and Weston took their last note and built a solo concert from it. Children of two and four sat in silence through the concert and then ran up on stage to greet the musicians.",
+   "who_was_there": [
+    {
+     "as_transcribed": "a traditional Japanese priest",
+     "name": "unnamed priest",
+     "role": ""
+    },
+    {
+     "as_transcribed": "the musicians",
+     "name": "traditional Japanese musicians",
+     "role": "played before him"
+    }
+   ],
+   "pull_quote": "That was an experience because what happened, they had a traditional Japanese priest and they had the musicians and they would play their instruments before I played solo piano. In other words, after they played the last note, you know, I would go to the piano and I would try and capture that note. And from that note I played a solo concert.",
+   "pull_quote_block_id": 309875,
+   "more_quotes": [
+    {
+     "block_id": 309875,
+     "quote": "The amazing thing Japan is this, we played a concert, this happened even the last time, and there were children in the audience two years old and four years old. You could not hear a sound until we were finished. Then the children ran up on stage and greeted us."
+    },
+    {
+     "block_id": 309875,
+     "quote": "Japan is very, very special. I never had an experience like that anywhere else in the world."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "Shizuoka is roughly 250 km from Kyoto, which is not exactly 'not far'. Either the distance is loose or the town name is misheard. The transcript also leaves unclear whether the Buddhist temple and the Shizuoka concert were the same event. The children passage includes 'this happened even the last time', so it may cover more than one visit.",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "key": "ofarrill_concerts",
+   "title": "Two concerts with Arturo O'Farrill's orchestra",
+   "kind": "concert",
+   "place_as_transcribed": "",
+   "place": "",
+   "country": "",
+   "when_as_stated": "November 5th and 6th",
+   "year": 2009,
+   "block_ids": [
+    309880
+   ],
+   "what_happened": "He said he was about to give two concerts with Arturo O'Farrill's orchestra, playing 'African Sunrise', 'Blues to Africa' and a third piece. He found orchestral playing great but more controlled than solo or trio.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Arturo O’Farrill’s Cuban Orchestra",
+     "name": "Arturo O'Farrill's Afro Latin Jazz Orchestra",
+     "role": "orchestra"
+    }
+   ],
+   "pull_quote": "November 5th and 6th I’m doing two concerts with Arturo O’Farrill’s Cuban Orchestra.",
+   "pull_quote_block_id": 309880,
+   "more_quotes": [
+    {
+     "block_id": 309880,
+     "quote": "With a solo piano I can go anywhere. I can hit any bad note and nobody knows the difference."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "These concerts were still to come at the time of the interview. No place is given, so place and country are empty and the item cannot be mapped."
+  },
+  {
+   "key": "randy_in_tangiers_shoot",
+   "title": "Filming 'Randy in Tangiers'",
+   "kind": "film_shoot",
+   "place_as_transcribed": "Tangiers … Morocco",
+   "place": "Tangier",
+   "country": "Morocco",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309884,
+    309885,
+    309887
+   ],
+   "what_happened": "For a French–Spanish television documentary about his life in Morocco, he brought his sextet over and spent time with three traditional groups: the Gnawa, a Sufi brotherhood living in Tangier, and the musicians of Jajouka in the Rif Mountains.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Alan Hayward",
+     "name": "Al Hayward",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Tom McKenzie",
+     "name": "Tom McKenzie",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Eric Asante",
+     "name": "Eric Asante",
+     "role": "African percussion"
+    },
+    {
+     "as_transcribed": "Benny Powell",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Billy Hopper",
+     "name": "Billy Harper",
+     "role": ""
+    }
+   ],
+   "pull_quote": "Like I said before, when I go to Africa I only want to be with the traditional people. When you go with traditional music anywhere on the planet, that’s when you become close to the people. The music and the food are the two keys, anywhere you go on the planet earth.",
+   "pull_quote_block_id": 309885,
+   "more_quotes": [
+    {
+     "block_id": 309885,
+     "quote": "Well, I think Morocco would have to stand out, for sure."
+    }
+   ],
+   "related_record_key": "randy_in_tangiers",
+   "discrepancies": "'Billy Hopper' is Billy Harper. 'the Gullah people … Sufi masters' is probably a mishearing, perhaps of Jilala. 'Tangiers' is Tangier.",
+   "notable": 2,
+   "notes": ""
+  },
+  {
+   "key": "jajouka",
+   "title": "By donkey up the mountain to Jajouka",
+   "kind": "journey",
+   "place_as_transcribed": "Jajouka is a village up in the Rif Mountains in Morocco",
+   "place": "Jajouka",
+   "country": "Morocco",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309885,
+    309886,
+    309887
+   ],
+   "what_happened": "During the film shoot the band had to ride donkeys up the mountain to the village of Jajouka, where the musicians are great healers who play the lira, a flute. Only Billy Harper, from Texas, knew how to ride, and Benny Powell cried 'We have adventure!'. The village had no electricity and no lights, they saw rites of passage, and the band stayed and had a great time.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Al Hayward",
+     "name": "Al Hayward",
+     "role": "drums"
+    },
+    {
+     "as_transcribed": "Billy Harper",
+     "name": "Billy Harper",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Tom McKenzie",
+     "name": "Tom McKenzie",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "Benny",
+     "name": "Benny Powell",
+     "role": ""
+    },
+    {
+     "as_transcribed": "the people of Jajouka",
+     "name": "Master Musicians of Jajouka",
+     "role": "hosts"
+    }
+   ],
+   "pull_quote": "Seeing these guys going up the mountains on these donkeys, with their instruments, that was incredible. Benny said, “We have adventure! We have adventure!”",
+   "pull_quote_block_id": 309887,
+   "more_quotes": [
+    {
+     "block_id": 309887,
+     "quote": "So to get there you have to take donkeys, but the guys in the band didn’t know this."
+    },
+    {
+     "block_id": 309887,
+     "quote": "Billy Harper was the only one that was cool, because Billy, being from Texas, he knew how to ride horses and donkeys."
+    },
+    {
+     "block_id": 309885,
+     "quote": "Jajouka is a village up in the Rif Mountains in Morocco where they are great healers, and they play instruments they call the lira, like this, you know?"
+    }
+   ],
+   "related_record_key": "randy_in_tangiers",
+   "discrepancies": "",
+   "notable": 3,
+   "notes": "This is the origin of Jenkins's 'adventures' theme: Benny Powell's line here matches the one Jenkins quotes in 309883–309884."
+  },
+  {
+   "key": "tangier_festival_1972",
+   "title": "The 1972 festival in the Tangier bullring",
+   "kind": "festival",
+   "place_as_transcribed": "a bullring in Tangiers … Theatre Cervantes in Tangiers",
+   "place": "Plaza de Toros, Tangier",
+   "country": "Morocco",
+   "when_as_stated": "in 1972",
+   "year": 1972,
+   "block_ids": [
+    309887,
+    309888
+   ],
+   "what_happened": "He organized a three-day festival in Tangier with Odetta, Max Roach's band without Max, Ahmed Abdul-Malik, Mandrill, Pucho and His Latin Soul Brothers, his son Azzedine on percussion and 40 African musicians. Two nights were at the bullring. On the third a Sahara sandstorm drove them to the Teatro Cervantes, which they had to rush to clean.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Odetta",
+     "name": "Odetta",
+     "role": "singer"
+    },
+    {
+     "as_transcribed": "Max Roach’s without Max",
+     "name": "Max Roach's band (without Roach)",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Cecil Bridgewater",
+     "name": "Cecil Bridgewater",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Billy Harper",
+     "name": "Billy Harper",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Junior Booth",
+     "name": "Juini Booth (?)",
+     "role": ""
+    },
+    {
+     "as_transcribed": "my son Azzedine",
+     "name": "Azzedine Weston",
+     "role": "percussion"
+    },
+    {
+     "as_transcribed": "Ahmed Abdul-Malik",
+     "name": "Ahmed Abdul-Malik",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Mandrill",
+     "name": "Mandrill",
+     "role": "band"
+    },
+    {
+     "as_transcribed": "Pucho and His Latin Soul Brothers",
+     "name": "Pucho & His Latin Soul Brothers",
+     "role": "band"
+    },
+    {
+     "as_transcribed": "40 African musicians",
+     "name": "40 African musicians",
+     "role": ""
+    }
+   ],
+   "pull_quote": "We had this three-day festival at a bullring in Tangiers. Two nights it was at the bullring and the next night it was a Sahara sandstorm coming from the Sahara. We couldn’t play in the bull right so we had to rush and clean up this theatre called Theatre Cervantes in Tangiers.",
+   "pull_quote_block_id": 309888,
+   "more_quotes": [
+    {
+     "block_id": 309887,
+     "quote": "We organized this festival and I brought over Odetta, Max Roach’s without Max: Cecil Bridgewater, Billy Harper, Junior Booth, my son Azzedine played percussion."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "'Junior Booth' is probably bassist Juini Booth, but that is unconfirmed. 'Theatre Cervantes' is the Gran Teatro Cervantes, Tangier. The festival list runs across a page break (309887/309888).",
+   "notable": 3,
+   "notes": "The bullring is the Plaza de Toros of Tangier; the third night was at the Gran Teatro Cervantes. The festival is kept as one occasion."
+  },
+  {
+   "key": "african_rhythms_club",
+   "title": "The African Rhythms club, Tangier",
+   "kind": "home",
+   "place_as_transcribed": "my own club called the African Rhythms club",
+   "place": "Tangier",
+   "country": "Morocco",
+   "when_as_stated": "by this time [1972] I’d opened up my own club",
+   "year": null,
+   "block_ids": [
+    309887,
+    309888
+   ],
+   "what_happened": "He opened his own club in Tangier, African Rhythms, before the 1972 festival. It presented a blues band from Chicago and singers from the Congo. He played records of James Brown, Marvin Gaye, Stevie Wonder and Ray Charles so young Moroccans could hear the real music rather than European imitations.",
+   "who_was_there": [],
+   "pull_quote": "We had a blues band from Chicago sometime. We had singers from the Congo…we played records of James Brown, Marvin Gaye, Stevie Wonder, Ray Charles, so the young Moroccans could hear our real music cause they were getting imitations of our music from Europe; they weren’t hearing the real thing.",
+   "pull_quote_block_id": 309888,
+   "more_quotes": [
+    {
+     "block_id": 309888,
+     "quote": "That was an experience, and I having that club, that was an experience."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 2,
+   "notes": "The club's street or address is not given, so place is the city. The opening date is given only as before 1972."
+  },
+  {
+   "key": "canterbury",
+   "title": "The Gnawa before the spiritual leaders at Canterbury",
+   "kind": "ceremony",
+   "place_as_transcribed": "Canterbury in England",
+   "place": "Canterbury Cathedral, Canterbury",
+   "country": "United Kingdom",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309889,
+    309890,
+    309891,
+    309892
+   ],
+   "what_happened": "Zeba Rahman arranged for Weston and three Gnawa from Tangier to play at a meeting of spiritual leaders from all over the world with the Archbishop of Canterbury. It was his first time in Canterbury. The spirits of the place were so strong, he said, that it took half an hour to tune the gimbri to the piano. Afterwards he spoke to the spiritual leaders about the importance of music.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Zeba … Rachman",
+     "name": "Zeba Rahman",
+     "role": "organizer"
+    },
+    {
+     "as_transcribed": "the Arch Bishop of Canterbury",
+     "name": "Archbishop of Canterbury",
+     "role": "host"
+    },
+    {
+     "as_transcribed": "three Gnawa from Tangiers",
+     "name": "three Gnawa musicians from Tangier",
+     "role": ""
+    }
+   ],
+   "pull_quote": "For some reason the spirits in this place were so strong that it took a half hour for this instrument to be in tune with the piano, because the instrument picks up the spirits of wherever you are, you see?",
+   "pull_quote_block_id": 309892,
+   "more_quotes": [
+    {
+     "block_id": 309892,
+     "quote": "They use saliva to tune the instrument, they don’t have any keys, you know."
+    },
+    {
+     "block_id": 309892,
+     "quote": "But it was wonderful and afterwards I had an opportunity to speak to very spiritual leaders about the importance of music."
+    },
+    {
+     "block_id": 309892,
+     "quote": "It had signs like “Lieutenant so and so, the hero of the battle in Egypt.” It was really, sort of English empire in this place, you know."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "Weston says 'Rachman' and Jenkins 'Rahman'. The name is Zeba Rahman. The transcript does not name the cathedral; the basement holding 'all the bishops of England' suggests Canterbury Cathedral, its crypt or tombs.",
+   "notable": 2,
+   "notes": "Undated. 'kekeba' is presumably the qraqeb (Gnawa metal castanets)."
+  },
+  {
+   "key": "alexandria_1967",
+   "title": "Playing Alexandria in 1967",
+   "kind": "concert",
+   "place_as_transcribed": "the Alexandria",
+   "place": "Alexandria",
+   "country": "Egypt",
+   "when_as_stated": "in 1967",
+   "year": 1967,
+   "block_ids": [
+    309901
+   ],
+   "what_happened": "He mentioned that he had played in Alexandria in 1967, which made returning for the library opening special.",
+   "who_was_there": [],
+   "pull_quote": "I had played the Alexandria in 1967 so coming back, that was quite an experience, yeah.",
+   "pull_quote_block_id": 309901,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "'the Alexandria' could mean a venue, but no venue is named."
+  },
+  {
+   "key": "alexandria_library",
+   "title": "Opening of the new library in Alexandria",
+   "kind": "ceremony",
+   "place_as_transcribed": "a new library in Alexandria, in Egypt",
+   "place": "Bibliotheca Alexandrina, Alexandria",
+   "country": "Egypt",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309893,
+    309895,
+    309896,
+    309897,
+    309898,
+    309899,
+    309900,
+    309901
+   ],
+   "what_happened": "His friend Salah Ragab, a Cairo bandleader, contacted Egypt's director of music and the library's director so that Weston would be at the opening of the new library. Weston played with a Paris-based bassist whose name he could not recall, and they were the only ones really representing America, beside a group from South Africa and mostly Arab singers. Heads of state attended, including the presidents of Egypt and Greece and 'the Queen'. He remembered being told to use the toilet before four o'clock because of security.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Salah Ragab",
+     "name": "Salah Ragab",
+     "role": "friend; arranged the invitation"
+    },
+    {
+     "as_transcribed": "a bass player … he lived in Paris",
+     "name": "unnamed bassist (not Stafford James, not William Allen)",
+     "role": "bass"
+    },
+    {
+     "as_transcribed": "a group from South Africa",
+     "name": "South African group",
+     "role": ""
+    },
+    {
+     "as_transcribed": "the president of Egypt, the president of Greece, and the Queen",
+     "name": "heads of state",
+     "role": "guests"
+    }
+   ],
+   "pull_quote": "Anyhow, all the heads of state came and we were the only ones to really represent America. It was just myself and a group from South Africa, most of the others were Arab singers and whatnot, you know?",
+   "pull_quote_block_id": 309901,
+   "more_quotes": [
+    {
+     "block_id": 309901,
+     "quote": "What I remember very clearly was, at a certain point they told the artist, they said, “If you got to go to the toilet you have to go before four-o-clock because that’s on that side and that’s where all the heads of state are, and they got that security, you know?”"
+    },
+    {
+     "block_id": 309901,
+     "quote": "But we played, and for me it was a great honor."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "'the Queen' is unspecified. Weston said Ragab 'died last year' and that he learned of it 'two months ago', which is relative to 2009.",
+   "notable": 2,
+   "notes": "The transcript gives no date for the opening."
+  },
+  {
+   "key": "cairo_salah_ragab",
+   "title": "With Salah Ragab in Cairo",
+   "kind": "journey",
+   "place_as_transcribed": "Cairo, in Egypt",
+   "place": "Cairo",
+   "country": "Egypt",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309896,
+    309897
+   ],
+   "what_happened": "He and his wife spent time in Egypt with his friend Salah Ragab, who led a big band in Cairo that played Duke Ellington and Count Basie.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Salah Ragab",
+     "name": "Salah Ragab",
+     "role": "bandleader"
+    },
+    {
+     "as_transcribed": "my wife",
+     "name": "Fatoumata Mbengue",
+     "role": ""
+    }
+   ],
+   "pull_quote": "He plays Duke, Basie, everything. He was a good friend of mine. We were in Egypt and we spent time with him, my wife and I.",
+   "pull_quote_block_id": 309897,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "paris_gnawa_concert",
+   "title": "The Paris concert where Fatou first saw him",
+   "kind": "concert",
+   "place_as_transcribed": "my concert in Paris, with Gnawa",
+   "place": "Paris",
+   "country": "France",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309907
+   ],
+   "what_happened": "Some of the Gnawa invited Fatoumata Mbengue to his concert in Paris with the Gnawa. That was where she first saw him, before he ever went into her shop.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Fatoumata Mbengue",
+     "name": "Fatoumata Mbengue",
+     "role": "in the audience"
+    },
+    {
+     "as_transcribed": "the Gnawans",
+     "name": "Gnawa musicians",
+     "role": ""
+    }
+   ],
+   "pull_quote": "We met because some of the Gnawans invited her to my concert in Paris, with Gnawa. So she saw me before I saw her.",
+   "pull_quote_block_id": 309907,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "morocco_gnawa_photo_journey",
+   "title": "Photographing Gnawa families across Morocco",
+   "kind": "journey",
+   "place_as_transcribed": "Fez, to Marrakech, to Telouet, to Agadir, we went down the Sahara",
+   "place": "Fez",
+   "country": "Morocco",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309908
+   ],
+   "what_happened": "With the Belgian photographer Ariane Smolderen he made trips through Morocco to photograph a history of the Gnawa people: Fez, Marrakech, Telouet, Agadir and down into the Sahara, photographing Gnawa families in the different regions.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Ariane Smolderen",
+     "name": "Ariane Smolderen",
+     "role": "photographer"
+    }
+   ],
+   "pull_quote": "we made trips to Morocco to photograph a history of the Gnawa people. We traveled Fez, to Marrakech, to Telouet, to Agadir, we went down the Sahara just photographing Gnawa families, because there are different parts of Morocco.",
+   "pull_quote_block_id": 309908,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "This item is placed at Fez, the first stop named. Telouet and Agadir have their own map items, and Marrakech is under marrakech_gnawa. The quote starts mid-sentence because the sentence opens with a garbled clause."
+  },
+  {
+   "key": "telouet",
+   "title": "Telouet (Gnawa photography trip)",
+   "kind": "journey",
+   "place_as_transcribed": "Telouet",
+   "place": "Telouet",
+   "country": "Morocco",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309908
+   ],
+   "what_happened": "One of the stops on his trips with Ariane Smolderen photographing Gnawa families.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Ariane Smolderen",
+     "name": "Ariane Smolderen",
+     "role": "photographer"
+    }
+   ],
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "Map point only."
+  },
+  {
+   "key": "agadir",
+   "title": "Agadir (Gnawa photography trip)",
+   "kind": "journey",
+   "place_as_transcribed": "Agadir",
+   "place": "Agadir",
+   "country": "Morocco",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309908
+   ],
+   "what_happened": "One of the stops on his trips with Ariane Smolderen photographing Gnawa families.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Ariane Smolderen",
+     "name": "Ariane Smolderen",
+     "role": "photographer"
+    }
+   ],
+   "pull_quote": null,
+   "pull_quote_block_id": null,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 1,
+   "notes": "Map point only."
+  },
+  {
+   "key": "qena_sufi_conference",
+   "title": "Sufi singers of the Nile at Qena",
+   "kind": "journey",
+   "place_as_transcribed": "Gwana, in Egypt. Gwana is near Karnak",
+   "place": "Qena",
+   "country": "Egypt",
+   "when_as_stated": "a year after tourists had been murdered (see Aswan)",
+   "year": null,
+   "block_ids": [
+    309908,
+    309909,
+    309910
+   ],
+   "what_happened": "Through a Belgian gallery owner in Paris, he and Fatou were invited to a week-long conference on Sufi music near Karnak. Every night Sufi singers from the Nile sang the ancient Arabic texts, among them a blind singer he found incredible. He did not understand the language but could feel the power of the music.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Fatou",
+     "name": "Fatoumata Mbengue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Sufi singers from the Nile",
+     "name": "Sufi singers",
+     "role": "performers"
+    },
+    {
+     "as_transcribed": "one blind guy",
+     "name": "unnamed blind singer",
+     "role": "singer"
+    }
+   ],
+   "pull_quote": "They had Sufi singers from the Nile and one would come every night to sing in the ancient text, the ancient Arabic text. It was beautiful, I mean I didn’t understand the language but you could feel the power of the music.",
+   "pull_quote_block_id": 309910,
+   "more_quotes": [
+    {
+     "block_id": 309910,
+     "quote": "They had one blind guy; he was incredible."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "'Gwana' (near Karnak) is Qena. He says Aswan is 'about a three-hour drive' from it.",
+   "notable": 2,
+   "notes": "The timing is relative only: 'just a year before that, a lot of tourists had been murdered at one of the sites'."
+  },
+  {
+   "key": "aswan_temple_of_isis",
+   "title": "The temple of Isis and the Nubian Museum, Aswan",
+   "kind": "journey",
+   "place_as_transcribed": "the temple of Isis … in Aswan … Azwan",
+   "place": "Temple of Isis, Philae, Aswan",
+   "country": "Egypt",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309910
+   ],
+   "what_happened": "Moved by the spirits to see the temple of Isis, he and Fatou took a taxi from Qena with a driver, Ramsey, who threw out a seat to give him legroom and later left the armed tourist convoy to drive them to Aswan. At the temple, with its walls carved with ancient musical instruments, an antiquities inspector, Shadley, befriended them. He took them to the Nubian Museum and introduced them to its head.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Fatou",
+     "name": "Fatoumata Mbengue",
+     "role": ""
+    },
+    {
+     "as_transcribed": "Ramsey",
+     "name": "Ramsey",
+     "role": "taxi driver"
+    },
+    {
+     "as_transcribed": "Shadley",
+     "name": "Shadley",
+     "role": "inspector of antiquities"
+    },
+    {
+     "as_transcribed": "the head of the Nubian museum in Aswan",
+     "name": "head of the Nubian Museum",
+     "role": ""
+    }
+   ],
+   "pull_quote": "So we went to this temple of Isis, magnificent, huge walls, you can see these monuments with all musical instruments that are thousand and thousand of years old.",
+   "pull_quote_block_id": 309910,
+   "more_quotes": [
+    {
+     "block_id": 309910,
+     "quote": "At the same time, again speaking about spirits because that’s the world that I’m in; I’m in the world of ancestors and spirits because they guide me, I had this desire to see the temple of Isis."
+    },
+    {
+     "block_id": 309910,
+     "quote": "He took the seat out of the taxi and made sure I had a lot of legroom, he threw the whole seat out!"
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "The transcript spells the town both 'Aswan' and 'Azwan'. The temple of Isis 'in Aswan' is the Philae temple on Agilkia Island near Aswan.",
+   "notable": 2,
+   "notes": "The Nubian Museum (Aswan) would be a second map point for the same trip."
+  },
+  {
+   "key": "nubian_wedding",
+   "title": "A Nubian wedding near Aswan",
+   "kind": "ceremony",
+   "place_as_transcribed": "this Nubian village",
+   "place": "Aswan",
+   "country": "Egypt",
+   "when_as_stated": "right after I got my Jazz Masters grant",
+   "year": 2001,
+   "block_ids": [
+    309910,
+    309911
+   ],
+   "what_happened": "On a return trip to Egypt right after his NEA Jazz Masters award, sitting in a hotel with Fatou and Shadley, he was moved by the spirit to say 'I want to marry this woman'. Shadley took them to a Nubian village, dressed them in Nubian clothes and had them photographed as a Nubian couple. The whole village came with drums, seated them on cardboard thrones and partied all night in a Nubian marriage ceremony. Afterwards he had to telephone Fatou's Muslim father, whose own father had been an imam.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Fatou",
+     "name": "Fatoumata Mbengue",
+     "role": "bride"
+    },
+    {
+     "as_transcribed": "this guy / Shadley",
+     "name": "Shadley",
+     "role": "arranged the wedding"
+    },
+    {
+     "as_transcribed": "the whole village",
+     "name": "the Nubian villagers and musicians",
+     "role": ""
+    }
+   ],
+   "pull_quote": "We got there and the next thing we hear is drums. All of the sudden, the whole village, they put us on thrones. These thrones are made out of cardboard, all the musicians came and they partied all night. We did a Nubian ceremony, a Nubian marriage. It was something, some kind of adventure.",
+   "pull_quote_block_id": 309911,
+   "more_quotes": [
+    {
+     "block_id": 309911,
+     "quote": "I told this guy, “I want to marry this woman.” I don’t know where it came from."
+    },
+    {
+     "block_id": 309911,
+     "quote": "Again, it came from the ancestral spirits that guided me and had me say something like that. I’ve been very blessed."
+    },
+    {
+     "block_id": 309910,
+     "quote": "We came back again to Egypt right after I got my Jazz Masters grant, because the Jazz Masters is connected to this too."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "year follows the transcript header 'NEA Jazz Master (2001)'. Jenkins later says the award was 2003 (309912), so the wedding is 2001 or later depending on which is right.",
+   "notable": 3,
+   "notes": "The village is unnamed, so place is Aswan, where the antiquities inspector was based. The sentence at the turn of the page ('all of the sudden the spirit / came and said to me') is split, so the quote starts at 'I told this guy'."
+  },
+  {
+   "key": "mississippi_delta",
+   "title": "Ten days in the Mississippi Delta",
+   "kind": "journey",
+   "place_as_transcribed": "the Mississippi Delta",
+   "place": "Mississippi Delta, Mississippi",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309915
+   ],
+   "what_happened": "He and his wife spent ten days in the Mississippi Delta. He had written 40 blues but said he did not know the blues until he saw the slave shacks and a cotton field almost two football fields wide, and thought of ancestors forced to meet a rising quota. It left him amazed and grateful at what they went through 'to produce a Randy Weston'.",
+   "who_was_there": [
+    {
+     "as_transcribed": "my wife",
+     "name": "Fatoumata Mbengue",
+     "role": ""
+    }
+   ],
+   "pull_quote": "Now I’ve written 40 blues, I thought I knew the blues, but I didn’t know the blues until I went to Mississippi. I saw the slave shacks; I physically saw a cotton field.",
+   "pull_quote_block_id": 309915,
+   "more_quotes": [
+    {
+     "block_id": 309915,
+     "quote": "We spent, my wife, we spent ten days at the Mississippi Delta."
+    },
+    {
+     "block_id": 309915,
+     "quote": "What they had to go through to produce a Randy Weston, man, that is something that I will always be amazed, and grateful, and respectful of."
+    },
+    {
+     "block_id": 309915,
+     "quote": "The real music is how our ancestors were able to create this beauty in a time of pain, how they did it, how we also did it."
+    }
+   ],
+   "related_record_key": null,
+   "discrepancies": "",
+   "notable": 3,
+   "notes": "No town is named."
+  },
+  {
+   "key": "oklahoma_city_armstrong",
+   "title": "Shaking Louis Armstrong's hand, Oklahoma City",
+   "kind": "journey",
+   "place_as_transcribed": "Oklahoma City",
+   "place": "Oklahoma City, Oklahoma",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309915
+   ],
+   "what_happened": "He shook Louis Armstrong's hand in Oklahoma City and said he would never forget it.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Louie Armstrong",
+     "name": "Louis Armstrong",
+     "role": ""
+    }
+   ],
+   "pull_quote": "I shook Louie Armstrong’s hand in Oklahoma City. I’ll never forget that handshake.",
+   "pull_quote_block_id": 309915,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "'Louie Armstrong' is Louis Armstrong.",
+   "notable": 1,
+   "notes": ""
+  },
+  {
+   "key": "nyc_robeson_ballroom",
+   "title": "Shaking Paul Robeson's hand at a New York ballroom",
+   "kind": "journey",
+   "place_as_transcribed": "a ballroom in New York City",
+   "place": "New York City",
+   "country": "United States",
+   "when_as_stated": "",
+   "year": null,
+   "block_ids": [
+    309915
+   ],
+   "what_happened": "He shook Paul Robeson's hand at a ballroom in New York City.",
+   "who_was_there": [
+    {
+     "as_transcribed": "Paul Robinson",
+     "name": "Paul Robeson",
+     "role": ""
+    }
+   ],
+   "pull_quote": "I shook Paul Robinson’s hand at a ballroom in New York City. I shook Paul’s hand.",
+   "pull_quote_block_id": 309915,
+   "more_quotes": [],
+   "related_record_key": null,
+   "discrepancies": "'Paul Robinson' is Paul Robeson.",
+   "notable": 1,
+   "notes": "The ballroom is unnamed."
+  }
+ ]
+}
